@@ -135,7 +135,7 @@
 
 <http://leiza.de/thesaurus/A8AD1G> a skos:Concept ;
     skos:altLabel "Abdeckung"@de,
-        "Ãberlagerung"@de ;
+        "Überlagerung"@de ;
     skos:broader <http://leiza.de/thesaurus/D3AGG6> ;
     skos:definition "Das Objekt zeigt Ablagerungen auf der Oberfläche, die die Gestaltung/Form des Objektes unkenntlich macht. "@de ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
@@ -521,7 +521,7 @@
 <http://leiza.de/thesaurus/C2488A> a skos:Concept ;
     skos:altLabel "Abschlusszustand"@de ;
     skos:broader <http://leiza.de/thesaurus/C4BCF8> ;
-    skos:definition "Zustand eines Objektes nach Abschluss der praktisch durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie Ãberprüfung in wie fern das zuvor festgelegte Restaurierung-/Konservierungsziel erreicht werden konnte."@de ;
+    skos:definition "Zustand eines Objektes nach Abschluss der praktisch durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie Überprüfung in wie fern das zuvor festgelegte Restaurierung-/Konservierungsziel erreicht werden konnte."@de ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Endzustand"@de ;
     skos:related <http://leiza.de/thesaurus/GDF8C2> .
@@ -1386,7 +1386,7 @@
 
 <http://leiza.de/thesaurus/GGD66G> a skos:Concept ;
     skos:altLabel "Wassereinbruch"@de,
-        "Ãberschwemmung"@de ;
+        "Überschwemmung"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Durch den Kontakt zu Wasser herbeigeführte Schäden an einem Objekt"@de ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
@@ -1770,7 +1770,7 @@
 <http://leiza.de/thesaurus/CDD613> a skos:Concept ;
     skos:altLabel "Reinigen"@de ;
     skos:broader <http://leiza.de/thesaurus/C79561> ;
-    skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen, aber auch alten Restaurierungsmaterialien verwendet. Er weist enge Verwandschaft und einen fließenden Ãbergang zu dem Begriff \"Freilegung\" auf."@de ;
+    skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen, aber auch alten Restaurierungsmaterialien verwendet. Er weist enge Verwandschaft und einen fließenden Übergang zu dem Begriff \"Freilegung\" auf."@de ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Reinigung"@de ;
     skos:related <http://leiza.de/thesaurus/G814D2> .
@@ -1803,7 +1803,7 @@
 <http://leiza.de/thesaurus/G814D2> a skos:Concept ;
     skos:altLabel "Freilegen"@de ;
     skos:broader <http://leiza.de/thesaurus/C79561> ;
-    skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff \"Freilegung\" wird, in Abgrenzung zum Begriff \"Reinigung\", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Ãbergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden."@de ;
+    skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff \"Freilegung\" wird, in Abgrenzung zum Begriff \"Reinigung\", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Übergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden."@de ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Freilegung"@de ;
     skos:related <http://leiza.de/thesaurus/CDD613> .

@@ -110,7 +110,7 @@ G1GA5F,,4,Q2,Biologische Zerstörung,Biologischer Befall,,"Durch Einwirkung von 
 
 C473B4,,4,Q2,Vorherige Bearbeitung,Altrestaurierung,,"Schadensphänomen, das durch eine (oder mehrere) vorangegangene Restaurierungs-/Konservierungs-Maßnahme oder andere Bearbeitung verursacht wurde",F964CG,,,,,Q7|Q8,,,,
 
-GGD66G,,4,Q2,Wasser,Ãberschwemmung|Wassereinbruch,,Durch den Kontakt zu Wasser herbeigeführte Schäden an einem Objekt,F964CG,,,,,Q7|Q8,,,,
+GGD66G,,4,Q2,Wasser,Überschwemmung|Wassereinbruch,,Durch den Kontakt zu Wasser herbeigeführte Schäden an einem Objekt,F964CG,,,,,Q7|Q8,,,,
 
 D171FF,,4,Q2,Feuer,Brand,,Durch einen Brand bzw. den Kontakt zu Feuer/Hitze herbeigeführte Schäden an einem Objekt,F964CG,,,,,Q7|Q8,,,,
 
@@ -188,7 +188,7 @@ ABB9FA,,6,Q2,geknickt,gefaltet,,Das Objekt zeigt eine scharf umgebogene Deformat
 
 D3AGG6,,4,Q2,visuelle Veränderung,optische Veränderung,visual alteration@enq optical alteration,Eine negative Veränderung des visuellen Eindrucks des Objektes,DAC996,,,,,Q7|Q8,,,,
 
-A8AD1G,,5,Q2,Verdeckung,Abdeckung|Ãberlagerung,,"Das Objekt zeigt Ablagerungen auf der Oberfläche, die die Gestaltung/Form des Objektes unkenntlich macht. ",D3AGG6,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
+A8AD1G,,5,Q2,Verdeckung,Abdeckung|Überlagerung,,"Das Objekt zeigt Ablagerungen auf der Oberfläche, die die Gestaltung/Form des Objektes unkenntlich macht. ",D3AGG6,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
 FDC65D,,5,Q2,Fleck,,,Das Objekt zeigt partielle farbliche Veränderungen der Oberfläche,D3AGG6,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
@@ -368,7 +368,7 @@ F9GC9A,,4,Q2,manuelle Sichtkontrolle,,,Begutachtung eines Objektes mit dem mensc
 
 A4G52F,,1,Q2,Einlieferungszustand,Vorzustand,,Zustand eines Objektes zum Zeitpunkt der Einlieferung in die Restaurierungswerkstatt,C4BCF8,,GDF8C2,,,Q7|Q9,,,,
 
-C2488A,,1,Q2,Endzustand,Abschlusszustand,,Zustand eines Objektes nach Abschluss der praktisch durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie Ãberprüfung in wie fern das zuvor festgelegte Restaurierung-/Konservierungsziel erreicht werden konnte.,C4BCF8,,GDF8C2,,,Q7|Q8,,,,
+C2488A,,1,Q2,Endzustand,Abschlusszustand,,Zustand eines Objektes nach Abschluss der praktisch durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie Überprüfung in wie fern das zuvor festgelegte Restaurierung-/Konservierungsziel erreicht werden konnte.,C4BCF8,,GDF8C2,,,Q7|Q8,,,,
 
 A18D95,,0,Q2,Restaurierungs-/Konservierungskonzept,,,"Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabschätzung, basierend auf den Ergebnissen der Zustandserfassung.",top,,C4BCF8,,,Q7|Q8,,,,
 
@@ -418,7 +418,7 @@ AF1F5C,,2,Q2,Trocknung,,,Methode zur Entfernung von Feuchtigkeit aus dem Objekt 
 
 C79561,,1,Q2,Restaurierungsmaßnahme,Restaurierungsmethoden|Restaurierung,restoration@en| restoration method@en,"Sammelbegriff für einen aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien ",CFGDA3,,,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://vocab.getty.edu/page/aat/300053742,https://www.wikidata.org/wiki/Q217102,,
 
-CDD613,,2,Q2,Reinigung,Reinigen,cleaning@en,"Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen, aber auch alten Restaurierungsmaterialien verwendet. Er weist enge Verwandschaft und einen fließenden Ãbergang zu dem Begriff ""Freilegung"" auf.",C79561,,G814D2,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://vocab.getty.edu/page/aat/300053027,,,
+CDD613,,2,Q2,Reinigung,Reinigen,cleaning@en,"Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen, aber auch alten Restaurierungsmaterialien verwendet. Er weist enge Verwandschaft und einen fließenden Übergang zu dem Begriff ""Freilegung"" auf.",C79561,,G814D2,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://vocab.getty.edu/page/aat/300053027,,,
 
 FF8792,,4,Q2,Trockenreinigung,trockene Reinigung,dry cleaning@en,Entfernung ungewollter Substanzen ohne Verwendung von Flüssigkeiten,CDD613,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300219637,,,
 
@@ -426,7 +426,7 @@ C3733A,,4,Q2,Feuchtreinigung,feuchte Reinigung,wet cleaning@en,Entfernung ungewo
 
 A194CF,,4,Q2,Waschung,Nassreinigung|Spülung|Auswaschung| nasse Reinigung,washing@en,"Entfernung ungewollter Substanzen durch Durchfeuchtung/ Durchnässung des Objektes, z.B. durch Abspülen unter laufendem Wasser oder Eintauchen in eine Reinigungsflüssigkeit. ",CDD613,,,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300053042,,
 
-G814D2,,2,Q2,Freilegung,Freilegen,uncovering@en,"Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff ""Freilegung"" wird, in Abgrenzung zum Begriff ""Reinigung"", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Ãbergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden.",C79561,,CDD613,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300053027,,
+G814D2,,2,Q2,Freilegung,Freilegen,uncovering@en,"Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff ""Freilegung"" wird, in Abgrenzung zum Begriff ""Reinigung"", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Übergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden.",C79561,,CDD613,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300053027,,
 
 A6A248,,3,Q2,maschinelle Freilegung,,,Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten,G814D2,,,,,,,,,
 
