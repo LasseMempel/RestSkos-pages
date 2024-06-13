@@ -6,14 +6,6 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Keramik@de" .
 
-<http://leiza.de/thesaurus/A13CD1> a skos:Concept ;
-    skos:altLabel "Fügung@de",
-        "Kleben@de" ;
-    skos:broader <http://leiza.de/thesaurus/C79561> ;
-    skos:definition "Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive Verbindung mit Klebstoff" ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Klebung@de" .
-
 <http://leiza.de/thesaurus/A14228> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A889A3> ;
     skos:definition "Fest an der Oberfläche des Objektes anhaftende und verhärtete Ansammlung von Fremdsubstanz" ;
@@ -34,6 +26,12 @@
     skos:definition "Entfernung ungewollter Substanzen durch Durchfeuchtung/ Durchnässung des Objektes, z.B. durch Abspülen unter laufendem Wasser oder Eintauchen in eine Reinigungsflüssigkeit. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Waschung@de" .
+
+<http://leiza.de/thesaurus/A1B449> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/C6A532> ;
+    skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff, indem fließendes Wasser kontinuierlich über das Objekt geleitet wird." ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Ausspülung@de" .
 
 <http://leiza.de/thesaurus/A21DB2> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/B224CD> ;
@@ -100,6 +98,17 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Altrestaurierung@de" .
 
+<http://leiza.de/thesaurus/A6A248> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/G814D2> ;
+    skos:definition "Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten" ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "maschinelle Freilegung@de" .
+
+<http://leiza.de/thesaurus/A6F2C7> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/CGC619> ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Tonkernergänzung@de" .
+
 <http://leiza.de/thesaurus/A75779> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FC2113> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
@@ -138,8 +147,7 @@
     skos:prefLabel "Messing@de" .
 
 <http://leiza.de/thesaurus/A8D3G1> a skos:Concept ;
-    skos:altLabel "Maßnahmenbericht@de",
-        "Maßnahmendokumentation@de",
+    skos:altLabel "Maßnahmendokumentation@de",
         "Restaurierungsbericht@de",
         "Restaurierungsprotokoll@de" ;
     skos:broader <http://leiza.de/thesaurus/C8CG15> ;
@@ -246,18 +254,17 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Korrosionsinhibitor@de" .
 
+<http://leiza.de/thesaurus/AD143A> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/A13CD1> ;
+    skos:definition "Klebemethode, bei der die einzelnen Fragmente/Teile nacheinander angefügt/geklebt werden und die ursprüngliche Form des Objektes nach und nach wieder aufgebaut wird. Bei Gefäßen wird i.d.R. vom Boden zum Rand aufsteigend gearbeitet.Â " ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Aufbaumethode@de" .
+
 <http://leiza.de/thesaurus/AD3A34> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Schädigung durch negative Einwirkung der Bedingungen im Freien" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Verwitterung@de" .
-
-<http://leiza.de/thesaurus/AD789F> a skos:Concept ;
-    skos:altLabel "Silberlegierungen@de" ;
-    skos:broader <http://leiza.de/thesaurus/FGA46A> ;
-    skos:definition "legierung mit Silber als Hauptbestandteil" ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Silberlegierung@de" .
 
 <http://leiza.de/thesaurus/ADA625> a skos:Concept ;
     skos:altLabel "Tröpfchenbildung@de" ;
@@ -320,7 +327,7 @@
     skos:altLabel "Cu@de",
         "reines Kupfer@de" ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
-    skos:definition "chemisches Elemten, rot-bräunliches Metall. Auch als \"Halbedelmetall\" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erste Metall, dass von den Menschen gezielt bearbeitet wurde." ;
+    skos:definition "chemisches Elemten, rot-bräunliches Metall. Auch als \"Halbedelmetall\" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Kupfer@de" .
 
@@ -679,6 +686,12 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "verdreht@de" .
 
+<http://leiza.de/thesaurus/D152G6> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/CBDC4A> ;
+    skos:definition "Variante der Manschettenergänzung, bei der die Fehlstelle von beiden Seiten (Außen- und Innenseite bei Gefäßen) umschlossen wird. Hierzu werden zwei Manschetten angefertigt, die jeweils die beiden Seiten der Fehlstelle abdecken. Auf diese Weise wird ein der Materialstärke des Objektes entsprechender Holraum erzeugen, der mit einem Ergänzungsmaterial ausgefüllt werden kann. Diese Ergänzungsvariante wird insbesondere für Glasobjekte verwendet. Auch bei der Wahl von Kunstharzen als Ergänzungsmaterial ist diese Variante zu bevorzugen, da Kunstharze nach dem Aushärten nur noch mit relativ großem Aufwand nachbearbeitet werden können." ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "beidseitigte Manschettenergänzung@de" .
+
 <http://leiza.de/thesaurus/D16G86> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Durch chemische Reaktion des Materials mit seiner Umgebung verursachter Schaden" ;
@@ -882,6 +895,12 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Oddy-Test@de" .
 
+<http://leiza.de/thesaurus/DAA82A> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/CBDC4A> ;
+    skos:definition "Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips). " ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "einseitige Manschettenergänzung@de" .
+
 <http://leiza.de/thesaurus/DAC482> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GF9C49> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
@@ -892,13 +911,6 @@
     skos:broader <http://leiza.de/thesaurus/G967G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Isoliermittel@de" .
-
-<http://leiza.de/thesaurus/DC5B2B> a skos:Concept ;
-    skos:altLabel "Goldlegierungen@de" ;
-    skos:broader <http://leiza.de/thesaurus/FGA46A> ;
-    skos:definition "Legierung mit Gold als Hauptbestandteil" ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Goldlegierung@de" .
 
 <http://leiza.de/thesaurus/DCD522> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A946B5> ;
@@ -924,11 +936,6 @@
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Glaskorrosion@de" .
-
-<http://leiza.de/thesaurus/F135A8> a skos:Concept ;
-    skos:broader <http://leiza.de/thesaurus/FGA46A> ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Silber@de" .
 
 <http://leiza.de/thesaurus/F18C56> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
@@ -965,6 +972,12 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Depotlagerung@de" .
 
+<http://leiza.de/thesaurus/F589G5> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/A13CD1> ;
+    skos:definition "Zweischrittige Klebemethode, bei der die einzelnen Fragmente/Teile zunächst temporär miteinander verbunden werden (z.B. durch kleine Klebebandstreifen, Omega-Häkchen, etc.), bis die ursprüngliche Form des Objektes wieder erkennbar ist. Die tatsächliche Klebung erfolgt im zweiten Schritt, durch den gleichzeitigen Auftrag eines dünnflüssigen Klebemittels auf alle Bruchfugen. Aufgrund des Kapillareffekts zwischen den vorfixierten Bruchkanten wird der niedrigviskose Klebstoff in die Bruchfuge gesogen." ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Infiltrationsklebung@de" .
+
 <http://leiza.de/thesaurus/F58F6D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G13A7B> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
@@ -993,14 +1006,6 @@
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Skalpell@de" .
-
-<http://leiza.de/thesaurus/F71C6B> a skos:Concept ;
-    skos:altLabel "Eisenlegierung@de",
-        "Fe@de" ;
-    skos:broader <http://leiza.de/thesaurus/BBF566> ;
-    skos:definition "chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. In der Archäologie wird mit dem Begriff \"Eisen\" meist eine Eisen-Kohlenstoff-Legierung bezeichnet." ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Eisen@de" .
 
 <http://leiza.de/thesaurus/F72743> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G98FD4> ;
@@ -1115,11 +1120,6 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Röntgenfluoresezenzanalyse@de" .
 
-<http://leiza.de/thesaurus/FD5149> a skos:Concept ;
-    skos:broader <http://leiza.de/thesaurus/FGA46A> ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gold@de" .
-
 <http://leiza.de/thesaurus/FDB9F5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AG4397> ;
     skos:definition "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen einen leichten bis mittelstarken Wassergehalt auf." ;
@@ -1182,6 +1182,12 @@
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Acrylglasschaber@de" .
+
+<http://leiza.de/thesaurus/G3GB59> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/G814D2> ;
+    skos:definition "Per Hand ausgeführte Freilegung der originalen Oberfläche ohne Verwendung elektrischer Geräte" ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "manuelle Freilegung@de" .
 
 <http://leiza.de/thesaurus/G41GC6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AG4397> ;
@@ -1260,6 +1266,12 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "offene Fuge@de" .
 
+<http://leiza.de/thesaurus/G8A626> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/G814D2> ;
+    skos:definition "Freilegung der originalen Objektoberfläche durch Anwendung von Chemikalien" ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "nasschemische Freilegung@de" .
+
 <http://leiza.de/thesaurus/G8AG1C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
     skos:definition "chemisches Element, weiß-bläuliches Metall, Kommt seltenen in gediegener Form, gebunden in Erzen jedoch recht häufig auf der Erse vor. In der Antike wurde es vor allem als Legierungsbestandteil, erst später auch in reiner Form oder als Beschichtung verarbeitet. In oxidischer Form ist Zink unter anderem auch in Pigmenten enthalten." ;
@@ -1307,6 +1319,12 @@
     skos:definition "Die Deformation des Objektes weist eine nach innen gerichtete Form auf. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "eingedrückt@de" .
+
+<http://leiza.de/thesaurus/GAD222> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/CGC619> ;
+    skos:definition "Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle." ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Einfügung@de" .
 
 <http://leiza.de/thesaurus/GBDG4D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
@@ -1387,6 +1405,14 @@
     skos:prefLabel "konventionelle Radiographie@de" ;
     skos:related <http://leiza.de/thesaurus/G8D62A> .
 
+<http://leiza.de/thesaurus/AD789F> a skos:Concept ;
+    skos:altLabel "Silberlegierungen@de" ;
+    skos:broader <http://leiza.de/thesaurus/FGA46A> ;
+    skos:definition "legierung mit Silber als Hauptbestandteil" ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Silberlegierung@de" ;
+    skos:related <http://leiza.de/thesaurus/F135A8> .
+
 <http://leiza.de/thesaurus/AF9A88> a skos:Concept ;
     skos:altLabel "CT@de" ;
     skos:broader <http://leiza.de/thesaurus/FB231A> ;
@@ -1402,12 +1428,12 @@
     skos:prefLabel "Rasterelektronenmikroskop@de" ;
     skos:related <http://leiza.de/thesaurus/D3BFFF> .
 
-<http://leiza.de/thesaurus/CGC619> a skos:Concept ;
-    skos:altLabel "Ergänzen@de" ;
-    skos:broader <http://leiza.de/thesaurus/C79561> ;
-    skos:definition "Methode zur Vervollständigung fehlender Objektteile durch das Hinzufügen von Material. Wird nach der modernen archäologischen Restaurierungsethik nur noch aus statischen/stabilisierenden Gründen oder zu Rekonstruktion eines vollkommen unkenntlichen Erscheinungsbildes durchgeführt." ;
+<http://leiza.de/thesaurus/BC75G1> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/BBF566> ;
+    skos:definition "Legierung mit Eisen als Hauptbestandteil. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ergänzung@de" .
+    skos:prefLabel "Eisenlegierung@de" ;
+    skos:related <http://leiza.de/thesaurus/F71C6B> .
 
 <http://leiza.de/thesaurus/D3BFFF> a skos:Concept ;
     skos:altLabel "REM@de" ;
@@ -1417,6 +1443,14 @@
     skos:prefLabel "Rasterelektronenmikroskopie@de" ;
     skos:related <http://leiza.de/thesaurus/B764C6> .
 
+<http://leiza.de/thesaurus/DC5B2B> a skos:Concept ;
+    skos:altLabel "Goldlegierungen@de" ;
+    skos:broader <http://leiza.de/thesaurus/FGA46A> ;
+    skos:definition "Legierung mit Gold als Hauptbestandteil" ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Goldlegierung@de" ;
+    skos:related <http://leiza.de/thesaurus/FD5149> .
+
 <http://leiza.de/thesaurus/DG6841> a skos:Concept ;
     skos:altLabel "CT@de" ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
@@ -1424,18 +1458,32 @@
     skos:prefLabel "Computertomograph@de" ;
     skos:related <http://leiza.de/thesaurus/AF9A88> .
 
+<http://leiza.de/thesaurus/F135A8> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/FGA46A> ;
+    skos:definition "chemisches Element, hellgraues, weiches Metall. Kommt in der Natur sowohl gediegen, als auch in Form von Mineralen vor. " ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Silber@de" ;
+    skos:related <http://leiza.de/thesaurus/AD789F> .
+
+<http://leiza.de/thesaurus/F71C6B> a skos:Concept ;
+    skos:altLabel "Fe@de" ;
+    skos:broader <http://leiza.de/thesaurus/BBF566> ;
+    skos:definition "chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. " ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Eisen@de" ;
+    skos:related <http://leiza.de/thesaurus/BC75G1> .
+
+<http://leiza.de/thesaurus/FD5149> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/FGA46A> ;
+    skos:definition "chemisches Element, gelbliches Edelmetall. Kommt in der Natur überwiegend gediegen vor." ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Gold@de" ;
+    skos:related <http://leiza.de/thesaurus/DC5B2B> .
+
 <http://leiza.de/thesaurus/FFA16B> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F8F7CF> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "[Materialien]@de" .
-
-<http://leiza.de/thesaurus/G814D2> a skos:Concept ;
-    skos:altLabel "Freilegen@de" ;
-    skos:broader <http://leiza.de/thesaurus/C79561> ;
-    skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. In der Regel auf die Entfernung von Korrosions- oder Sinterauflagerungen bezogen." ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Freilegung@de" ;
-    skos:related <http://leiza.de/thesaurus/CDD613> .
 
 <http://leiza.de/thesaurus/G8D62A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
@@ -1447,6 +1495,14 @@
     skos:broader <http://leiza.de/thesaurus/BB78D2> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Stützkapselmaterial@de" .
+
+<http://leiza.de/thesaurus/A13CD1> a skos:Concept ;
+    skos:altLabel "Fügung@de",
+        "Kleben@de" ;
+    skos:broader <http://leiza.de/thesaurus/C79561> ;
+    skos:definition "Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive Verbindung mit Klebstoff" ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Klebung@de" .
 
 <http://leiza.de/thesaurus/A31C7C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DA9CGG> ;
@@ -1479,6 +1535,12 @@
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "[Werkzeuge]@de" .
+
+<http://leiza.de/thesaurus/CBDC4A> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/CGC619> ;
+    skos:definition "Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt bzw. mit weniger Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden. " ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Manschettenergänzung@de" .
 
 <http://leiza.de/thesaurus/CC2F9C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
@@ -1556,13 +1618,6 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Feuchtigkeitsgehalt@de" .
 
-<http://leiza.de/thesaurus/BBF566> a skos:Concept ;
-    skos:altLabel "unedle Metalle@de" ;
-    skos:broader <http://leiza.de/thesaurus/B5DD1A> ;
-    skos:definition "Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen" ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "unedles Metal@de" .
-
 <http://leiza.de/thesaurus/BBF64G> a skos:Concept ;
     skos:altLabel "Film@de" ;
     skos:broader <http://leiza.de/thesaurus/DAC996> ;
@@ -1576,13 +1631,6 @@
     skos:definition "strukturierender Sammelbegriff für die Benennung der bei der Objektuntersuchung festgestellten Beobachtungen und Auswertungen hinsichtlich der Gesamtbeschaffenheit des Objektes und dessen Ursache" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "[Untersuchungsergebnisse]@de" .
-
-<http://leiza.de/thesaurus/C6A532> a skos:Concept ;
-    skos:altLabel "Entsalzen@de" ;
-    skos:broader <http://leiza.de/thesaurus/G98FD4> ;
-    skos:definition "Methode zur Entfernung von durch die Bodenlagerung in ein Objekt/Material eingedrungenen Salzen" ;
-    skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Entsalzung@de" .
 
 <http://leiza.de/thesaurus/C6GB1C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
@@ -1677,11 +1725,25 @@
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Mikroskop@de" .
 
+<http://leiza.de/thesaurus/BBF566> a skos:Concept ;
+    skos:altLabel "unedle Metalle@de" ;
+    skos:broader <http://leiza.de/thesaurus/B5DD1A> ;
+    skos:definition "Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen" ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "unedles Metal@de" .
+
 <http://leiza.de/thesaurus/C11192> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C3A182> ;
     skos:definition "struktureller Sammelbegriff für die bei der Nachbildungstätigkeit entstehenden Objekte" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "[Nachbildungsergebnisse]@de" .
+
+<http://leiza.de/thesaurus/C6A532> a skos:Concept ;
+    skos:altLabel "Entsalzen@de" ;
+    skos:broader <http://leiza.de/thesaurus/G98FD4> ;
+    skos:definition "Methode zur Entfernung von durch die Bodenlagerung in ein Objekt/Material eingedrungenen Salzen" ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Entsalzung@de" .
 
 <http://leiza.de/thesaurus/C79561> a skos:Concept ;
     skos:altLabel "Restaurierung@de",
@@ -1707,10 +1769,17 @@
 <http://leiza.de/thesaurus/CDD613> a skos:Concept ;
     skos:altLabel "Reinigen@de" ;
     skos:broader <http://leiza.de/thesaurus/C79561> ;
-    skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von einem Objekt. In der Regel auf Erd-, Dreck- oder Staubanhaftungen bezogen" ;
+    skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen, aber auch alten Restaurierungsmaterialien verwendet. Er weist enge Verwandschaft und einen fließenden Ãbergang zu dem Begriff \"Freilegung\" auf." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "Reinigung@de" ;
     skos:related <http://leiza.de/thesaurus/G814D2> .
+
+<http://leiza.de/thesaurus/CGC619> a skos:Concept ;
+    skos:altLabel "Ergänzen@de" ;
+    skos:broader <http://leiza.de/thesaurus/C79561> ;
+    skos:definition "Methode zur Vervollständigung fehlender Objektteile durch das Hinzufügen von Material. Wird nach der modernen archäologischen Restaurierungsethik nur noch aus statischen/stabilisierenden Gründen oder zu Rekonstruktion eines vollkommen unkenntlichen Erscheinungsbildes durchgeführt." ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Ergänzung@de" .
 
 <http://leiza.de/thesaurus/DBC278> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C4BCF8> ;
@@ -1729,6 +1798,14 @@
     skos:definition "Untersuchungs des Objektes auf spezifische Eigenschaften/Zustände durch die Erstellung von bildhaften Darstellungen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
     skos:prefLabel "bildgebende Untersuchung@de" .
+
+<http://leiza.de/thesaurus/G814D2> a skos:Concept ;
+    skos:altLabel "Freilegen@de" ;
+    skos:broader <http://leiza.de/thesaurus/C79561> ;
+    skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff \"Freilegung\" wird, in Abgrenzung zum Begriff \"Reinigung\", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Ãbergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden." ;
+    skos:inScheme <http://leiza.de/thesaurus/> ;
+    skos:prefLabel "Freilegung@de" ;
+    skos:related <http://leiza.de/thesaurus/CDD613> .
 
 <http://leiza.de/thesaurus/GB33C3> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;

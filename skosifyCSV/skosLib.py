@@ -3,6 +3,10 @@ import pandas as pd
 from rdflib import Graph, URIRef, BNode, Literal, Namespace
 from rdflib.namespace import SKOS, RDF
 
+link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
+with open("data.csv", "w", encoding="utf-8") as f:
+    f.write(requests.get(link).text)
+
 with open ('data.csv', 'r', encoding="utf-8") as f:
     with open("fixedData.csv", "w", encoding="utf-8") as ff:
         # repair wrong encoded german umlauts

@@ -2,25 +2,27 @@ identifier,Qidentifier,hierarcylevel,type,prefLabel,altLabel,translation,descrip
 
 B51DAF,Q12,0,Q2,Material,Werkstoff|Objektmaterial,,Material aus dem das Objekt besteht.,top,,,,,Q7|Q8,http://terminology.lido-schema.org/lido00132,,,https://n4o-ta4-dev.wikibase.cloud/wiki/Item:Q12
 
-B5DD1A,,1,Q2,Metall,Metalle,metal@en|mÃ©tal@fr,Gruppe chemischer Elemente,B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q11426,,,
+B5DD1A,,1,Q2,Metall,Metalle,metal@en|mÃ©tal@fr,Gruppe chemischer Elemente,B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q11426 |http://vocab.getty.edu/page/aat/300010900 |https://cameo.mfa.org/wiki/Metal| https://d-nb.info/gnd/4038860-8 ,,,
 
-FGA46A,,2,Q2,Edelmetall,Edelmetalle,nobel metal@en,chemisches Element mit hoher Korrosionsbeständigkeit,B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q585302,,,
+FGA46A,,2,Q2,Edelmetall,Edelmetalle,nobel metal@en,chemisches Element mit hoher Korrosionsbeständigkeit,B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q585302| http://vocab.getty.edu/page/aat/300241621 |http://d-nb.info/gnd/4013531-7 ,,,
 
-FD5149,,3,Q2,Gold,,gold@en,,FGA46A,,,,,,,,,
+FD5149,,3,Q2,Gold,,gold@en,"chemisches Element, gelbliches Edelmetall. Kommt in der Natur überwiegend gediegen vor.",FGA46A,,DC5B2B,,,Q7|Q8,https://www.wikidata.org/wiki/Q897|https://cameo.mfa.org/wiki/Gold|http://vocab.getty.edu/page/aat/300011021 | http://d-nb.info/gnd/4157819-3 ,,,
 
-DC5B2B,,3,Q2,Goldlegierung,Goldlegierungen,gold alloy@en,Legierung mit Gold als Hauptbestandteil,FGA46A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q37136268|http://vocab.getty.edu/page/aat/300010963,https://cameo.mfa.org/wiki/Gold,,
+DC5B2B,,3,Q2,Goldlegierung,Goldlegierungen,gold alloy@en,Legierung mit Gold als Hauptbestandteil,FGA46A,,FD5149,,,Q7|Q8,https://www.wikidata.org/wiki/Q37136268 |http://vocab.getty.edu/page/aat/300010963 |http://d-nb.info/gnd/4157867-3 ,,,
 
-F135A8,,3,Q2,Silber,,silver@en,,FGA46A,,,,,,,,,
+F135A8,,3,Q2,Silber,,silver@en,"chemisches Element, hellgraues, weiches Metall. Kommt in der Natur sowohl gediegen, als auch in Form von Mineralen vor. ",FGA46A,,AD789F,,,Q7|Q8,https://www.wikidata.org/wiki/Q1090 | http://vocab.getty.edu/page/aat/300011029 | http://d-nb.info/gnd/4133759-1 ,,,
 
-AD789F,,3,Q2,Silberlegierung,Silberlegierungen,silver alloy@en,legierung mit Silber als Hauptbestandteil,FGA46A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q52895784|http://vocab.getty.edu/page/aat/300010975,https://cameo.mfa.org/wiki/Silver,,
+AD789F,,3,Q2,Silberlegierung,Silberlegierungen,silver alloy@en,legierung mit Silber als Hauptbestandteil,FGA46A,,F135A8,,,Q7|Q8,https://www.wikidata.org/wiki/Q52895784|http://vocab.getty.edu/page/aat/300010975| http://d-nb.info/gnd/4181330-3,,,
 
-BBF566,,2,Q2,unedles Metal,unedle Metalle,base metal@en,"Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q428855|http://vocab.getty.edu/page/aat/300241615,,,
+BBF566,,2,Q2,unedles Metal,unedle Metalle,base metal@en,"Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q428855|http://vocab.getty.edu/page/aat/300241615|http://d-nb.info/gnd/4583082-4,,,
 
-F71C6B,,3,Q2,Eisen,Fe|Eisenlegierung,iron@en|fer@fr,"chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. In der Archäologie wird mit dem Begriff ""Eisen"" meist eine Eisen-Kohlenstoff-Legierung bezeichnet.",BBF566,,,,https://www.wikidata.org/wiki/Q58888853,Q7|Q8,http://vocab.getty.edu/page/aat/300011002|,https://www.wikidata.org/wiki/Q677,,
+F71C6B,,3,Q2,Eisen,Fe,iron@en|fer@fr,"chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. ",BBF566,,BC75G1,,https://cameo.mfa.org/wiki/Iron,Q7|Q8,https://www.wikidata.org/wiki/Q677|http://vocab.getty.edu/page/aat/300011002|http://d-nb.info/gnd/4014002-7,,,
 
-B28FA6,,3,Q2,Kupfer,Cu|reines Kupfer,copper@en,"chemisches Elemten, rot-bräunliches Metall. Auch als ""Halbedelmetall"" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erste Metall, dass von den Menschen gezielt bearbeitet wurde.",BBF566,,,,https://www.wikidata.org/wiki/Q58888853,Q7|Q8,http://vocab.getty.edu/page/aat/300011020,,,
+BC75G1,,3,Q2,Eisenlegierung,,iron alloy@en,Legierung mit Eisen als Hauptbestandteil. ,BBF566,,F71C6B,,,Q7|Q8,http://vocab.getty.edu/page/aat/300010904|http://d-nb.info/gnd/4014081-7,,,
 
-A82D86,,3,Q2,Buntmetalllegierung,Buntmetall,nonferrous metal@en,"Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung hauptsächlich als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde",BBF566,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q355809,,,
+B28FA6,,3,Q2,Kupfer,Cu|reines Kupfer,copper@en,"chemisches Elemten, rot-bräunliches Metall. Auch als ""Halbedelmetall"" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde.",BBF566,,,,https://cameo.mfa.org/wiki/Copper,Q7|Q8,http://vocab.getty.edu/page/aat/300011020|https://www.wikidata.org/wiki/Q753|http://d-nb.info/gnd/4033734-0,,,
+
+A82D86,,3,Q2,Buntmetalllegierung,Buntmetall,nonferrous metal@en,"Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung hauptsächlich als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde",BBF566,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q355809|http://vocab.getty.edu/page/aat/300011014 ,,,
 
 FGB415,,4,Q2,Kupferlegierung,Kupferlegierungen,copper alloy@en,Legierung mit Kupfer als Hauptbestandteil,A82D86,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q518350|http://vocab.getty.edu/page/aat/300010942,,,
 
@@ -388,6 +390,8 @@ C349C5,,3,Q2,Kompressenentsalzung,,,Entfernung von durch die Bodenlagerung einge
 
 DA9G57,,3,Q2,Badentsalzung,,,Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Einlegen des Objektes in eine Badlösung,C6A532,,,,,,,,,
 
+A1B449,,3,Q2,Ausspülung,,,"Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff, indem fließendes Wasser kontinuierlich über das Objekt geleitet wird.",C6A532,,,,,,,,,
+
 D66263,,3,Q2,elektrochemische Entsalzung,,,Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Anlegen elektrischer SpannungÂ ,C6A532,,,,,,,,,
 
 F72743,,2,Q2,Plasmabehandlung,,,,G98FD4,,,,,,,,,
@@ -414,7 +418,7 @@ AF1F5C,,2,Q2,Trocknung,,,Methode zur Entfernung von Feuchtigkeit aus dem Objekt 
 
 C79561,,1,Q2,Restaurierungsmaßnahme,Restaurierungsmethoden|Restaurierung,restoration@en| restoration method@en,"Sammelbegriff für einen aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien ",CFGDA3,,,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://vocab.getty.edu/page/aat/300053742,https://www.wikidata.org/wiki/Q217102,,
 
-CDD613,,2,Q2,Reinigung,Reinigen,cleaning@en,"Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von einem Objekt. In der Regel auf Erd-, Dreck- oder Staubanhaftungen bezogen",C79561,,G814D2,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://vocab.getty.edu/page/aat/300053027,,,
+CDD613,,2,Q2,Reinigung,Reinigen,cleaning@en,"Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen, aber auch alten Restaurierungsmaterialien verwendet. Er weist enge Verwandschaft und einen fließenden Ãbergang zu dem Begriff ""Freilegung"" auf.",C79561,,G814D2,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://vocab.getty.edu/page/aat/300053027,,,
 
 FF8792,,4,Q2,Trockenreinigung,trockene Reinigung,dry cleaning@en,Entfernung ungewollter Substanzen ohne Verwendung von Flüssigkeiten,CDD613,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300219637,,,
 
@@ -422,11 +426,31 @@ C3733A,,4,Q2,Feuchtreinigung,feuchte Reinigung,wet cleaning@en,Entfernung ungewo
 
 A194CF,,4,Q2,Waschung,Nassreinigung|Spülung|Auswaschung| nasse Reinigung,washing@en,"Entfernung ungewollter Substanzen durch Durchfeuchtung/ Durchnässung des Objektes, z.B. durch Abspülen unter laufendem Wasser oder Eintauchen in eine Reinigungsflüssigkeit. ",CDD613,,,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300053042,,
 
-G814D2,,2,Q2,Freilegung,Freilegen,uncovering@en,Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. In der Regel auf die Entfernung von Korrosions- oder Sinterauflagerungen bezogen.,C79561,,CDD613,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300053027,,
+G814D2,,2,Q2,Freilegung,Freilegen,uncovering@en,"Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff ""Freilegung"" wird, in Abgrenzung zum Begriff ""Reinigung"", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Ãbergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden.",C79561,,CDD613,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300053027,,
+
+A6A248,,3,Q2,maschinelle Freilegung,,,Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten,G814D2,,,,,,,,,
+
+G3GB59,,3,Q2,manuelle Freilegung,,,Per Hand ausgeführte Freilegung der originalen Oberfläche ohne Verwendung elektrischer Geräte,G814D2,,,,,,,,,
+
+G8A626,,3,Q2,nasschemische Freilegung,,,Freilegung der originalen Objektoberfläche durch Anwendung von Chemikalien,G814D2,,,,,,,,,
 
 A13CD1,,2,Q2,Klebung,Kleben|Fügung,bonding@en,Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive Verbindung mit Klebstoff,C79561,,,,,Q7|Q8,,,,
 
+F589G5,,3,Q2,Infiltrationsklebung,,,"Zweischrittige Klebemethode, bei der die einzelnen Fragmente/Teile zunächst temporär miteinander verbunden werden (z.B. durch kleine Klebebandstreifen, Omega-Häkchen, etc.), bis die ursprüngliche Form des Objektes wieder erkennbar ist. Die tatsächliche Klebung erfolgt im zweiten Schritt, durch den gleichzeitigen Auftrag eines dünnflüssigen Klebemittels auf alle Bruchfugen. Aufgrund des Kapillareffekts zwischen den vorfixierten Bruchkanten wird der niedrigviskose Klebstoff in die Bruchfuge gesogen.",A13CD1,,,,,,,,,
+
+AD143A,,3,Q2,Aufbaumethode,,,"Klebemethode, bei der die einzelnen Fragmente/Teile nacheinander angefügt/geklebt werden und die ursprüngliche Form des Objektes nach und nach wieder aufgebaut wird. Bei Gefäßen wird i.d.R. vom Boden zum Rand aufsteigend gearbeitet.Â ",A13CD1,,,,,,,,,
+
 CGC619,,2,Q2,Ergänzung,Ergänzen,filling@en,Methode zur Vervollständigung fehlender Objektteile durch das Hinzufügen von Material. Wird nach der modernen archäologischen Restaurierungsethik nur noch aus statischen/stabilisierenden Gründen oder zu Rekonstruktion eines vollkommen unkenntlichen Erscheinungsbildes durchgeführt.,C79561,,,,,Q7|Q8,,,,
+
+GAD222,,3,Q2,Einfügung,,,Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle.,CGC619,,,,,,,,,
+
+CBDC4A,,3,Q2,Manschettenergänzung,,,"Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt bzw. mit weniger Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden. ",CGC619,,,,,,,,,
+
+DAA82A,,4,Q2,einseitige Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips). ",CBDC4A,,,,,,,,,
+
+D152G6,,4,Q2,beidseitigte Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle von beiden Seiten (Außen- und Innenseite bei Gefäßen) umschlossen wird. Hierzu werden zwei Manschetten angefertigt, die jeweils die beiden Seiten der Fehlstelle abdecken. Auf diese Weise wird ein der Materialstärke des Objektes entsprechender Holraum erzeugen, der mit einem Ergänzungsmaterial ausgefüllt werden kann. Diese Ergänzungsvariante wird insbesondere für Glasobjekte verwendet. Auch bei der Wahl von Kunstharzen als Ergänzungsmaterial ist diese Variante zu bevorzugen, da Kunstharze nach dem Aushärten nur noch mit relativ großem Aufwand nachbearbeitet werden können.",CBDC4A,,,,,,,,,
+
+A6F2C7,,3,Q2,Tonkernergänzung,,,,CGC619,,,,,,,,,
 
 BD119A,,3,Q2,Retusche,Kolorieren|Färben,,,CGC619,,,,,,,,,
 
@@ -616,6 +640,6 @@ C8CG15,,0,Q2,Dokumentation,,documentation@en| report@en,Sammelbegriff für Aufze
 
 D3AF3A,,1,Q2,Zustandsbericht,Zustandsbeschreibung|Zustandsdocumentation,condition documentation@en| condition report@en,"Dokumentation der durchgeführten Untersuchungsmethoden, deren Ergebnisse sowie die Einschätzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt",C8CG15,,C4BCF8,,,Q7|Q8,http://vocab.getty.edu/page/aat/300435425| http://vocab.getty.edu/page/aat/300266009| http://terminology.lido-schema.org/lido00268,,,
 
-A8D3G1,,1,Q2,Maßnahmenbericht,Maßnahmenbericht|Restaurierungsbericht|Restaurierungsprotokoll|Maßnahmendokumentation,,"Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie der dabei verwendeten Materialien und Werkzeuge. ",C8CG15,,CFGDA3,,,,,,,
+A8D3G1,,1,Q2,Maßnahmenbericht,Restaurierungsbericht|Restaurierungsprotokoll|Maßnahmendokumentation,,"Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie der dabei verwendeten Materialien und Werkzeuge. ",C8CG15,,CFGDA3,,,,,,,
 
 BAA258,,1,Q2,Auswertungsdokumentation,,,Dokumentation der technologischen Auswertung,C8CG15,,G76B7G,,,,,,,
