@@ -18,21 +18,21 @@ g = Graph()
 thesaurus = URIRef("http://leiza.de/thesaurus/")
 g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
 
-
+languageLabel = "@de"
 for index, row in df.iterrows():
     if not pd.isnull(row["prefLabel"]):
         concept = URIRef(thesaurus + str(row['identifier']))
         g.add ((concept, RDF.type, SKOS.Concept))
-        g.add ((concept, SKOS.prefLabel, Literal(row['prefLabel'])))
+        g.add ((concept, SKOS.prefLabel, Literal(row['prefLabel'] + languageLabel)))
         if not pd.isnull(row["altLabel"]):
             if "|" in str(row["altLabel"]):
                 for i in str(row["altLabel"]).split("|"):
-                    g.add ((concept, SKOS.altLabel, Literal(i)))
+                    g.add ((concept, SKOS.altLabel, Literal(i + languageLabel)))
             else:
-                g.add ((concept, SKOS.altLabel, Literal(row["altLabel"])))
+                g.add ((concept, SKOS.altLabel, Literal(row["altLabel"] + languageLabel)))
         if not pd.isnull(row["description"]):
             g.add ((concept, SKOS.definition, Literal(row['description'])))
-        if not pd.isnull(row['parent']) and not row["parent"] == "" :
+        if not pd.isnull(row['parent']) and not row["parent"] == "top" :
             broader = URIRef(thesaurus + row['parent'])
             g.add ((concept, SKOS.broader, broader))
         if not pd.isnull(row['related']):
