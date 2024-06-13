@@ -7,6 +7,9 @@
   "definition": {
     "de": "Beschädigung des Objektes, durch Emmision von schädlichen Stoffen im direkten Umfeld des Objektes (Verpackungsmaterial, Vitrinen, etc.) oder durch emmitierende Stoffe, die zur Bearbeitung des Objektes selbst Verwendung fanden. "
   },
+  "notation": [
+    "GCCD95"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

@@ -13,6 +13,9 @@
   "definition": {
     "de": "chemisches Elemten, rot-bräunliches Metall. Auch als \"Halbedelmetall\" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde."
   },
+  "notation": [
+    "B28FA6"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BBF566",
     "prefLabel": {

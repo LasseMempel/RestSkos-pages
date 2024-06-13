@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Oberflächenriss"
   },
+  "notation": [
+    "GD5454"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GB33C3",
     "prefLabel": {

@@ -7,6 +7,9 @@
   "definition": {
     "de": "chemisches Element, gelbliches Edelmetall. Kommt in der Natur überwiegend gediegen vor."
   },
+  "notation": [
+    "FD5149"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FGA46A",
     "prefLabel": {

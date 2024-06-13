@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "analoge Abformung"
   },
+  "notation": [
+    "G52378"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/BB78D2",

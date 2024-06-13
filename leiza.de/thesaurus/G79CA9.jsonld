@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "unklimatisierte Lagerung"
   },
+  "notation": [
+    "G79CA9"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/DBC278",
     "prefLabel": {

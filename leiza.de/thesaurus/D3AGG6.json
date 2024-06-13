@@ -12,6 +12,9 @@
   "definition": {
     "de": "Eine negative Veränderung des visuellen Eindrucks des Objektes"
   },
+  "notation": [
+    "D3AGG6"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A8AD1G",

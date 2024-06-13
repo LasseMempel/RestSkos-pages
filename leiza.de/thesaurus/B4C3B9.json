@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Materialgefüge des Objektes ist unter Erzeugung einer scharf definierten Kante in zwei oder mehr Teile getrennt worden. "
   },
+  "notation": [
+    "B4C3B9"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

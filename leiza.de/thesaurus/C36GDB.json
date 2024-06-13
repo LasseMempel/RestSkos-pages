@@ -7,6 +7,9 @@
   "definition": {
     "de": "An der Objektoberfläche sind durch Reibungskräfte abgetragene Stellen festzustellen. "
   },
+  "notation": [
+    "C36GDB"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C188DA",
     "prefLabel": {

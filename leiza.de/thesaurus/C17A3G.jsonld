@@ -7,6 +7,9 @@
   "definition": {
     "de": "Konservierungsmethode, bei der der Werkstoffe eines Objektes durch das Ausfüllen seines gesamten Porenraums mit einem sich in Lösung befindlichen Polymers stabilisiert wird. Eine Volltränkung wird i.d.R. durch Eintauchen des Objektes in das Lösungsbad durchgeführt."
   },
+  "notation": [
+    "C17A3G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A9FF5A",
     "prefLabel": {

@@ -14,6 +14,9 @@
   "definition": {
     "de": "Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie der dabei verwendeten Materialien und Werkzeuge. "
   },
+  "notation": [
+    "A8D3G1"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C8CG15",
     "prefLabel": {

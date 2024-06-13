@@ -12,6 +12,9 @@
   "definition": {
     "de": "Entnahme einer Stichprobe nach spezifischen Verfahren je nach angedachter Untersuchungsmethode. Die Probennahme dient dazu Aussagen zur Beschaffenheit, Zusammensetzung und/oder charakterischischen Eigenschaften eines Materials treffen zu können."
   },
+  "notation": [
+    "F7AGD2"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G9B788",
     "prefLabel": {

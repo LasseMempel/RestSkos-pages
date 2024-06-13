@@ -7,6 +7,9 @@
   "definition": {
     "de": "Fahigkeit eines Objektes physischer Einwirkung stand zu halten"
   },
+  "notation": [
+    "FB6AGB"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GDF8C2",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Montage"
   },
+  "notation": [
+    "D78721"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F5G576",
     "prefLabel": {

@@ -7,6 +7,9 @@
   "definition": {
     "de": "Methode zur Herstellung von modellhaften Darstellung auf Forschungsergebnissen basierender Gegebenheiten. "
   },
+  "notation": [
+    "BD7FF8"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G79CAC",
     "prefLabel": {

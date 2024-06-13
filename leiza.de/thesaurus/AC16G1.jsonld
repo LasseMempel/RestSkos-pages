@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Verpackung"
   },
+  "notation": [
+    "AC16G1"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F5G576",
     "prefLabel": {

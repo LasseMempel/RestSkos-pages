@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Schwamm"
   },
+  "notation": [
+    "A341F9"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

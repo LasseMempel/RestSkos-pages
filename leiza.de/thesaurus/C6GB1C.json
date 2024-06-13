@@ -7,6 +7,9 @@
   "definition": {
     "de": "Ãnderung des ursprünglich und/oder geplanten Aussehens eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war. "
   },
+  "notation": [
+    "C6GB1C"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A5D63G",

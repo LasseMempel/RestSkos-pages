@@ -7,6 +7,9 @@
   "definition": {
     "de": "Legierung mit Eisen als Hauptbestandteil. "
   },
+  "notation": [
+    "BC75G1"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BBF566",
     "prefLabel": {

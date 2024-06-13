@@ -12,6 +12,9 @@
   "definition": {
     "de": "Die Farbigkeit des Objektes zeigt eine reduzierte Farbsättigung"
   },
+  "notation": [
+    "ABCF99"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A4G8FA",
     "prefLabel": {

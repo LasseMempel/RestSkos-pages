@@ -7,6 +7,9 @@
   "definition": {
     "de": "basierend auf den festgestellten Spuren angenommene Art und Weise wie das Objekt hergestellt worden ist"
   },
+  "notation": [
+    "F8F594"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G76B7G",
     "prefLabel": {

@@ -12,6 +12,9 @@
   "definition": {
     "de": "Sammelbegriff für vorbeugende Maßnahmen zur Vermeidung oder Minimierung von künftigen Schaden, Abbau, Verlust und folglich invasivem Eingriff. Bei der präventiven Konservierung findet lediglich eine passive Einwirkung auf das Objekt statt (vgl. DIN EN 15898:2020-02)."
   },
+  "notation": [
+    "F5G576"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/AC16G1",

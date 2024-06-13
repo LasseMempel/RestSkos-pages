@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Objekt zeigt Spuren von Hitze- bzw. Feuereinwirkung in Form von abgebautem oder gänzlich verloren gegangenem Material"
   },
+  "notation": [
+    "A9B23D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C9D991",
     "prefLabel": {

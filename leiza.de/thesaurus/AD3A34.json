@@ -7,6 +7,9 @@
   "definition": {
     "de": "Schädigung durch negative Einwirkung der Bedingungen im Freien"
   },
+  "notation": [
+    "AD3A34"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

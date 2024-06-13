@@ -7,6 +7,9 @@
   "definition": {
     "de": "Methode zum Schutz der Objektoberfläche vor negativer Einwirkung von außen durch Auftrag eines schützenden Materials"
   },
+  "notation": [
+    "GF41DG"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G98FD4",
     "prefLabel": {

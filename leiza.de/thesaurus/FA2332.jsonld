@@ -7,6 +7,9 @@
   "definition": {
     "de": "Methode zur Wiederherstellung und/oder Nachbildung eines ursprünglichen Zustandes "
   },
+  "notation": [
+    "FA2332"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/BDCBC3",

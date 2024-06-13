@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Objekt zeigt eine scharf umgebogene Deformation"
   },
+  "notation": [
+    "ABB9FA"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A8D9GF",
     "prefLabel": {

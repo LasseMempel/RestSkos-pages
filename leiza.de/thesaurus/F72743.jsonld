@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Plasmabehandlung"
   },
+  "notation": [
+    "F72743"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G98FD4",
     "prefLabel": {

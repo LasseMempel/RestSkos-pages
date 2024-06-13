@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Färbemittel"
   },
+  "notation": [
+    "B1DB9G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FFA16B",
     "prefLabel": {

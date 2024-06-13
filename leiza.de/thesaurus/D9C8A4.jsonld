@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Zersetzung"
   },
+  "notation": [
+    "D9C8A4"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

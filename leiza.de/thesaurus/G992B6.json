@@ -7,6 +7,9 @@
   "definition": {
     "de": "Chemisches Element, silber-gräuliches, weiches Metall. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Kommt in der Natur seltener in gediegener Form vor. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glazuren sowie Legierungen mit anderen Metallen verwendet."
   },
+  "notation": [
+    "G992B6"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A82D86",
     "prefLabel": {

@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das vormals fest gefügte Material des Objektes weist eine vollkommene Trennung in zwei oder mehr lose Teile auf."
   },
+  "notation": [
+    "FGG2C4"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

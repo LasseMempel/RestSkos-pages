@@ -12,6 +12,9 @@
   "definition": {
     "de": "Zustand eines Objektes zum Zeitpunkt der Einlieferung in die Restaurierungswerkstatt"
   },
+  "notation": [
+    "A4G52F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C4BCF8",
     "prefLabel": {

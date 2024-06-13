@@ -7,6 +7,9 @@
   "definition": {
     "de": "Freilegung der originalen Objektoberfläche durch Anwendung von Chemikalien"
   },
+  "notation": [
+    "G8A626"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G814D2",
     "prefLabel": {

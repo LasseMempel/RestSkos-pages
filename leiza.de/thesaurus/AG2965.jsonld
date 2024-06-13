@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Naturharz"
   },
+  "notation": [
+    "AG2965"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

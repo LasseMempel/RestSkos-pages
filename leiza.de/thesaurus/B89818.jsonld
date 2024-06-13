@@ -13,6 +13,9 @@
   "definition": {
     "de": "Das Objekt zeigt eine wellenförmige/bucklige Formänderung auf."
   },
+  "notation": [
+    "B89818"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A8D9GF",
     "prefLabel": {

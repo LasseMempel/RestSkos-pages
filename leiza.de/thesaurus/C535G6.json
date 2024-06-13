@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt weist eine gekrümmte Deformation in einer Ebene auf"
   },
+  "notation": [
+    "C535G6"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A8D9GF",
     "prefLabel": {

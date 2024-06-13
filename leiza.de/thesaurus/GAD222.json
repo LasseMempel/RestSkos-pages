@@ -7,6 +7,9 @@
   "definition": {
     "de": "Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle."
   },
+  "notation": [
+    "GAD222"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CGC619",
     "prefLabel": {

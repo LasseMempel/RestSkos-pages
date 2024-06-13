@@ -7,6 +7,9 @@
   "definition": {
     "de": "angenommene Methode(n), die zur Ausarbeitung der an dem Objekt festgestellten Verzierungselemente verwendet wurden"
   },
+  "notation": [
+    "F2244D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G76B7G",
     "prefLabel": {

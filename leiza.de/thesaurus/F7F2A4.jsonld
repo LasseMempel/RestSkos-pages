@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Spaltkorrosion"
   },
+  "notation": [
+    "F7F2A4"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G3D2F5",
     "prefLabel": {

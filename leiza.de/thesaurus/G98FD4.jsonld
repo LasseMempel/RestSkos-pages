@@ -13,6 +13,9 @@
   "definition": {
     "de": "Sammelbegriff für einen aktiven Eingriff, der direkt an einem Objekt vorgenommen wird, um weiteren Abbau, Zerfall und/oder Schädigung zu verhindern, zu verzögern und/oder zu begrenzen"
   },
+  "notation": [
+    "G98FD4"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/C6A532",

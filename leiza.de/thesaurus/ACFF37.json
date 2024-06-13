@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Korrosionsinhibitor"
   },
+  "notation": [
+    "ACFF37"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

@@ -7,6 +7,9 @@
   "definition": {
     "de": "Beschädigung, die durch Einwirkungen auf ein Objekt während der Bodenlagerung verursacht wurde. (Erddruck, Besiedelung, etc.)"
   },
+  "notation": [
+    "F968G3"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

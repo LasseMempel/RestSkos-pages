@@ -7,6 +7,9 @@
   "definition": {
     "de": "Schaden, der bereits vor der Bodenlagerung entstanden ist und demnach zur historischen Objektbiographie des Objektes zählt. Solche Schäden liefern wichtige Hinweise zu Herstellungstechnik und Verwendung, gehören somit zur wissenschaftlichen Aussagekraft des Objektes und dürfen nicht entfernt werden."
   },
+  "notation": [
+    "CC2F9C"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/C7861C",

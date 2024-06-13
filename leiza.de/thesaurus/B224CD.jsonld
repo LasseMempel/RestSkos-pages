@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt zeigt eine sich negativ auf seine ursprüngliche Form auswirkende Veränderung"
   },
+  "notation": [
+    "B224CD"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A21DB2",

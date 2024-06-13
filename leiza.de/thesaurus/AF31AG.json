@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Epoxidharz"
   },
+  "notation": [
+    "AF31AG"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

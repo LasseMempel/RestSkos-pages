@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Zeitplanung"
   },
+  "notation": [
+    "AC1786"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A18D95",
     "prefLabel": {

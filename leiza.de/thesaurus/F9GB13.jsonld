@@ -7,6 +7,9 @@
   "definition": {
     "de": "Bergung des Objektes mit dem umgebenden Erdreich en-block"
   },
+  "notation": [
+    "F9GB13"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C7C3B7",
     "prefLabel": {

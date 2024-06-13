@@ -12,6 +12,9 @@
   "definition": {
     "de": "Materialverlust an/in einem Objekt verursacht durch Fressaktivitäten von Organismen."
   },
+  "notation": [
+    "C5GCB6"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C188DA",
     "prefLabel": {

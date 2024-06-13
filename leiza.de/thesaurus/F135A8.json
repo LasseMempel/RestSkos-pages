@@ -7,6 +7,9 @@
   "definition": {
     "de": "chemisches Element, hellgraues, weiches Metall. Kommt in der Natur sowohl gediegen, als auch in Form von Mineralen vor. "
   },
+  "notation": [
+    "F135A8"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FGA46A",
     "prefLabel": {

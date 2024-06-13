@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "binokular Mikroskop"
   },
+  "notation": [
+    "GA6422"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FC2113",
     "prefLabel": {

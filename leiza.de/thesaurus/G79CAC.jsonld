@@ -7,6 +7,9 @@
   "definition": {
     "de": "strukturierender Sammelbegriff für verschiedene Methoden, die zur Herstellung von wissenschaftlichen Vergleichsstücken angewandt werden können sowie die hierzu benötigten Materialien"
   },
+  "notation": [
+    "G79CAC"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/G59852",

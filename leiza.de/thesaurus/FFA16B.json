@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "[Materialien]"
   },
+  "notation": [
+    "FFA16B"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/B1DB9G",

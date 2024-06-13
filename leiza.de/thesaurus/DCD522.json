@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Mikro-Quelltest"
   },
+  "notation": [
+    "DCD522"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A946B5",
     "prefLabel": {

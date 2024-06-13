@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Kontaktkorrosion"
   },
+  "notation": [
+    "BCDC47"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G3D2F5",
     "prefLabel": {

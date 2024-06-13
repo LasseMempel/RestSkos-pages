@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Gefrierschrank"
   },
+  "notation": [
+    "C948F2"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A8ABBA",
     "prefLabel": {

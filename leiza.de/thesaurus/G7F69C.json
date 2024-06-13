@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Bindemittel"
   },
+  "notation": [
+    "G7F69C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

@@ -7,6 +7,9 @@
   "definition": {
     "de": "Nachgebildetes Objekt, das einen angenommenen, ursprünglichen Zustand eines Vorbildgegendstandes wiedergibt. "
   },
+  "notation": [
+    "D532GF"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C11192",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Patinabildung"
   },
+  "notation": [
+    "GC4CA7"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G3D2F5",
     "prefLabel": {

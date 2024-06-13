@@ -7,6 +7,9 @@
   "definition": {
     "de": "Untersuchungs des Objektes auf spezifische Eigenschaften/Zustände durch die Erstellung von bildhaften Darstellungen"
   },
+  "notation": [
+    "G13A7B"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/BAA12F",

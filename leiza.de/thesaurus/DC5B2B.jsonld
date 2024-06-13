@@ -12,6 +12,9 @@
   "definition": {
     "de": "Legierung mit Gold als Hauptbestandteil"
   },
+  "notation": [
+    "DC5B2B"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FGA46A",
     "prefLabel": {

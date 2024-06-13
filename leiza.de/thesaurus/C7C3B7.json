@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt wurde im direkten Anschluss seiner Bergung von der Grabung in die Restaurierungswerkstätt eingeliefert"
   },
+  "notation": [
+    "C7C3B7"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/F9GB13",

@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Objekt zeigt eine Vergrößerung seiner Abmessungen im Vergleich zu seinen ursprünglichen Maßen. Diese kann durch Veränderungen des Objektmaterial selbst oder durch Hinzufügen von Fremdmaterial erfolgt sein.  "
   },
+  "notation": [
+    "C7859F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/B224CD",
     "prefLabel": {

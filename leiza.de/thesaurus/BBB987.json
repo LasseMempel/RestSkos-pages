@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Absauganlage"
   },
+  "notation": [
+    "BBB987"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GF9C49",
     "prefLabel": {

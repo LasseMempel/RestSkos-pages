@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Restaurierungs-/Konservierungsziel"
   },
+  "notation": [
+    "DA4158"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A18D95",
     "prefLabel": {

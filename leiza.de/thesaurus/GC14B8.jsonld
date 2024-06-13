@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "digitale Abformung"
   },
+  "notation": [
+    "GC14B8"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/DAG2A8",
     "prefLabel": {

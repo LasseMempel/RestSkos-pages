@@ -7,6 +7,9 @@
   "definition": {
     "de": "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Einlegen des Objektes in eine Badlösung"
   },
+  "notation": [
+    "DA9G57"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C6A532",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Cyanacrylat"
   },
+  "notation": [
+    "D9F783"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

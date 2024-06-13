@@ -7,6 +7,9 @@
   "definition": {
     "de": "Durch chemische Prozesse herbeigeführte Beschädigung eines Objektes"
   },
+  "notation": [
+    "C9D991"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A9B23D",

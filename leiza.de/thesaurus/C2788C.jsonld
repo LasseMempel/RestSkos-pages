@@ -12,6 +12,9 @@
   "definition": {
     "de": "Gerät mit dem eine Röntgenfluoreszenzanalyse durchgeführt werden kann. Das Gerät misst dabei die Intensitäten der emmitierten Fluoreszenzsröntgenstrahlung eines Materials/einer Probe, sodass Rückschlüsse auf die Elementzusammensetzung innerhalb der Probe gezogen werden können."
   },
+  "notation": [
+    "C2788C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/AA6941",
     "prefLabel": {

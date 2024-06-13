@@ -7,6 +7,9 @@
   "definition": {
     "de": "Lose, auf der Oberfläche des Objektes angesammelte Ablagerung von luftgetragenen Partikeln"
   },
+  "notation": [
+    "D74F16"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A889A3",
     "prefLabel": {

@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Objekt zeigt in seiner Farbigkeit eine Ãnderung, die mindestend eine der drei Farbparameter Ton, Helligkeit oder Sättigung betrifft."
   },
+  "notation": [
+    "A4G8FA"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/ABCF99",

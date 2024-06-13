@@ -13,6 +13,9 @@
   "definition": {
     "de": "Sammelbegriff für einen aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien "
   },
+  "notation": [
+    "C79561"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/CDD613",

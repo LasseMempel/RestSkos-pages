@@ -7,6 +7,9 @@
   "definition": {
     "de": "Durch die Einwirkung externer Faktoren schleichender Verlust von Oberflächenmaterial des Objektes."
   },
+  "notation": [
+    "D45638"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C188DA",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Bisherige Lagerung"
   },
+  "notation": [
+    "DBC278"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A8ABBA",

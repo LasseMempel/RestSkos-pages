@@ -7,6 +7,9 @@
   "definition": {
     "de": "Begutachtung eines Objektes mit dem menschlichen Auge mit Hilfe eines Mikroskops"
   },
+  "notation": [
+    "D4AC7A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CA7279",
     "prefLabel": {

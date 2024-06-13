@@ -7,6 +7,9 @@
   "definition": {
     "de": "Materialverlust durch Eindringen/Einwachsen von pflanzlichen Wurzeln in das Objekt"
   },
+  "notation": [
+    "nan"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C188DA",
     "prefLabel": {

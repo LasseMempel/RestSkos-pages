@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Tonkernergänzung"
   },
+  "notation": [
+    "A6F2C7"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CGC619",
     "prefLabel": {

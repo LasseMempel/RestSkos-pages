@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Objekt zeigt eine Verkleinerung seiner Abmessungen im Vergleich zu seinen ursprünglichen Maßen."
   },
+  "notation": [
+    "G23692"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/B224CD",
     "prefLabel": {

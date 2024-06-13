@@ -7,6 +7,9 @@
   "definition": {
     "de": "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut.  "
   },
+  "notation": [
+    "D73F9B"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CD3341",
     "prefLabel": {

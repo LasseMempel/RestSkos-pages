@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Ramanspektroskopie"
   },
+  "notation": [
+    "FFA1AC"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G9B788",
     "prefLabel": {

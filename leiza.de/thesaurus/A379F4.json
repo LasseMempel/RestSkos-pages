@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt weist Schäden auf, die auf die innere Struktur des Materials zurückzuführen ist."
   },
+  "notation": [
+    "A379F4"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

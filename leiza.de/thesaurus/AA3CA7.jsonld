@@ -13,6 +13,9 @@
   "definition": {
     "de": "Auf oder im Objekt zeigen sich Ansammlungen von Salzkristallen."
   },
+  "notation": [
+    "AA3CA7"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C9D991",
     "prefLabel": {

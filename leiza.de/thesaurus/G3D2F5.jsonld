@@ -12,6 +12,9 @@
   "definition": {
     "de": "Auf oder im Objekt zeigen sich Materialumwandlungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung"
   },
+  "notation": [
+    "G3D2F5"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/B69747",

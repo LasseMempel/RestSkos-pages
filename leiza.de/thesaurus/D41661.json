@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Cellulosederivat"
   },
+  "notation": [
+    "D41661"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A44D5F",

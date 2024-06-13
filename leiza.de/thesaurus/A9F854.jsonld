@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Fluoreszenzmikroskopen"
   },
+  "notation": [
+    "A9F854"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FC2113",
     "prefLabel": {

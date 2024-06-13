@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Acrylharz"
   },
+  "notation": [
+    "GFD582"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Gefriertrocknungsanlage"
   },
+  "notation": [
+    "C2112G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GF9C49",
     "prefLabel": {

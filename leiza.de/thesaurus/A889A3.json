@@ -13,6 +13,9 @@
   "definition": {
     "de": "Schadensphänomen, das durch Ablagerung unerwünschter Substanz, die Lesbarkeit des Objektes vermindert"
   },
+  "notation": [
+    "A889A3"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A14228",

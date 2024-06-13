@@ -7,6 +7,9 @@
   "definition": {
     "de": "chemische Substanz, die in wässriger Lösung ein Proton aufnehmen oder ein freies Elektronenpaar abspalten kann."
   },
+  "notation": [
+    "A2B746"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

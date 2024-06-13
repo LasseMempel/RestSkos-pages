@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Altrestaurierung"
   },
+  "notation": [
+    "A5D63G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C6GB1C",
     "prefLabel": {

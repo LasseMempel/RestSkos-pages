@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Mikroskop"
   },
+  "notation": [
+    "B538AG"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/FC2113",

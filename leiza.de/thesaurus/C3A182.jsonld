@@ -13,6 +13,9 @@
   "definition": {
     "de": "Erstellung aussagekräftiger Vergleichsstücke zu wissenschaftlichem Zweck"
   },
+  "notation": [
+    "C3A182"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/C11192",

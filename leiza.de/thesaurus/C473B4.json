@@ -12,6 +12,9 @@
   "definition": {
     "de": "Schadensphänomen, das durch eine (oder mehrere) vorangegangene Restaurierungs-/Konservierungs-Maßnahme oder andere Bearbeitung verursacht wurde"
   },
+  "notation": [
+    "C473B4"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

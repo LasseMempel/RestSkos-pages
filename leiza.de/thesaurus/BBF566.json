@@ -12,6 +12,9 @@
   "definition": {
     "de": "Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen"
   },
+  "notation": [
+    "BBF566"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/B28FA6",

@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen einen leichten bis mittelstarken Wassergehalt auf."
   },
+  "notation": [
+    "FDB9F5"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/AG4397",
     "prefLabel": {

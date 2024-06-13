@@ -7,6 +7,9 @@
   "definition": {
     "de": "Methode zur Erstellung einer originalgetreuen Nachbildung eines Objektes. Der Kopieherstellung geht die Abformung eines Objektes voraus."
   },
+  "notation": [
+    "F8F7CF"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/FFA16B",

@@ -12,6 +12,9 @@
   "definition": {
     "de": "mehr oder weniger fest anhaftende Bodenbestandteile. Hauptsächlich an frisch geborgenen Objekten festzustellen. "
   },
+  "notation": [
+    "D28G9A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A889A3",
     "prefLabel": {

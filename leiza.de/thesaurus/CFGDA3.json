@@ -12,6 +12,9 @@
   "definition": {
     "de": "Ausführung der im Restaurierungskonzept geplanten Vorgehensweisen zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel "
   },
+  "notation": [
+    "CFGDA3"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/C364G1",

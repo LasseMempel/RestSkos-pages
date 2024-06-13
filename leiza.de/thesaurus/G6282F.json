@@ -7,6 +7,9 @@
   "definition": {
     "de": "Umformung einer Kunstharz- oder Galvanokopie zur Herstellung der angenommenen, ursprünglichen Form eines Vorbildobjektes."
   },
+  "notation": [
+    "G6282F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FA2332",
     "prefLabel": {

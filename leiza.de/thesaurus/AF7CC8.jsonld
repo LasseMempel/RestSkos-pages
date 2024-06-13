@@ -13,6 +13,9 @@
   "definition": {
     "de": "Im Materialgefüge des Objektes hat sich ein oder mehrere Leerraum/Leerräume gebildet."
   },
+  "notation": [
+    "AF7CC8"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

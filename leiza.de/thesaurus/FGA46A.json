@@ -12,6 +12,9 @@
   "definition": {
     "de": "chemisches Element mit hoher Korrosionsbeständigkeit"
   },
+  "notation": [
+    "FGA46A"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/AD789F",

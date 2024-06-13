@@ -7,6 +7,9 @@
   "definition": {
     "de": "Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten"
   },
+  "notation": [
+    "A6A248"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G814D2",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Risikobeurteilung"
   },
+  "notation": [
+    "CDD6B5"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A18D95",
     "prefLabel": {

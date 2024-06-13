@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das innere Materialgefüges eines Objektes ist vollkommen destabilisiert, was zu einem kompletten Zerfall der Struktur geführt hat."
   },
+  "notation": [
+    "BGA41C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

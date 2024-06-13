@@ -7,6 +7,9 @@
   "definition": {
     "de": "Methode, bei der ein Objekt durch die mechanische Befestigung auf einem festen Material unterstützt/ stabilisiert wird."
   },
+  "notation": [
+    "A31C7C"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/C7427F",

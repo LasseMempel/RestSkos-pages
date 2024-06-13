@@ -7,6 +7,9 @@
   "definition": {
     "de": "Beschädigung des Objektes, die auf unpassende Lagerungsbedingungen zurück zu führen ist."
   },
+  "notation": [
+    "FB7C46"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

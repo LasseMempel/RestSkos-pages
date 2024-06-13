@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt weist eine zunehmend ungleichmäßiger werdende Oberfläche auf."
   },
+  "notation": [
+    "A21DB2"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/B224CD",
     "prefLabel": {

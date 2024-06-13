@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Zellstoff"
   },
+  "notation": [
+    "B28GC7"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

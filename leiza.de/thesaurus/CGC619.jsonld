@@ -12,6 +12,9 @@
   "definition": {
     "de": "Methode zur Vervollständigung fehlender Objektteile durch das Hinzufügen von Material. Wird nach der modernen archäologischen Restaurierungsethik nur noch aus statischen/stabilisierenden Gründen oder zu Rekonstruktion eines vollkommen unkenntlichen Erscheinungsbildes durchgeführt."
   },
+  "notation": [
+    "CGC619"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A6F2C7",

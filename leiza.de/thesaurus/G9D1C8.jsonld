@@ -7,6 +7,9 @@
   "definition": {
     "de": "Die Abmessungen des Objektes"
   },
+  "notation": [
+    "G9D1C8"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GDF8C2",
     "prefLabel": {

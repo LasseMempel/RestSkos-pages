@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Formtypen"
   },
+  "notation": [
+    "B2D9C9"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G52378",
     "prefLabel": {

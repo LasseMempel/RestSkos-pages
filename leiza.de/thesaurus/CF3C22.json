@@ -12,6 +12,9 @@
   "definition": {
     "de": "angenommener Zweck für den das Objekt ursprünglich verwendet wurde"
   },
+  "notation": [
+    "CF3C22"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G76B7G",
     "prefLabel": {

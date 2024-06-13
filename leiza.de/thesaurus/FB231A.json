@@ -7,6 +7,9 @@
   "definition": {
     "de": "Sammelbegriff für Verfahren zur bildhaften Darstellung inneren Strukturen eines Objektes mit Hilfe von Röntgenstrahlen"
   },
+  "notation": [
+    "FB231A"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A2B5A3",

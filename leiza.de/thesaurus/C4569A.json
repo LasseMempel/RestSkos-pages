@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Bürste"
   },
+  "notation": [
+    "C4569A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

@@ -12,6 +12,9 @@
   "definition": {
     "de": "Schadensphänomen, das durch das Vorhandensein löslicher Salze in einem Objekt/Material verursacht wird"
   },
+  "notation": [
+    "FDD71B"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

@@ -7,6 +7,9 @@
   "definition": {
     "de": "Bergung der einzelnen Scherben/Fragmente des Objektes unter Erhaltung der in-situ Anschlüsse zwischen den Fragmenten"
   },
+  "notation": [
+    "G4AG5C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C7C3B7",
     "prefLabel": {

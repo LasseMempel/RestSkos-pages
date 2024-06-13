@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Zuschlagstoffe"
   },
+  "notation": [
+    "ADCC8A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BB78D2",
     "prefLabel": {

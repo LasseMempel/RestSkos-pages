@@ -7,6 +7,9 @@
   "definition": {
     "de": "Methode zur Entfernung von Feuchtigkeit aus dem Objekt oder von dessen Oberfläche"
   },
+  "notation": [
+    "AF1F5C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G98FD4",
     "prefLabel": {

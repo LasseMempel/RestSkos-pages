@@ -12,6 +12,9 @@
   "definition": {
     "de": "Die Deformation des Objektes weist eine nach innen gerichtete Form auf. "
   },
+  "notation": [
+    "GAC37B"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A8D9GF",
     "prefLabel": {

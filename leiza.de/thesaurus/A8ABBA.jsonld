@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "klimatisierte Lagerung"
   },
+  "notation": [
+    "A8ABBA"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A2BB42",

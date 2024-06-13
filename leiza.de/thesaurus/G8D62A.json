@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Röntgenanlage"
   },
+  "notation": [
+    "G8D62A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/AA6941",
     "prefLabel": {

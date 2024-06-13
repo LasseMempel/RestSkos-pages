@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Alterung"
   },
+  "notation": [
+    "C77G9C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C6GB1C",
     "prefLabel": {

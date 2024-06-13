@@ -13,6 +13,9 @@
   "definition": {
     "de": "Durch den Kontakt zu Wasser herbeigeführte Schäden an einem Objekt"
   },
+  "notation": [
+    "GGD66G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

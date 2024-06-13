@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Reinigungsmittel"
   },
+  "notation": [
+    "A95DFA"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

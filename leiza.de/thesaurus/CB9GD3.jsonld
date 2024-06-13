@@ -7,6 +7,9 @@
   "definition": {
     "de": "Der innere Zusammenhalt des Objektes ist gestört"
   },
+  "notation": [
+    "CB9GD3"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/AF7CC8",

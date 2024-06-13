@@ -7,6 +7,9 @@
   "definition": {
     "de": "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeinträchtigung zu schützen und zu erhalten"
   },
+  "notation": [
+    "DAB4B7"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/BGG5A6",

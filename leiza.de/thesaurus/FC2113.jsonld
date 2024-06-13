@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Lichtmikroskop"
   },
+  "notation": [
+    "FC2113"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A75779",

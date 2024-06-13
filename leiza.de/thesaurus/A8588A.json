@@ -12,6 +12,9 @@
   "definition": {
     "de": "Verlust eines klar definierte Formteils des Objektes"
   },
+  "notation": [
+    "A8588A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C188DA",
     "prefLabel": {

@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Objekt zeigt Schäden, die auf seine ursprüngliche Verwendung zurück zu führen sind."
   },
+  "notation": [
+    "D2C2A9"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CC2F9C",
     "prefLabel": {

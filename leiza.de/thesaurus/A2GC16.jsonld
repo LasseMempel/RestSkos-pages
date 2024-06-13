@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Gips"
   },
+  "notation": [
+    "A2GC16"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BB78D2",
     "prefLabel": {

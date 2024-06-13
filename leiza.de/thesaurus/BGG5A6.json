@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Transportbedingungen"
   },
+  "notation": [
+    "BGG5A6"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/DAB4B7",
     "prefLabel": {

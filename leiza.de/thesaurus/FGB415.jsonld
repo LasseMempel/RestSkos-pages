@@ -12,6 +12,9 @@
   "definition": {
     "de": "Legierung mit Kupfer als Hauptbestandteil"
   },
+  "notation": [
+    "FGB415"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A8B271",

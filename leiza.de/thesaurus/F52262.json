@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt im Museumsdepot aufbewahrt"
   },
+  "notation": [
+    "F52262"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/DBC278",
     "prefLabel": {

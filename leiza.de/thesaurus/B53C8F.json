@@ -7,6 +7,9 @@
   "definition": {
     "de": "Begutachtung eines Objektes mit dem menschlichen Auge unter Zuhilfename einer UV-Lichtquelle"
   },
+  "notation": [
+    "B53C8F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CA7279",
     "prefLabel": {

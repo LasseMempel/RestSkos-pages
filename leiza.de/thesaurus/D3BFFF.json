@@ -12,6 +12,9 @@
   "definition": {
     "de": "Methode mit dem die Objektoberfläche durch das Abrastern mit einem Elektronenstrahl vergrößert abgebildet wird. Erzeugt wird das Bild der Objektoberfläche durch die Wechselwirkungen der Elektronen mit dem Objekt."
   },
+  "notation": [
+    "D3BFFF"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G13A7B",
     "prefLabel": {

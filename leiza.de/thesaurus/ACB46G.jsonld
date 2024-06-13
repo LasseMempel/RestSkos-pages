@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Stachelschweinborste"
   },
+  "notation": [
+    "ACB46G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

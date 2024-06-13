@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Polyvinylbutyral"
   },
+  "notation": [
+    "B572B5"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

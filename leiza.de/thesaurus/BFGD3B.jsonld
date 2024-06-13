@@ -12,6 +12,9 @@
   "definition": {
     "de": "Die Objektoberfläche weist dicht nebeneinander liegende, flache Hohlräume/Grübchen auf. "
   },
+  "notation": [
+    "BFGD3B"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

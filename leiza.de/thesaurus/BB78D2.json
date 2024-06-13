@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "[Abformungsmaterialien]"
   },
+  "notation": [
+    "BB78D2"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A15D7G",

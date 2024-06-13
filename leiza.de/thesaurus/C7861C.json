@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt zeigt Schäden, die auf seine antike Herstellung zurück zu führen sind. "
   },
+  "notation": [
+    "C7861C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CC2F9C",
     "prefLabel": {

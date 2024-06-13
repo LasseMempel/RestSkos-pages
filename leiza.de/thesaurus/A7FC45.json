@@ -7,6 +7,9 @@
   "definition": {
     "de": "Durch abformen nachgebildetes Objekt eines Vorbildgegenstandes, welches u.A. zur Erforschung der Typologie, Oberflächeneigenschaften und/oder Farbgebung des Originals genutzt wird. "
   },
+  "notation": [
+    "A7FC45"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C11192",
     "prefLabel": {

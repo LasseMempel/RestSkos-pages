@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "[Methoden]"
   },
+  "notation": [
+    "D9CC3C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F8F7CF",
     "prefLabel": {

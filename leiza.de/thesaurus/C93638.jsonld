@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "[Werkzeuge]"
   },
+  "notation": [
+    "C93638"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/D941BB",

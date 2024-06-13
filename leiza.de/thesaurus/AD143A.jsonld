@@ -7,6 +7,9 @@
   "definition": {
     "de": "Klebemethode, bei der die einzelnen Fragmente/Teile nacheinander angefügt/geklebt werden und die ursprüngliche Form des Objektes nach und nach wieder aufgebaut wird. Bei Gefäßen wird i.d.R. vom Boden zum Rand aufsteigend gearbeitet.Â "
   },
+  "notation": [
+    "AD143A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A13CD1",
     "prefLabel": {

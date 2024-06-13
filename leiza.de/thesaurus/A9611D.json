@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Durchlichtmikroskop"
   },
+  "notation": [
+    "A9611D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FC2113",
     "prefLabel": {

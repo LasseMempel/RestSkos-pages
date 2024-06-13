@@ -12,6 +12,9 @@
   "definition": {
     "de": "Planung der strukturierten Vorgehensweise bei der praktischen Durchführung zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel. Basierend auf den Erkenntnissen der Zustandserfassung sowie unter Berücksichtigung der Risikobeurteilung und der Zeitplanung werden die geeignetsten Methoden und Techniken, die benötigten Materialien sowie Werkzeuge festgelegt. "
   },
+  "notation": [
+    "GDF23F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A18D95",
     "prefLabel": {

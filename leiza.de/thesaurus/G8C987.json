@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "UV-Lampe"
   },
+  "notation": [
+    "G8C987"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/AA6941",
     "prefLabel": {

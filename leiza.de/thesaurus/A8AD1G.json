@@ -13,6 +13,9 @@
   "definition": {
     "de": "Das Objekt zeigt Ablagerungen auf der Oberfläche, die die Gestaltung/Form des Objektes unkenntlich macht. "
   },
+  "notation": [
+    "A8AD1G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D3AGG6",
     "prefLabel": {

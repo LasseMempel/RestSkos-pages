@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt zeigt partielle farbliche Veränderungen der Oberfläche"
   },
+  "notation": [
+    "FDC65D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D3AGG6",
     "prefLabel": {

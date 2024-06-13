@@ -12,6 +12,9 @@
   "definition": {
     "de": "legierung mit Silber als Hauptbestandteil"
   },
+  "notation": [
+    "AD789F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FGA46A",
     "prefLabel": {

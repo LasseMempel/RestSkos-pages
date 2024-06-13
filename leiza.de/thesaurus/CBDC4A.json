@@ -7,6 +7,9 @@
   "definition": {
     "de": "Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt bzw. mit weniger Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden. "
   },
+  "notation": [
+    "CBDC4A"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/D152G6",

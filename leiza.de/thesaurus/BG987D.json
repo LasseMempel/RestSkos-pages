@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "schwitzendes Glas"
   },
+  "notation": [
+    "BG987D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BBF64G",
     "prefLabel": {

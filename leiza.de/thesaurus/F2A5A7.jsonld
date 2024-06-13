@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Haarriss"
   },
+  "notation": [
+    "F2A5A7"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GB33C3",
     "prefLabel": {

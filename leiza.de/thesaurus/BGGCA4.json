@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Verstärkungsfasern"
   },
+  "notation": [
+    "BGGCA4"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

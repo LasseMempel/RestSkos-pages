@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "[Material]"
   },
+  "notation": [
+    "D2GGAC"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G59852",
     "prefLabel": {

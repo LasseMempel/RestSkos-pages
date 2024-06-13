@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "synthetisches Polymer"
   },
+  "notation": [
+    "A1D125"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/D41661",

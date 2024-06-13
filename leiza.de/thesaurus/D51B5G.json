@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Negativmasse"
   },
+  "notation": [
+    "D51B5G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BB78D2",
     "prefLabel": {

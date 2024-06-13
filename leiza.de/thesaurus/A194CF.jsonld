@@ -15,6 +15,9 @@
   "definition": {
     "de": "Entfernung ungewollter Substanzen durch Durchfeuchtung/ Durchnässung des Objektes, z.B. durch Abspülen unter laufendem Wasser oder Eintauchen in eine Reinigungsflüssigkeit. "
   },
+  "notation": [
+    "A194CF"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CDD613",
     "prefLabel": {

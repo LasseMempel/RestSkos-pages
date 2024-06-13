@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Flächenkorrosion"
   },
+  "notation": [
+    "D68BAA"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G3D2F5",
     "prefLabel": {

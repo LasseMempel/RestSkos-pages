@@ -7,6 +7,9 @@
   "definition": {
     "de": "anorganischer, amorpher Silizium-Feststoff, der durch schnelles Abkühlen einer Schmelze erzeugt wird. Gläser bestehen in der Rege aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3))"
   },
+  "notation": [
+    "DA2D73"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GB6DF3",
     "prefLabel": {

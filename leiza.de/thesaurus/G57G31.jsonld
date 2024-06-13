@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Schimmelbefall"
   },
+  "notation": [
+    "G57G31"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BBF64G",
     "prefLabel": {

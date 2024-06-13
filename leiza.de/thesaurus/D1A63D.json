@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Putzholz"
   },
+  "notation": [
+    "D1A63D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

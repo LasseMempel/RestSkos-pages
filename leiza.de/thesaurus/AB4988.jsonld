@@ -12,6 +12,9 @@
   "definition": {
     "de": "Ein in verschiedenen Verfahren aus natürlichen oder synthetischen Fasern hergestelltes, räumliches Gebilde. "
   },
+  "notation": [
+    "AB4988"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CD3341",
     "prefLabel": {

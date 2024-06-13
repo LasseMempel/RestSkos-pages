@@ -7,6 +7,9 @@
   "definition": {
     "de": "Einzelne Entnahme des Objektes/einzelner Fragmente aus dem Boden"
   },
+  "notation": [
+    "FAG415"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C7C3B7",
     "prefLabel": {

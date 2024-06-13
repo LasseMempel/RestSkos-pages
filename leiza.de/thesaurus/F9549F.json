@@ -7,6 +7,9 @@
   "definition": {
     "de": "Auf Forschungsergebnissen basierender Nachbau, ohne aktuell extistierendes Vorbild."
   },
+  "notation": [
+    "F9549F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C11192",
     "prefLabel": {

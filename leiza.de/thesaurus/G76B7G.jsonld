@@ -12,6 +12,9 @@
   "definition": {
     "de": "Erläuterung und Auslegung der während der Untersuchung und Bearbeitung eines Objektes festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien"
   },
+  "notation": [
+    "G76B7G"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/CF3C22",

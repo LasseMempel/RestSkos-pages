@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "[Methode]"
   },
+  "notation": [
+    "B689B6"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G59852",
     "prefLabel": {

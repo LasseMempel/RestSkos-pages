@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Stereomikroskop"
   },
+  "notation": [
+    "A75779"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FC2113",
     "prefLabel": {

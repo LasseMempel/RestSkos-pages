@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Verstärkungsmaterial"
   },
+  "notation": [
+    "C369CB"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BB78D2",
     "prefLabel": {

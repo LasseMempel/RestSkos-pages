@@ -13,6 +13,9 @@
   "definition": {
     "de": "Dokumentation der durchgeführten Untersuchungsmethoden, deren Ergebnisse sowie die Einschätzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt"
   },
+  "notation": [
+    "D3AF3A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C8CG15",
     "prefLabel": {

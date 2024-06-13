@@ -12,6 +12,9 @@
   "definition": {
     "de": "Gruppe chemischer Elemente"
   },
+  "notation": [
+    "B5DD1A"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/BBF566",

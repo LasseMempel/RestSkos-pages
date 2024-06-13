@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Digitalmikroskop"
   },
+  "notation": [
+    "AG4G3C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/B538AG",
     "prefLabel": {

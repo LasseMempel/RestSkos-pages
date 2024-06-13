@@ -13,6 +13,9 @@
   "definition": {
     "de": "Für die Beschädigung/den Abbau als ursächlich angesehene negative Beeinträchtigung eines Objektes"
   },
+  "notation": [
+    "F964CG"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A889A3",

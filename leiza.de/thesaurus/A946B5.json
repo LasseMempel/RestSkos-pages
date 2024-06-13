@@ -7,6 +7,9 @@
   "definition": {
     "de": "Analyse des Objektwerkstoffes mit Hilfe von chemischen Reagenzien "
   },
+  "notation": [
+    "A946B5"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/DAA4F8",

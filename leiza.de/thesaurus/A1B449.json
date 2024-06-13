@@ -7,6 +7,9 @@
   "definition": {
     "de": "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff, indem fließendes Wasser kontinuierlich über das Objekt geleitet wird."
   },
+  "notation": [
+    "A1B449"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C6A532",
     "prefLabel": {

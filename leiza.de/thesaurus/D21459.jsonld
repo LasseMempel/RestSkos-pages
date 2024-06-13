@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Kühlschrank"
   },
+  "notation": [
+    "D21459"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A8ABBA",
     "prefLabel": {

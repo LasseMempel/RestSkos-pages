@@ -9,6 +9,9 @@
       "LA-ICP-MS"
     ]
   },
+  "notation": [
+    "BFGB1A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G9B788",
     "prefLabel": {

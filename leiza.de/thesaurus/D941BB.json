@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "[manuelle Werkzeuge]"
   },
+  "notation": [
+    "D941BB"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A341F9",

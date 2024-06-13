@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf."
   },
+  "notation": [
+    "G41GC6"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/AG4397",
     "prefLabel": {

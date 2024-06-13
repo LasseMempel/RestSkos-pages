@@ -7,6 +7,9 @@
   "definition": {
     "de": "Kupferlegierung mit Zink als zweiter Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen."
   },
+  "notation": [
+    "A8B271"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FGB415",
     "prefLabel": {

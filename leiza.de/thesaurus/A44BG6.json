@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Einbettmasse"
   },
+  "notation": [
+    "A44BG6"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BB78D2",
     "prefLabel": {

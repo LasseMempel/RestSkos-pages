@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Metallfräser"
   },
+  "notation": [
+    "CDF423"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D8G747",
     "prefLabel": {

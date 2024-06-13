@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Radiergummi"
   },
+  "notation": [
+    "F91CBB"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

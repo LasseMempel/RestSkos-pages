@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Gesundheitsschutz"
   },
+  "notation": [
+    "CD5C3F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/DAB4B7",
     "prefLabel": {

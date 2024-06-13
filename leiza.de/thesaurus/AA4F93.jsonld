@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Textil"
   },
+  "notation": [
+    "AA4F93"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

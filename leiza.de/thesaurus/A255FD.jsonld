@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Materialgefüge/der Porenraum des Objektes ist vollständig mit Wasser gesättigt."
   },
+  "notation": [
+    "A255FD"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/AG4397",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Celluloseether"
   },
+  "notation": [
+    "A44D5F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D41661",
     "prefLabel": {

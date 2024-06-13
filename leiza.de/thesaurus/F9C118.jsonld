@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Lochfraßkorrosion"
   },
+  "notation": [
+    "F9C118"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G3D2F5",
     "prefLabel": {

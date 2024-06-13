@@ -7,6 +7,9 @@
   "definition": {
     "de": "Ganz Schollen oder Stücke haben sich vollständig von der Objektoberfläche gelöst und sind entweder komplett verloren oder liegen getrennt von dem Objekt. "
   },
+  "notation": [
+    "D2364A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

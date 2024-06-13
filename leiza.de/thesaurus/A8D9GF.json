@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Objekt zeigt eine oder mehrere bruchlose Veränderung(en) seiner ursprünglichen Form oder Abmessung."
   },
+  "notation": [
+    "A8D9GF"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/ABB9FA",

@@ -7,6 +7,9 @@
   "definition": {
     "de": "struktureller Sammelbegriff für die bei der Nachbildungstätigkeit entstehenden Objekte"
   },
+  "notation": [
+    "C11192"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A7FC45",

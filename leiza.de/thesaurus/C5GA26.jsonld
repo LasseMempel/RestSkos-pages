@@ -7,6 +7,9 @@
   "definition": {
     "de": "Objekt, welches nach Vorbild eines von einer anderen Person angefertigten Originals hergestellt wurde, ohne das dieses Original im Vorfeld abgeformt wurde"
   },
+  "notation": [
+    "C5GA26"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C11192",
     "prefLabel": {

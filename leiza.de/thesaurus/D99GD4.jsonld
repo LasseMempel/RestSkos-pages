@@ -7,6 +7,9 @@
   "definition": {
     "de": "Durch die mechanische Einwirkung scharfer Kanten ist ein Materialverlust an der Objektoberfläche festzustellen."
   },
+  "notation": [
+    "D99GD4"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C188DA",
     "prefLabel": {

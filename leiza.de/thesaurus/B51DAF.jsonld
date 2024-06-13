@@ -13,6 +13,9 @@
   "definition": {
     "de": "Material aus dem das Objekt besteht."
   },
+  "notation": [
+    "B51DAF"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/GB6DF3",

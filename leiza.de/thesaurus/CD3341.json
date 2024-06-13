@@ -12,6 +12,9 @@
   "definition": {
     "de": "Allgemeiner Sammelbegriff für natürlich von Organismen gebildete Stoffe meist tierisch- oder pflanzlichen Ursprungs. Werden durch biologische Mechanismen im Boden abgebaut, wodurch archäologische Objekte aus organischen Materialien nur unter besonderen Bedingungen, die deren fortschreitende Zersetzung verlangsamen oder verhindern, erhalten bleiben. "
   },
+  "notation": [
+    "CD3341"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A9A858",

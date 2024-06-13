@@ -7,6 +7,9 @@
   "definition": {
     "de": "Fest an der Oberfläche des Objektes anhaftende und verhärtete Ansammlung von Fremdsubstanz"
   },
+  "notation": [
+    "A14228"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A889A3",
     "prefLabel": {

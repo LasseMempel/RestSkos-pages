@@ -12,6 +12,9 @@
   "definition": {
     "de": "Bildung/Vorhandensein einer anhaftenden Schicht auf der Oberfläche des Objektes."
   },
+  "notation": [
+    "BBF64G"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/ADA625",

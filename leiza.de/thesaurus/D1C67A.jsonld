@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Metallschaber"
   },
+  "notation": [
+    "D1C67A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

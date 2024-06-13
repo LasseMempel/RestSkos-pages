@@ -12,6 +12,9 @@
   "definition": {
     "de": "Zwei oder mehr Teile des Objektes weisen eine Lücke zueinander auf."
   },
+  "notation": [
+    "G84156"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Risikomanagment"
   },
+  "notation": [
+    "F285B2"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F5G576",
     "prefLabel": {

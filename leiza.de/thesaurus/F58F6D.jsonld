@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "3D-Scan"
   },
+  "notation": [
+    "F58F6D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G13A7B",
     "prefLabel": {

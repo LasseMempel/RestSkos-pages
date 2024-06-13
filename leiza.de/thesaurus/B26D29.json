@@ -7,6 +7,9 @@
   "definition": {
     "de": "zeitlich begrenzte, nicht dauerhafte Unterstützung eines fragilen Materials"
   },
+  "notation": [
+    "B26D29"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/DA9CGG",
     "prefLabel": {

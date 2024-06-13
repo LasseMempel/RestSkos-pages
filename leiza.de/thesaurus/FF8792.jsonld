@@ -12,6 +12,9 @@
   "definition": {
     "de": "Entfernung ungewollter Substanzen ohne Verwendung von Flüssigkeiten"
   },
+  "notation": [
+    "FF8792"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CDD613",
     "prefLabel": {

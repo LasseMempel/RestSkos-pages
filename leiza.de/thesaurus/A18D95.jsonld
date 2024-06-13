@@ -7,6 +7,9 @@
   "definition": {
     "de": "Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabschätzung, basierend auf den Ergebnissen der Zustandserfassung."
   },
+  "notation": [
+    "A18D95"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/AC1786",

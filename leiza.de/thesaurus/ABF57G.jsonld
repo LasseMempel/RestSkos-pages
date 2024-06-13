@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Diamantschleifkörper"
   },
+  "notation": [
+    "ABF57G"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D8G747",
     "prefLabel": {

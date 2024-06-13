@@ -7,6 +7,9 @@
   "definition": {
     "de": "Betrachtung und Einschätzung des optischen Erscheinungsbildes/Zustandes des Objektes mit dem menschlichen Auge"
   },
+  "notation": [
+    "CA7279"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/B53C8F",

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Polarisationsmikroskop"
   },
+  "notation": [
+    "A7FA3B"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FC2113",
     "prefLabel": {

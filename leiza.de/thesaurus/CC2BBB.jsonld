@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Pinsel"
   },
+  "notation": [
+    "CC2BBB"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

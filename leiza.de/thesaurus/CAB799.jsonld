@@ -12,6 +12,9 @@
   "definition": {
     "de": "Ausmaß an materieller Ganzheitlichkeit eines Objektes. "
   },
+  "notation": [
+    "CAB799"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GDF8C2",
     "prefLabel": {

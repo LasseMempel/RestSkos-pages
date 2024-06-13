@@ -7,6 +7,9 @@
   "definition": {
     "de": "Durch chemische Reaktion des Materials mit seiner Umgebung verursachter Schaden"
   },
+  "notation": [
+    "D16G86"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

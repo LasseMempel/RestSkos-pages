@@ -7,6 +7,9 @@
   "definition": {
     "de": "Begutachtung eines Objektes mit dem menschlichen Auge ohne technische Hilfmittel"
   },
+  "notation": [
+    "F9GC9A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CA7279",
     "prefLabel": {

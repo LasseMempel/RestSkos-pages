@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Wattestäbchen"
   },
+  "notation": [
+    "D84847"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

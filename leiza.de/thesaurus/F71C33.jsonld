@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Skalpell"
   },
+  "notation": [
+    "F71C33"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {

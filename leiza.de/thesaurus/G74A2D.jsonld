@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das vormals fest gefügte Material weist eine Teilung ohne vollständiges Auseinanderbrechen des Objektes auf. "
   },
+  "notation": [
+    "G74A2D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

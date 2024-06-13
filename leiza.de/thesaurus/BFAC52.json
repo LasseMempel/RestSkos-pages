@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Tiefenriss"
   },
+  "notation": [
+    "BFAC52"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GB33C3",
     "prefLabel": {

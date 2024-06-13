@@ -12,6 +12,9 @@
   "definition": {
     "de": "Methode, bei der ein fragiles Objekt durch das Hinterlegen mit einem Gewebe (z.B. Glasfaser, Japanpapier, etc.) stabilisiert wird. Durch Tränkung des Gewebes mit einer Polymerlösung entsteht ein stabiles Laminat, das fest mit dem Objektmaterial verbunden ist und dieses bei mechanischer Einwirkung unterstützt."
   },
+  "notation": [
+    "C7427F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A31C7C",
     "prefLabel": {

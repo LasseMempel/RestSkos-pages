@@ -12,6 +12,9 @@
   "definition": {
     "de": "Durch einen Brand bzw. den Kontakt zu Feuer/Hitze herbeigeführte Schäden an einem Objekt"
   },
+  "notation": [
+    "D171FF"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

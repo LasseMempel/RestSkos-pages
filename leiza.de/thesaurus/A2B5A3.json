@@ -12,6 +12,9 @@
   "definition": {
     "de": "Bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. "
   },
+  "notation": [
+    "A2B5A3"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FB231A",
     "prefLabel": {

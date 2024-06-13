@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Spannungsrisskorrosion"
   },
+  "notation": [
+    "BFDB22"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G3D2F5",
     "prefLabel": {

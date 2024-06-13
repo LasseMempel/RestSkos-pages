@@ -12,6 +12,9 @@
   "definition": {
     "de": "Methode zur Entfernung von durch die Bodenlagerung in ein Objekt/Material eingedrungenen Salzen"
   },
+  "notation": [
+    "C6A532"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A1B449",

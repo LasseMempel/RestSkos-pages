@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt ist in ein oder mehrere Teile auseinandergefallen. Je nach Feinheitsgrad der entstandenen Fragmente, kann der Begriff weiter spezifiziert werden. "
   },
+  "notation": [
+    "F6CG68"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

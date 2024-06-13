@@ -7,6 +7,9 @@
   "definition": {
     "de": "Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips). "
   },
+  "notation": [
+    "DAA82A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CBDC4A",
     "prefLabel": {

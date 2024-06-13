@@ -12,6 +12,9 @@
   "definition": {
     "de": "Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung hauptsächlich als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde"
   },
+  "notation": [
+    "A82D86"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/FGB415",

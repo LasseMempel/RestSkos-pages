@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Komplexbildner"
   },
+  "notation": [
+    "F87124"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

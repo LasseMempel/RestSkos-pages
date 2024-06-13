@@ -7,6 +7,9 @@
   "definition": {
     "de": "Schaden, der durch einen Transport des Objektes verursacht wurde."
   },
+  "notation": [
+    "DD3A3D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

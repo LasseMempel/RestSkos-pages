@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Spot-Test"
   },
+  "notation": [
+    "F66444"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A946B5",
     "prefLabel": {

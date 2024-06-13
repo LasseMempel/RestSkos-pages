@@ -7,6 +7,9 @@
   "definition": {
     "de": "Per Hand ausgeführte Freilegung der originalen Oberfläche ohne Verwendung elektrischer Geräte"
   },
+  "notation": [
+    "G3GB59"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G814D2",
     "prefLabel": {

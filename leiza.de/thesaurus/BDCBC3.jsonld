@@ -7,6 +7,9 @@
   "definition": {
     "de": "Ausbesserung von Fehlstellen einer Kunstharz- oder Galvanokopie nach Vorbild eines originalen Objektes. "
   },
+  "notation": [
+    "BDCBC3"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FA2332",
     "prefLabel": {

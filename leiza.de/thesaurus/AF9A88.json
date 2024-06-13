@@ -12,6 +12,9 @@
   "definition": {
     "de": "Bildgebendes Verfahren bei dem das Objekt aus mehreren Richtungen mit Röntgenstrahlen durchleuchtet wird. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert. Durch die verschiedenen Richtungen, aus denen die Röntgenstrahlen durch das Objekt treten, entstehen mehrere Absorptionsprofile. Diese werden nach Abschluss der Aufnahmen mit Hilfe des Computers zu digitalen Schnittbildern zusammengerechnet. In dem mehrere angrenzende Schnittbilder zusammengesetzt und die Volumengrafiken errechnet werden, lassen sich dreidimnesionale Darstellungen der inneren Struktur des untersuchten Objektes erzeugen. "
   },
+  "notation": [
+    "AF9A88"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FB231A",
     "prefLabel": {

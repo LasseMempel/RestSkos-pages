@@ -7,6 +7,9 @@
   "definition": {
     "de": "chemisches Element, weiß-bläuliches Metall, Kommt seltenen in gediegener Form, gebunden in Erzen jedoch recht häufig auf der Erse vor. In der Antike wurde es vor allem als Legierungsbestandteil, erst später auch in reiner Form oder als Beschichtung verarbeitet. In oxidischer Form ist Zink unter anderem auch in Pigmenten enthalten."
   },
+  "notation": [
+    "G8AG1C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A82D86",
     "prefLabel": {

@@ -7,6 +7,9 @@
   "definition": {
     "de": "strukturierender Sammelbegriff für sämtliche zur Konservierung und/oder Restaurierung eines Objektes verwendeter (Verbrauchs-)Materialien"
   },
+  "notation": [
+    "C364G1"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A2B746",

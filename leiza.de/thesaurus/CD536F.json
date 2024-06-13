@@ -7,6 +7,9 @@
   "definition": {
     "de": "Konservierungsmethode, bei der der Werkstoff eines Objektes nur in gezielten Bereichen durch das Einbringen eines sich in Lösung befindlichen Polymers stabilisiert wird. Dies kann z.B. durch lokalen Auftrag der Polymerlösung mit einem Pinsel erfolgen."
   },
+  "notation": [
+    "CD536F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A9FF5A",
     "prefLabel": {

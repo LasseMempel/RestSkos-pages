@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Ringkorrosion"
   },
+  "notation": [
+    "B69747"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G3D2F5",
     "prefLabel": {

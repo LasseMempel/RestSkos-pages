@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "[Untersuchungsmethode]"
   },
+  "notation": [
+    "D4A13D"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/G9B788",

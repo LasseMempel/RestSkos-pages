@@ -7,6 +7,9 @@
   "definition": {
     "de": "Die vormals glänzende Oberfläche eines Objektes geht zunehmend in ein mattes Erscheinungsbild über."
   },
+  "notation": [
+    "GA2C4A"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D3AGG6",
     "prefLabel": {

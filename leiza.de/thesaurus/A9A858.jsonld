@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Nassholz"
   },
+  "notation": [
+    "A9A858"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CD3341",
     "prefLabel": {

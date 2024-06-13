@@ -12,6 +12,9 @@
   "definition": {
     "de": "chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. "
   },
+  "notation": [
+    "F71C6B"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/BBF566",
     "prefLabel": {

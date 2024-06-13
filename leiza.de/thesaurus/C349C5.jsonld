@@ -7,6 +7,9 @@
   "definition": {
     "de": "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch die Auflage von feuchtigkeitsgetränktem Kompressenmaterial. Durch ein Feuchte- und/oder Konzentrationsgefälle zwischen Objekt und Kompresse werden die Salze durch Diffusion und den Kapillareffekt aus dem Objektmaterial in die Kompresse gezogen. "
   },
+  "notation": [
+    "C349C5"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C6A532",
     "prefLabel": {

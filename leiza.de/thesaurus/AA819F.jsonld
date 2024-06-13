@@ -7,6 +7,9 @@
   "definition": {
     "de": "Licht- bzw. Beleuchtungsinduzierte Beschädigung des Objektes"
   },
+  "notation": [
+    "AA819F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

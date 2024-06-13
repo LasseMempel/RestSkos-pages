@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt weist eine in sich (gegeneinander) verschobene, unebene Fläche bzw. Form auf. Verwerfungen gehen häufig mit Brüchen einher."
   },
+  "notation": [
+    "FC4DGB"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A8D9GF",
     "prefLabel": {

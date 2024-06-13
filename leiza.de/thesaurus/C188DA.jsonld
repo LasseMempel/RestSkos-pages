@@ -7,6 +7,9 @@
   "definition": {
     "de": "Teile des Objektes sind verloren gegangen"
   },
+  "notation": [
+    "C188DA"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/A8588A",

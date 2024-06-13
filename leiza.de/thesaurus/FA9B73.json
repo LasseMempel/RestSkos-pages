@@ -12,6 +12,9 @@
   "definition": {
     "de": "Das Materialgefüge des Objektes weist eine Ablösung in mehr oder weniger klar definierten Schichten auf. "
   },
+  "notation": [
+    "FA9B73"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CB9GD3",
     "prefLabel": {

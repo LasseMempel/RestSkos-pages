@@ -7,6 +7,9 @@
   "definition": {
     "de": "chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann"
   },
+  "notation": [
+    "FGF575"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

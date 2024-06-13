@@ -12,6 +12,9 @@
   "definition": {
     "de": "strukturierender Sammelbegriff für die Benennung der bei der Objektuntersuchung festgestellten Beobachtungen und Auswertungen hinsichtlich der Gesamtbeschaffenheit des Objektes und dessen Ursache"
   },
+  "notation": [
+    "BC5B57"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/F964CG",

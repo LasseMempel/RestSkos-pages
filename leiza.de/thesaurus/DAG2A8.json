@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Abformung"
   },
+  "notation": [
+    "DAG2A8"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/G52378",

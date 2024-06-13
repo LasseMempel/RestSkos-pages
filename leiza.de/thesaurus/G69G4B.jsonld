@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "monokular Mikroskop"
   },
+  "notation": [
+    "G69G4B"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/FC2113",
     "prefLabel": {

@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt zeigt eine teilweise oder ganzheitliche Trübung der Oberfläche"
   },
+  "notation": [
+    "D8CBG2"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D3AGG6",
     "prefLabel": {

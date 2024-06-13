@@ -7,6 +7,9 @@
   "definition": {
     "de": "Dokumentation der technologischen Auswertung"
   },
+  "notation": [
+    "BAA258"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C8CG15",
     "prefLabel": {

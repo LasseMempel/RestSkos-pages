@@ -7,6 +7,9 @@
   "definition": {
     "de": "Ohne direkte Abformung angefertigte Nachbildung oder Wiedergabe eines originalen Objektes, das von einer anderen Person angefertigt wurde."
   },
+  "notation": [
+    "G59852"
+  ],
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/B689B6",

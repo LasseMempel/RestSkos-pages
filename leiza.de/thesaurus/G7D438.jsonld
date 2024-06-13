@@ -7,6 +7,9 @@
   "definition": {
     "de": "Das Objekt weist eine gewölbte Oberfläche bzw. mehrere oberflächliche Wölbungen mit Hohlraum darunter auf. Der Hohlraum kann Gas, Flüssigkeit und/oder feste Stoffe enthalten."
   },
+  "notation": [
+    "G7D438"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/B224CD",
     "prefLabel": {

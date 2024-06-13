@@ -12,6 +12,9 @@
   "definition": {
     "de": "Durch Einwirkung von biologischen Organismen (Pflanzen, Tieren, Mikroorganismen) auf oder in einem Objekt verursachte Beschädigung"
   },
+  "notation": [
+    "G1GA5F"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {

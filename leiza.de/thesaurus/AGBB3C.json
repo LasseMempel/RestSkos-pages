@@ -7,6 +7,9 @@
   "definition": {
     "de": "Fähigkeit des Objektmaterials mechanischen Widerstand gegen eine plastische Verformung oder Trennung zu leisten"
   },
+  "notation": [
+    "AGBB3C"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GDF8C2",
     "prefLabel": {

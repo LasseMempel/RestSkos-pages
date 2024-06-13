@@ -7,6 +7,9 @@
   "definition": {
     "de": "Beschädigung, die durch den Umgang mit dem Objekt bei der Ausgrabung entstanden ist. "
   },
+  "notation": [
+    "GBDG4D"
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F964CG",
     "prefLabel": {
