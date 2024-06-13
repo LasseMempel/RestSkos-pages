@@ -4,7 +4,6 @@
 
 <http://leiza.de/thesaurus/A11ACA> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GB6DF3> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300235507|http://www.wikidata.org/entity/Q45621|https://cameo.mfa.org/wiki/Ceramic" ;
     skos:definition "anorganischer, nicht-metallischer, durch das Brennen von Ton hergestellter Werkstoff"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "A11ACA" ;
@@ -33,8 +32,7 @@
     skos:definition "Entfernung ungewollter Substanzen durch Durchfeuchtung/ Durchnässung des Objektes, z.B. durch Abspülen unter laufendem Wasser oder Eintauchen in eine Reinigungsflüssigkeit. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "A194CF" ;
-    skos:prefLabel "Waschung"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300053042" .
+    skos:prefLabel "Waschung"@de .
 
 <http://leiza.de/thesaurus/A1B449> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C6A532> ;
@@ -54,7 +52,6 @@
 <http://leiza.de/thesaurus/A255FD> a skos:Concept ;
     skos:altLabel "Wassergesättigt"@de ;
     skos:broader <http://leiza.de/thesaurus/AG4397> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300228711" ;
     skos:definition "Das Materialgefüge/der Porenraum des Objektes ist vollständig mit Wasser gesättigt."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "A255FD" ;
@@ -63,7 +60,6 @@
 <http://leiza.de/thesaurus/A2B746> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q11193" ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300237910|https://cameo.mfa.org/wiki/Alkali" ;
     skos:definition "chemische Substanz, die in wässriger Lösung ein Proton aufnehmen oder ein freies Elektronenpaar abspalten kann."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "A2B746" ;
@@ -179,7 +175,6 @@
 <http://leiza.de/thesaurus/A8B271> a skos:Concept ;
     dc:source "https://cameo.mfa.org/wiki/Brass" ;
     skos:broader <http://leiza.de/thesaurus/FGB415> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q39782|http://vocab.getty.edu/page/aat/300010946" ;
     skos:definition "Kupferlegierung mit Zink als zweiter Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "A8B271" ;
@@ -263,7 +258,6 @@
     dc:source "https://www.wikidata.org/wiki/Q28823" ;
     skos:altLabel "Stoff"@de ;
     skos:broader <http://leiza.de/thesaurus/CD3341> ;
-    skos:closeMatch "https://cameo.mfa.org/wiki/Textile" ;
     skos:definition "Ein in verschiedenen Verfahren aus natürlichen oder synthetischen Fasern hergestelltes, räumliches Gebilde. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "AB4988" ;
@@ -373,7 +367,6 @@
 
 <http://leiza.de/thesaurus/AG4G3C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/B538AG> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300444116" ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "AG4G3C" ;
     skos:prefLabel "Digitalmikroskop"@de .
@@ -403,7 +396,6 @@
     skos:altLabel "Cu"@de,
         "reines Kupfer"@de ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300011020|https://www.wikidata.org/wiki/Q753|http://d-nb.info/gnd/4033734-0" ;
     skos:definition "chemisches Elemten, rot-bräunliches Metall. Auch als \"Halbedelmetall\" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "B28FA6" ;
@@ -432,7 +424,6 @@
 <http://leiza.de/thesaurus/B3FCA1> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q216830" ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300380032" ;
     skos:definition "chemische Substanz, die Elektronen abgeben und somit andere Substanzen reduzieren kann (Redoxreaktion)"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "B3FCA1" ;
@@ -554,12 +545,10 @@
     skos:altLabel "Bronzen"@de,
         "Zinnbronze"@de ;
     skos:broader <http://leiza.de/thesaurus/FGB415> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300010957" ;
     skos:definition "Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "BF7D14" ;
-    skos:prefLabel "Bronze"@de ;
-    skos:relatedMatch "https://www.wikidata.org/wiki/Q34095" .
+    skos:prefLabel "Bronze"@de .
 
 <http://leiza.de/thesaurus/BFAC52> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GB33C3> ;
@@ -584,7 +573,6 @@
     dc:source "https://www.wikidata.org/wiki/Q126324928" ;
     skos:altLabel "Grübchenbildung"@de ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300054130" ;
     skos:definition "Die Objektoberfläche weist dicht nebeneinander liegende, flache Hohlräume/Grübchen auf. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "BFGD3B" ;
@@ -781,7 +769,6 @@
 <http://leiza.de/thesaurus/CAB799> a skos:Concept ;
     skos:altLabel "Integrität"@de ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300419305" ;
     skos:definition "Ausmaß an materieller Ganzheitlichkeit eines Objektes. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "CAB799" ;
@@ -816,8 +803,7 @@
     skos:broader <http://leiza.de/thesaurus/A18D95> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "CDD6B5" ;
-    skos:prefLabel "Risikobeurteilung"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300263660" .
+    skos:prefLabel "Risikobeurteilung"@de .
 
 <http://leiza.de/thesaurus/CDF423> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D8G747> ;
@@ -928,7 +914,6 @@
     skos:altLabel "Zustandsbeschreibung"@de,
         "Zustandsdocumentation"@de ;
     skos:broader <http://leiza.de/thesaurus/C8CG15> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300435425| http://vocab.getty.edu/page/aat/300266009| http://terminology.lido-schema.org/lido00268" ;
     skos:definition "Dokumentation der durchgeführten Untersuchungsmethoden, deren Ergebnisse sowie die Einschätzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "D3AF3A" ;
@@ -987,7 +972,6 @@
 <http://leiza.de/thesaurus/D73F9B> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q286" ;
     skos:broader <http://leiza.de/thesaurus/CD3341> ;
-    skos:closeMatch "https://cameo.mfa.org/wiki/Leather|http://vocab.getty.edu/page/aat/300011845" ;
     skos:definition "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut.  "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "D73F9B" ;
@@ -1018,12 +1002,10 @@
     skos:altLabel "Mineral"@de,
         "Stein"@de ;
     skos:broader <http://leiza.de/thesaurus/GB6DF3> ;
-    skos:closeMatch "https://cameo.mfa.org/wiki/Stone|https://www.wikidata.org/wiki/Q8063|https://cameo.mfa.org/wiki/Rock" ;
     skos:definition "mehr oder weniger verfestigter Werkstoff aus mikroskopisch heterogenen Gemischen von Mineralen, Gesteinsbruchstücken, organischen und/oder anorganischen Ausscheidungen und Wasser (Kristallwasser). Hauptgemengeteile bilden Minerale wie Silikate (Feldspat, Quarz, Glimmer, etc.) und Karbonate (Calcit, Dolomit, etc.)."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "D866AD" ;
-    skos:prefLabel "Gestein"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300011176" .
+    skos:prefLabel "Gestein"@de .
 
 <http://leiza.de/thesaurus/D8CBG2> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q126324928" ;
@@ -1075,12 +1057,10 @@
 <http://leiza.de/thesaurus/DA2D73> a skos:Concept ;
     dc:source "https://cameo.mfa.org/wiki/Glass" ;
     skos:broader <http://leiza.de/thesaurus/GB6DF3> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300010797" ;
     skos:definition "anorganischer, amorpher Silizium-Feststoff, der durch schnelles Abkühlen einer Schmelze erzeugt wird. Gläser bestehen in der Rege aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3))"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "DA2D73" ;
-    skos:prefLabel "Glas"@de ;
-    skos:relatedMatch "https://www.wikidata.org/wiki/Q11469" .
+    skos:prefLabel "Glas"@de .
 
 <http://leiza.de/thesaurus/DA4158> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A18D95> ;
@@ -1368,8 +1348,7 @@
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "FCB7A5" ;
-    skos:prefLabel "Röntgenfluoresezenzanalyse"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300224161" .
+    skos:prefLabel "Röntgenfluoresezenzanalyse"@de .
 
 <http://leiza.de/thesaurus/FDB9F5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AG4397> ;
@@ -1397,7 +1376,6 @@
 <http://leiza.de/thesaurus/FF8792> a skos:Concept ;
     skos:altLabel "trockene Reinigung"@de ;
     skos:broader <http://leiza.de/thesaurus/CDD613> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300219637" ;
     skos:definition "Entfernung ungewollter Substanzen ohne Verwendung von Flüssigkeiten"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "FF8792" ;
@@ -1412,7 +1390,6 @@
 <http://leiza.de/thesaurus/FGF575> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q11158" ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300011752|https://cameo.mfa.org/wiki/Acid" ;
     skos:definition "chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "FGF575" ;
@@ -1459,7 +1436,6 @@
 
 <http://leiza.de/thesaurus/G41GC6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AG4397> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300195439" ;
     skos:definition "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "G41GC6" ;
@@ -1518,7 +1494,6 @@
 <http://leiza.de/thesaurus/G78BD6> a skos:Concept ;
     dc:source "https://de.wikipedia.org/wiki/Zinn" ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300133748| https://www.wikidata.org/wiki/Q1096| https://cameo.mfa.org/wiki/Tin" ;
     skos:definition "Chemisches Elemtent, silberweißes, sehr weiches Metall. Gehört zur Gruppe der Schwermetalle. Wurde in der Antike hauptsächlich als Legierungsbestandteil von (Zinn-)Bronze, später auch als reines Metall (v.a. für Geschirr und kleinere Kultobjekte), Beschichtungen und Lote verwendet."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "G78BD6" ;
@@ -1563,7 +1538,6 @@
 <http://leiza.de/thesaurus/G8AG1C> a skos:Concept ;
     dc:source "https://cameo.mfa.org/wiki/Zinc" ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300011037| https://www.wikidata.org/wiki/Q758" ;
     skos:definition "chemisches Element, weiß-bläuliches Metall, Kommt seltenen in gediegener Form, gebunden in Erzen jedoch recht häufig auf der Erse vor. In der Antike wurde es vor allem als Legierungsbestandteil, erst später auch in reiner Form oder als Beschichtung verarbeitet. In oxidischer Form ist Zink unter anderem auch in Pigmenten enthalten."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "G8AG1C" ;
@@ -1587,7 +1561,6 @@
 <http://leiza.de/thesaurus/G992B6> a skos:Concept ;
     dc:source "https://cameo.mfa.org/wiki/Lead" ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q708|http://vocab.getty.edu/page/aat/300011022" ;
     skos:definition "Chemisches Element, silber-gräuliches, weiches Metall. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Kommt in der Natur seltener in gediegener Form vor. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glazuren sowie Legierungen mit anderen Metallen verwendet."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "G992B6" ;
@@ -1684,8 +1657,7 @@
     skos:definition "Planung der strukturierten Vorgehensweise bei der praktischen Durchführung zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel. Basierend auf den Erkenntnissen der Zustandserfassung sowie unter Berücksichtigung der Risikobeurteilung und der Zeitplanung werden die geeignetsten Methoden und Techniken, die benötigten Materialien sowie Werkzeuge festgelegt. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "GDF23F" ;
-    skos:prefLabel "Methodik"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300054676" .
+    skos:prefLabel "Methodik"@de .
 
 <http://leiza.de/thesaurus/GF41DG> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G98FD4> ;
@@ -1729,7 +1701,6 @@
 <http://leiza.de/thesaurus/AD789F> a skos:Concept ;
     skos:altLabel "Silberlegierungen"@de ;
     skos:broader <http://leiza.de/thesaurus/FGA46A> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q52895784|http://vocab.getty.edu/page/aat/300010975| http://d-nb.info/gnd/4181330-3" ;
     skos:definition "legierung mit Silber als Hauptbestandteil"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "AD789F" ;
@@ -1750,7 +1721,6 @@
     dc:source "https://de.wikipedia.org/wiki/Rasterelektronenmikroskop" ;
     skos:altLabel "REM"@de ;
     skos:broader <http://leiza.de/thesaurus/B538AG> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300024596" ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "B764C6" ;
     skos:prefLabel "Rasterelektronenmikroskop"@de ;
@@ -1758,7 +1728,6 @@
 
 <http://leiza.de/thesaurus/BC75G1> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300010904|http://d-nb.info/gnd/4014081-7" ;
     skos:definition "Legierung mit Eisen als Hauptbestandteil. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "BC75G1" ;
@@ -1778,7 +1747,6 @@
 <http://leiza.de/thesaurus/DC5B2B> a skos:Concept ;
     skos:altLabel "Goldlegierungen"@de ;
     skos:broader <http://leiza.de/thesaurus/FGA46A> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q37136268 |http://vocab.getty.edu/page/aat/300010963 |http://d-nb.info/gnd/4157867-3 " ;
     skos:definition "Legierung mit Gold als Hauptbestandteil"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "DC5B2B" ;
@@ -1789,7 +1757,6 @@
     dc:source "https://de.wikipedia.org/wiki/Computertomografie" ;
     skos:altLabel "CT"@de ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
-    skos:closeMatch "https://d-nb.info/gnd/4113240-3" ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "DG6841" ;
     skos:prefLabel "Computertomograph"@de ;
@@ -1797,7 +1764,6 @@
 
 <http://leiza.de/thesaurus/F135A8> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FGA46A> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q1090 | http://vocab.getty.edu/page/aat/300011029 | http://d-nb.info/gnd/4133759-1 " ;
     skos:definition "chemisches Element, hellgraues, weiches Metall. Kommt in der Natur sowohl gediegen, als auch in Form von Mineralen vor. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "F135A8" ;
@@ -1808,7 +1774,6 @@
     dc:source "https://cameo.mfa.org/wiki/Iron" ;
     skos:altLabel "Fe"@de ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q677|http://vocab.getty.edu/page/aat/300011002|http://d-nb.info/gnd/4014002-7" ;
     skos:definition "chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "F71C6B" ;
@@ -1817,7 +1782,6 @@
 
 <http://leiza.de/thesaurus/FD5149> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FGA46A> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q897|https://cameo.mfa.org/wiki/Gold|http://vocab.getty.edu/page/aat/300011021 | http://d-nb.info/gnd/4157819-3 " ;
     skos:definition "chemisches Element, gelbliches Edelmetall. Kommt in der Natur überwiegend gediegen vor."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "FD5149" ;
@@ -1870,7 +1834,6 @@
 <http://leiza.de/thesaurus/B5DD1A> a skos:Concept ;
     skos:altLabel "Metalle"@de ;
     skos:broader <http://leiza.de/thesaurus/B51DAF> ;
-    skos:closeMatch "http://www.wikidata.org/entity/Q11426 |http://vocab.getty.edu/page/aat/300010900 |https://cameo.mfa.org/wiki/Metal| https://d-nb.info/gnd/4038860-8 " ;
     skos:definition "Gruppe chemischer Elemente"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "B5DD1A" ;
@@ -1887,7 +1850,6 @@
 
 <http://leiza.de/thesaurus/C93638> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
-    skos:closeMatch "http://www.wikidata.org/entity/Q39546" ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "C93638" ;
     skos:prefLabel "[Werkzeuge]"@de .
@@ -1937,7 +1899,6 @@
 <http://leiza.de/thesaurus/FGB415> a skos:Concept ;
     skos:altLabel "Kupferlegierungen"@de ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q518350|http://vocab.getty.edu/page/aat/300010942" ;
     skos:definition "Legierung mit Kupfer als Hauptbestandteil"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "FGB415" ;
@@ -1985,7 +1946,6 @@
 <http://leiza.de/thesaurus/AG4397> a skos:Concept ;
     skos:altLabel "Wassergehalt"@de ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300379432" ;
     skos:definition "Enthaltener Feuchtigkeitsanteil im Porenraum eines Materialis/Objektes"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "AG4397" ;
@@ -2006,8 +1966,7 @@
     skos:definition "strukturierender Sammelbegriff für die Benennung der bei der Objektuntersuchung festgestellten Beobachtungen und Auswertungen hinsichtlich der Gesamtbeschaffenheit des Objektes und dessen Ursache"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "BC5B57" ;
-    skos:prefLabel "[Untersuchungsergebnisse]"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300137593" .
+    skos:prefLabel "[Untersuchungsergebnisse]"@de .
 
 <http://leiza.de/thesaurus/C6GB1C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
@@ -2036,8 +1995,7 @@
     skos:definition "Beschaffung und Sammlung von Informationen über den Zustand eines Objektes, anhand derer das Restaurierungs-/Konservierungskonzept und/oder die weiteren Lagerungs- und Handhabungsempefehlungen formuliert werden"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "CA1BC5" ;
-    skos:prefLabel "Objektuntersuchung"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300137546|http://vocab.getty.edu/page/aat/300226216" .
+    skos:prefLabel "Objektuntersuchung"@de .
 
 <http://leiza.de/thesaurus/CA7279> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D4A13D> ;
@@ -2088,7 +2046,6 @@
     skos:altLabel "mineralische Materialien"@de,
         "silikatische Materialien"@de ;
     skos:broader <http://leiza.de/thesaurus/B51DAF> ;
-    skos:closeMatch "http://www.wikidata.org/entity/Q7130787" ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "GB6DF3" ;
     skos:prefLabel "Silikat"@de .
@@ -2096,7 +2053,6 @@
 <http://leiza.de/thesaurus/A82D86> a skos:Concept ;
     skos:altLabel "Buntmetall"@de ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q355809|http://vocab.getty.edu/page/aat/300011014 " ;
     skos:definition "Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung hauptsächlich als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "A82D86" ;
@@ -2111,7 +2067,6 @@
 <http://leiza.de/thesaurus/B51DAF> a skos:Concept ;
     skos:altLabel "Objektmaterial"@de,
         "Werkstoff"@de ;
-    skos:closeMatch "http://terminology.lido-schema.org/lido00132" ;
     skos:definition "Material aus dem das Objekt besteht."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "B51DAF" ;
@@ -2121,7 +2076,6 @@
 <http://leiza.de/thesaurus/B538AG> a skos:Concept ;
     dc:source "https://de.wikipedia.org/wiki/Mikroskop" ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300024594" ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "B538AG" ;
     skos:prefLabel "Mikroskop"@de .
@@ -2129,7 +2083,6 @@
 <http://leiza.de/thesaurus/BBF566> a skos:Concept ;
     skos:altLabel "unedle Metalle"@de ;
     skos:broader <http://leiza.de/thesaurus/B5DD1A> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q428855|http://vocab.getty.edu/page/aat/300241615|http://d-nb.info/gnd/4583082-4" ;
     skos:definition "Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "BBF566" ;
@@ -2155,12 +2108,10 @@
     skos:altLabel "Restaurierung"@de,
         "Restaurierungsmethoden"@de ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300053742" ;
     skos:definition "Sammelbegriff für einen aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "C79561" ;
-    skos:prefLabel "Restaurierungsmaßnahme"@de ;
-    skos:relatedMatch "https://www.wikidata.org/wiki/Q217102" .
+    skos:prefLabel "Restaurierungsmaßnahme"@de .
 
 <http://leiza.de/thesaurus/C8CG15> a skos:Concept ;
     skos:definition "Sammelbegriff für Aufzeichnungen gemachter Beobachtungen und Handlungen"@de ;
@@ -2172,18 +2123,15 @@
 <http://leiza.de/thesaurus/CD3341> a skos:Concept ;
     skos:altLabel "organisches Material"@de ;
     skos:broader <http://leiza.de/thesaurus/B51DAF> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300011792|https://cameo.mfa.org/wiki/Organic" ;
     skos:definition "Allgemeiner Sammelbegriff für natürlich von Organismen gebildete Stoffe meist tierisch- oder pflanzlichen Ursprungs. Werden durch biologische Mechanismen im Boden abgebaut, wodurch archäologische Objekte aus organischen Materialien nur unter besonderen Bedingungen, die deren fortschreitende Zersetzung verlangsamen oder verhindern, erhalten bleiben. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "CD3341" ;
-    skos:prefLabel "Organik"@de ;
-    skos:relatedMatch "https://www.wikidata.org/wiki/Q1783121" .
+    skos:prefLabel "Organik"@de .
 
 <http://leiza.de/thesaurus/CDD613> a skos:Concept ;
     dc:source "http://www.wikidata.org/entity/Q125400047" ;
     skos:altLabel "Reinigen"@de ;
     skos:broader <http://leiza.de/thesaurus/C79561> ;
-    skos:closeMatch "http://vocab.getty.edu/page/aat/300053027" ;
     skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen, aber auch alten Restaurierungsmaterialien verwendet. Er weist enge Verwandschaft und einen fließenden Übergang zu dem Begriff \"Freilegung\" auf."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "CDD613" ;
@@ -2207,7 +2155,6 @@
 <http://leiza.de/thesaurus/FGA46A> a skos:Concept ;
     skos:altLabel "Edelmetalle"@de ;
     skos:broader <http://leiza.de/thesaurus/B5DD1A> ;
-    skos:closeMatch "https://www.wikidata.org/wiki/Q585302| http://vocab.getty.edu/page/aat/300241621 |http://d-nb.info/gnd/4013531-7 " ;
     skos:definition "chemisches Element mit hoher Korrosionsbeständigkeit"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "FGA46A" ;
@@ -2227,8 +2174,7 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "G814D2" ;
     skos:prefLabel "Freilegung"@de ;
-    skos:related <http://leiza.de/thesaurus/CDD613> ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300053027" .
+    skos:related <http://leiza.de/thesaurus/CDD613> .
 
 <http://leiza.de/thesaurus/GB33C3> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q126324928" ;
@@ -2249,8 +2195,7 @@
     skos:broader <http://leiza.de/thesaurus/CA1BC5> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "AA6941" ;
-    skos:prefLabel "[Untersuchungsgerät]"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300122283" .
+    skos:prefLabel "[Untersuchungsgerät]"@de .
 
 <http://leiza.de/thesaurus/B224CD> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAC996> ;
@@ -2338,7 +2283,6 @@
 <http://leiza.de/thesaurus/C4BCF8> a skos:Concept ;
     dc:source "http://www.wikidata.org/entity/Q125400047" ;
     skos:altLabel "Zustandserhebung"@de ;
-    skos:closeMatch "http://terminology.lido-schema.org/lido00931" ;
     skos:definition "methodischen Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "C4BCF8" ;
@@ -2393,12 +2337,10 @@
     skos:definition "Die konkreten Merkmale und Eigenschaften eines Objektes"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "GDF8C2" ;
-    skos:prefLabel "Physischer Zustand"@de ;
-    skos:relatedMatch "http://vocab.getty.edu/page/aat/300389724" .
+    skos:prefLabel "Physischer Zustand"@de .
 
 <http://leiza.de/thesaurus/C364G1> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
-    skos:closeMatch "http://www.wikidata.org/entity/Q214609| http://terminology.lido-schema.org/lido00132" ;
     skos:definition "strukturierender Sammelbegriff für sämtliche zur Konservierung und/oder Restaurierung eines Objektes verwendeter (Verbrauchs-)Materialien"@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "C364G1" ;

@@ -31,10 +31,12 @@ for index, row in df.iterrows():
                     g.add ((concept, SKOS.altLabel, Literal(i + languageLabel)))
             else:
                 g.add ((concept, SKOS.altLabel, Literal(row["altLabel"] + languageLabel)))
+        """
         if not pd.isnull(row["closeMatch"]):
-            g.add ((concept, SKOS.closeMatch, Literal(row['closeMatch'])))
+            g.add ((concept, SKOS.closeMatch, row['closeMatch']))
         if not pd.isnull(row["relatedMatch"]):
-            g.add ((concept, SKOS.relatedMatch, Literal(row['relatedMatch'])))
+            g.add ((concept, SKOS.relatedMatch, row['relatedMatch']))
+        """
         if not pd.isnull(row["seeAlso"]):
             g.add ((concept, RDFS.seeAlso, Literal(row['seeAlso'])))
         if not pd.isnull(row["source"]):
