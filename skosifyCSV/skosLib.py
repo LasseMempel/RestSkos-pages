@@ -30,7 +30,7 @@ for index, row in df.iterrows():
             else:
                 g.add ((concept, SKOS.altLabel, Literal(row["altLabel"] + languageLabel)))
         if not pd.isnull(row["description"]):
-            g.add ((concept, SKOS.definition, Literal(row['description'])))
+            g.add ((concept, SKOS.definition, Literal(row['description'] + languageLabel)))
         if not pd.isnull(row['parent']) and not row["parent"] == "top" :
             broader = URIRef(thesaurus + row['parent'])
             g.add ((concept, SKOS.broader, broader))
@@ -46,6 +46,6 @@ g.serialize(destination='fixedData.ttl', format='turtle')
 with open('fixedData.ttl', 'r', encoding="utf-8") as f:
     text = f.read()
     text = text.replace('@de"', '"@de')
-    print(text)
+    #print(text)
 with open('fixedData.ttl', 'w', encoding="utf-8") as f:
     f.write(text)
