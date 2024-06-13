@@ -470,7 +470,7 @@
     skos:altLabel "LA-ICP-MS"@de ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Laser Ablation â Inductively Coupled Plasma â Mass Spectrometry"@de .
+    skos:prefLabel "Laser Ablation — Inductively Coupled Plasma — Mass Spectrometry"@de .
 
 <http://leiza.de/thesaurus/BFGD3B> a skos:Concept ;
     skos:altLabel "Grübchenbildung"@de ;
