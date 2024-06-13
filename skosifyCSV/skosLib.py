@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 from rdflib import Graph, URIRef, BNode, Literal, Namespace
-from rdflib.namespace import SKOS, RDF, DC, DCTERMS
+from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 with open("data.csv", "w", encoding="utf-8") as f:
@@ -22,6 +22,7 @@ g.add ((thesaurus, DC.description, Literal("Der mächtige Leiza Restaurierungs- 
 for index, row in df.iterrows():
     if not pd.isnull(row["prefLabel"]):
         concept = URIRef(thesaurusAddendum + str(row['identifier']))
+        g.add ((concept, SKOS.notation, Literal(str(row['identifier']))))
         g.add ((concept, RDF.type, SKOS.Concept))
         g.add ((concept, SKOS.prefLabel, Literal(row['prefLabel'] + languageLabel)))
         if not pd.isnull(row["altLabel"]):
@@ -30,6 +31,14 @@ for index, row in df.iterrows():
                     g.add ((concept, SKOS.altLabel, Literal(i + languageLabel)))
             else:
                 g.add ((concept, SKOS.altLabel, Literal(row["altLabel"] + languageLabel)))
+        if not pd.isnull(row["closeMatch"]):
+            g.add ((concept, SKOS.closeMatch, Literal(row['closeMatch'])))
+        if not pd.isnull(row["relatedMatch"]):
+            g.add ((concept, SKOS.relatedMatch, Literal(row['relatedMatch'])))
+        if not pd.isnull(row["seeAlso"]):
+            g.add ((concept, RDFS.seeAlso, Literal(row['seeAlso'])))
+        if not pd.isnull(row["source"]):
+            g.add ((concept, DC.source, Literal(row['source'])))
         if not pd.isnull(row["description"]):
             g.add ((concept, SKOS.definition, Literal(row['description'] + languageLabel)))
         if not pd.isnull(row['parent']) and not row["parent"] == "top" :
@@ -50,8 +59,3 @@ with open('fixedData.ttl', 'r', encoding="utf-8") as f:
     #print(text)
 with open('fixedData.ttl', 'w', encoding="utf-8") as f:
     f.write(text)
-
-"""
-Probleme:
-Laser Ablation – Inductively Coupled Plasma – Mass Spectrometry
-"""
