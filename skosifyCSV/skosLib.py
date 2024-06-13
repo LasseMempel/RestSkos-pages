@@ -12,13 +12,13 @@ with open ('data.csv', 'r', encoding="utf-8") as f:
         for line in f:
             ff.write(line.replace("Ã¼", "ü").replace("Ã¶", "ö").replace("Ã¤", "ä").replace("ÃŸ", "ß").replace("Ã„", "Ä").replace("Ã–", "Ö").replace("Ãœ", "Ü").replace("Ã", "ß").replace("Ã", "Ü").replace("â", "—"))
 df = pd.read_csv('fixedData.csv')
+languageLabel = "@de"
 g = Graph()
 thesaurus = URIRef("http://leiza.de/thesaurus")
 thesaurusAddendum = thesaurus + "/"
 g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
-g.add ((thesaurus, DC.title, Literal("Leiza Restaurierungs- und Konservierungsthesaurus")))
-g.add ((thesaurus, DC.description, Literal("Der mächtige Leiza Restaurierungs- und Konservierungsthesaurus")))
-languageLabel = "@de"
+g.add ((thesaurus, DC.title, Literal("Leiza Restaurierungs- und Konservierungsthesaurus")+languageLabel))
+g.add ((thesaurus, DC.description, Literal("Der mächtige Leiza Restaurierungs- und Konservierungsthesaurus")+languageLabel))
 for index, row in df.iterrows():
     if not pd.isnull(row["prefLabel"]):
         concept = URIRef(thesaurusAddendum + str(row['identifier']))
