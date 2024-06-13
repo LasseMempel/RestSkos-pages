@@ -6,22 +6,17 @@ from rdflib.namespace import SKOS, RDF
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 with open("data.csv", "w", encoding="utf-8") as f:
     f.write(requests.get(link).text)
-
 with open ('data.csv', 'r', encoding="utf-8") as f:
     with open("fixedData.csv", "w", encoding="utf-8") as ff:
         # repair wrong encoded german umlauts
         for line in f:
             ff.write(line.replace("Ã¼", "ü").replace("Ã¶", "ö").replace("Ã¤", "ä").replace("ÃŸ", "ß").replace("Ã„", "Ä").replace("Ã–", "Ö").replace("Ãœ", "Ü").replace("Ã", "ß"))
-
 df = pd.read_csv('fixedData.csv')
-
 g = Graph()
 # use the SKOS namespace
 # skos:ConceptScheme, skos:Concept, skos:prefLabel, skos:broader, skos:related, skos:altLabel, skos:definition, skos:hasTopConcept
-
 thesaurus = URIRef("http://leiza.de/thesaurus/")
 g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
-
 languageLabel = "@de"
 for index, row in df.iterrows():
     if not pd.isnull(row["prefLabel"]):
@@ -46,6 +41,11 @@ for index, row in df.iterrows():
         if row["parent"] == "top":
             g.add ((thesaurus, SKOS.hasTopConcept, concept))
             g.add ((concept, SKOS.topConceptOf, thesaurus))
-
 #g.serialize(destination='fixedData.rdf', format='xml')
 g.serialize(destination='fixedData.ttl', format='turtle')
+with open('fixedData.ttl', 'r', encoding="utf-8") as f:
+    text = f.read()
+    text = text.replace('@de"', '"@de')
+    print(text)
+with open('fixedData.ttl', 'w', encoding="utf-8") as f:
+    f.write(text)

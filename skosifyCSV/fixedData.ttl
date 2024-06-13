@@ -4,1969 +4,1969 @@
     skos:broader <http://leiza.de/thesaurus/GB6DF3> ;
     skos:definition "anorganischer, nicht-metallischer, durch das Brennen von Ton hergestellter Werkstoff" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Keramik@de" .
+    skos:prefLabel "Keramik"@de .
 
 <http://leiza.de/thesaurus/A14228> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A889A3> ;
     skos:definition "Fest an der Oberfläche des Objektes anhaftende und verhärtete Ansammlung von Fremdsubstanz" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verkrustung@de" .
+    skos:prefLabel "Verkrustung"@de .
 
 <http://leiza.de/thesaurus/A15D7G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BB78D2> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kunstharz@de" .
+    skos:prefLabel "Kunstharz"@de .
 
 <http://leiza.de/thesaurus/A194CF> a skos:Concept ;
-    skos:altLabel " nasse Reinigung@de",
-        "Auswaschung@de",
-        "Nassreinigung@de",
-        "Spülung@de" ;
+    skos:altLabel " nasse Reinigung"@de,
+        "Auswaschung"@de,
+        "Nassreinigung"@de,
+        "Spülung"@de ;
     skos:broader <http://leiza.de/thesaurus/CDD613> ;
     skos:definition "Entfernung ungewollter Substanzen durch Durchfeuchtung/ Durchnässung des Objektes, z.B. durch Abspülen unter laufendem Wasser oder Eintauchen in eine Reinigungsflüssigkeit. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Waschung@de" .
+    skos:prefLabel "Waschung"@de .
 
 <http://leiza.de/thesaurus/A1B449> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C6A532> ;
     skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff, indem fließendes Wasser kontinuierlich über das Objekt geleitet wird." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ausspülung@de" .
+    skos:prefLabel "Ausspülung"@de .
 
 <http://leiza.de/thesaurus/A21DB2> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/B224CD> ;
     skos:definition "Das Objekt weist eine zunehmend ungleichmäßiger werdende Oberfläche auf." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Aufrauung@de" .
+    skos:prefLabel "Aufrauung"@de .
 
 <http://leiza.de/thesaurus/A255FD> a skos:Concept ;
-    skos:altLabel "Wassergesättigt@de" ;
+    skos:altLabel "Wassergesättigt"@de ;
     skos:broader <http://leiza.de/thesaurus/AG4397> ;
     skos:definition "Das Materialgefüge/der Porenraum des Objektes ist vollständig mit Wasser gesättigt." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Nass@de" .
+    skos:prefLabel "Nass"@de .
 
 <http://leiza.de/thesaurus/A2B746> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:definition "chemische Substanz, die in wässriger Lösung ein Proton aufnehmen oder ein freies Elektronenpaar abspalten kann." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Base@de" .
+    skos:prefLabel "Base"@de .
 
 <http://leiza.de/thesaurus/A2BB42> a skos:Concept ;
-    skos:altLabel " Klimabox@de",
-        "Klimakiste@de" ;
+    skos:altLabel " Klimabox"@de,
+        "Klimakiste"@de ;
     skos:broader <http://leiza.de/thesaurus/A8ABBA> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "klimatisierte Individualverpackung@de" .
+    skos:prefLabel "klimatisierte Individualverpackung"@de .
 
 <http://leiza.de/thesaurus/A2GC16> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BB78D2> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gips@de" .
+    skos:prefLabel "Gips"@de .
 
 <http://leiza.de/thesaurus/A341F9> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schwamm@de" .
+    skos:prefLabel "Schwamm"@de .
 
 <http://leiza.de/thesaurus/A379F4> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Das Objekt weist Schäden auf, die auf die innere Struktur des Materials zurückzuführen ist." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Materialbeschaffenheit@de" .
+    skos:prefLabel "Materialbeschaffenheit"@de .
 
 <http://leiza.de/thesaurus/A44BG6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BB78D2> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Einbettmasse@de" .
+    skos:prefLabel "Einbettmasse"@de .
 
 <http://leiza.de/thesaurus/A44D5F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D41661> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Celluloseether@de" .
+    skos:prefLabel "Celluloseether"@de .
 
 <http://leiza.de/thesaurus/A4G52F> a skos:Concept ;
-    skos:altLabel "Vorzustand@de" ;
+    skos:altLabel "Vorzustand"@de ;
     skos:broader <http://leiza.de/thesaurus/C4BCF8> ;
     skos:definition "Zustand eines Objektes zum Zeitpunkt der Einlieferung in die Restaurierungswerkstatt" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Einlieferungszustand@de" ;
+    skos:prefLabel "Einlieferungszustand"@de ;
     skos:related <http://leiza.de/thesaurus/GDF8C2> .
 
 <http://leiza.de/thesaurus/A5D63G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C6GB1C> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Altrestaurierung@de" .
+    skos:prefLabel "Altrestaurierung"@de .
 
 <http://leiza.de/thesaurus/A6A248> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G814D2> ;
     skos:definition "Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "maschinelle Freilegung@de" .
+    skos:prefLabel "maschinelle Freilegung"@de .
 
 <http://leiza.de/thesaurus/A6F2C7> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CGC619> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Tonkernergänzung@de" .
+    skos:prefLabel "Tonkernergänzung"@de .
 
 <http://leiza.de/thesaurus/A75779> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FC2113> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Stereomikroskop@de" .
+    skos:prefLabel "Stereomikroskop"@de .
 
 <http://leiza.de/thesaurus/A7FA3B> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FC2113> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Polarisationsmikroskop@de" .
+    skos:prefLabel "Polarisationsmikroskop"@de .
 
 <http://leiza.de/thesaurus/A7FC45> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C11192> ;
     skos:definition "Durch abformen nachgebildetes Objekt eines Vorbildgegenstandes, welches u.A. zur Erforschung der Typologie, Oberflächeneigenschaften und/oder Farbgebung des Originals genutzt wird. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kopie@de" .
+    skos:prefLabel "Kopie"@de .
 
 <http://leiza.de/thesaurus/A8588A> a skos:Concept ;
-    skos:altLabel "Lakune@de" ;
+    skos:altLabel "Lakune"@de ;
     skos:broader <http://leiza.de/thesaurus/C188DA> ;
     skos:definition "Verlust eines klar definierte Formteils des Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Fehlstelle@de" .
+    skos:prefLabel "Fehlstelle"@de .
 
 <http://leiza.de/thesaurus/A8AD1G> a skos:Concept ;
-    skos:altLabel "Abdeckung@de",
-        "Ãberlagerung@de" ;
+    skos:altLabel "Abdeckung"@de,
+        "Ãberlagerung"@de ;
     skos:broader <http://leiza.de/thesaurus/D3AGG6> ;
     skos:definition "Das Objekt zeigt Ablagerungen auf der Oberfläche, die die Gestaltung/Form des Objektes unkenntlich macht. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verdeckung@de" .
+    skos:prefLabel "Verdeckung"@de .
 
 <http://leiza.de/thesaurus/A8B271> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FGB415> ;
     skos:definition "Kupferlegierung mit Zink als zweiter Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Messing@de" .
+    skos:prefLabel "Messing"@de .
 
 <http://leiza.de/thesaurus/A8D3G1> a skos:Concept ;
-    skos:altLabel "Maßnahmendokumentation@de",
-        "Restaurierungsbericht@de",
-        "Restaurierungsprotokoll@de" ;
+    skos:altLabel "Maßnahmendokumentation"@de,
+        "Restaurierungsbericht"@de,
+        "Restaurierungsprotokoll"@de ;
     skos:broader <http://leiza.de/thesaurus/C8CG15> ;
     skos:definition "Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie der dabei verwendeten Materialien und Werkzeuge. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Maßnahmenbericht@de" ;
+    skos:prefLabel "Maßnahmenbericht"@de ;
     skos:related <http://leiza.de/thesaurus/CFGDA3> .
 
 <http://leiza.de/thesaurus/A95DFA> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Reinigungsmittel@de" .
+    skos:prefLabel "Reinigungsmittel"@de .
 
 <http://leiza.de/thesaurus/A9611D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FC2113> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Durchlichtmikroskop@de" .
+    skos:prefLabel "Durchlichtmikroskop"@de .
 
 <http://leiza.de/thesaurus/A97F31> a skos:Concept ;
-    skos:altLabel "Gummipolierer@de" ;
+    skos:altLabel "Gummipolierer"@de ;
     skos:broader <http://leiza.de/thesaurus/D8G747> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gummischleifkörper@de" .
+    skos:prefLabel "Gummischleifkörper"@de .
 
 <http://leiza.de/thesaurus/A9A858> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CD3341> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Nassholz@de" .
+    skos:prefLabel "Nassholz"@de .
 
 <http://leiza.de/thesaurus/A9B23D> a skos:Concept ;
-    skos:altLabel "Verbrennung@de" ;
+    skos:altLabel "Verbrennung"@de ;
     skos:broader <http://leiza.de/thesaurus/C9D991> ;
     skos:definition "Das Objekt zeigt Spuren von Hitze- bzw. Feuereinwirkung in Form von abgebautem oder gänzlich verloren gegangenem Material" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verkohlung@de" .
+    skos:prefLabel "Verkohlung"@de .
 
 <http://leiza.de/thesaurus/A9F854> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FC2113> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Fluoreszenzmikroskopen@de" .
+    skos:prefLabel "Fluoreszenzmikroskopen"@de .
 
 <http://leiza.de/thesaurus/AA3CA7> a skos:Concept ;
-    skos:altLabel " Kristallbildung@de",
-        "Effloreszenz@de" ;
+    skos:altLabel " Kristallbildung"@de,
+        "Effloreszenz"@de ;
     skos:broader <http://leiza.de/thesaurus/C9D991> ;
     skos:definition "Auf oder im Objekt zeigen sich Ansammlungen von Salzkristallen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ausblühung@de" .
+    skos:prefLabel "Ausblühung"@de .
 
 <http://leiza.de/thesaurus/AA4F93> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Textil@de" .
+    skos:prefLabel "Textil"@de .
 
 <http://leiza.de/thesaurus/AA819F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Licht- bzw. Beleuchtungsinduzierte Beschädigung des Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Licht@de" .
+    skos:prefLabel "Licht"@de .
 
 <http://leiza.de/thesaurus/AB4988> a skos:Concept ;
-    skos:altLabel "Stoff@de" ;
+    skos:altLabel "Stoff"@de ;
     skos:broader <http://leiza.de/thesaurus/CD3341> ;
     skos:definition "Ein in verschiedenen Verfahren aus natürlichen oder synthetischen Fasern hergestelltes, räumliches Gebilde. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Textil@de" .
+    skos:prefLabel "Textil"@de .
 
 <http://leiza.de/thesaurus/ABB9FA> a skos:Concept ;
-    skos:altLabel "gefaltet@de" ;
+    skos:altLabel "gefaltet"@de ;
     skos:broader <http://leiza.de/thesaurus/A8D9GF> ;
     skos:definition "Das Objekt zeigt eine scharf umgebogene Deformation" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "geknickt@de" .
+    skos:prefLabel "geknickt"@de .
 
 <http://leiza.de/thesaurus/ABCF99> a skos:Concept ;
-    skos:altLabel "ausgeblichen@de" ;
+    skos:altLabel "ausgeblichen"@de ;
     skos:broader <http://leiza.de/thesaurus/A4G8FA> ;
     skos:definition "Die Farbigkeit des Objektes zeigt eine reduzierte Farbsättigung" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "verblasst@de" .
+    skos:prefLabel "verblasst"@de .
 
 <http://leiza.de/thesaurus/ABF57G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D8G747> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Diamantschleifkörper@de" .
+    skos:prefLabel "Diamantschleifkörper"@de .
 
 <http://leiza.de/thesaurus/AC16G1> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F5G576> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verpackung@de" .
+    skos:prefLabel "Verpackung"@de .
 
 <http://leiza.de/thesaurus/AC1786> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A18D95> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Zeitplanung@de" .
+    skos:prefLabel "Zeitplanung"@de .
 
 <http://leiza.de/thesaurus/ACB46G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Stachelschweinborste@de" .
+    skos:prefLabel "Stachelschweinborste"@de .
 
 <http://leiza.de/thesaurus/ACFF37> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Korrosionsinhibitor@de" .
+    skos:prefLabel "Korrosionsinhibitor"@de .
 
 <http://leiza.de/thesaurus/AD143A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A13CD1> ;
     skos:definition "Klebemethode, bei der die einzelnen Fragmente/Teile nacheinander angefügt/geklebt werden und die ursprüngliche Form des Objektes nach und nach wieder aufgebaut wird. Bei Gefäßen wird i.d.R. vom Boden zum Rand aufsteigend gearbeitet.Â " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Aufbaumethode@de" .
+    skos:prefLabel "Aufbaumethode"@de .
 
 <http://leiza.de/thesaurus/AD3A34> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Schädigung durch negative Einwirkung der Bedingungen im Freien" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verwitterung@de" .
+    skos:prefLabel "Verwitterung"@de .
 
 <http://leiza.de/thesaurus/ADA625> a skos:Concept ;
-    skos:altLabel "Tröpfchenbildung@de" ;
+    skos:altLabel "Tröpfchenbildung"@de ;
     skos:broader <http://leiza.de/thesaurus/BBF64G> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "weinendes Glas@de" .
+    skos:prefLabel "weinendes Glas"@de .
 
 <http://leiza.de/thesaurus/ADCC8A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BB78D2> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Zuschlagstoffe@de" .
+    skos:prefLabel "Zuschlagstoffe"@de .
 
 <http://leiza.de/thesaurus/AF1F5C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G98FD4> ;
     skos:definition "Methode zur Entfernung von Feuchtigkeit aus dem Objekt oder von dessen Oberfläche" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Trocknung@de" .
+    skos:prefLabel "Trocknung"@de .
 
 <http://leiza.de/thesaurus/AF31AG> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A1D125> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Epoxidharz@de" .
+    skos:prefLabel "Epoxidharz"@de .
 
 <http://leiza.de/thesaurus/AF7CC8> a skos:Concept ;
-    skos:altLabel " Hohllage@de",
-        "Hohlstelle@de" ;
+    skos:altLabel " Hohllage"@de,
+        "Hohlstelle"@de ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Im Materialgefüge des Objektes hat sich ein oder mehrere Leerraum/Leerräume gebildet." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Hohlraum@de" .
+    skos:prefLabel "Hohlraum"@de .
 
 <http://leiza.de/thesaurus/AG2965> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Naturharz@de" .
+    skos:prefLabel "Naturharz"@de .
 
 <http://leiza.de/thesaurus/AG4G3C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/B538AG> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Digitalmikroskop@de" .
+    skos:prefLabel "Digitalmikroskop"@de .
 
 <http://leiza.de/thesaurus/AGBB3C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
     skos:definition "Fähigkeit des Objektmaterials mechanischen Widerstand gegen eine plastische Verformung oder Trennung zu leisten" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Festigkeit@de" .
+    skos:prefLabel "Festigkeit"@de .
 
 <http://leiza.de/thesaurus/B1DB9G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FFA16B> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Färbemittel@de" .
+    skos:prefLabel "Färbemittel"@de .
 
 <http://leiza.de/thesaurus/B26D29> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DA9CGG> ;
     skos:definition "zeitlich begrenzte, nicht dauerhafte Unterstützung eines fragilen Materials" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "temporäre Stabilisierung@de" .
+    skos:prefLabel "temporäre Stabilisierung"@de .
 
 <http://leiza.de/thesaurus/B28FA6> a skos:Concept ;
-    skos:altLabel "Cu@de",
-        "reines Kupfer@de" ;
+    skos:altLabel "Cu"@de,
+        "reines Kupfer"@de ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
     skos:definition "chemisches Elemten, rot-bräunliches Metall. Auch als \"Halbedelmetall\" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kupfer@de" .
+    skos:prefLabel "Kupfer"@de .
 
 <http://leiza.de/thesaurus/B28GC7> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Zellstoff@de" .
+    skos:prefLabel "Zellstoff"@de .
 
 <http://leiza.de/thesaurus/B2ADB6> a skos:Concept ;
-    skos:altLabel "anthropogene Schädigung@de" ;
+    skos:altLabel "anthropogene Schädigung"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Durch Menschen mutwillig herbeigeführte Schädigung eines Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Vandalismus@de" .
+    skos:prefLabel "Vandalismus"@de .
 
 <http://leiza.de/thesaurus/B2D9C9> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G52378> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Formtypen@de" .
+    skos:prefLabel "Formtypen"@de .
 
 <http://leiza.de/thesaurus/B3FCA1> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:definition "chemische Substanz, die Elektronen abgeben und somit andere Substanzen reduzieren kann (Redoxreaktion)" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Reduktionsmittel@de" .
+    skos:prefLabel "Reduktionsmittel"@de .
 
 <http://leiza.de/thesaurus/B3G5C7> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Dendrochronologie@de" .
+    skos:prefLabel "Dendrochronologie"@de .
 
 <http://leiza.de/thesaurus/B4C3B9> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Das Materialgefüge des Objektes ist unter Erzeugung einer scharf definierten Kante in zwei oder mehr Teile getrennt worden. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schnitt@de" .
+    skos:prefLabel "Schnitt"@de .
 
 <http://leiza.de/thesaurus/B53C8F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CA7279> ;
     skos:definition "Begutachtung eines Objektes mit dem menschlichen Auge unter Zuhilfename einer UV-Lichtquelle" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "UV-Untersuchung@de" .
+    skos:prefLabel "UV-Untersuchung"@de .
 
 <http://leiza.de/thesaurus/B572B5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A1D125> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Polyvinylbutyral@de" .
+    skos:prefLabel "Polyvinylbutyral"@de .
 
 <http://leiza.de/thesaurus/B626A3> a skos:Concept ;
-    skos:altLabel "Geweih@de",
-        "Knochen@de" ;
+    skos:altLabel "Geweih"@de,
+        "Knochen"@de ;
     skos:broader <http://leiza.de/thesaurus/CD3341> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Bein@de" .
+    skos:prefLabel "Bein"@de .
 
 <http://leiza.de/thesaurus/B689B6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G59852> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Methode]@de" .
+    skos:prefLabel "[Methode]"@de .
 
 <http://leiza.de/thesaurus/B69747> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ringkorrosion@de" .
+    skos:prefLabel "Ringkorrosion"@de .
 
 <http://leiza.de/thesaurus/B89818> a skos:Concept ;
-    skos:altLabel "bucklig@de",
-        "wellig@de" ;
+    skos:altLabel "bucklig"@de,
+        "wellig"@de ;
     skos:broader <http://leiza.de/thesaurus/A8D9GF> ;
     skos:definition "Das Objekt zeigt eine wellenförmige/bucklige Formänderung auf." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "gewellt@de" .
+    skos:prefLabel "gewellt"@de .
 
 <http://leiza.de/thesaurus/B94DCD> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FC2113> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Auflichtmikroskop@de" .
+    skos:prefLabel "Auflichtmikroskop"@de .
 
 <http://leiza.de/thesaurus/BAA12F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G13A7B> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Photogrammetrie@de" .
+    skos:prefLabel "Photogrammetrie"@de .
 
 <http://leiza.de/thesaurus/BAA258> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C8CG15> ;
     skos:definition "Dokumentation der technologischen Auswertung" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Auswertungsdokumentation@de" ;
+    skos:prefLabel "Auswertungsdokumentation"@de ;
     skos:related <http://leiza.de/thesaurus/G76B7G> .
 
 <http://leiza.de/thesaurus/BBB987> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GF9C49> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Absauganlage@de" .
+    skos:prefLabel "Absauganlage"@de .
 
 <http://leiza.de/thesaurus/BCDC47> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kontaktkorrosion@de" .
+    skos:prefLabel "Kontaktkorrosion"@de .
 
 <http://leiza.de/thesaurus/BD119A> a skos:Concept ;
-    skos:altLabel "Färben@de",
-        "Kolorieren@de" ;
+    skos:altLabel "Färben"@de,
+        "Kolorieren"@de ;
     skos:broader <http://leiza.de/thesaurus/CGC619> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Retusche@de" .
+    skos:prefLabel "Retusche"@de .
 
 <http://leiza.de/thesaurus/BD7FF8> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G79CAC> ;
     skos:definition "Methode zur Herstellung von modellhaften Darstellung auf Forschungsergebnissen basierender Gegebenheiten. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Modellanfertigung@de" .
+    skos:prefLabel "Modellanfertigung"@de .
 
 <http://leiza.de/thesaurus/BDCBC3> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FA2332> ;
     skos:definition "Ausbesserung von Fehlstellen einer Kunstharz- oder Galvanokopie nach Vorbild eines originalen Objektes. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ergänzung@de" .
+    skos:prefLabel "Ergänzung"@de .
 
 <http://leiza.de/thesaurus/BF7D14> a skos:Concept ;
-    skos:altLabel "Bronzen@de",
-        "Zinnbronze@de" ;
+    skos:altLabel "Bronzen"@de,
+        "Zinnbronze"@de ;
     skos:broader <http://leiza.de/thesaurus/FGB415> ;
     skos:definition "Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Bronze@de" .
+    skos:prefLabel "Bronze"@de .
 
 <http://leiza.de/thesaurus/BFAC52> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GB33C3> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Tiefenriss@de" .
+    skos:prefLabel "Tiefenriss"@de .
 
 <http://leiza.de/thesaurus/BFDB22> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Spannungsrisskorrosion@de" .
+    skos:prefLabel "Spannungsrisskorrosion"@de .
 
 <http://leiza.de/thesaurus/BFGB1A> a skos:Concept ;
-    skos:altLabel "LA-ICP-MS@de" ;
+    skos:altLabel "LA-ICP-MS"@de ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Laser Ablation â Inductively Coupled Plasma â Mass Spectrometry@de" .
+    skos:prefLabel "Laser Ablation â Inductively Coupled Plasma â Mass Spectrometry"@de .
 
 <http://leiza.de/thesaurus/BFGD3B> a skos:Concept ;
-    skos:altLabel "Grübchenbildung@de" ;
+    skos:altLabel "Grübchenbildung"@de ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Die Objektoberfläche weist dicht nebeneinander liegende, flache Hohlräume/Grübchen auf. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Pitting@de" .
+    skos:prefLabel "Pitting"@de .
 
 <http://leiza.de/thesaurus/BG987D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BBF64G> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "schwitzendes Glas@de" .
+    skos:prefLabel "schwitzendes Glas"@de .
 
 <http://leiza.de/thesaurus/BGA41C> a skos:Concept ;
-    skos:altLabel "Zusammenbruch@de" ;
+    skos:altLabel "Zusammenbruch"@de ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Das innere Materialgefüges eines Objektes ist vollkommen destabilisiert, was zu einem kompletten Zerfall der Struktur geführt hat." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kollaps@de" .
+    skos:prefLabel "Kollaps"@de .
 
 <http://leiza.de/thesaurus/BGG5A6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAB4B7> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Transportbedingungen@de" .
+    skos:prefLabel "Transportbedingungen"@de .
 
 <http://leiza.de/thesaurus/BGGCA4> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verstärkungsfasern@de" .
+    skos:prefLabel "Verstärkungsfasern"@de .
 
 <http://leiza.de/thesaurus/C17A3G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A9FF5A> ;
     skos:definition "Konservierungsmethode, bei der der Werkstoffe eines Objektes durch das Ausfüllen seines gesamten Porenraums mit einem sich in Lösung befindlichen Polymers stabilisiert wird. Eine Volltränkung wird i.d.R. durch Eintauchen des Objektes in das Lösungsbad durchgeführt." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Volltränkung@de" .
+    skos:prefLabel "Volltränkung"@de .
 
 <http://leiza.de/thesaurus/C2112G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GF9C49> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gefriertrocknungsanlage@de" .
+    skos:prefLabel "Gefriertrocknungsanlage"@de .
 
 <http://leiza.de/thesaurus/C2241C> a skos:Concept ;
-    skos:altLabel "Klimakammer@de" ;
+    skos:altLabel "Klimakammer"@de ;
     skos:broader <http://leiza.de/thesaurus/A8ABBA> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Klimaraum@de" .
+    skos:prefLabel "Klimaraum"@de .
 
 <http://leiza.de/thesaurus/C2488A> a skos:Concept ;
-    skos:altLabel "Abschlusszustand@de" ;
+    skos:altLabel "Abschlusszustand"@de ;
     skos:broader <http://leiza.de/thesaurus/C4BCF8> ;
     skos:definition "Zustand eines Objektes nach Abschluss der praktisch durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie Ãberprüfung in wie fern das zuvor festgelegte Restaurierung-/Konservierungsziel erreicht werden konnte." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Endzustand@de" ;
+    skos:prefLabel "Endzustand"@de ;
     skos:related <http://leiza.de/thesaurus/GDF8C2> .
 
 <http://leiza.de/thesaurus/C2788C> a skos:Concept ;
-    skos:altLabel "Röntgenfluoreszenz-Spektrometer@de" ;
+    skos:altLabel "Röntgenfluoreszenz-Spektrometer"@de ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
     skos:definition "Gerät mit dem eine Röntgenfluoreszenzanalyse durchgeführt werden kann. Das Gerät misst dabei die Intensitäten der emmitierten Fluoreszenzsröntgenstrahlung eines Materials/einer Probe, sodass Rückschlüsse auf die Elementzusammensetzung innerhalb der Probe gezogen werden können." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "RFA-Spektrometer@de" .
+    skos:prefLabel "RFA-Spektrometer"@de .
 
 <http://leiza.de/thesaurus/C349C5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C6A532> ;
     skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch die Auflage von feuchtigkeitsgetränktem Kompressenmaterial. Durch ein Feuchte- und/oder Konzentrationsgefälle zwischen Objekt und Kompresse werden die Salze durch Diffusion und den Kapillareffekt aus dem Objektmaterial in die Kompresse gezogen. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kompressenentsalzung@de" .
+    skos:prefLabel "Kompressenentsalzung"@de .
 
 <http://leiza.de/thesaurus/C369CB> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BB78D2> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verstärkungsmaterial@de" .
+    skos:prefLabel "Verstärkungsmaterial"@de .
 
 <http://leiza.de/thesaurus/C36GDB> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C188DA> ;
     skos:definition "An der Objektoberfläche sind durch Reibungskräfte abgetragene Stellen festzustellen. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Abrieb@de" .
+    skos:prefLabel "Abrieb"@de .
 
 <http://leiza.de/thesaurus/C3733A> a skos:Concept ;
-    skos:altLabel "feuchte Reinigung@de" ;
+    skos:altLabel "feuchte Reinigung"@de ;
     skos:broader <http://leiza.de/thesaurus/CDD613> ;
     skos:definition "Entfernung ungewollter Substanzen von der Objektoberfläche mit Hilfe leicht angefeuchteter Reinigungsmedien. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Feuchtreinigung@de" .
+    skos:prefLabel "Feuchtreinigung"@de .
 
 <http://leiza.de/thesaurus/C421BF> a skos:Concept ;
-    skos:altLabel "Lösemittel@de" ;
+    skos:altLabel "Lösemittel"@de ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Lösungsmittel@de" .
+    skos:prefLabel "Lösungsmittel"@de .
 
 <http://leiza.de/thesaurus/C4569A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Bürste@de" .
+    skos:prefLabel "Bürste"@de .
 
 <http://leiza.de/thesaurus/C473B4> a skos:Concept ;
-    skos:altLabel "Altrestaurierung@de" ;
+    skos:altLabel "Altrestaurierung"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Schadensphänomen, das durch eine (oder mehrere) vorangegangene Restaurierungs-/Konservierungs-Maßnahme oder andere Bearbeitung verursacht wurde" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Vorherige Bearbeitung@de" .
+    skos:prefLabel "Vorherige Bearbeitung"@de .
 
 <http://leiza.de/thesaurus/C535G6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A8D9GF> ;
     skos:definition "Das Objekt weist eine gekrümmte Deformation in einer Ebene auf" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "verbogen@de" .
+    skos:prefLabel "verbogen"@de .
 
 <http://leiza.de/thesaurus/C5A318> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GF9C49> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ultraschallgerät@de" .
+    skos:prefLabel "Ultraschallgerät"@de .
 
 <http://leiza.de/thesaurus/C5GA26> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C11192> ;
     skos:definition "Objekt, welches nach Vorbild eines von einer anderen Person angefertigten Originals hergestellt wurde, ohne das dieses Original im Vorfeld abgeformt wurde" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Reproduktion@de" .
+    skos:prefLabel "Reproduktion"@de .
 
 <http://leiza.de/thesaurus/C5GCB6> a skos:Concept ;
-    skos:altLabel "Fressspuren@de" ;
+    skos:altLabel "Fressspuren"@de ;
     skos:broader <http://leiza.de/thesaurus/C188DA> ;
     skos:definition "Materialverlust an/in einem Objekt verursacht durch Fressaktivitäten von Organismen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Fraßgang@de" .
+    skos:prefLabel "Fraßgang"@de .
 
 <http://leiza.de/thesaurus/C64BC8> a skos:Concept ;
-    skos:altLabel "Klima@de" ;
+    skos:altLabel "Klima"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Schadensphänomen, das durch klimatische Faktoren verursacht oder verschlimmert wird (Feuchtigkeit und Temperatur, bzw. deren Schwankungen)" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Klimabedingungen@de" .
+    skos:prefLabel "Klimabedingungen"@de .
 
 <http://leiza.de/thesaurus/C7427F> a skos:Concept ;
-    skos:altLabel "Hinterklebung@de" ;
+    skos:altLabel "Hinterklebung"@de ;
     skos:broader <http://leiza.de/thesaurus/A31C7C> ;
     skos:definition "Methode, bei der ein fragiles Objekt durch das Hinterlegen mit einem Gewebe (z.B. Glasfaser, Japanpapier, etc.) stabilisiert wird. Durch Tränkung des Gewebes mit einer Polymerlösung entsteht ein stabiles Laminat, das fest mit dem Objektmaterial verbunden ist und dieses bei mechanischer Einwirkung unterstützt." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Laminierung@de" .
+    skos:prefLabel "Laminierung"@de .
 
 <http://leiza.de/thesaurus/C77G9C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C6GB1C> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Alterung@de" .
+    skos:prefLabel "Alterung"@de .
 
 <http://leiza.de/thesaurus/C7859F> a skos:Concept ;
-    skos:altLabel "Quellung@de" ;
+    skos:altLabel "Quellung"@de ;
     skos:broader <http://leiza.de/thesaurus/B224CD> ;
     skos:definition "Das Objekt zeigt eine Vergrößerung seiner Abmessungen im Vergleich zu seinen ursprünglichen Maßen. Diese kann durch Veränderungen des Objektmaterial selbst oder durch Hinzufügen von Fremdmaterial erfolgt sein.  " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ausdehnung@de" .
+    skos:prefLabel "Ausdehnung"@de .
 
 <http://leiza.de/thesaurus/C7861C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CC2F9C> ;
     skos:definition "Das Objekt zeigt Schäden, die auf seine antike Herstellung zurück zu führen sind. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Herstellung@de" .
+    skos:prefLabel "Herstellung"@de .
 
 <http://leiza.de/thesaurus/C948F2> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A8ABBA> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gefrierschrank@de" .
+    skos:prefLabel "Gefrierschrank"@de .
 
 <http://leiza.de/thesaurus/CAB799> a skos:Concept ;
-    skos:altLabel "Integrität@de" ;
+    skos:altLabel "Integrität"@de ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
     skos:definition "Ausmaß an materieller Ganzheitlichkeit eines Objektes. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Vollständigkeit@de" .
+    skos:prefLabel "Vollständigkeit"@de .
 
 <http://leiza.de/thesaurus/CB4G84> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Wachs@de" .
+    skos:prefLabel "Wachs"@de .
 
 <http://leiza.de/thesaurus/CC2BBB> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Pinsel@de" .
+    skos:prefLabel "Pinsel"@de .
 
 <http://leiza.de/thesaurus/CD536F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A9FF5A> ;
     skos:definition "Konservierungsmethode, bei der der Werkstoff eines Objektes nur in gezielten Bereichen durch das Einbringen eines sich in Lösung befindlichen Polymers stabilisiert wird. Dies kann z.B. durch lokalen Auftrag der Polymerlösung mit einem Pinsel erfolgen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Teiltränkung@de" .
+    skos:prefLabel "Teiltränkung"@de .
 
 <http://leiza.de/thesaurus/CD5C3F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAB4B7> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gesundheitsschutz@de" .
+    skos:prefLabel "Gesundheitsschutz"@de .
 
 <http://leiza.de/thesaurus/CDD6B5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A18D95> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Risikobeurteilung@de" .
+    skos:prefLabel "Risikobeurteilung"@de .
 
 <http://leiza.de/thesaurus/CDF423> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D8G747> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Metallfräser@de" .
+    skos:prefLabel "Metallfräser"@de .
 
 <http://leiza.de/thesaurus/CF3C22> a skos:Concept ;
-    skos:altLabel "Gebrauch@de" ;
+    skos:altLabel "Gebrauch"@de ;
     skos:broader <http://leiza.de/thesaurus/G76B7G> ;
     skos:definition "angenommener Zweck für den das Objekt ursprünglich verwendet wurde" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verwendungszweck@de" .
+    skos:prefLabel "Verwendungszweck"@de .
 
 <http://leiza.de/thesaurus/CF4199> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A8D9GF> ;
     skos:definition "Das Objekt zeigt eine um eine Achse herumlaufende Deformation" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "verdreht@de" .
+    skos:prefLabel "verdreht"@de .
 
 <http://leiza.de/thesaurus/D152G6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CBDC4A> ;
     skos:definition "Variante der Manschettenergänzung, bei der die Fehlstelle von beiden Seiten (Außen- und Innenseite bei Gefäßen) umschlossen wird. Hierzu werden zwei Manschetten angefertigt, die jeweils die beiden Seiten der Fehlstelle abdecken. Auf diese Weise wird ein der Materialstärke des Objektes entsprechender Holraum erzeugen, der mit einem Ergänzungsmaterial ausgefüllt werden kann. Diese Ergänzungsvariante wird insbesondere für Glasobjekte verwendet. Auch bei der Wahl von Kunstharzen als Ergänzungsmaterial ist diese Variante zu bevorzugen, da Kunstharze nach dem Aushärten nur noch mit relativ großem Aufwand nachbearbeitet werden können." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "beidseitigte Manschettenergänzung@de" .
+    skos:prefLabel "beidseitigte Manschettenergänzung"@de .
 
 <http://leiza.de/thesaurus/D16G86> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Durch chemische Reaktion des Materials mit seiner Umgebung verursachter Schaden" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Korrosion@de" .
+    skos:prefLabel "Korrosion"@de .
 
 <http://leiza.de/thesaurus/D171FF> a skos:Concept ;
-    skos:altLabel "Brand@de" ;
+    skos:altLabel "Brand"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Durch einen Brand bzw. den Kontakt zu Feuer/Hitze herbeigeführte Schäden an einem Objekt" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Feuer@de" .
+    skos:prefLabel "Feuer"@de .
 
 <http://leiza.de/thesaurus/D1A63D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Putzholz@de" .
+    skos:prefLabel "Putzholz"@de .
 
 <http://leiza.de/thesaurus/D1C67A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Metallschaber@de" .
+    skos:prefLabel "Metallschaber"@de .
 
 <http://leiza.de/thesaurus/D1CFD5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAB4B7> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Lagerungsbedingungen@de" .
+    skos:prefLabel "Lagerungsbedingungen"@de .
 
 <http://leiza.de/thesaurus/D21459> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A8ABBA> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kühlschrank@de" .
+    skos:prefLabel "Kühlschrank"@de .
 
 <http://leiza.de/thesaurus/D2364A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Ganz Schollen oder Stücke haben sich vollständig von der Objektoberfläche gelöst und sind entweder komplett verloren oder liegen getrennt von dem Objekt. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Abplatzung@de" .
+    skos:prefLabel "Abplatzung"@de .
 
 <http://leiza.de/thesaurus/D28G9A> a skos:Concept ;
-    skos:altLabel "Erdreste@de" ;
+    skos:altLabel "Erdreste"@de ;
     skos:broader <http://leiza.de/thesaurus/A889A3> ;
     skos:definition "mehr oder weniger fest anhaftende Bodenbestandteile. Hauptsächlich an frisch geborgenen Objekten festzustellen. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Erdanhaftungen@de" .
+    skos:prefLabel "Erdanhaftungen"@de .
 
 <http://leiza.de/thesaurus/D2C2A9> a skos:Concept ;
-    skos:altLabel "Verwendung@de" ;
+    skos:altLabel "Verwendung"@de ;
     skos:broader <http://leiza.de/thesaurus/CC2F9C> ;
     skos:definition "Das Objekt zeigt Schäden, die auf seine ursprüngliche Verwendung zurück zu führen sind." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gebrauch@de" .
+    skos:prefLabel "Gebrauch"@de .
 
 <http://leiza.de/thesaurus/D2D988> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A31C7C> ;
     skos:definition "Methode, bei der ein individuell an die Form des Objektes angepasstes Gestell erarbeitet wird, in welches das Objekt eingespannt/aufgelegt/befestigt werden kann. Der Träger ist dabei i.d.R. nicht dauerhaft fest mit dem Objekt verbunden. Durch den Unterbau wird das Objekt bestmöglich gestützt und die mechanische Belastung reduziert. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Trägerbau@de" .
+    skos:prefLabel "Trägerbau"@de .
 
 <http://leiza.de/thesaurus/D2GGAC> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G59852> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Material]@de" .
+    skos:prefLabel "[Material]"@de .
 
 <http://leiza.de/thesaurus/D3AF3A> a skos:Concept ;
-    skos:altLabel "Zustandsbeschreibung@de",
-        "Zustandsdocumentation@de" ;
+    skos:altLabel "Zustandsbeschreibung"@de,
+        "Zustandsdocumentation"@de ;
     skos:broader <http://leiza.de/thesaurus/C8CG15> ;
     skos:definition "Dokumentation der durchgeführten Untersuchungsmethoden, deren Ergebnisse sowie die Einschätzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Zustandsbericht@de" ;
+    skos:prefLabel "Zustandsbericht"@de ;
     skos:related <http://leiza.de/thesaurus/C4BCF8> .
 
 <http://leiza.de/thesaurus/D45638> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C188DA> ;
     skos:definition "Durch die Einwirkung externer Faktoren schleichender Verlust von Oberflächenmaterial des Objektes." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Erosion@de" .
+    skos:prefLabel "Erosion"@de .
 
 <http://leiza.de/thesaurus/D4AC7A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CA7279> ;
     skos:definition "Begutachtung eines Objektes mit dem menschlichen Auge mit Hilfe eines Mikroskops" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Mikroskopie@de" ;
+    skos:prefLabel "Mikroskopie"@de ;
     skos:related <http://leiza.de/thesaurus/B538AG> .
 
 <http://leiza.de/thesaurus/D51B5G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BB78D2> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Negativmasse@de" .
+    skos:prefLabel "Negativmasse"@de .
 
 <http://leiza.de/thesaurus/D532GF> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C11192> ;
     skos:definition "Nachgebildetes Objekt, das einen angenommenen, ursprünglichen Zustand eines Vorbildgegendstandes wiedergibt. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Rekonstruktion@de" .
+    skos:prefLabel "Rekonstruktion"@de .
 
 <http://leiza.de/thesaurus/D66263> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C6A532> ;
     skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Anlegen elektrischer SpannungÂ " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "elektrochemische Entsalzung@de" .
+    skos:prefLabel "elektrochemische Entsalzung"@de .
 
 <http://leiza.de/thesaurus/D68BAA> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Flächenkorrosion@de" .
+    skos:prefLabel "Flächenkorrosion"@de .
 
 <http://leiza.de/thesaurus/D6A11G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAB4B7> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ausstellungsparameter@de" .
+    skos:prefLabel "Ausstellungsparameter"@de .
 
 <http://leiza.de/thesaurus/D73F9B> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CD3341> ;
     skos:definition "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut.  " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Leder@de" .
+    skos:prefLabel "Leder"@de .
 
 <http://leiza.de/thesaurus/D74F16> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A889A3> ;
     skos:definition "Lose, auf der Oberfläche des Objektes angesammelte Ablagerung von luftgetragenen Partikeln" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Staubablagerung@de" .
+    skos:prefLabel "Staubablagerung"@de .
 
 <http://leiza.de/thesaurus/D78721> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F5G576> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Montage@de" .
+    skos:prefLabel "Montage"@de .
 
 <http://leiza.de/thesaurus/D84847> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Wattestäbchen@de" .
+    skos:prefLabel "Wattestäbchen"@de .
 
 <http://leiza.de/thesaurus/D866AD> a skos:Concept ;
-    skos:altLabel "Mineral@de",
-        "Stein@de" ;
+    skos:altLabel "Mineral"@de,
+        "Stein"@de ;
     skos:broader <http://leiza.de/thesaurus/GB6DF3> ;
     skos:definition "mehr oder weniger verfestigter Werkstoff aus mikroskopisch heterogenen Gemischen von Mineralen, Gesteinsbruchstücken, organischen und/oder anorganischen Ausscheidungen und Wasser (Kristallwasser). Hauptgemengeteile bilden Minerale wie Silikate (Feldspat, Quarz, Glimmer, etc.) und Karbonate (Calcit, Dolomit, etc.)." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gestein@de" .
+    skos:prefLabel "Gestein"@de .
 
 <http://leiza.de/thesaurus/D8CBG2> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D3AGG6> ;
     skos:definition "Das Objekt zeigt eine teilweise oder ganzheitliche Trübung der Oberfläche" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schleierbildung@de" .
+    skos:prefLabel "Schleierbildung"@de .
 
 <http://leiza.de/thesaurus/D937D1> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GB33C3> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "CraquellÃ©e@de" .
+    skos:prefLabel "CraquellÃ©e"@de .
 
 <http://leiza.de/thesaurus/D949G6> a skos:Concept ;
-    skos:altLabel "Händelbarkeit@de" ;
+    skos:altLabel "Händelbarkeit"@de ;
     skos:broader <http://leiza.de/thesaurus/DAB4B7> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Handhabung@de" .
+    skos:prefLabel "Handhabung"@de .
 
 <http://leiza.de/thesaurus/D99GD4> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C188DA> ;
     skos:definition "Durch die mechanische Einwirkung scharfer Kanten ist ein Materialverlust an der Objektoberfläche festzustellen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kratzer@de" .
+    skos:prefLabel "Kratzer"@de .
 
 <http://leiza.de/thesaurus/D9C8A4> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Zersetzung@de" .
+    skos:prefLabel "Zersetzung"@de .
 
 <http://leiza.de/thesaurus/D9CC3C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F8F7CF> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Methoden]@de" .
+    skos:prefLabel "[Methoden]"@de .
 
 <http://leiza.de/thesaurus/D9F783> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A1D125> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Cyanacrylat@de" .
+    skos:prefLabel "Cyanacrylat"@de .
 
 <http://leiza.de/thesaurus/DA2D73> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GB6DF3> ;
     skos:definition "anorganischer, amorpher Silizium-Feststoff, der durch schnelles Abkühlen einer Schmelze erzeugt wird. Gläser bestehen in der Rege aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3))" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Glas@de" .
+    skos:prefLabel "Glas"@de .
 
 <http://leiza.de/thesaurus/DA4158> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A18D95> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Restaurierungs-/Konservierungsziel@de" .
+    skos:prefLabel "Restaurierungs-/Konservierungsziel"@de .
 
 <http://leiza.de/thesaurus/DA9G57> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C6A532> ;
     skos:definition "Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Einlegen des Objektes in eine Badlösung" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Badentsalzung@de" .
+    skos:prefLabel "Badentsalzung"@de .
 
 <http://leiza.de/thesaurus/DAA4F8> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A946B5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Oddy-Test@de" .
+    skos:prefLabel "Oddy-Test"@de .
 
 <http://leiza.de/thesaurus/DAA82A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CBDC4A> ;
     skos:definition "Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips). " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "einseitige Manschettenergänzung@de" .
+    skos:prefLabel "einseitige Manschettenergänzung"@de .
 
 <http://leiza.de/thesaurus/DAC482> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GF9C49> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Lötanlage@de" .
+    skos:prefLabel "Lötanlage"@de .
 
 <http://leiza.de/thesaurus/DC3F7A> a skos:Concept ;
-    skos:altLabel "Trennmittel@de" ;
+    skos:altLabel "Trennmittel"@de ;
     skos:broader <http://leiza.de/thesaurus/G967G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Isoliermittel@de" .
+    skos:prefLabel "Isoliermittel"@de .
 
 <http://leiza.de/thesaurus/DCD522> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A946B5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Mikro-Quelltest@de" .
+    skos:prefLabel "Mikro-Quelltest"@de .
 
 <http://leiza.de/thesaurus/DD3A3D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Schaden, der durch einen Transport des Objektes verursacht wurde." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Transport@de" .
+    skos:prefLabel "Transport"@de .
 
 <http://leiza.de/thesaurus/DG129D> a skos:Concept ;
-    skos:altLabel "EDS@de",
-        "EDX@de" ;
+    skos:altLabel "EDS"@de,
+        "EDX"@de ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "energiedispersive Röntgenspektroskopie@de" .
+    skos:prefLabel "energiedispersive Röntgenspektroskopie"@de .
 
 <http://leiza.de/thesaurus/DGC3A9> a skos:Concept ;
-    skos:altLabel " Glaskrankheit@de",
-        "Glaspest@de" ;
+    skos:altLabel " Glaskrankheit"@de,
+        "Glaspest"@de ;
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Glaskorrosion@de" .
+    skos:prefLabel "Glaskorrosion"@de .
 
 <http://leiza.de/thesaurus/F18C56> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Holzschaber@de" .
+    skos:prefLabel "Holzschaber"@de .
 
 <http://leiza.de/thesaurus/F1F372> a skos:Concept ;
-    skos:altLabel "Färben@de",
-        "Kolorieren@de" ;
+    skos:altLabel "Färben"@de,
+        "Kolorieren"@de ;
     skos:broader <http://leiza.de/thesaurus/G79CAC> ;
     skos:definition "Methode zur farbigen Fassung einer angefertigten Kopie nach originalem Objektvorbild" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kolorierung@de" .
+    skos:prefLabel "Kolorierung"@de .
 
 <http://leiza.de/thesaurus/F2244D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G76B7G> ;
     skos:definition "angenommene Methode(n), die zur Ausarbeitung der an dem Objekt festgestellten Verzierungselemente verwendet wurden" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verzierungstechnik@de" .
+    skos:prefLabel "Verzierungstechnik"@de .
 
 <http://leiza.de/thesaurus/F285B2> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F5G576> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Risikomanagment@de" .
+    skos:prefLabel "Risikomanagment"@de .
 
 <http://leiza.de/thesaurus/F2A5A7> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GB33C3> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Haarriss@de" .
+    skos:prefLabel "Haarriss"@de .
 
 <http://leiza.de/thesaurus/F52262> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DBC278> ;
     skos:definition "Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt im Museumsdepot aufbewahrt" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Depotlagerung@de" .
+    skos:prefLabel "Depotlagerung"@de .
 
 <http://leiza.de/thesaurus/F589G5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A13CD1> ;
     skos:definition "Zweischrittige Klebemethode, bei der die einzelnen Fragmente/Teile zunächst temporär miteinander verbunden werden (z.B. durch kleine Klebebandstreifen, Omega-Häkchen, etc.), bis die ursprüngliche Form des Objektes wieder erkennbar ist. Die tatsächliche Klebung erfolgt im zweiten Schritt, durch den gleichzeitigen Auftrag eines dünnflüssigen Klebemittels auf alle Bruchfugen. Aufgrund des Kapillareffekts zwischen den vorfixierten Bruchkanten wird der niedrigviskose Klebstoff in die Bruchfuge gesogen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Infiltrationsklebung@de" .
+    skos:prefLabel "Infiltrationsklebung"@de .
 
 <http://leiza.de/thesaurus/F58F6D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G13A7B> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "3D-Scan@de" .
+    skos:prefLabel "3D-Scan"@de .
 
 <http://leiza.de/thesaurus/F66444> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A946B5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Spot-Test@de" .
+    skos:prefLabel "Spot-Test"@de .
 
 <http://leiza.de/thesaurus/F6739F> a skos:Concept ;
-    skos:altLabel " Radiokarbonmethode@de",
-        "C14-Datierung@de",
-        "Radiokohlenstoffdatierung@de" ;
+    skos:altLabel " Radiokarbonmethode"@de,
+        "C14-Datierung"@de,
+        "Radiokohlenstoffdatierung"@de ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Radiokarbondatierung@de" .
+    skos:prefLabel "Radiokarbondatierung"@de .
 
 <http://leiza.de/thesaurus/F6CG68> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Das Objekt ist in ein oder mehrere Teile auseinandergefallen. Je nach Feinheitsgrad der entstandenen Fragmente, kann der Begriff weiter spezifiziert werden. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Fragmentierung@de" .
+    skos:prefLabel "Fragmentierung"@de .
 
 <http://leiza.de/thesaurus/F71C33> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Skalpell@de" .
+    skos:prefLabel "Skalpell"@de .
 
 <http://leiza.de/thesaurus/F72743> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G98FD4> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Plasmabehandlung@de" .
+    skos:prefLabel "Plasmabehandlung"@de .
 
 <http://leiza.de/thesaurus/F7AGD2> a skos:Concept ;
-    skos:altLabel "Probenentnahme@de" ;
+    skos:altLabel "Probenentnahme"@de ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:definition "Entnahme einer Stichprobe nach spezifischen Verfahren je nach angedachter Untersuchungsmethode. Die Probennahme dient dazu Aussagen zur Beschaffenheit, Zusammensetzung und/oder charakterischischen Eigenschaften eines Materials treffen zu können." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Probennahme@de" .
+    skos:prefLabel "Probennahme"@de .
 
 <http://leiza.de/thesaurus/F7F2A4> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Spaltkorrosion@de" .
+    skos:prefLabel "Spaltkorrosion"@de .
 
 <http://leiza.de/thesaurus/F87124> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Komplexbildner@de" .
+    skos:prefLabel "Komplexbildner"@de .
 
 <http://leiza.de/thesaurus/F8F594> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G76B7G> ;
     skos:definition "basierend auf den festgestellten Spuren angenommene Art und Weise wie das Objekt hergestellt worden ist" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Herstellungstechnik@de" .
+    skos:prefLabel "Herstellungstechnik"@de .
 
 <http://leiza.de/thesaurus/F91CBB> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Radiergummi@de" .
+    skos:prefLabel "Radiergummi"@de .
 
 <http://leiza.de/thesaurus/F9549F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C11192> ;
     skos:definition "Auf Forschungsergebnissen basierender Nachbau, ohne aktuell extistierendes Vorbild." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Modell@de" .
+    skos:prefLabel "Modell"@de .
 
 <http://leiza.de/thesaurus/F968G3> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Beschädigung, die durch Einwirkungen auf ein Objekt während der Bodenlagerung verursacht wurde. (Erddruck, Besiedelung, etc.)" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Bodenlagerung@de" .
+    skos:prefLabel "Bodenlagerung"@de .
 
 <http://leiza.de/thesaurus/F97BFF> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Auf der Objektoberfläche sind ein oder mehrere dünne Materialstücke zu sehen, die sich teilweise von dieser abgelöst haben und abstehen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schollenbildung@de" .
+    skos:prefLabel "Schollenbildung"@de .
 
 <http://leiza.de/thesaurus/F9C118> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Lochfraßkorrosion@de" .
+    skos:prefLabel "Lochfraßkorrosion"@de .
 
 <http://leiza.de/thesaurus/F9GB13> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C7C3B7> ;
     skos:definition "Bergung des Objektes mit dem umgebenden Erdreich en-block" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Blockbergung@de" .
+    skos:prefLabel "Blockbergung"@de .
 
 <http://leiza.de/thesaurus/F9GC9A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CA7279> ;
     skos:definition "Begutachtung eines Objektes mit dem menschlichen Auge ohne technische Hilfmittel" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "manuelle Sichtkontrolle@de" .
+    skos:prefLabel "manuelle Sichtkontrolle"@de .
 
 <http://leiza.de/thesaurus/FA9B73> a skos:Concept ;
-    skos:altLabel "Schichtentrennung@de" ;
+    skos:altLabel "Schichtentrennung"@de ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Das Materialgefüge des Objektes weist eine Ablösung in mehr oder weniger klar definierten Schichten auf. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Delamination@de" .
+    skos:prefLabel "Delamination"@de .
 
 <http://leiza.de/thesaurus/FAFCF5> a skos:Concept ;
-    skos:altLabel " Verschleiß@de",
-        "Abnutzung@de" ;
+    skos:altLabel " Verschleiß"@de,
+        "Abnutzung"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Durch mechanische Einwirkung hervorgerufene kumulative Schädigung des Objektes. Häufig vor allem auf die Objektoberfläche bezogen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "mechanische Beanspruchung@de" .
+    skos:prefLabel "mechanische Beanspruchung"@de .
 
 <http://leiza.de/thesaurus/FAG415> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C7C3B7> ;
     skos:definition "Einzelne Entnahme des Objektes/einzelner Fragmente aus dem Boden" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Einzelentnahme@de" .
+    skos:prefLabel "Einzelentnahme"@de .
 
 <http://leiza.de/thesaurus/FB6AGB> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
     skos:definition "Fahigkeit eines Objektes physischer Einwirkung stand zu halten" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Stabilität@de" .
+    skos:prefLabel "Stabilität"@de .
 
 <http://leiza.de/thesaurus/FB7C46> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Beschädigung des Objektes, die auf unpassende Lagerungsbedingungen zurück zu führen ist." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Lagerung@de" .
+    skos:prefLabel "Lagerung"@de .
 
 <http://leiza.de/thesaurus/FC4DGB> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A8D9GF> ;
     skos:definition "Das Objekt weist eine in sich (gegeneinander) verschobene, unebene Fläche bzw. Form auf. Verwerfungen gehen häufig mit Brüchen einher." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "verworfen@de" .
+    skos:prefLabel "verworfen"@de .
 
 <http://leiza.de/thesaurus/FCB7A5> a skos:Concept ;
-    skos:altLabel "RFA@de" ;
+    skos:altLabel "RFA"@de ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Röntgenfluoresezenzanalyse@de" .
+    skos:prefLabel "Röntgenfluoresezenzanalyse"@de .
 
 <http://leiza.de/thesaurus/FDB9F5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AG4397> ;
     skos:definition "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen einen leichten bis mittelstarken Wassergehalt auf." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Feucht@de" .
+    skos:prefLabel "Feucht"@de .
 
 <http://leiza.de/thesaurus/FDC65D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D3AGG6> ;
     skos:definition "Das Objekt zeigt partielle farbliche Veränderungen der Oberfläche" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Fleck@de" .
+    skos:prefLabel "Fleck"@de .
 
 <http://leiza.de/thesaurus/FDD71B> a skos:Concept ;
-    skos:altLabel "Salzsprengung@de" ;
+    skos:altLabel "Salzsprengung"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Schadensphänomen, das durch das Vorhandensein löslicher Salze in einem Objekt/Material verursacht wird" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Salzbelastung@de" .
+    skos:prefLabel "Salzbelastung"@de .
 
 <http://leiza.de/thesaurus/FF8792> a skos:Concept ;
-    skos:altLabel "trockene Reinigung@de" ;
+    skos:altLabel "trockene Reinigung"@de ;
     skos:broader <http://leiza.de/thesaurus/CDD613> ;
     skos:definition "Entfernung ungewollter Substanzen ohne Verwendung von Flüssigkeiten" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Trockenreinigung@de" .
+    skos:prefLabel "Trockenreinigung"@de .
 
 <http://leiza.de/thesaurus/FFA1AC> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ramanspektroskopie@de" .
+    skos:prefLabel "Ramanspektroskopie"@de .
 
 <http://leiza.de/thesaurus/FGF575> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:definition "chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Säure@de" .
+    skos:prefLabel "Säure"@de .
 
 <http://leiza.de/thesaurus/FGG2C4> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Das vormals fest gefügte Material des Objektes weist eine vollkommene Trennung in zwei oder mehr lose Teile auf." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Bruch@de" .
+    skos:prefLabel "Bruch"@de .
 
 <http://leiza.de/thesaurus/G1GA5F> a skos:Concept ;
-    skos:altLabel "Biologischer Befall@de" ;
+    skos:altLabel "Biologischer Befall"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Durch Einwirkung von biologischen Organismen (Pflanzen, Tieren, Mikroorganismen) auf oder in einem Objekt verursachte Beschädigung" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Biologische Zerstörung@de" .
+    skos:prefLabel "Biologische Zerstörung"@de .
 
 <http://leiza.de/thesaurus/G23692> a skos:Concept ;
-    skos:altLabel "Schwindung@de" ;
+    skos:altLabel "Schwindung"@de ;
     skos:broader <http://leiza.de/thesaurus/B224CD> ;
     skos:definition "Das Objekt zeigt eine Verkleinerung seiner Abmessungen im Vergleich zu seinen ursprünglichen Maßen." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schrumpfung@de" .
+    skos:prefLabel "Schrumpfung"@de .
 
 <http://leiza.de/thesaurus/G33846> a skos:Concept ;
-    skos:altLabel "Plexiglasschaber@de" ;
+    skos:altLabel "Plexiglasschaber"@de ;
     skos:broader <http://leiza.de/thesaurus/D941BB> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Acrylglasschaber@de" .
+    skos:prefLabel "Acrylglasschaber"@de .
 
 <http://leiza.de/thesaurus/G3GB59> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G814D2> ;
     skos:definition "Per Hand ausgeführte Freilegung der originalen Oberfläche ohne Verwendung elektrischer Geräte" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "manuelle Freilegung@de" .
+    skos:prefLabel "manuelle Freilegung"@de .
 
 <http://leiza.de/thesaurus/G41GC6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AG4397> ;
     skos:definition "Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Trocken@de" .
+    skos:prefLabel "Trocken"@de .
 
 <http://leiza.de/thesaurus/G43DBC> a skos:Concept ;
-    skos:altLabel "Schaden@de" ;
+    skos:altLabel "Schaden"@de ;
     skos:broader <http://leiza.de/thesaurus/C6GB1C> ;
     skos:definition "Das Objekt weist eine unvorteilhafte Veränderung gegenüber seines ursprünglich geplanten Aussehens auf. Die Signifikanz der Beschädigung/ des Schadens, ergibt sich aus der Fragestellung bzw. dem Blickwinkel aus dem das Objekt betrachtet wird. So kann ein Kriegsschaden an einem Objekt zwar große Beschädigung des Materials verursacht haben, gleichzeitig kann diese Veränderung jedoch auch als Erweiterung der Objektgeschichte gewertet werden. Andersherum gibt es Beschädigungen, die zwar keine direkte Bedrohung auf die Integrität des Objektes ausüben, sich jedoch auf die Lesbarkeit und somit die wissenschaftliche Aussagekraft des Objektes negativ auswirken." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Beschädigung@de" .
+    skos:prefLabel "Beschädigung"@de .
 
 <http://leiza.de/thesaurus/G487C2> a skos:Concept ;
-    skos:altLabel "Mikrosandstrahlgerät@de" ;
+    skos:altLabel "Mikrosandstrahlgerät"@de ;
     skos:broader <http://leiza.de/thesaurus/GF9C49> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Feinsandstrahlgerät@de" .
+    skos:prefLabel "Feinsandstrahlgerät"@de .
 
 <http://leiza.de/thesaurus/G4AG5C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C7C3B7> ;
     skos:definition "Bergung der einzelnen Scherben/Fragmente des Objektes unter Erhaltung der in-situ Anschlüsse zwischen den Fragmenten" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Scherbenpflaster@de" .
+    skos:prefLabel "Scherbenpflaster"@de .
 
 <http://leiza.de/thesaurus/G57G31> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BBF64G> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schimmelbefall@de" .
+    skos:prefLabel "Schimmelbefall"@de .
 
 <http://leiza.de/thesaurus/G6282F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FA2332> ;
     skos:definition "Umformung einer Kunstharz- oder Galvanokopie zur Herstellung der angenommenen, ursprünglichen Form eines Vorbildobjektes." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Rückformung@de" .
+    skos:prefLabel "Rückformung"@de .
 
 <http://leiza.de/thesaurus/G69G4B> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FC2113> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "monokular Mikroskop@de" .
+    skos:prefLabel "monokular Mikroskop"@de .
 
 <http://leiza.de/thesaurus/G74A2D> a skos:Concept ;
-    skos:altLabel "Spalt@de" ;
+    skos:altLabel "Spalt"@de ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Das vormals fest gefügte Material weist eine Teilung ohne vollständiges Auseinanderbrechen des Objektes auf. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Sprung@de" .
+    skos:prefLabel "Sprung"@de .
 
 <http://leiza.de/thesaurus/G78BD6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
     skos:definition "Chemisches Elemtent, silberweißes, sehr weiches Metall. Gehört zur Gruppe der Schwermetalle. Wurde in der Antike hauptsächlich als Legierungsbestandteil von (Zinn-)Bronze, später auch als reines Metall (v.a. für Geschirr und kleinere Kultobjekte), Beschichtungen und Lote verwendet." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Zinn@de" .
+    skos:prefLabel "Zinn"@de .
 
 <http://leiza.de/thesaurus/G79CA9> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DBC278> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "unklimatisierte Lagerung@de" .
+    skos:prefLabel "unklimatisierte Lagerung"@de .
 
 <http://leiza.de/thesaurus/G7D438> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/B224CD> ;
     skos:definition "Das Objekt weist eine gewölbte Oberfläche bzw. mehrere oberflächliche Wölbungen mit Hohlraum darunter auf. Der Hohlraum kann Gas, Flüssigkeit und/oder feste Stoffe enthalten." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Blasenbildung@de" .
+    skos:prefLabel "Blasenbildung"@de .
 
 <http://leiza.de/thesaurus/G7F69C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Bindemittel@de" .
+    skos:prefLabel "Bindemittel"@de .
 
 <http://leiza.de/thesaurus/G84156> a skos:Concept ;
-    skos:altLabel "offene Verbindung@de" ;
+    skos:altLabel "offene Verbindung"@de ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Zwei oder mehr Teile des Objektes weisen eine Lücke zueinander auf." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "offene Fuge@de" .
+    skos:prefLabel "offene Fuge"@de .
 
 <http://leiza.de/thesaurus/G8A626> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G814D2> ;
     skos:definition "Freilegung der originalen Objektoberfläche durch Anwendung von Chemikalien" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "nasschemische Freilegung@de" .
+    skos:prefLabel "nasschemische Freilegung"@de .
 
 <http://leiza.de/thesaurus/G8AG1C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
     skos:definition "chemisches Element, weiß-bläuliches Metall, Kommt seltenen in gediegener Form, gebunden in Erzen jedoch recht häufig auf der Erse vor. In der Antike wurde es vor allem als Legierungsbestandteil, erst später auch in reiner Form oder als Beschichtung verarbeitet. In oxidischer Form ist Zink unter anderem auch in Pigmenten enthalten." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Zink@de" .
+    skos:prefLabel "Zink"@de .
 
 <http://leiza.de/thesaurus/G8C987> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "UV-Lampe@de" .
+    skos:prefLabel "UV-Lampe"@de .
 
 <http://leiza.de/thesaurus/G8GAA6> a skos:Concept ;
-    skos:altLabel "verdunkelt@de" ;
+    skos:altLabel "verdunkelt"@de ;
     skos:broader <http://leiza.de/thesaurus/A4G8FA> ;
     skos:definition "Die Farbigkeit des Objektes zeigt eine Reduktion hinsichtlich des Lichtreflexionsvermögen, Tons und/oder Helligkeit" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "nachgedunkelt@de" .
+    skos:prefLabel "nachgedunkelt"@de .
 
 <http://leiza.de/thesaurus/G992B6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
     skos:definition "Chemisches Element, silber-gräuliches, weiches Metall. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Kommt in der Natur seltener in gediegener Form vor. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glazuren sowie Legierungen mit anderen Metallen verwendet." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Blei@de" .
+    skos:prefLabel "Blei"@de .
 
 <http://leiza.de/thesaurus/G9D1C8> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
     skos:definition "Die Abmessungen des Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Maße@de" .
+    skos:prefLabel "Maße"@de .
 
 <http://leiza.de/thesaurus/GA2C4A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D3AGG6> ;
     skos:definition "Die vormals glänzende Oberfläche eines Objektes geht zunehmend in ein mattes Erscheinungsbild über." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Glanzverlust@de" .
+    skos:prefLabel "Glanzverlust"@de .
 
 <http://leiza.de/thesaurus/GA6422> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FC2113> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "binokular Mikroskop@de" .
+    skos:prefLabel "binokular Mikroskop"@de .
 
 <http://leiza.de/thesaurus/GAC37B> a skos:Concept ;
-    skos:altLabel "eingedellt@de" ;
+    skos:altLabel "eingedellt"@de ;
     skos:broader <http://leiza.de/thesaurus/A8D9GF> ;
     skos:definition "Die Deformation des Objektes weist eine nach innen gerichtete Form auf. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "eingedrückt@de" .
+    skos:prefLabel "eingedrückt"@de .
 
 <http://leiza.de/thesaurus/GAD222> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CGC619> ;
     skos:definition "Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Einfügung@de" .
+    skos:prefLabel "Einfügung"@de .
 
 <http://leiza.de/thesaurus/GBDG4D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Beschädigung, die durch den Umgang mit dem Objekt bei der Ausgrabung entstanden ist. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Bergung@de" .
+    skos:prefLabel "Bergung"@de .
 
 <http://leiza.de/thesaurus/GC14B8> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAG2A8> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "digitale Abformung@de" .
+    skos:prefLabel "digitale Abformung"@de .
 
 <http://leiza.de/thesaurus/GC4CA7> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G3D2F5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Patinabildung@de" .
+    skos:prefLabel "Patinabildung"@de .
 
 <http://leiza.de/thesaurus/GC6999> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D41661> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Cellulosenitrat@de" .
+    skos:prefLabel "Cellulosenitrat"@de .
 
 <http://leiza.de/thesaurus/GCCD95> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Beschädigung des Objektes, durch Emmision von schädlichen Stoffen im direkten Umfeld des Objektes (Verpackungsmaterial, Vitrinen, etc.) oder durch emmitierende Stoffe, die zur Bearbeitung des Objektes selbst Verwendung fanden. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schadstoffe@de" .
+    skos:prefLabel "Schadstoffe"@de .
 
 <http://leiza.de/thesaurus/GD5454> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GB33C3> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Oberflächenriss@de" .
+    skos:prefLabel "Oberflächenriss"@de .
 
 <http://leiza.de/thesaurus/GDCD91> a skos:Concept ;
-    skos:altLabel "verbräunt@de" ;
+    skos:altLabel "verbräunt"@de ;
     skos:broader <http://leiza.de/thesaurus/A4G8FA> ;
     skos:definition "Die Farbigkeit des Objektes hat sich zu einem gelben, braunen bis goldbraunen Farbton verändert" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "vergilbt@de" .
+    skos:prefLabel "vergilbt"@de .
 
 <http://leiza.de/thesaurus/GDF23F> a skos:Concept ;
-    skos:altLabel "Vorgehensweise@de" ;
+    skos:altLabel "Vorgehensweise"@de ;
     skos:broader <http://leiza.de/thesaurus/A18D95> ;
     skos:definition "Planung der strukturierten Vorgehensweise bei der praktischen Durchführung zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel. Basierend auf den Erkenntnissen der Zustandserfassung sowie unter Berücksichtigung der Risikobeurteilung und der Zeitplanung werden die geeignetsten Methoden und Techniken, die benötigten Materialien sowie Werkzeuge festgelegt. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Methodik@de" .
+    skos:prefLabel "Methodik"@de .
 
 <http://leiza.de/thesaurus/GF41DG> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G98FD4> ;
     skos:definition "Methode zum Schutz der Objektoberfläche vor negativer Einwirkung von außen durch Auftrag eines schützenden Materials" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schutzüberzug@de" .
+    skos:prefLabel "Schutzüberzug"@de .
 
 <http://leiza.de/thesaurus/GFD582> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A1D125> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Acrylharz@de" .
+    skos:prefLabel "Acrylharz"@de .
 
 <http://leiza.de/thesaurus/GGD66G> a skos:Concept ;
-    skos:altLabel "Wassereinbruch@de",
-        "Ãberschwemmung@de" ;
+    skos:altLabel "Wassereinbruch"@de,
+        "Ãberschwemmung"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Durch den Kontakt zu Wasser herbeigeführte Schäden an einem Objekt" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Wasser@de" .
+    skos:prefLabel "Wasser"@de .
 
 <http://leiza.de/thesaurus/nan> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C188DA> ;
     skos:definition "Materialverlust durch Eindringen/Einwachsen von pflanzlichen Wurzeln in das Objekt" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Durchwurzelung@de" .
+    skos:prefLabel "Durchwurzelung"@de .
 
 <http://leiza.de/thesaurus/A2B5A3> a skos:Concept ;
-    skos:altLabel "Röntgen@de" ;
+    skos:altLabel "Röntgen"@de ;
     skos:broader <http://leiza.de/thesaurus/FB231A> ;
     skos:definition "Bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "konventionelle Radiographie@de" ;
+    skos:prefLabel "konventionelle Radiographie"@de ;
     skos:related <http://leiza.de/thesaurus/G8D62A> .
 
 <http://leiza.de/thesaurus/AD789F> a skos:Concept ;
-    skos:altLabel "Silberlegierungen@de" ;
+    skos:altLabel "Silberlegierungen"@de ;
     skos:broader <http://leiza.de/thesaurus/FGA46A> ;
     skos:definition "legierung mit Silber als Hauptbestandteil" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Silberlegierung@de" ;
+    skos:prefLabel "Silberlegierung"@de ;
     skos:related <http://leiza.de/thesaurus/F135A8> .
 
 <http://leiza.de/thesaurus/AF9A88> a skos:Concept ;
-    skos:altLabel "CT@de" ;
+    skos:altLabel "CT"@de ;
     skos:broader <http://leiza.de/thesaurus/FB231A> ;
     skos:definition "Bildgebendes Verfahren bei dem das Objekt aus mehreren Richtungen mit Röntgenstrahlen durchleuchtet wird. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert. Durch die verschiedenen Richtungen, aus denen die Röntgenstrahlen durch das Objekt treten, entstehen mehrere Absorptionsprofile. Diese werden nach Abschluss der Aufnahmen mit Hilfe des Computers zu digitalen Schnittbildern zusammengerechnet. In dem mehrere angrenzende Schnittbilder zusammengesetzt und die Volumengrafiken errechnet werden, lassen sich dreidimnesionale Darstellungen der inneren Struktur des untersuchten Objektes erzeugen. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Computertomographie@de" ;
+    skos:prefLabel "Computertomographie"@de ;
     skos:related <http://leiza.de/thesaurus/DG6841> .
 
 <http://leiza.de/thesaurus/B764C6> a skos:Concept ;
-    skos:altLabel "REM@de" ;
+    skos:altLabel "REM"@de ;
     skos:broader <http://leiza.de/thesaurus/B538AG> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Rasterelektronenmikroskop@de" ;
+    skos:prefLabel "Rasterelektronenmikroskop"@de ;
     skos:related <http://leiza.de/thesaurus/D3BFFF> .
 
 <http://leiza.de/thesaurus/BC75G1> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
     skos:definition "Legierung mit Eisen als Hauptbestandteil. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Eisenlegierung@de" ;
+    skos:prefLabel "Eisenlegierung"@de ;
     skos:related <http://leiza.de/thesaurus/F71C6B> .
 
 <http://leiza.de/thesaurus/D3BFFF> a skos:Concept ;
-    skos:altLabel "REM@de" ;
+    skos:altLabel "REM"@de ;
     skos:broader <http://leiza.de/thesaurus/G13A7B> ;
     skos:definition "Methode mit dem die Objektoberfläche durch das Abrastern mit einem Elektronenstrahl vergrößert abgebildet wird. Erzeugt wird das Bild der Objektoberfläche durch die Wechselwirkungen der Elektronen mit dem Objekt." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Rasterelektronenmikroskopie@de" ;
+    skos:prefLabel "Rasterelektronenmikroskopie"@de ;
     skos:related <http://leiza.de/thesaurus/B764C6> .
 
 <http://leiza.de/thesaurus/DC5B2B> a skos:Concept ;
-    skos:altLabel "Goldlegierungen@de" ;
+    skos:altLabel "Goldlegierungen"@de ;
     skos:broader <http://leiza.de/thesaurus/FGA46A> ;
     skos:definition "Legierung mit Gold als Hauptbestandteil" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Goldlegierung@de" ;
+    skos:prefLabel "Goldlegierung"@de ;
     skos:related <http://leiza.de/thesaurus/FD5149> .
 
 <http://leiza.de/thesaurus/DG6841> a skos:Concept ;
-    skos:altLabel "CT@de" ;
+    skos:altLabel "CT"@de ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Computertomograph@de" ;
+    skos:prefLabel "Computertomograph"@de ;
     skos:related <http://leiza.de/thesaurus/AF9A88> .
 
 <http://leiza.de/thesaurus/F135A8> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FGA46A> ;
     skos:definition "chemisches Element, hellgraues, weiches Metall. Kommt in der Natur sowohl gediegen, als auch in Form von Mineralen vor. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Silber@de" ;
+    skos:prefLabel "Silber"@de ;
     skos:related <http://leiza.de/thesaurus/AD789F> .
 
 <http://leiza.de/thesaurus/F71C6B> a skos:Concept ;
-    skos:altLabel "Fe@de" ;
+    skos:altLabel "Fe"@de ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
     skos:definition "chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Eisen@de" ;
+    skos:prefLabel "Eisen"@de ;
     skos:related <http://leiza.de/thesaurus/BC75G1> .
 
 <http://leiza.de/thesaurus/FD5149> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FGA46A> ;
     skos:definition "chemisches Element, gelbliches Edelmetall. Kommt in der Natur überwiegend gediegen vor." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Gold@de" ;
+    skos:prefLabel "Gold"@de ;
     skos:related <http://leiza.de/thesaurus/DC5B2B> .
 
 <http://leiza.de/thesaurus/FFA16B> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F8F7CF> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Materialien]@de" .
+    skos:prefLabel "[Materialien]"@de .
 
 <http://leiza.de/thesaurus/G8D62A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Röntgenanlage@de" ;
+    skos:prefLabel "Röntgenanlage"@de ;
     skos:related <http://leiza.de/thesaurus/A2B5A3> .
 
 <http://leiza.de/thesaurus/G967G1> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/BB78D2> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Stützkapselmaterial@de" .
+    skos:prefLabel "Stützkapselmaterial"@de .
 
 <http://leiza.de/thesaurus/A13CD1> a skos:Concept ;
-    skos:altLabel "Fügung@de",
-        "Kleben@de" ;
+    skos:altLabel "Fügung"@de,
+        "Kleben"@de ;
     skos:broader <http://leiza.de/thesaurus/C79561> ;
     skos:definition "Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive Verbindung mit Klebstoff" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Klebung@de" .
+    skos:prefLabel "Klebung"@de .
 
 <http://leiza.de/thesaurus/A31C7C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DA9CGG> ;
     skos:definition "Methode, bei der ein Objekt durch die mechanische Befestigung auf einem festen Material unterstützt/ stabilisiert wird." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Verstärkung@de" .
+    skos:prefLabel "Verstärkung"@de .
 
 <http://leiza.de/thesaurus/A9FF5A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DA9CGG> ;
     skos:definition "Konservierungsmethode, bei der die poröse/instabile, innere Werkstoffstruktur eines Objektes durch die Einbringung eines sich in Lösung befindlichen Polymers stabilisiert wird" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Tränkung@de" .
+    skos:prefLabel "Tränkung"@de .
 
 <http://leiza.de/thesaurus/B5DD1A> a skos:Concept ;
-    skos:altLabel "Metalle@de" ;
+    skos:altLabel "Metalle"@de ;
     skos:broader <http://leiza.de/thesaurus/B51DAF> ;
     skos:definition "Gruppe chemischer Elemente" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Metall@de" .
+    skos:prefLabel "Metall"@de .
 
 <http://leiza.de/thesaurus/C3A182> a skos:Concept ;
-    skos:altLabel "Kopieren@de",
-        "Nachbilden@de" ;
+    skos:altLabel "Kopieren"@de,
+        "Nachbilden"@de ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
     skos:definition "Erstellung aussagekräftiger Vergleichsstücke zu wissenschaftlichem Zweck" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Nachbildung für wissenschaftliche Zwecke@de" .
+    skos:prefLabel "Nachbildung für wissenschaftliche Zwecke"@de .
 
 <http://leiza.de/thesaurus/C93638> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Werkzeuge]@de" .
+    skos:prefLabel "[Werkzeuge]"@de .
 
 <http://leiza.de/thesaurus/CBDC4A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CGC619> ;
     skos:definition "Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt bzw. mit weniger Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Manschettenergänzung@de" .
+    skos:prefLabel "Manschettenergänzung"@de .
 
 <http://leiza.de/thesaurus/CC2F9C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Schaden, der bereits vor der Bodenlagerung entstanden ist und demnach zur historischen Objektbiographie des Objektes zählt. Solche Schäden liefern wichtige Hinweise zu Herstellungstechnik und Verwendung, gehören somit zur wissenschaftlichen Aussagekraft des Objektes und dürfen nicht entfernt werden." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "antike Beschädigung@de" .
+    skos:prefLabel "antike Beschädigung"@de .
 
 <http://leiza.de/thesaurus/D41661> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A1D125> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Cellulosederivat@de" .
+    skos:prefLabel "Cellulosederivat"@de .
 
 <http://leiza.de/thesaurus/F8F7CF> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G79CAC> ;
     skos:definition "Methode zur Erstellung einer originalgetreuen Nachbildung eines Objektes. Der Kopieherstellung geht die Abformung eines Objektes voraus." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kopieherstellung@de" ;
+    skos:prefLabel "Kopieherstellung"@de ;
     skos:related <http://leiza.de/thesaurus/DAG2A8> .
 
 <http://leiza.de/thesaurus/FA2332> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G79CAC> ;
     skos:definition "Methode zur Wiederherstellung und/oder Nachbildung eines ursprünglichen Zustandes " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Rekonstruktion@de" .
+    skos:prefLabel "Rekonstruktion"@de .
 
 <http://leiza.de/thesaurus/FB231A> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G13A7B> ;
     skos:definition "Sammelbegriff für Verfahren zur bildhaften Darstellung inneren Strukturen eines Objektes mit Hilfe von Röntgenstrahlen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Röntgenuntersuchung@de" .
+    skos:prefLabel "Röntgenuntersuchung"@de .
 
 <http://leiza.de/thesaurus/FGB415> a skos:Concept ;
-    skos:altLabel "Kupferlegierungen@de" ;
+    skos:altLabel "Kupferlegierungen"@de ;
     skos:broader <http://leiza.de/thesaurus/A82D86> ;
     skos:definition "Legierung mit Kupfer als Hauptbestandteil" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kupferlegierung@de" .
+    skos:prefLabel "Kupferlegierung"@de .
 
 <http://leiza.de/thesaurus/G52378> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAG2A8> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "analoge Abformung@de" .
+    skos:prefLabel "analoge Abformung"@de .
 
 <http://leiza.de/thesaurus/G59852> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G79CAC> ;
     skos:definition "Ohne direkte Abformung angefertigte Nachbildung oder Wiedergabe eines originalen Objektes, das von einer anderen Person angefertigt wurde." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Reproduktion@de" .
+    skos:prefLabel "Reproduktion"@de .
 
 <http://leiza.de/thesaurus/A4G8FA> a skos:Concept ;
-    skos:altLabel "Verfärbung@de" ;
+    skos:altLabel "Verfärbung"@de ;
     skos:broader <http://leiza.de/thesaurus/D3AGG6> ;
     skos:definition "Das Objekt zeigt in seiner Farbigkeit eine Ãnderung, die mindestend eine der drei Farbparameter Ton, Helligkeit oder Sättigung betrifft." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Farbveränderung@de" .
+    skos:prefLabel "Farbveränderung"@de .
 
 <http://leiza.de/thesaurus/A889A3> a skos:Concept ;
-    skos:altLabel " Ablagerung@de",
-        "Verschmutzung@de" ;
+    skos:altLabel " Ablagerung"@de,
+        "Verschmutzung"@de ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Schadensphänomen, das durch Ablagerung unerwünschter Substanz, die Lesbarkeit des Objektes vermindert" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schmutz@de" .
+    skos:prefLabel "Schmutz"@de .
 
 <http://leiza.de/thesaurus/A946B5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G9B788> ;
     skos:definition "Analyse des Objektwerkstoffes mit Hilfe von chemischen Reagenzien " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "chemische Untersuchung@de" .
+    skos:prefLabel "chemische Untersuchung"@de .
 
 <http://leiza.de/thesaurus/AG4397> a skos:Concept ;
-    skos:altLabel "Wassergehalt@de" ;
+    skos:altLabel "Wassergehalt"@de ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
     skos:definition "Enthaltener Feuchtigkeitsanteil im Porenraum eines Materialis/Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Feuchtigkeitsgehalt@de" .
+    skos:prefLabel "Feuchtigkeitsgehalt"@de .
 
 <http://leiza.de/thesaurus/BBF64G> a skos:Concept ;
-    skos:altLabel "Film@de" ;
+    skos:altLabel "Film"@de ;
     skos:broader <http://leiza.de/thesaurus/DAC996> ;
     skos:definition "Bildung/Vorhandensein einer anhaftenden Schicht auf der Oberfläche des Objektes." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ablagerung@de" .
+    skos:prefLabel "Ablagerung"@de .
 
 <http://leiza.de/thesaurus/BC5B57> a skos:Concept ;
-    skos:altLabel "Diagnose@de" ;
+    skos:altLabel "Diagnose"@de ;
     skos:broader <http://leiza.de/thesaurus/CA1BC5> ;
     skos:definition "strukturierender Sammelbegriff für die Benennung der bei der Objektuntersuchung festgestellten Beobachtungen und Auswertungen hinsichtlich der Gesamtbeschaffenheit des Objektes und dessen Ursache" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Untersuchungsergebnisse]@de" .
+    skos:prefLabel "[Untersuchungsergebnisse]"@de .
 
 <http://leiza.de/thesaurus/C6GB1C> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
     skos:definition "Ãnderung des ursprünglich und/oder geplanten Aussehens eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Veränderung@de" .
+    skos:prefLabel "Veränderung"@de .
 
 <http://leiza.de/thesaurus/C7C3B7> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DBC278> ;
     skos:definition "Das Objekt wurde im direkten Anschluss seiner Bergung von der Grabung in die Restaurierungswerkstätt eingeliefert" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Frischfund@de" .
+    skos:prefLabel "Frischfund"@de .
 
 <http://leiza.de/thesaurus/C9D991> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAC996> ;
     skos:definition "Durch chemische Prozesse herbeigeführte Beschädigung eines Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "chemische Veränderung@de" .
+    skos:prefLabel "chemische Veränderung"@de .
 
 <http://leiza.de/thesaurus/CA1BC5> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C4BCF8> ;
     skos:definition "Beschaffung und Sammlung von Informationen über den Zustand eines Objektes, anhand derer das Restaurierungs-/Konservierungskonzept und/oder die weiteren Lagerungs- und Handhabungsempefehlungen formuliert werden" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Objektuntersuchung@de" .
+    skos:prefLabel "Objektuntersuchung"@de .
 
 <http://leiza.de/thesaurus/CA7279> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D4A13D> ;
     skos:definition "Betrachtung und Einschätzung des optischen Erscheinungsbildes/Zustandes des Objektes mit dem menschlichen Auge" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "optische Begutachtung@de" .
+    skos:prefLabel "optische Begutachtung"@de .
 
 <http://leiza.de/thesaurus/D4A13D> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CA1BC5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Untersuchungsmethode]@de" .
+    skos:prefLabel "[Untersuchungsmethode]"@de .
 
 <http://leiza.de/thesaurus/D8G747> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GF9C49> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Mikromotor@de" .
+    skos:prefLabel "Mikromotor"@de .
 
 <http://leiza.de/thesaurus/DA9CGG> a skos:Concept ;
-    skos:altLabel "Festigen@de",
-        "Sicherung@de",
-        "Stabilisierung@de" ;
+    skos:altLabel "Festigen"@de,
+        "Sicherung"@de,
+        "Stabilisierung"@de ;
     skos:broader <http://leiza.de/thesaurus/G98FD4> ;
     skos:definition "Methode zur Verbesserung des inneren Zusammenhaltes oder der mechanischen Stabiliät eines Objektes durch Zuführung eines stabilisierenden Materials" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Festigung@de" .
+    skos:prefLabel "Festigung"@de .
 
 <http://leiza.de/thesaurus/DAG2A8> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G79CAC> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Abformung@de" .
+    skos:prefLabel "Abformung"@de .
 
 <http://leiza.de/thesaurus/F5G576> a skos:Concept ;
-    skos:altLabel "präventive Maßnahmen@de" ;
+    skos:altLabel "präventive Maßnahmen"@de ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
     skos:definition "Sammelbegriff für vorbeugende Maßnahmen zur Vermeidung oder Minimierung von künftigen Schaden, Abbau, Verlust und folglich invasivem Eingriff. Bei der präventiven Konservierung findet lediglich eine passive Einwirkung auf das Objekt statt (vgl. DIN EN 15898:2020-02)." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "präventive Konservierung@de" .
+    skos:prefLabel "präventive Konservierung"@de .
 
 <http://leiza.de/thesaurus/GB6DF3> a skos:Concept ;
-    skos:altLabel "mineralische Materialien@de",
-        "silikatische Materialien@de" ;
+    skos:altLabel "mineralische Materialien"@de,
+        "silikatische Materialien"@de ;
     skos:broader <http://leiza.de/thesaurus/B51DAF> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Silikat@de" .
+    skos:prefLabel "Silikat"@de .
 
 <http://leiza.de/thesaurus/A82D86> a skos:Concept ;
-    skos:altLabel "Buntmetall@de" ;
+    skos:altLabel "Buntmetall"@de ;
     skos:broader <http://leiza.de/thesaurus/BBF566> ;
     skos:definition "Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung hauptsächlich als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Buntmetalllegierung@de" .
+    skos:prefLabel "Buntmetalllegierung"@de .
 
 <http://leiza.de/thesaurus/A8ABBA> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DBC278> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "klimatisierte Lagerung@de" .
+    skos:prefLabel "klimatisierte Lagerung"@de .
 
 <http://leiza.de/thesaurus/B51DAF> a skos:Concept ;
-    skos:altLabel "Objektmaterial@de",
-        "Werkstoff@de" ;
+    skos:altLabel "Objektmaterial"@de,
+        "Werkstoff"@de ;
     skos:definition "Material aus dem das Objekt besteht." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Material@de" ;
+    skos:prefLabel "Material"@de ;
     skos:topConceptOf <http://leiza.de/thesaurus/> .
 
 <http://leiza.de/thesaurus/B538AG> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/AA6941> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Mikroskop@de" .
+    skos:prefLabel "Mikroskop"@de .
 
 <http://leiza.de/thesaurus/BBF566> a skos:Concept ;
-    skos:altLabel "unedle Metalle@de" ;
+    skos:altLabel "unedle Metalle"@de ;
     skos:broader <http://leiza.de/thesaurus/B5DD1A> ;
     skos:definition "Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "unedles Metal@de" .
+    skos:prefLabel "unedles Metal"@de .
 
 <http://leiza.de/thesaurus/C11192> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C3A182> ;
     skos:definition "struktureller Sammelbegriff für die bei der Nachbildungstätigkeit entstehenden Objekte" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Nachbildungsergebnisse]@de" .
+    skos:prefLabel "[Nachbildungsergebnisse]"@de .
 
 <http://leiza.de/thesaurus/C6A532> a skos:Concept ;
-    skos:altLabel "Entsalzen@de" ;
+    skos:altLabel "Entsalzen"@de ;
     skos:broader <http://leiza.de/thesaurus/G98FD4> ;
     skos:definition "Methode zur Entfernung von durch die Bodenlagerung in ein Objekt/Material eingedrungenen Salzen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Entsalzung@de" .
+    skos:prefLabel "Entsalzung"@de .
 
 <http://leiza.de/thesaurus/C79561> a skos:Concept ;
-    skos:altLabel "Restaurierung@de",
-        "Restaurierungsmethoden@de" ;
+    skos:altLabel "Restaurierung"@de,
+        "Restaurierungsmethoden"@de ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
     skos:definition "Sammelbegriff für einen aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Restaurierungsmaßnahme@de" .
+    skos:prefLabel "Restaurierungsmaßnahme"@de .
 
 <http://leiza.de/thesaurus/C8CG15> a skos:Concept ;
     skos:definition "Sammelbegriff für Aufzeichnungen gemachter Beobachtungen und Handlungen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Dokumentation@de" ;
+    skos:prefLabel "Dokumentation"@de ;
     skos:topConceptOf <http://leiza.de/thesaurus/> .
 
 <http://leiza.de/thesaurus/CD3341> a skos:Concept ;
-    skos:altLabel "organisches Material@de" ;
+    skos:altLabel "organisches Material"@de ;
     skos:broader <http://leiza.de/thesaurus/B51DAF> ;
     skos:definition "Allgemeiner Sammelbegriff für natürlich von Organismen gebildete Stoffe meist tierisch- oder pflanzlichen Ursprungs. Werden durch biologische Mechanismen im Boden abgebaut, wodurch archäologische Objekte aus organischen Materialien nur unter besonderen Bedingungen, die deren fortschreitende Zersetzung verlangsamen oder verhindern, erhalten bleiben. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Organik@de" .
+    skos:prefLabel "Organik"@de .
 
 <http://leiza.de/thesaurus/CDD613> a skos:Concept ;
-    skos:altLabel "Reinigen@de" ;
+    skos:altLabel "Reinigen"@de ;
     skos:broader <http://leiza.de/thesaurus/C79561> ;
     skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von/aus einem Objekt, um dessen optisches Erscheinungsbild und Lesbarkeit zu verbessern. Der Begriff wird in der Regel vor allem als allgemeinerer Begriff für die Entfernung von locker aufliegenden Verschmutzungen, wie Staub- oder Erdanhaftungen, aber auch alten Restaurierungsmaterialien verwendet. Er weist enge Verwandschaft und einen fließenden Ãbergang zu dem Begriff \"Freilegung\" auf." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Reinigung@de" ;
+    skos:prefLabel "Reinigung"@de ;
     skos:related <http://leiza.de/thesaurus/G814D2> .
 
 <http://leiza.de/thesaurus/CGC619> a skos:Concept ;
-    skos:altLabel "Ergänzen@de" ;
+    skos:altLabel "Ergänzen"@de ;
     skos:broader <http://leiza.de/thesaurus/C79561> ;
     skos:definition "Methode zur Vervollständigung fehlender Objektteile durch das Hinzufügen von Material. Wird nach der modernen archäologischen Restaurierungsethik nur noch aus statischen/stabilisierenden Gründen oder zu Rekonstruktion eines vollkommen unkenntlichen Erscheinungsbildes durchgeführt." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Ergänzung@de" .
+    skos:prefLabel "Ergänzung"@de .
 
 <http://leiza.de/thesaurus/DBC278> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C4BCF8> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Bisherige Lagerung@de" .
+    skos:prefLabel "Bisherige Lagerung"@de .
 
 <http://leiza.de/thesaurus/FGA46A> a skos:Concept ;
-    skos:altLabel "Edelmetalle@de" ;
+    skos:altLabel "Edelmetalle"@de ;
     skos:broader <http://leiza.de/thesaurus/B5DD1A> ;
     skos:definition "chemisches Element mit hoher Korrosionsbeständigkeit" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Edelmetall@de" .
+    skos:prefLabel "Edelmetall"@de .
 
 <http://leiza.de/thesaurus/G13A7B> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D4A13D> ;
     skos:definition "Untersuchungs des Objektes auf spezifische Eigenschaften/Zustände durch die Erstellung von bildhaften Darstellungen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "bildgebende Untersuchung@de" .
+    skos:prefLabel "bildgebende Untersuchung"@de .
 
 <http://leiza.de/thesaurus/G814D2> a skos:Concept ;
-    skos:altLabel "Freilegen@de" ;
+    skos:altLabel "Freilegen"@de ;
     skos:broader <http://leiza.de/thesaurus/C79561> ;
     skos:definition "Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff \"Freilegung\" wird, in Abgrenzung zum Begriff \"Reinigung\", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Ãbergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Freilegung@de" ;
+    skos:prefLabel "Freilegung"@de ;
     skos:related <http://leiza.de/thesaurus/CDD613> .
 
 <http://leiza.de/thesaurus/GB33C3> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CB9GD3> ;
     skos:definition "Das Materialgefüge des Objektes zeigt eine Abtrennung mit unregelmäßiger Kanten. Häufig verursacht durch Spannungsabbau im Gefüge. " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Riss@de" .
+    skos:prefLabel "Riss"@de .
 
 <http://leiza.de/thesaurus/A1D125> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "synthetisches Polymer@de" .
+    skos:prefLabel "synthetisches Polymer"@de .
 
 <http://leiza.de/thesaurus/AA6941> a skos:Concept ;
-    skos:altLabel "Analysegerät@de" ;
+    skos:altLabel "Analysegerät"@de ;
     skos:broader <http://leiza.de/thesaurus/CA1BC5> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Untersuchungsgerät]@de" .
+    skos:prefLabel "[Untersuchungsgerät]"@de .
 
 <http://leiza.de/thesaurus/B224CD> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAC996> ;
     skos:definition "Das Objekt zeigt eine sich negativ auf seine ursprüngliche Form auswirkende Veränderung" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Formänderung@de" .
+    skos:prefLabel "Formänderung"@de .
 
 <http://leiza.de/thesaurus/D3AGG6> a skos:Concept ;
-    skos:altLabel "optische Veränderung@de" ;
+    skos:altLabel "optische Veränderung"@de ;
     skos:broader <http://leiza.de/thesaurus/DAC996> ;
     skos:definition "Eine negative Veränderung des visuellen Eindrucks des Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "visuelle Veränderung@de" .
+    skos:prefLabel "visuelle Veränderung"@de .
 
 <http://leiza.de/thesaurus/G76B7G> a skos:Concept ;
-    skos:altLabel "Interpretation@de" ;
+    skos:altLabel "Interpretation"@de ;
     skos:definition "Erläuterung und Auslegung der während der Untersuchung und Bearbeitung eines Objektes festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Technologische Auswertung@de" ;
+    skos:prefLabel "Technologische Auswertung"@de ;
     skos:topConceptOf <http://leiza.de/thesaurus/> .
 
 <http://leiza.de/thesaurus/G98FD4> a skos:Concept ;
-    skos:altLabel "Konservierungsmethoden@de",
-        "stabilisierende Konservierung@de" ;
+    skos:altLabel "Konservierungsmethoden"@de,
+        "stabilisierende Konservierung"@de ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
     skos:definition "Sammelbegriff für einen aktiven Eingriff, der direkt an einem Objekt vorgenommen wird, um weiteren Abbau, Zerfall und/oder Schädigung zu verhindern, zu verzögern und/oder zu begrenzen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Konservierungsmaßnahme@de" .
+    skos:prefLabel "Konservierungsmaßnahme"@de .
 
 <http://leiza.de/thesaurus/A18D95> a skos:Concept ;
     skos:definition "Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabschätzung, basierend auf den Ergebnissen der Zustandserfassung." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Restaurierungs-/Konservierungskonzept@de" ;
+    skos:prefLabel "Restaurierungs-/Konservierungskonzept"@de ;
     skos:related <http://leiza.de/thesaurus/C4BCF8> ;
     skos:topConceptOf <http://leiza.de/thesaurus/> .
 
 <http://leiza.de/thesaurus/A8D9GF> a skos:Concept ;
-    skos:altLabel "Verformung@de" ;
+    skos:altLabel "Verformung"@de ;
     skos:broader <http://leiza.de/thesaurus/B224CD> ;
     skos:definition "Das Objekt zeigt eine oder mehrere bruchlose Veränderung(en) seiner ursprünglichen Form oder Abmessung." ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Deformation@de" .
+    skos:prefLabel "Deformation"@de .
 
 <http://leiza.de/thesaurus/C188DA> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAC996> ;
     skos:definition "Teile des Objektes sind verloren gegangen" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Substanzverlust@de" .
+    skos:prefLabel "Substanzverlust"@de .
 
 <http://leiza.de/thesaurus/DAB4B7> a skos:Concept ;
     skos:definition "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeinträchtigung zu schützen und zu erhalten" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Handlungsempfehlung@de" ;
+    skos:prefLabel "Handlungsempfehlung"@de ;
     skos:topConceptOf <http://leiza.de/thesaurus/> .
 
 <http://leiza.de/thesaurus/G79CAC> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C3A182> ;
     skos:definition "strukturierender Sammelbegriff für verschiedene Methoden, die zur Herstellung von wissenschaftlichen Vergleichsstücken angewandt werden können sowie die hierzu benötigten Materialien" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Nachbildungsmethoden und - materialien]@de" .
+    skos:prefLabel "[Nachbildungsmethoden und - materialien]"@de .
 
 <http://leiza.de/thesaurus/GF9C49> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C93638> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[technische Geräte]@de" .
+    skos:prefLabel "[technische Geräte]"@de .
 
 <http://leiza.de/thesaurus/BB78D2> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/G52378> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Abformungsmaterialien]@de" .
+    skos:prefLabel "[Abformungsmaterialien]"@de .
 
 <http://leiza.de/thesaurus/C4BCF8> a skos:Concept ;
-    skos:altLabel "Zustandserhebung@de" ;
+    skos:altLabel "Zustandserhebung"@de ;
     skos:definition "methodischen Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Zustandserfassung@de" ;
+    skos:prefLabel "Zustandserfassung"@de ;
     skos:topConceptOf <http://leiza.de/thesaurus/> .
 
 <http://leiza.de/thesaurus/DAC996> a skos:Concept ;
-    skos:altLabel "Beschädigungsart@de",
-        "Schaden@de" ;
+    skos:altLabel "Beschädigungsart"@de,
+        "Schaden"@de ;
     skos:broader <http://leiza.de/thesaurus/BC5B57> ;
     skos:definition "Art der negativen Veränderung an einem Objekt" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schadensphänomen@de" .
+    skos:prefLabel "Schadensphänomen"@de .
 
 <http://leiza.de/thesaurus/FC2113> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/B538AG> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Lichtmikroskop@de" .
+    skos:prefLabel "Lichtmikroskop"@de .
 
 <http://leiza.de/thesaurus/CFGDA3> a skos:Concept ;
-    skos:altLabel "durchgeführte Maßnahme@de" ;
+    skos:altLabel "durchgeführte Maßnahme"@de ;
     skos:definition "Ausführung der im Restaurierungskonzept geplanten Vorgehensweisen zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel " ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Praktische Durchführung@de" ;
+    skos:prefLabel "Praktische Durchführung"@de ;
     skos:related <http://leiza.de/thesaurus/A18D95> ;
     skos:topConceptOf <http://leiza.de/thesaurus/> .
 
 <http://leiza.de/thesaurus/G3D2F5> a skos:Concept ;
-    skos:altLabel "Korrosionsprodukt@de" ;
+    skos:altLabel "Korrosionsprodukt"@de ;
     skos:broader <http://leiza.de/thesaurus/C9D991> ;
     skos:definition "Auf oder im Objekt zeigen sich Materialumwandlungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Korrosionserscheinung@de" .
+    skos:prefLabel "Korrosionserscheinung"@de .
 
 <http://leiza.de/thesaurus/G9B788> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/D4A13D> ;
     skos:definition "Analyse des Objektswerkstoffes auf spezifische Eigenschaften" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Materialanalyse@de" .
+    skos:prefLabel "Materialanalyse"@de .
 
 <http://leiza.de/thesaurus/GDF8C2> a skos:Concept ;
-    skos:altLabel " Beschaffenheit@de",
-        "Merkmale@de" ;
+    skos:altLabel " Beschaffenheit"@de,
+        "Merkmale"@de ;
     skos:broader <http://leiza.de/thesaurus/BC5B57> ;
     skos:definition "Die konkreten Merkmale und Eigenschaften eines Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Physischer Zustand@de" .
+    skos:prefLabel "Physischer Zustand"@de .
 
 <http://leiza.de/thesaurus/C364G1> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/CFGDA3> ;
     skos:definition "strukturierender Sammelbegriff für sämtliche zur Konservierung und/oder Restaurierung eines Objektes verwendeter (Verbrauchs-)Materialien" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[Konservierungs- und Restaurierungsmaterialien]@de" .
+    skos:prefLabel "[Konservierungs- und Restaurierungsmaterialien]"@de .
 
 <http://leiza.de/thesaurus/CB9GD3> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DAC996> ;
     skos:definition "Der innere Zusammenhalt des Objektes ist gestört" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Kohäsionsverlust@de" .
+    skos:prefLabel "Kohäsionsverlust"@de .
 
 <http://leiza.de/thesaurus/D941BB> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C93638> ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "[manuelle Werkzeuge]@de" .
+    skos:prefLabel "[manuelle Werkzeuge]"@de .
 
 <http://leiza.de/thesaurus/F964CG> a skos:Concept ;
-    skos:altLabel "Abbaufaktor@de",
-        "schädlicher Einfluss@de" ;
+    skos:altLabel "Abbaufaktor"@de,
+        "schädlicher Einfluss"@de ;
     skos:broader <http://leiza.de/thesaurus/BC5B57> ;
     skos:definition "Für die Beschädigung/den Abbau als ursächlich angesehene negative Beeinträchtigung eines Objektes" ;
     skos:inScheme <http://leiza.de/thesaurus/> ;
-    skos:prefLabel "Schadensursache@de" ;
+    skos:prefLabel "Schadensursache"@de ;
     skos:related <http://leiza.de/thesaurus/DAC996> .
 
 <http://leiza.de/thesaurus/> a skos:ConceptScheme ;
