@@ -13,14 +13,15 @@ with open ('data.csv', 'r', encoding="utf-8") as f:
             ff.write(line.replace("Ã¼", "ü").replace("Ã¶", "ö").replace("Ã¤", "ä").replace("ÃŸ", "ß").replace("Ã„", "Ä").replace("Ã–", "Ö").replace("Ãœ", "Ü").replace("Ã", "ß").replace("Ã", "Ü").replace("â", "—"))
 df = pd.read_csv('fixedData.csv')
 g = Graph()
-thesaurus = URIRef("http://leiza.de/thesaurus/")
+thesaurus = URIRef("http://leiza.de/thesaurus")
+thesaurusAddendum = thesaurus + "/"
 g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
 g.add ((thesaurus, DC.title, Literal("Leiza Restaurierungs- und Konservierungsthesaurus")))
 g.add ((thesaurus, DC.description, Literal("Der mächtige Leiza Restaurierungs- und Konservierungsthesaurus")))
 languageLabel = "@de"
 for index, row in df.iterrows():
     if not pd.isnull(row["prefLabel"]):
-        concept = URIRef(thesaurus + str(row['identifier']))
+        concept = URIRef(thesaurusAddendum + str(row['identifier']))
         g.add ((concept, RDF.type, SKOS.Concept))
         g.add ((concept, SKOS.prefLabel, Literal(row['prefLabel'] + languageLabel)))
         if not pd.isnull(row["altLabel"]):
@@ -32,10 +33,10 @@ for index, row in df.iterrows():
         if not pd.isnull(row["description"]):
             g.add ((concept, SKOS.definition, Literal(row['description'] + languageLabel)))
         if not pd.isnull(row['parent']) and not row["parent"] == "top" :
-            broader = URIRef(thesaurus + row['parent'])
+            broader = URIRef(thesaurusAddendum + row['parent'])
             g.add ((concept, SKOS.broader, broader))
         if not pd.isnull(row['related']):
-            related = URIRef(thesaurus + row['related'])
+            related = URIRef(thesaurusAddendum + row['related'])
             g.add ((concept, SKOS.related, related))
         g.add ((concept, SKOS.inScheme, thesaurus))
         if row["parent"] == "top":
