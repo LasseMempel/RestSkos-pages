@@ -1971,8 +1971,8 @@
     skos:related <http://leiza.de/thesaurus/DAC996> .
 
 <http://leiza.de/thesaurus> a skos:ConceptScheme ;
-    dc:description "Der mächtige Leiza Restaurierungs- und Konservierungsthesaurus" ;
-    dc:title "Leiza Restaurierungs- und Konservierungsthesaurus" ;
+    dc:description "Der mächtige Leiza Restaurierungs- und Konservierungsthesaurus"@de ;
+    dc:title "Leiza Restaurierungs- und Konservierungsthesaurus"@de ;
     skos:hasTopConcept <http://leiza.de/thesaurus/A18D95>,
         <http://leiza.de/thesaurus/B51DAF>,
         <http://leiza.de/thesaurus/C4BCF8>,
