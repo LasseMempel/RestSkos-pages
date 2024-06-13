@@ -1,3 +1,4 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://leiza.de/thesaurus/A11ACA> a skos:Concept ;
@@ -1970,6 +1971,7 @@
     skos:related <http://leiza.de/thesaurus/DAC996> .
 
 <http://leiza.de/thesaurus/> a skos:ConceptScheme ;
+    dc:title "Leiza Restaurierungs- und Konservierungsthesaurus" ;
     skos:hasTopConcept <http://leiza.de/thesaurus/A18D95>,
         <http://leiza.de/thesaurus/B51DAF>,
         <http://leiza.de/thesaurus/C4BCF8>,

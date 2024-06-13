@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 from rdflib import Graph, URIRef, BNode, Literal, Namespace
-from rdflib.namespace import SKOS, RDF
+from rdflib.namespace import SKOS, RDF, DC
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 with open("data.csv", "w", encoding="utf-8") as f:
@@ -17,6 +17,7 @@ g = Graph()
 # skos:ConceptScheme, skos:Concept, skos:prefLabel, skos:broader, skos:related, skos:altLabel, skos:definition, skos:hasTopConcept
 thesaurus = URIRef("http://leiza.de/thesaurus/")
 g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
+g.add ((thesaurus, DC.title, Literal("Leiza Restaurierungs- und Konservierungsthesaurus")))
 languageLabel = "@de"
 for index, row in df.iterrows():
     if not pd.isnull(row["prefLabel"]):
