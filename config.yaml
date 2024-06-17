@@ -11,7 +11,7 @@ searchableAttributes:
   - "example"
   - "definition"
 ui:
-  title: "Restaurierungsvokabulare" # Title is mandatory
+  title: "Restaurierungsvokabulare - Begriffe und Definitionen" # Title is mandatory
   logo: "CoffeeAndConservationLogo2.png" # Path
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
