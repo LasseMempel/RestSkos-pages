@@ -20,7 +20,7 @@ ui:
     skoHubLightColor: "rgb(40, 200, 175)"
     skoHubThinColor: "rgb(55, 250, 210)"
     skoHubBlackColor: "rgb(5, 30, 30)"
-    skoHubAction: "rgb(230, 0, 125)"
+    skoHubAction: "rgb(230, 0, 125)" # Links auf Einträge
     skoHubNotice: "rgb(250, 180, 50)"
     skoHubDarkGrey: "rgb(155, 155, 155)"
     skoHubMiddleGrey: "rgb(200, 200, 200)"
