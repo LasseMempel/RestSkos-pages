@@ -2,10 +2,10 @@
   "id": "http://leiza.de/thesaurus/FA2332",
   "type": "Concept",
   "prefLabel": {
-    "de": "Rekonstruktion"
+    "de": "Rekonstruktion (Methode)"
   },
   "definition": {
-    "de": "Methode zur Wiederherstellung und/oder Nachbildung eines ursprünglichen Zustandes "
+    "de": "Methode zur Wiederherstellung und/oder Nachbildung eines ursprünglichen Zustandes. Die Rekonstruktion kann sowohl auf Grundlage einer analogen als auch einer digitalen Kopie erfolgen."
   },
   "notation": [
     "FA2332"
@@ -27,7 +27,7 @@
   "broader": {
     "id": "http://leiza.de/thesaurus/G79CAC",
     "prefLabel": {
-      "de": "[Nachbildungsmethoden und - materialien]"
+      "de": "[Vorgehensweise]"
     }
   },
   "inScheme": [

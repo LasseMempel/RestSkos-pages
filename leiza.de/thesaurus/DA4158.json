@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Restaurierungs-/Konservierungsziel"
   },
+  "definition": {
+    "de": "Festlegung der spezifischen Ziele und Absichten, die bei der Restaurierung oder Konservierung eines Objektes verfolgt werden. Diese Ziele können vielfältig sein und umfassen typischerweise den Erhalt des Objekts in seiner gegenwärtigen Form, die Wiederherstellung seiner ästhetischen Erscheinung, die Sicherung seiner strukturellen Integrität sowie die Erhaltung seiner historischen oder kulturellen Bedeutung für zukünftige Generationen."
+  },
   "notation": [
     "DA4158"
   ],

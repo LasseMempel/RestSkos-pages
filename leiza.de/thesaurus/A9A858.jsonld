@@ -2,10 +2,33 @@
   "id": "http://leiza.de/thesaurus/A9A858",
   "type": "Concept",
   "prefLabel": {
-    "de": "Nassholz"
+    "de": "Holz"
+  },
+  "definition": {
+    "de": "natürliches Material, hauptsächlich bestehend aus Zellulosefasern, Lignin und anderen organischen Bestandteilen. Holz ist aufgrund seiner Festigkeit, Vielseitigkeit und Verfügbarkeit ein wichtiger Rohstoff für Bau-, Möbel- und Kunsthandwerksanwendungen."
   },
   "notation": [
     "A9A858"
+  ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/C47769",
+      "prefLabel": {
+        "de": "rezentes Holz"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C947B5",
+      "prefLabel": {
+        "de": "archäologisches Holz"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DFG875",
+      "prefLabel": {
+        "de": "[Holzart]"
+      }
+    }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CD3341",

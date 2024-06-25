@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Bisherige Lagerung"
   },
+  "definition": {
+    "de": "chronologischer Verbleib und die Aufbewahrung von Artefakten seit ihrer Entdeckung oder Ausgrabung bis zur gegenwärtigen Zeit. Diese Aufzeichnungen umfassen Informationen über Fundort, Datum der Entdeckung, frühere Ausstellungen, Lagerungsbedingungen"
+  },
   "notation": [
     "DBC278"
   ],
@@ -24,6 +27,12 @@
       "id": "http://leiza.de/thesaurus/C7C3B7",
       "prefLabel": {
         "de": "Frischfund"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FC3322",
+      "prefLabel": {
+        "de": "Ausstellungsentnahme"
       }
     },
     {

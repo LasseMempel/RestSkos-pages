@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/A44BG6",
   "type": "Concept",
   "prefLabel": {
-    "de": "Einbettmasse"
+    "de": "Silikonkautschuk"
   },
   "notation": [
     "A44BG6"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/BB78D2",
+    "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {
-      "de": "[Abformungsmaterialien]"
+      "de": "[Konservierungs- und Restaurierungsmaterialien]"
     }
   },
   "inScheme": [

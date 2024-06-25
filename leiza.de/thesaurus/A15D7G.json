@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/A15D7G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kunstharz"
+    "de": "Schwenkform"
   },
   "notation": [
     "A15D7G"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/BB78D2",
+    "id": "http://leiza.de/thesaurus/FFA16B",
     "prefLabel": {
-      "de": "[Abformungsmaterialien]"
+      "de": "[Formtyp]"
     }
   },
   "inScheme": [

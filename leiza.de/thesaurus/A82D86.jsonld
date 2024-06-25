@@ -23,9 +23,9 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/G78BD6",
+      "id": "http://leiza.de/thesaurus/F15DFD",
       "prefLabel": {
-        "de": "Zinn"
+        "de": "Zinklegierung"
       }
     },
     {
@@ -35,9 +35,27 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/F387GB",
+      "prefLabel": {
+        "de": "Bleilegierung"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/G992B6",
       "prefLabel": {
         "de": "Blei"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G6A358",
+      "prefLabel": {
+        "de": "Zinnlegierung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G78BD6",
+      "prefLabel": {
+        "de": "Zinn"
       }
     }
   ],

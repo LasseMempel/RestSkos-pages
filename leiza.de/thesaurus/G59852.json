@@ -2,32 +2,18 @@
   "id": "http://leiza.de/thesaurus/G59852",
   "type": "Concept",
   "prefLabel": {
-    "de": "Reproduktion"
+    "de": "Reproduktion (Methode)"
   },
   "definition": {
-    "de": "Ohne direkte Abformung angefertigte Nachbildung oder Wiedergabe eines originalen Objektes, das von einer anderen Person angefertigt wurde."
+    "de": "Methoden zur Nachbildung oder Wiedergabe eines originalen Objektes, das von einer anderen Person angefertigt wurde. Die Methode beinhaltet keine analoge oder digitale Abformung des Objekts. "
   },
   "notation": [
     "G59852"
   ],
-  "narrower": [
-    {
-      "id": "http://leiza.de/thesaurus/B689B6",
-      "prefLabel": {
-        "de": "[Methode]"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/D2GGAC",
-      "prefLabel": {
-        "de": "[Material]"
-      }
-    }
-  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G79CAC",
     "prefLabel": {
-      "de": "[Nachbildungsmethoden und - materialien]"
+      "de": "[Vorgehensweise]"
     }
   },
   "inScheme": [

@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/ADCC8A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zuschlagstoffe"
+    "de": "Laminierform"
   },
   "notation": [
     "ADCC8A"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/BB78D2",
+    "id": "http://leiza.de/thesaurus/FFA16B",
     "prefLabel": {
-      "de": "[Abformungsmaterialien]"
+      "de": "[Formtyp]"
     }
   },
   "inScheme": [

@@ -42,15 +42,15 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/BBF64G",
-      "prefLabel": {
-        "de": "Ablagerung"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/CB9GD3",
       "prefLabel": {
         "de": "Kohäsionsverlust"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/BBF64G",
+      "prefLabel": {
+        "de": "Ablagerung"
       }
     }
   ],

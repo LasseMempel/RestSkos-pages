@@ -10,6 +10,9 @@
       "silikatische Materialien"
     ]
   },
+  "definition": {
+    "de": "Oberbegriff für Werkstoffe aus anorganischen SiO2 Verbindungen. "
+  },
   "notation": [
     "GB6DF3"
   ],
@@ -36,7 +39,7 @@
   "broader": {
     "id": "http://leiza.de/thesaurus/B51DAF",
     "prefLabel": {
-      "de": "Material"
+      "de": "Werkstoff"
     }
   },
   "inScheme": [

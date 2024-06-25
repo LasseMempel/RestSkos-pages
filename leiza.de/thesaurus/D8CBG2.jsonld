@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Schleierbildung"
   },
+  "altLabel": {
+    "de": [
+      "Trübung"
+    ]
+  },
   "definition": {
     "de": "Das Objekt zeigt eine teilweise oder ganzheitliche Trübung der Oberfläche"
   },

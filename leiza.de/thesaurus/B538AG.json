@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Mikroskop"
   },
+  "definition": {
+    "de": "Instrument, zur detaillierten bildlichen Darstellung von mikroskopisch kleinen Strukturen, die für das menschliche Auge ohne Hilfmittel nicht erkennbar sind. Mit Hilfe von Linsen und Licht oder Elektronenstrahlen, können die Strukturen/Abbildungen vergrößert und für das menschliche Auge wahrnehmbar gemacht werden."
+  },
   "notation": [
     "B538AG"
   ],

@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/C369CB",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verstärkungsmaterial"
+    "de": "Steiggussform"
   },
   "notation": [
     "C369CB"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/BB78D2",
+    "id": "http://leiza.de/thesaurus/FFA16B",
     "prefLabel": {
-      "de": "[Abformungsmaterialien]"
+      "de": "[Formtyp]"
     }
   },
   "inScheme": [

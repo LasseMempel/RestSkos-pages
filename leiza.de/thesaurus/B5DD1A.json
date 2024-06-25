@@ -17,22 +17,22 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/BBF566",
-      "prefLabel": {
-        "de": "unedles Metal"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/FGA46A",
       "prefLabel": {
         "de": "Edelmetall"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/BBF566",
+      "prefLabel": {
+        "de": "unedles Metal"
       }
     }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/B51DAF",
     "prefLabel": {
-      "de": "Material"
+      "de": "Werkstoff"
     }
   },
   "inScheme": [

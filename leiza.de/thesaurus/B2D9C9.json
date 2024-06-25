@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/B2D9C9",
   "type": "Concept",
   "prefLabel": {
-    "de": "Formtypen"
+    "de": "Mehrteilige Form"
   },
   "notation": [
     "B2D9C9"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/G52378",
+    "id": "http://leiza.de/thesaurus/FBGFC2",
     "prefLabel": {
-      "de": "analoge Abformung"
+      "de": "[Formaufbau]"
     }
   },
   "inScheme": [

@@ -12,6 +12,12 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/A77283",
+      "prefLabel": {
+        "de": "Durchwurzelung"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/A8588A",
       "prefLabel": {
         "de": "Fehlstelle"
@@ -39,12 +45,6 @@
       "id": "http://leiza.de/thesaurus/D99GD4",
       "prefLabel": {
         "de": "Kratzer"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/nan",
-      "prefLabel": {
-        "de": "Durchwurzelung"
       }
     }
   ],

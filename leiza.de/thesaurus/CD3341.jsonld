@@ -17,12 +17,6 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/A9A858",
-      "prefLabel": {
-        "de": "Nassholz"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/AB4988",
       "prefLabel": {
         "de": "Textil"
@@ -35,16 +29,40 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/B8B69D",
+      "prefLabel": {
+        "de": "Bernstein"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/BBC26F",
+      "prefLabel": {
+        "de": "Horn"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/A9A858",
+      "prefLabel": {
+        "de": "Holz"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/D73F9B",
       "prefLabel": {
         "de": "Leder"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DD9C25",
+      "prefLabel": {
+        "de": "Pflanzenfasern"
       }
     }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/B51DAF",
     "prefLabel": {
-      "de": "Material"
+      "de": "Werkstoff"
     }
   },
   "inScheme": [

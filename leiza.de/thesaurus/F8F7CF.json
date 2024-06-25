@@ -5,29 +5,35 @@
     "de": "Kopieherstellung"
   },
   "definition": {
-    "de": "Methode zur Erstellung einer originalgetreuen Nachbildung eines Objektes. Der Kopieherstellung geht die Abformung eines Objektes voraus."
+    "de": "Methode, bei der das gewählte Material, aus dem die Kopie bestehen soll, in die Form eingefüllt wird. Dies kann durch Gießen, Aufpinseln, Laminieren erfolgen. Der Kopieherstellung geht die Abformung eines Objektes voraus. "
   },
   "notation": [
     "F8F7CF"
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/FFA16B",
+      "id": "http://leiza.de/thesaurus/BAB7B1",
       "prefLabel": {
-        "de": "[Materialien]"
+        "de": "Galvanisieren"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/D9CC3C",
+      "id": "http://leiza.de/thesaurus/D772G6",
       "prefLabel": {
-        "de": "[Methoden]"
+        "de": "Digitale Kopieerstellung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D9F7AC",
+      "prefLabel": {
+        "de": "Formausguss"
       }
     }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G79CAC",
     "prefLabel": {
-      "de": "[Nachbildungsmethoden und - materialien]"
+      "de": "[Vorgehensweise]"
     }
   },
   "related": [

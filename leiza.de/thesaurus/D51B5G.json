@@ -2,15 +2,24 @@
   "id": "http://leiza.de/thesaurus/D51B5G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Negativmasse"
+    "de": "Isolierung"
+  },
+  "altLabel": {
+    "de": [
+      " Absperren",
+      "Isolieren"
+    ]
+  },
+  "definition": {
+    "de": "Methode, bei der das originale Objekte durch Auftragen einer Trennschicht vor den verwendeten Abformmaterialien geschützt wird. "
   },
   "notation": [
     "D51B5G"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/BB78D2",
+    "id": "http://leiza.de/thesaurus/A3G356",
     "prefLabel": {
-      "de": "[Abformungsmaterialien]"
+      "de": "Polyurethan"
     }
   },
   "inScheme": [

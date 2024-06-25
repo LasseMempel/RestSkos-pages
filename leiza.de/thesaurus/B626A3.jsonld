@@ -6,9 +6,11 @@
   },
   "altLabel": {
     "de": [
-      "Geweih",
       "Knochen"
     ]
+  },
+  "definition": {
+    "de": "Oberbegriff für Werkstoffe aus Knochenmaterial. Bein gehört zu den ältesten von Menschen intenionell bearbeiteten Materialien. "
   },
   "notation": [
     "B626A3"

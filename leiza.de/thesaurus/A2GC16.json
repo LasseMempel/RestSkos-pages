@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/A2GC16",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gips"
+    "de": "Galvanoform"
   },
   "notation": [
     "A2GC16"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/BB78D2",
+    "id": "http://leiza.de/thesaurus/FFA16B",
     "prefLabel": {
-      "de": "[Abformungsmaterialien]"
+      "de": "[Formtyp]"
     }
   },
   "inScheme": [

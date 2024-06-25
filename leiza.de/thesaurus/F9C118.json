@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "Lochfraßkorrosion"
   },
+  "altLabel": {
+    "de": [
+      "Lochkorrosion"
+    ]
+  },
+  "definition": {
+    "de": "Bildung von lokalen, punktuellen Vertiefungen oder Löchern auf der Oberfläche eines Objektes, die durch chemische Reaktionen in einem korrosiven Umfeld entstehen. Diese Korrosionserscheinung schwächt das Material lokalisiert und kann zu strukturellen Schäden führen, insbesondere wenn sie unbehandelt bleibt."
+  },
   "notation": [
     "F9C118"
   ],

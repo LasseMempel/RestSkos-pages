@@ -7,6 +7,20 @@
   "notation": [
     "GC14B8"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/B14489",
+      "prefLabel": {
+        "de": "3D-Scan"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G734B3",
+      "prefLabel": {
+        "de": "Photogrammetrie"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/DAG2A8",
     "prefLabel": {

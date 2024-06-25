@@ -33,15 +33,33 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/C99F9G",
+      "prefLabel": {
+        "de": "Plasmaanlage"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D7GGGG",
+      "prefLabel": {
+        "de": "Wärmeschrank"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/DAC482",
       "prefLabel": {
         "de": "Lötanlage"
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/F8323G",
+      "prefLabel": {
+        "de": "industrielle Mikrowellenkammer"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/G487C2",
       "prefLabel": {
-        "de": "Feinsandstrahlgerät"
+        "de": "Feinstrahlgerät"
       }
     }
   ],

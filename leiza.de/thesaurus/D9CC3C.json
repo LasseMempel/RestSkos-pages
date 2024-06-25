@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/D9CC3C",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Methoden]"
+    "de": "Galvanoplastik"
   },
   "notation": [
     "D9CC3C"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/F8F7CF",
+    "id": "http://leiza.de/thesaurus/A7FC45",
     "prefLabel": {
-      "de": "Kopieherstellung"
+      "de": "Kopie "
     }
   },
   "inScheme": [

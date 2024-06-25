@@ -2,13 +2,33 @@
   "id": "http://leiza.de/thesaurus/A7FC45",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kopie"
+    "de": "Kopie "
   },
   "definition": {
     "de": "Durch abformen nachgebildetes Objekt eines Vorbildgegenstandes, welches u.A. zur Erforschung der Typologie, Oberflächeneigenschaften und/oder Farbgebung des Originals genutzt wird. "
   },
   "notation": [
     "A7FC45"
+  ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/B689B6",
+      "prefLabel": {
+        "de": "Kunstharzkopie"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D2GGAC",
+      "prefLabel": {
+        "de": "Gipskopie"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D9CC3C",
+      "prefLabel": {
+        "de": "Galvanoplastik"
+      }
+    }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C11192",

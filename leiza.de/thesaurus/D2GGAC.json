@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/D2GGAC",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Material]"
+    "de": "Gipskopie"
   },
   "notation": [
     "D2GGAC"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/G59852",
+    "id": "http://leiza.de/thesaurus/A7FC45",
     "prefLabel": {
-      "de": "Reproduktion"
+      "de": "Kopie "
     }
   },
   "inScheme": [

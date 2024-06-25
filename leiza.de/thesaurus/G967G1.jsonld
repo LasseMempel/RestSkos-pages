@@ -2,23 +2,15 @@
   "id": "http://leiza.de/thesaurus/G967G1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Stützkapselmaterial"
+    "de": "Spiegelform"
   },
   "notation": [
     "G967G1"
   ],
-  "narrower": [
-    {
-      "id": "http://leiza.de/thesaurus/DC3F7A",
-      "prefLabel": {
-        "de": "Isoliermittel"
-      }
-    }
-  ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/BB78D2",
+    "id": "http://leiza.de/thesaurus/FFA16B",
     "prefLabel": {
-      "de": "[Abformungsmaterialien]"
+      "de": "[Formtyp]"
     }
   },
   "inScheme": [

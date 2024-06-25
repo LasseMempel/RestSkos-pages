@@ -16,6 +16,14 @@
       "de": "Buntmetalllegierung"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/F15DFD",
+      "prefLabel": {
+        "de": "Zinklegierung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

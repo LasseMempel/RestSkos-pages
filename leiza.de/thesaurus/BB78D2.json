@@ -2,59 +2,29 @@
   "id": "http://leiza.de/thesaurus/BB78D2",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Abformungsmaterialien]"
+    "de": "Füllstoff"
   },
   "notation": [
     "BB78D2"
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/A15D7G",
+      "id": "http://leiza.de/thesaurus/BFB3B9",
       "prefLabel": {
-        "de": "Kunstharz"
+        "de": "Talkum"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/A2GC16",
+      "id": "http://leiza.de/thesaurus/DA86F8",
       "prefLabel": {
-        "de": "Gips"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/A44BG6",
-      "prefLabel": {
-        "de": "Einbettmasse"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/ADCC8A",
-      "prefLabel": {
-        "de": "Zuschlagstoffe"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/C369CB",
-      "prefLabel": {
-        "de": "Verstärkungsmaterial"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/D51B5G",
-      "prefLabel": {
-        "de": "Negativmasse"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/G967G1",
-      "prefLabel": {
-        "de": "Stützkapselmaterial"
+        "de": "Aerosil"
       }
     }
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/G52378",
+    "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {
-      "de": "analoge Abformung"
+      "de": "[Konservierungs- und Restaurierungsmaterialien]"
     }
   },
   "inScheme": [

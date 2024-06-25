@@ -23,6 +23,18 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/A9CCG4",
+      "prefLabel": {
+        "de": "Rotguss"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B93G16",
+      "prefLabel": {
+        "de": "Tombak"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/BF7D14",
       "prefLabel": {
         "de": "Bronze"

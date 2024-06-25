@@ -2,19 +2,19 @@
   "id": "http://leiza.de/thesaurus/G79CAC",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Nachbildungsmethoden und - materialien]"
+    "de": "[Vorgehensweise]"
   },
   "definition": {
-    "de": "strukturierender Sammelbegriff für verschiedene Methoden, die zur Herstellung von wissenschaftlichen Vergleichsstücken angewandt werden können sowie die hierzu benötigten Materialien"
+    "de": "strukturierender Sammelbegriff für verschiedene Methoden, die zur Herstellung von wissenschaftlichen Vergleichsstücken angewandt werden können "
   },
   "notation": [
     "G79CAC"
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/G59852",
+      "id": "http://leiza.de/thesaurus/F8F7CF",
       "prefLabel": {
-        "de": "Reproduktion"
+        "de": "Kopieherstellung"
       }
     },
     {
@@ -26,19 +26,19 @@
     {
       "id": "http://leiza.de/thesaurus/FA2332",
       "prefLabel": {
-        "de": "Rekonstruktion"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/F8F7CF",
-      "prefLabel": {
-        "de": "Kopieherstellung"
+        "de": "Rekonstruktion (Methode)"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/F1F372",
       "prefLabel": {
         "de": "Kolorierung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G59852",
+      "prefLabel": {
+        "de": "Reproduktion (Methode)"
       }
     },
     {

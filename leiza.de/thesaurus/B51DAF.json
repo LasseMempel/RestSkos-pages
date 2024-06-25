@@ -2,12 +2,12 @@
   "id": "http://leiza.de/thesaurus/B51DAF",
   "type": "Concept",
   "prefLabel": {
-    "de": "Material"
+    "de": "Werkstoff"
   },
   "altLabel": {
     "de": [
-      "Objektmaterial",
-      "Werkstoff"
+      "Material",
+      "Objektmaterial"
     ]
   },
   "definition": {

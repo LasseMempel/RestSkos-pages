@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Lichtmikroskop"
   },
+  "definition": {
+    "de": "Instrument, bei dem mit Hilfe von sichtbarem Licht Objekte vergrößert betrachtet werden können. Es besteht aus einer Lichtquelle, Linsen und einer Bildgebungseinheit, die es ermöglichen, Details von Objekten im Bereich von Mikrometern bis Millimetern zu visualisieren."
+  },
   "notation": [
     "FC2113"
   ],

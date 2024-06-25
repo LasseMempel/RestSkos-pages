@@ -16,6 +16,14 @@
       "de": "Buntmetalllegierung"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/F387GB",
+      "prefLabel": {
+        "de": "Bleilegierung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

@@ -9,13 +9,16 @@
       "Tröpfchenbildung"
     ]
   },
+  "definition": {
+    "de": "Auf der Oberfläche des Objektes sind sichtbare Feuchtigkeitströpfchen/Tränen zu beobachten."
+  },
   "notation": [
     "ADA625"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/BBF64G",
+    "id": "http://leiza.de/thesaurus/C9D991",
     "prefLabel": {
-      "de": "Ablagerung"
+      "de": "chemische Veränderung"
     }
   },
   "inScheme": [

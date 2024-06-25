@@ -16,6 +16,14 @@
       "de": "Buntmetalllegierung"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/G6A358",
+      "prefLabel": {
+        "de": "Zinnlegierung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

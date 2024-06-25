@@ -2,20 +2,15 @@
   "id": "http://leiza.de/thesaurus/DC3F7A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Isoliermittel"
-  },
-  "altLabel": {
-    "de": [
-      "Trennmittel"
-    ]
+    "de": "Quetschform"
   },
   "notation": [
     "DC3F7A"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/G967G1",
+    "id": "http://leiza.de/thesaurus/FFA16B",
     "prefLabel": {
-      "de": "Stützkapselmaterial"
+      "de": "[Formtyp]"
     }
   },
   "inScheme": [

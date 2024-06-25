@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Plasmabehandlung"
   },
+  "definition": {
+    "de": "Methode, bei der mit Hilfe von ionisiertem Gas (Plasma) die korrodierte Oberfläche von Metallobjekten reduziert werden kann. Auf diese Weise lassen sich zum Beispiel dunkle Sulfidflecken entfernen, indem das Silbersulfid zu metallischem Silber reduziert wird."
+  },
   "notation": [
     "F72743"
   ],

@@ -27,9 +27,45 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/A3G356",
+      "prefLabel": {
+        "de": "Polyurethan"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C838C1",
+      "prefLabel": {
+        "de": "Polyvinylalkohol"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/D9F783",
       "prefLabel": {
         "de": "Cyanacrylat"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DF5773",
+      "prefLabel": {
+        "de": "Polyvinylacetat"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DF633G",
+      "prefLabel": {
+        "de": "Melaminharz"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F89522",
+      "prefLabel": {
+        "de": "Polyethylenglycol"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F8A93F",
+      "prefLabel": {
+        "de": "Polyesterharz"
       }
     },
     {

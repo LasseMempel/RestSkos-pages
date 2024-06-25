@@ -2,11 +2,11 @@
   "id": "http://leiza.de/thesaurus/G487C2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Feinsandstrahlgerät"
+    "de": "Feinstrahlgerät"
   },
   "altLabel": {
     "de": [
-      "Mikrosandstrahlgerät"
+      "Mikrostrahlgerät"
     ]
   },
   "notation": [

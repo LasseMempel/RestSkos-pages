@@ -11,7 +11,7 @@
     ]
   },
   "definition": {
-    "de": "Methode zur farbigen Fassung einer angefertigten Kopie nach originalem Objektvorbild"
+    "de": "Methode zur farbigen Fassung einer angefertigten Nachbildung nach originalem Objektvorbild"
   },
   "notation": [
     "F1F372"
@@ -19,7 +19,7 @@
   "broader": {
     "id": "http://leiza.de/thesaurus/G79CAC",
     "prefLabel": {
-      "de": "[Nachbildungsmethoden und - materialien]"
+      "de": "[Vorgehensweise]"
     }
   },
   "inScheme": [

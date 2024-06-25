@@ -2,7 +2,7 @@
   "id": "http://leiza.de/thesaurus/B1DB9G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Färbemittel"
+    "de": "Gussform"
   },
   "notation": [
     "B1DB9G"
@@ -10,7 +10,7 @@
   "broader": {
     "id": "http://leiza.de/thesaurus/FFA16B",
     "prefLabel": {
-      "de": "[Materialien]"
+      "de": "[Formtyp]"
     }
   },
   "inScheme": [
