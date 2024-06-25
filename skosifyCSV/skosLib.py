@@ -11,7 +11,7 @@ with open ('data.csv', 'r', encoding="utf-8") as f:
         # repair wrong encoded german umlauts
         for line in f:
             ff.write(line.replace("Ã¼", "ü").replace("Ã¶", "ö").replace("Ã¤", "ä").replace("ÃŸ", "ß").replace("Ã„", "Ä").replace("Ã–", "Ö").replace("Ãœ", "Ü").replace("Ã", "ß").replace("Ã", "Ü").replace("â", "—"))
-df = pd.read_csv('fixedData.csv')
+df = pd.read_csv('fixedData.csv', encoding="utf-8")
 languageLabel = "@de"
 g = Graph()
 thesaurus = URIRef("http://leiza.de/thesaurus")

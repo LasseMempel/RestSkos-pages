@@ -1,18 +1,18 @@
 identifier,Qidentifier,hierarcylevel,type,prefLabel,altLabel,translation,description,parent,parentQ,related,relatedQ,source,creator,closeMatch,relatedMatch,seeAlso,example
 
-B51DAF,Q12,0,Q2,Material,Werkstoff|Objektmaterial,,Material aus dem das Objekt besteht.,top,,,,,Q7|Q8,http://terminology.lido-schema.org/lido00132,,,https://n4o-ta4-dev.wikibase.cloud/wiki/Item:Q12
+B51DAF,Q12,0,Q2,Werkstoff,Material|Objektmaterial,,Material aus dem das Objekt besteht.,top,,,,,Q7|Q8,http://terminology.lido-schema.org/lido00132,,,https://n4o-ta4-dev.wikibase.cloud/wiki/Item:Q12
 
 B5DD1A,,1,Q2,Metall,Metalle,metal@en|mÃ©tal@fr,Gruppe chemischer Elemente,B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q11426 |http://vocab.getty.edu/page/aat/300010900 |https://cameo.mfa.org/wiki/Metal| https://d-nb.info/gnd/4038860-8 ,,,
 
-FGA46A,,2,Q2,Edelmetall,Edelmetalle,nobel metal@en,chemisches Element mit hoher Korrosionsbeständigkeit,B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q585302| http://vocab.getty.edu/page/aat/300241621 |http://d-nb.info/gnd/4013531-7 ,,,
+FGA46A,,2,Q2,Edelmetall,Edelmetalle,nobel metal@en,"chemisches Element. Seltenes, korrosionsbeständiges Metall, das aufgrund seiner chemischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird. ",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q585302| http://vocab.getty.edu/page/aat/300241621 |http://d-nb.info/gnd/4013531-7 ,,,
 
-FD5149,,3,Q2,Gold,,gold@en,"chemisches Element, gelbliches Edelmetall. Kommt in der Natur überwiegend gediegen vor.",FGA46A,,DC5B2B,,,Q7|Q8,https://www.wikidata.org/wiki/Q897|https://cameo.mfa.org/wiki/Gold|http://vocab.getty.edu/page/aat/300011021 | http://d-nb.info/gnd/4157819-3 ,,,
+FD5149,,3,Q2,Gold,,gold@en,"chemisches Element mit dem Symbol Au und der Ordnungszahl 79 im Periodensystem. Es ist ein edles Metall von gelber Farbe, das wegen seiner Seltenheit, Beständigkeit gegen Korrosion und seiner Verwendung in Schmuck und Prestigeobjekten verwendet wurde.",FGA46A,,DC5B2B,,,Q7|Q8,https://www.wikidata.org/wiki/Q897|https://cameo.mfa.org/wiki/Gold|http://vocab.getty.edu/page/aat/300011021 | http://d-nb.info/gnd/4157819-3 ,,,
 
 DC5B2B,,3,Q2,Goldlegierung,Goldlegierungen,gold alloy@en,Legierung mit Gold als Hauptbestandteil,FGA46A,,FD5149,,,Q7|Q8,https://www.wikidata.org/wiki/Q37136268 |http://vocab.getty.edu/page/aat/300010963 |http://d-nb.info/gnd/4157867-3 ,,,
 
 F135A8,,3,Q2,Silber,,silver@en,"chemisches Element, hellgraues, weiches Metall. Kommt in der Natur sowohl gediegen, als auch in Form von Mineralen vor. ",FGA46A,,AD789F,,,Q7|Q8,https://www.wikidata.org/wiki/Q1090 | http://vocab.getty.edu/page/aat/300011029 | http://d-nb.info/gnd/4133759-1 ,,,
 
-AD789F,,3,Q2,Silberlegierung,Silberlegierungen,silver alloy@en,legierung mit Silber als Hauptbestandteil,FGA46A,,F135A8,,,Q7|Q8,https://www.wikidata.org/wiki/Q52895784|http://vocab.getty.edu/page/aat/300010975| http://d-nb.info/gnd/4181330-3,,,
+AD789F,,3,Q2,Silberlegierung,Silberlegierungen,silver alloy@en,Legierung mit Silber als Hauptbestandteil,FGA46A,,F135A8,,,Q7|Q8,https://www.wikidata.org/wiki/Q52895784|http://vocab.getty.edu/page/aat/300010975| http://d-nb.info/gnd/4181330-3,,,
 
 BBF566,,2,Q2,unedles Metal,unedle Metalle,base metal@en,"Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q428855|http://vocab.getty.edu/page/aat/300241615|http://d-nb.info/gnd/4583082-4,,,
 
@@ -20,15 +20,9 @@ F71C6B,,3,Q2,Eisen,Fe,iron@en|fer@fr,"chemisches Element, silber-graues, hartes 
 
 BC75G1,,3,Q2,Eisenlegierung,,iron alloy@en,Legierung mit Eisen als Hauptbestandteil. ,BBF566,,F71C6B,,,Q7|Q8,http://vocab.getty.edu/page/aat/300010904|http://d-nb.info/gnd/4014081-7,,,
 
-B28FA6,,3,Q2,Kupfer,Cu|reines Kupfer,copper@en,"chemisches Elemten, rot-bräunliches Metall. Auch als ""Halbedelmetall"" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde.",BBF566,,,,https://cameo.mfa.org/wiki/Copper,Q7|Q8,http://vocab.getty.edu/page/aat/300011020|https://www.wikidata.org/wiki/Q753|http://d-nb.info/gnd/4033734-0,,,
+GB5BGF,,3,Q2,Buntmetall,,nonferrous metal@en,"Sammelbegriff für farbige Metalle, außer Eisen und Edelmetalle. Sie zeichnen sich durch ihre Farbvielfalt aus und werden oft für ihre spezifischen Eigenschaften wie Härte, Korrosionsbeständigkeit und elektrische Leitfähigkeit geschätzt.",BBF566,,,,,,,,,
 
-A82D86,,3,Q2,Buntmetalllegierung,Buntmetall,nonferrous metal@en,"Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung hauptsächlich als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde",BBF566,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q355809|http://vocab.getty.edu/page/aat/300011014 ,,,
-
-FGB415,,4,Q2,Kupferlegierung,Kupferlegierungen,copper alloy@en,Legierung mit Kupfer als Hauptbestandteil,A82D86,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q518350|http://vocab.getty.edu/page/aat/300010942,,,
-
-BF7D14,,5,Q2,Bronze,Zinnbronze|Bronzen,bronze@en,"Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen",FGB415,,,,https://cameo.mfa.org/wiki/Bronze,Q7|Q8,http://vocab.getty.edu/page/aat/300010957,https://www.wikidata.org/wiki/Q34095,,
-
-A8B271,,5,Q2,Messing,,brass@en,"Kupferlegierung mit Zink als zweiter Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen.",FGB415,,,,https://cameo.mfa.org/wiki/Brass,Q7|Q8,https://www.wikidata.org/wiki/Q39782|http://vocab.getty.edu/page/aat/300010946,,,
+B28FA6,,4,Q2,Kupfer,Cu|reines Kupfer,copper@en,"chemisches Elemten, rot-bräunliches Metall. Auch als ""Halbedelmetall"" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde.",GB5BGF,,,,https://cameo.mfa.org/wiki/Copper,Q7|Q8,http://vocab.getty.edu/page/aat/300011020|https://www.wikidata.org/wiki/Q753|http://d-nb.info/gnd/4033734-0,,,
 
 G992B6,,4,Q2,Blei,,lead@en,"Chemisches Element, silber-gräuliches, weiches Metall. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Kommt in der Natur seltener in gediegener Form vor. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glazuren sowie Legierungen mit anderen Metallen verwendet.",A82D86,,,,https://cameo.mfa.org/wiki/Lead,Q7|Q8,https://www.wikidata.org/wiki/Q708|http://vocab.getty.edu/page/aat/300011022,,,
 
@@ -36,17 +30,47 @@ G8AG1C,,4,Q2,Zink,,zinc@en,"chemisches Element, weiß-bläuliches Metall, Kommt 
 
 G78BD6,,4,Q2,Zinn,,tin@en,"Chemisches Elemtent, silberweißes, sehr weiches Metall. Gehört zur Gruppe der Schwermetalle. Wurde in der Antike hauptsächlich als Legierungsbestandteil von (Zinn-)Bronze, später auch als reines Metall (v.a. für Geschirr und kleinere Kultobjekte), Beschichtungen und Lote verwendet.",A82D86,,,,https://de.wikipedia.org/wiki/Zinn,Q7|Q8,http://vocab.getty.edu/page/aat/300133748| https://www.wikidata.org/wiki/Q1096| https://cameo.mfa.org/wiki/Tin,,,
 
+A82D86,,3,Q2,Buntmetalllegierung,Buntmetall,,"Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung hauptsächlich als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde",BBF566,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q355809|http://vocab.getty.edu/page/aat/300011014 ,,,
+
+FGB415,,4,Q2,Kupferlegierung,Kupferlegierungen,copper alloy@en,Legierung mit Kupfer als Hauptbestandteil,A82D86,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q518350|http://vocab.getty.edu/page/aat/300010942,,,
+
+BF7D14,,5,Q2,Bronze,Zinnbronze|Bronzen,bronze@en,"Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen",FGB415,,,,https://cameo.mfa.org/wiki/Bronze,Q7|Q8,http://vocab.getty.edu/page/aat/300010957,https://www.wikidata.org/wiki/Q34095,,
+
+A8B271,,5,Q2,Messing,,brass@en,"Kupferlegierung mit Zink als zweiter Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen.",FGB415,,,,https://cameo.mfa.org/wiki/Brass,Q7|Q8,https://www.wikidata.org/wiki/Q39782|http://vocab.getty.edu/page/aat/300010946,,,
+
+A9CCG4,,5,Q2,Rotguss,Maschinenbronze|Rotmessing,red brass@en,Kupfer-Zinn-Zink-Blei-Legierung mit auffallend roter Farbe und guter Gießfähigkeit (daher die Namengebung).,FGB415,,,,https://de.wikipedia.org/wiki/Rotguss,Q7|Q8,https://www.wikidata.org/wiki/Q901715|http://vocab.getty.edu/page/aat/300133706 ,,,
+
+B93G16,,5,Q2,Tombak,,tombac@en,"Kupfer-Zinn Legierung, mit hohem Kupferanteil. Ãhnlich dem Messing, aber durch den höheren Kupferanteil von deutlich rötlicherer Farbe.",FGB415,,,,https://www.wikidata.org/wiki/Q756257,Q7|Q8,http://d-nb.info/gnd/4745413-1|http://vocab.getty.edu/page/aat/300196199|https://cameo.mfa.org/wiki/Tombac,,,
+
+F387GB,,4,Q2,Bleilegierung,,lead alloy@en,Legierung mit Blei als Hauptbestandteil.,A82D86,,G992B6,,,Q7|Q8,http://d-nb.info/gnd/4145917-9|http://vocab.getty.edu/page/aat/300010932|https://cameo.mfa.org/wiki/Lead_alloys ,,,
+
+G6A358,,4,Q2,Zinnlegierung,,tin alloy@en,Legierung mit Zinn als Hauptbestandteil,A82D86,,G78BD6,,,Q7|Q8,http://d-nb.info/gnd/4190903-3| https://www.wikidata.org/wiki/Q9346089| http://vocab.getty.edu/page/aat/300010978 | https://cameo.mfa.org/wiki/Tin_alloys ,,,
+
+F15DFD,,4,Q2,Zinklegierung,,zinc alloy@en,Legierung mit Zink als Hauptbestandteil,A82D86,,G8AG1C,,,Q7|Q8,https://www.wikidata.org/wiki/Q204835| http://vocab.getty.edu/page/aat/300011000 | http://d-nb.info/gnd/4190861-2 | https://cameo.mfa.org/wiki/Zinc_alloys ,,,
+
 CD3341,,1,Q2,Organik,organisches Material,organic@en,"Allgemeiner Sammelbegriff für natürlich von Organismen gebildete Stoffe meist tierisch- oder pflanzlichen Ursprungs. Werden durch biologische Mechanismen im Boden abgebaut, wodurch archäologische Objekte aus organischen Materialien nur unter besonderen Bedingungen, die deren fortschreitende Zersetzung verlangsamen oder verhindern, erhalten bleiben. ",B51DAF,Q12,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300011792|https://cameo.mfa.org/wiki/Organic,https://www.wikidata.org/wiki/Q1783121,,
+
+DD9C25,,2,Q2,Pflanzenfasern,,,,CD3341,,,,,,,,,
 
 AB4988,,2,Q2,Textil,Stoff,textile@en,"Ein in verschiedenen Verfahren aus natürlichen oder synthetischen Fasern hergestelltes, räumliches Gebilde. ",CD3341,,,,https://www.wikidata.org/wiki/Q28823,Q7|Q8,https://cameo.mfa.org/wiki/Textile,,,
 
 D73F9B,,2,Q2,Leder,,leather@en,Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut.  ,CD3341,,,,https://www.wikidata.org/wiki/Q286,Q7|Q8,https://cameo.mfa.org/wiki/Leather|http://vocab.getty.edu/page/aat/300011845,,,
 
-A9A858,,2,Q2,Nassholz,,wet-wood@en,,CD3341,,,,,Q7|Q8,,,,
+A9A858,,2,Q2,Holz,,,"natürliches Material, hauptsächlich bestehend aus Zellulosefasern, Lignin und anderen organischen Bestandteilen. Holz ist aufgrund seiner Festigkeit, Vielseitigkeit und Verfügbarkeit ein wichtiger Rohstoff für Bau-, Möbel- und Kunsthandwerksanwendungen.",CD3341,,,,,Q7|Q8,,,,
 
-B626A3,,2,Q2,Bein,Knochen|Geweih,bone@en,,CD3341,,,,,Q7|Q8,,,,
+C47769,,3,Q2,rezentes Holz,,,"Holz, das aus jüngsten oder aktuellen Baumstämmen oder Baumarten gewonnen wurde und im Vergleich zu archäologischem Holz kaum Abbauprozessen ausgesetzt war.",A9A858,,,,,Q7|Q8,,,,
 
-GB6DF3,,1,Q2,Silikat,silikatische Materialien|mineralische Materialien,,,B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q7130787,,,
+C947B5,,3,Q2,archäologisches Holz,Nassholz,wet-wood@en,"Holz aus archäologischem Kontext. Damit sich Holz während der Bodenlagerung erhält, sind wassergesättigte und sauerstoffarme Bodenbedingungen nötig. Während Holz als organisches Material unter normalen Bedingungen in relativ kurzer Zeit verrottet, indem die chemischen Bestandteile von Mikroorganismen wie Pilzen und Bakterien sowie tierischen Schädlingen angegriffen und zersetzt werden, wird die Holzsubstanz unter sauerstofffreien oder zumindest sauerstoffreduzierten Bedingungen nur von anaeroben Bakterien zersetzt. Bei den Zersetzungsprozessen werden Cellulose und Hemicellulose nach und nach abgebaut, während das Ligningerüst oftmals weitestgehend erhalten bleibt. Die geschädigten und geschwächten Zellen werden durch Wasser ausgefüllt und sorgt dafür, dass die ursprüngliche Form des Holzartefakt erhalten bleibt.",A9A858,,,,https://www.wikidata.org/wiki/Q126616214,Q7|Q8,,,,
+
+DFG875,,3,Q3,[Holzart],,,,A9A858,,,,,Q7|Q8,,,,
+
+B626A3,,2,Q2,Bein,Knochen,bone@en,Oberbegriff für Werkstoffe aus Knochenmaterial. Bein gehört zu den ältesten von Menschen intenionell bearbeiteten Materialien. ,CD3341,,,,,Q7|Q8,,,,
+
+BBC26F,,2,Q2,Horn,,,,CD3341,,,,,Q7|Q8,,,,
+
+B8B69D,,2,Q2,Bernstein,,,"Fossiles Harz von prähistorischen Bäumen, das über Millionen von Jahren polymerisiert und mineralisiert wurde. Als archäologisches Objekt ist Bernstein besonders wertvoll, da er oft organische Einschlüsse wie Insekten oder Pflanzen enthält, die wichtige Informationen über die Umwelt und Lebensbedingungen früherer Epochen liefern.",CD3341,,,,https://de.wikipedia.org/wiki/Bernstein,Q7|Q17/Q8,,,,
+
+GB6DF3,,1,Q2,Silikat,silikatische Materialien|mineralische Materialien,,Oberbegriff für Werkstoffe aus anorganischen SiO2 Verbindungen. ,B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q7130787,,,
 
 A11ACA,,2,Q2,Keramik,,ceramic@en,"anorganischer, nicht-metallischer, durch das Brennen von Ton hergestellter Werkstoff",GB6DF3,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300235507|http://www.wikidata.org/entity/Q45621|https://cameo.mfa.org/wiki/Ceramic,,,
 
@@ -56,15 +80,17 @@ D866AD,,2,Q2,Gestein,Mineral|Stein,mineral@en|stone@en,"mehr oder weniger verfes
 
 C4BCF8,,0,Q2,Zustandserfassung,Zustandserhebung,Condition assessment@en,methodischen Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt ,top,,,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://terminology.lido-schema.org/lido00931,,,
 
-DBC278,,1,Q2,Bisherige Lagerung,,,,C4BCF8,,,,,Q7|Q8,,,,
+DBC278,,1,Q2,Bisherige Lagerung,,,"chronologischer Verbleib und die Aufbewahrung von Artefakten seit ihrer Entdeckung oder Ausgrabung bis zur gegenwärtigen Zeit. Diese Aufzeichnungen umfassen Informationen über Fundort, Datum der Entdeckung, frühere Ausstellungen, Lagerungsbedingungen",C4BCF8,,,,,Q7|Q8,,,,
 
-C7C3B7,,2,Q2,Frischfund,,,Das Objekt wurde im direkten Anschluss seiner Bergung von der Grabung in die Restaurierungswerkstätt eingeliefert,DBC278,,,,,Q7|Q8,,,,
+C7C3B7,,2,Q2,Frischfund,,,Das Objekt wurde im direkten Anschluss seiner Bergung von der Grabung in die Restaurierungswerkstatt eingeliefert,DBC278,,,,,Q7|Q8,,,,
 
 F9GB13,,3,Q2,Blockbergung,,,Bergung des Objektes mit dem umgebenden Erdreich en-block,C7C3B7,,,,,Q7|Q8,,,,
 
 G4AG5C,,3,Q2,Scherbenpflaster,,,Bergung der einzelnen Scherben/Fragmente des Objektes unter Erhaltung der in-situ Anschlüsse zwischen den Fragmenten,C7C3B7,,,,,Q7|Q8,,,,
 
 FAG415,,3,Q2,Einzelentnahme,,,Einzelne Entnahme des Objektes/einzelner Fragmente aus dem Boden,C7C3B7,,,,,Q7|Q8,,,,
+
+FC3322,,2,Q2,Ausstellungsentnahme,,,Das Objekt war ausgestellt und wurde zur Bearbeitung aus der Ausstellung/der Vitirine entnommen.,,,,,,,,,,
 
 F52262,,2,Q2,Depotlagerung,,,Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt im Museumsdepot aufbewahrt,DBC278,,,,,Q7|Q8,,,,
 
@@ -86,11 +112,11 @@ BC5B57,,2,Q3,[Untersuchungsergebnisse],Diagnose,examination results@en|results@e
 
 F964CG,,3,Q2,Schadensursache,Abbaufaktor|schädlicher Einfluss,Cause of damage@en,Für die Beschädigung/den Abbau als ursächlich angesehene negative Beeinträchtigung eines Objektes,BC5B57,,DAC996,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,,,DIN EN 15898:2020-02,
 
-GCCD95,,4,Q2,Schadstoffe,,,"Beschädigung des Objektes, durch Emmision von schädlichen Stoffen im direkten Umfeld des Objektes (Verpackungsmaterial, Vitrinen, etc.) oder durch emmitierende Stoffe, die zur Bearbeitung des Objektes selbst Verwendung fanden. ",F964CG,,,,,,,,,
+GCCD95,,4,Q2,Schadstoffe,,,"Beschädigung des Objektes, durch Emmision von schädlichen Stoffen im direkten Umfeld des Objektes (Verpackungsmaterial, Vitrinen, etc.) oder durch emmitierende Stoffe, die zur Bearbeitung des Objektes selbst Verwendung fanden. ",F964CG,,,,,Q7|Q8,,,,
 
-AA819F,,4,Q2,Licht,,,Licht- bzw. Beleuchtungsinduzierte Beschädigung des Objektes,F964CG,,,,,,,,,
+AA819F,,4,Q2,Licht,,,licht- bzw. beleuchtungsinduzierte Beschädigung des Objektes,F964CG,,,,,Q7|Q8,,,,
 
-A379F4,,4,Q2,Materialbeschaffenheit,,,"Das Objekt weist Schäden auf, die auf die innere Struktur des Materials zurückzuführen ist.",F964CG,,,,,Q7|Q8,,,,
+A379F4,,4,Q2,Materialbeschaffenheit,,,"Das Objekt weist Schäden auf, die auf die innere Struktur des Materials zurückzuführen sind.",F964CG,,,,,Q7|Q8,,,,
 
 CC2F9C,,4,Q2,antike Beschädigung,,,"Schaden, der bereits vor der Bodenlagerung entstanden ist und demnach zur historischen Objektbiographie des Objektes zählt. Solche Schäden liefern wichtige Hinweise zu Herstellungstechnik und Verwendung, gehören somit zur wissenschaftlichen Aussagekraft des Objektes und dürfen nicht entfernt werden.",F964CG,,,,,Q7|Q8,,,,
 
@@ -136,29 +162,17 @@ FDD71B,,3,Q2,Salzbelastung,Salzsprengung,,"Schadensphänomen, das durch das Vorh
 
 GDF8C2,,3,Q2,Physischer Zustand,Merkmale| Beschaffenheit,physical condition@en,Die konkreten Merkmale und Eigenschaften eines Objektes,BC5B57,,,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300389724,,
 
-CAB799,,4,Q2,Vollständigkeit,Integrität,integrity@en|completeness@en,Ausmaß an materieller Ganzheitlichkeit eines Objektes. ,GDF8C2,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300419305,,,
-
-FB6AGB,,4,Q2,Stabilität,,stability@en,Fahigkeit eines Objektes physischer Einwirkung stand zu halten,GDF8C2,,,,https://www.wikidata.org/wiki/Q125400047,Q7|Q8,,,,
-
-AGBB3C,,4,Q2,Festigkeit,,,Fähigkeit des Objektmaterials mechanischen Widerstand gegen eine plastische Verformung oder Trennung zu leisten,GDF8C2,,,,,,,,,
-
-C6GB1C,,4,Q2,Veränderung,,alteration@en,"Ãnderung des ursprünglich und/oder geplanten Aussehens eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war. ",GDF8C2,,,,,Q7|Q8,,,,
-
 G43DBC,,5,Q2,Beschädigung,Schaden,,"Das Objekt weist eine unvorteilhafte Veränderung gegenüber seines ursprünglich geplanten Aussehens auf. Die Signifikanz der Beschädigung/ des Schadens, ergibt sich aus der Fragestellung bzw. dem Blickwinkel aus dem das Objekt betrachtet wird. So kann ein Kriegsschaden an einem Objekt zwar große Beschädigung des Materials verursacht haben, gleichzeitig kann diese Veränderung jedoch auch als Erweiterung der Objektgeschichte gewertet werden. Andersherum gibt es Beschädigungen, die zwar keine direkte Bedrohung auf die Integrität des Objektes ausüben, sich jedoch auf die Lesbarkeit und somit die wissenschaftliche Aussagekraft des Objektes negativ auswirken.",C6GB1C,,,,,Q7|Q8,,,,
 
 C77G9C,,5,Q2,Alterung,,,,C6GB1C,,,,,Q7|Q8,,,,
 
 A5D63G,,5,Q2,Altrestaurierung,,,,C6GB1C,,,,,Q7|Q8,,,,
 
-G9D1C8,,4,Q2,Maße,,,Die Abmessungen des Objektes,GDF8C2,,,,,Q7|Q8,,,,
+G41GC6,,5,Q2,Trocken,,dry@en,Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf.,AG4397,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300195439,,,
 
-AG4397,,4,Q2,Feuchtigkeitsgehalt,Wassergehalt,moisture content@en|humidity content@en,Enthaltener Feuchtigkeitsanteil im Porenraum eines Materialis/Objektes,GDF8C2,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300379432,,,
+FDB9F5,,5,Q2,Feucht,,moist@en,Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen einen leichten bis mittelstarken Wassergehalt auf.,AG4397,,,,,Q7|Q8,,,,
 
-G41GC6,,5,Q2,Trocken,,dry@en,Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf.,AG4397,,,,,,http://vocab.getty.edu/page/aat/300195439,,,
-
-FDB9F5,,5,Q2,Feucht,,moist@en,Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen einen leichten bis mittelstarken Wassergehalt auf.,AG4397,,,,,,,,,
-
-A255FD,,5,Q2,Nass,Wassergesättigt,wet@en,Das Materialgefüge/der Porenraum des Objektes ist vollständig mit Wasser gesättigt.,AG4397,,,,,,http://vocab.getty.edu/page/aat/300228711,,,
+A255FD,,5,Q2,Nass,Wassergesättigt,wet@en,Das Materialgefüge/der Porenraum des Objektes ist vollständig mit Wasser gesättigt.,AG4397,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300228711,,,
 
 DAC996,,3,Q2,Schadensphänomen,Schaden|Beschädigungsart,Damage type@en,Art der negativen Veränderung an einem Objekt,BC5B57,,,,,Q7|Q8,,,,
 
@@ -192,7 +206,7 @@ A8AD1G,,5,Q2,Verdeckung,Abdeckung|Überlagerung,,"Das Objekt zeigt Ablagerungen 
 
 FDC65D,,5,Q2,Fleck,,,Das Objekt zeigt partielle farbliche Veränderungen der Oberfläche,D3AGG6,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
-D8CBG2,,5,Q2,Schleierbildung,,,Das Objekt zeigt eine teilweise oder ganzheitliche Trübung der Oberfläche,D3AGG6,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
+D8CBG2,,5,Q2,Schleierbildung,Trübung,,Das Objekt zeigt eine teilweise oder ganzheitliche Trübung der Oberfläche,D3AGG6,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
 GA2C4A,,5,Q2,Glanzverlust,,,Die vormals glänzende Oberfläche eines Objektes geht zunehmend in ein mattes Erscheinungsbild über.,D3AGG6,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
@@ -206,11 +220,9 @@ GDCD91,,6,Q2,vergilbt,verbräunt,,"Die Farbigkeit des Objektes hat sich zu einem
 
 BBF64G,,4,Q2,Ablagerung,Film,,Bildung/Vorhandensein einer anhaftenden Schicht auf der Oberfläche des Objektes.,DAC996,,,,,Q7|Q8,,,,
 
-G57G31,,5,Q2,Schimmelbefall,,,,BBF64G,,,,,,,,,
+G57G31,,5,Q2,Schimmelbefall,,,,BBF64G,,,,,Q7|Q8,,,,
 
-BG987D,,5,Q2,schwitzendes Glas,,,,BBF64G,,,,,,,,,
-
-ADA625,,5,Q2,weinendes Glas,Tröpfchenbildung,weeping glas@en,,BBF64G,,,,,,,,,
+BG987D,,5,Q2,schwitzendes Glas,,,Bildung von Kondenswasser oder Feuchtigkeit auf der Oberfläche des Glases.,BBF64G,,,,,Q7|Q8,,,,
 
 C188DA,,4,Q2,Substanzverlust,,Loss of substance@en,Teile des Objektes sind verloren gegangen,DAC996,,,,,Q7|Q8,,,,
 
@@ -224,7 +236,7 @@ D99GD4,,5,Q2,Kratzer,,,Durch die mechanische Einwirkung scharfer Kanten ist ein 
 
 C5GCB6,,5,Q2,Fraßgang,Fressspuren,,Materialverlust an/in einem Objekt verursacht durch Fressaktivitäten von Organismen.,C188DA,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
-,,5,Q2,Durchwurzelung,,,Materialverlust durch Eindringen/Einwachsen von pflanzlichen Wurzeln in das Objekt,C188DA,,,,,,,,,
+A77283,,5,Q2,Durchwurzelung,,,Materialverlust durch Eindringen/Einwachsen von pflanzlichen Wurzeln in das Objekt,C188DA,,,,,Q7|Q8,,,,
 
 CB9GD3,,4,Q2,Kohäsionsverlust,,,Der innere Zusammenhalt des Objektes ist gestört,DAC996,,,,,Q7|Q8,,,,
 
@@ -242,13 +254,13 @@ FGG2C4,,5,Q2,Bruch,,,Das vormals fest gefügte Material des Objektes weist eine 
 
 GB33C3,,5,Q2,Riss,,,Das Materialgefüge des Objektes zeigt eine Abtrennung mit unregelmäßiger Kanten. Häufig verursacht durch Spannungsabbau im Gefüge. ,CB9GD3,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
-GD5454,,6,Q2,Oberflächenriss,,,,GB33C3,,,,,,,,,
+GD5454,,6,Q2,Oberflächenriss,,,,GB33C3,,,,,Q7|Q8,,,,
 
-D937D1,,6,Q2,CraquellÃ©e,,,,GB33C3,,,,,,,,,
+D937D1,,6,Q2,CraquellÃ©e,,,"Im Objektmaterial oder auf dessen Oberfläche (Glasur) sind feine, netzartige Risse oder Haarrisse zu beobachten. ",GB33C3,,,,,Q7|Q8,,,,
 
-BFAC52,,6,Q2,Tiefenriss,,,,GB33C3,,,,,,,,,
+BFAC52,,6,Q2,Tiefenriss,,,,GB33C3,,,,,Q7|Q8,,,,
 
-F2A5A7,,6,Q2,Haarriss,,,,GB33C3,,,,,,,,,
+F2A5A7,,6,Q2,Haarriss,,,,GB33C3,,,,,Q7|Q8,,,,
 
 G84156,,5,Q2,offene Fuge,offene Verbindung,,Zwei oder mehr Teile des Objektes weisen eine Lücke zueinander auf.,CB9GD3,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
@@ -264,27 +276,30 @@ D2364A,,5,Q2,Abplatzung,,,Ganz Schollen oder Stücke haben sich vollständig von
 
 C9D991,,4,Q2,chemische Veränderung,,,Durch chemische Prozesse herbeigeführte Beschädigung eines Objektes,DAC996,,,,,Q7|Q8,,,,
 
+ADA625,,5,Q2,weinendes Glas,Tröpfchenbildung,weeping glas@en,"Auf der Oberfläche des Objektes sind sichtbare Feuchtigkeitströpfchen/Tränen zu beobachten.
+",C9D991,,,,,Q7|Q8,,,,
+
 AA3CA7,,5,Q2,Ausblühung,Effloreszenz| Kristallbildung,,Auf oder im Objekt zeigen sich Ansammlungen von Salzkristallen.,C9D991,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
-G3D2F5,,5,Q2,Korrosionserscheinung,Korrosionsprodukt,,Auf oder im Objekt zeigen sich Materialumwandlungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung,C9D991,,,,https://www.wikidata.org/wiki/Q126324928,,,,,
+G3D2F5,,5,Q2,Korrosionserscheinung,Korrosionsprodukt,,Auf oder im Objekt zeigen sich Materialumwandlungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung,C9D991,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
-DGC3A9,,6,Q2,Glaskorrosion,Glaspest| Glaskrankheit,sugaring@en,,G3D2F5,,,,,,,,,
+DGC3A9,,6,Q2,Glaskorrosion,Glaspest| Glaskrankheit,sugaring@en,"Fachbegriff für eine Reihe von Schäden, die typischerweise an archäologischen Gläsern beobachtet werden. Durch chemische Reaktionen mit ihrer Umgebung können die Gläser Trübungen, Farbveränderungen, Mattierung der Oberfläche oder auch eine erhöhte Fragilität aufweisen. ",G3D2F5,,,,,Q7|Q8,,,,
 
-GC4CA7,,6,Q2,Patinabildung,,,,G3D2F5,,,,,,,,,
+GC4CA7,,6,Q2,Patinabildung,,,,G3D2F5,,,,,Q7|Q8,,,,
 
-F9C118,,6,Q2,Lochfraßkorrosion,,,,G3D2F5,,,,,,,,,
+F9C118,,6,Q2,Lochfraßkorrosion,Lochkorrosion,,"Bildung von lokalen, punktuellen Vertiefungen oder Löchern auf der Oberfläche eines Objektes, die durch chemische Reaktionen in einem korrosiven Umfeld entstehen. Diese Korrosionserscheinung schwächt das Material lokalisiert und kann zu strukturellen Schäden führen, insbesondere wenn sie unbehandelt bleibt.",G3D2F5,,,,,Q7|Q8,,,,
 
-B69747,,6,Q2,Ringkorrosion,,,,G3D2F5,,,,,,,,,
+B69747,,6,Q2,Ringkorrosion,,,,G3D2F5,,,,,Q7|Q8,,,,
 
-D68BAA,,6,Q2,Flächenkorrosion,,,,G3D2F5,,,,,,,,,
+D68BAA,,6,Q2,Flächenkorrosion,,,,G3D2F5,,,,,Q7|Q8,,,,
 
-BCDC47,,6,Q2,Kontaktkorrosion,,,,G3D2F5,,,,,,,,,
+BCDC47,,6,Q2,Kontaktkorrosion,,,,G3D2F5,,,,,Q7|Q8,,,,
 
-BFDB22,,6,Q2,Spannungsrisskorrosion,,,,G3D2F5,,,,,,,,,
+BFDB22,,6,Q2,Spannungsrisskorrosion,,,,G3D2F5,,,,,Q7|Q8,,,,
 
-F7F2A4,,6,Q2,Spaltkorrosion,,,,G3D2F5,,,,,,,,,
+F7F2A4,,6,Q2,Spaltkorrosion,,,,G3D2F5,,,,,Q7|Q8,,,,
 
-A9B23D,,5,Q2,Verkohlung,Verbrennung,,Das Objekt zeigt Spuren von Hitze- bzw. Feuereinwirkung in Form von abgebautem oder gänzlich verloren gegangenem Material,C9D991,,,,,,,,,
+A9B23D,,5,Q2,Verkohlung,Verbrennung,,Das Objekt zeigt Spuren von Hitze- bzw. Feuereinwirkung in Form von abgebautem oder gänzlich verloren gegangenem Material,C9D991,,,,,Q7|Q8,,,,
 
 AA6941,,2,Q3,[Untersuchungsgerät],Analysegerät,analytical device@en,,CA1BC5,,,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300122283,,
 
@@ -294,11 +309,11 @@ DG6841,,3,Q2,Computertomograph,CT,computed tomography scanner@en,,AA6941,,AF9A88
 
 G8D62A,,3,Q2,Röntgenanlage,,X-ray equipment@en,,AA6941,,A2B5A3,,https://de.wikipedia.org/wiki/Röntgen,Q7|Q8,,,,
 
-B538AG,,3,Q2,Mikroskop,,microscope@en,,AA6941,,,,https://de.wikipedia.org/wiki/Mikroskop,Q7|Q8,http://vocab.getty.edu/page/aat/300024594,,,
+B538AG,,3,Q2,Mikroskop,,microscope@en,"Instrument, zur detaillierten bildlichen Darstellung von mikroskopisch kleinen Strukturen, die für das menschliche Auge ohne Hilfmittel nicht erkennbar sind. Mit Hilfe von Linsen und Licht oder Elektronenstrahlen, können die Strukturen/Abbildungen vergrößert und für das menschliche Auge wahrnehmbar gemacht werden.",AA6941,,,,https://de.wikipedia.org/wiki/Mikroskop,Q7|Q8,http://vocab.getty.edu/page/aat/300024594,,,
 
-FC2113,,4,Q2,Lichtmikroskop,,light microscope@en,,B538AG,,,,https://de.wikipedia.org/wiki/Lichtmikroskop,Q7|Q8,,,,
+FC2113,,4,Q2,Lichtmikroskop,,light microscope@en,"Instrument, bei dem mit Hilfe von sichtbarem Licht Objekte vergrößert betrachtet werden können. Es besteht aus einer Lichtquelle, Linsen und einer Bildgebungseinheit, die es ermöglichen, Details von Objekten im Bereich von Mikrometern bis Millimetern zu visualisieren.",B538AG,,,,https://de.wikipedia.org/wiki/Lichtmikroskop,Q7|Q8,,,,
 
-A75779,,5,Q2,Stereomikroskop,,stereomicroscop@en,,FC2113,,,,https://de.wikipedia.org/wiki/Stereomikroskop,Q7|Q8,,,,
+A75779,,5,Q2,Stereomikroskop,,stereomicroscop@en,3.5,FC2113,,,,https://de.wikipedia.org/wiki/Stereomikroskop,Q7|Q8,,,,
 
 G69G4B,,5,Q2,monokular Mikroskop,,monocular microscope@en,,FC2113,,,,,Q7|Q8,,,,
 
@@ -314,7 +329,7 @@ A9611D,,5,Q2,Durchlichtmikroskop,,transmitted light microscope@en,,FC2113,,,,,Q7
 
 B764C6,,4,Q2,Rasterelektronenmikroskop,REM,scanning electron microscope@en|SEM@en,,B538AG,,D3BFFF,,https://de.wikipedia.org/wiki/Rasterelektronenmikroskop,Q7|Q8,http://vocab.getty.edu/page/aat/300024596,,,
 
-AG4G3C,,4,Q2,Digitalmikroskop,,,,B538AG,,,,,,http://vocab.getty.edu/page/aat/300444116,,,
+AG4G3C,,4,Q2,Digitalmikroskop,,,,B538AG,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300444116,,,
 
 G8C987,,3,Q2,UV-Lampe,,,,AA6941,,,,,Q7|Q8,,,,
 
@@ -322,57 +337,57 @@ D4A13D,,2,Q3,[Untersuchungsmethode],,,,CA1BC5,,,,,Q7|Q8,,,,
 
 G9B788,,3,Q2,Materialanalyse,,,Analyse des Objektswerkstoffes auf spezifische Eigenschaften,D4A13D,,,,,Q7|Q8,,,,
 
-FCB7A5,,4,Q2,Röntgenfluoresezenzanalyse,RFA,XRF@en|X-ray fluorescence analysis@en,,G9B788,,,,,,,http://vocab.getty.edu/page/aat/300224161,,
+FCB7A5,,4,Q2,Röntgenfluoresezenzanalyse,RFA,XRF@en|X-ray fluorescence analysis@en,,G9B788,,,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300224161,,
 
-FFA1AC,,4,Q2,Ramanspektroskopie,,,,G9B788,,,,,,,,,
+FFA1AC,,4,Q2,Ramanspektroskopie,,,,G9B788,,,,,Q7|Q8,,,,
 
-BFGB1A,,4,Q2,Laser Ablation — Inductively Coupled Plasma — Mass Spectrometry,LA-ICP-MS,,,G9B788,,,,,,,,,
+BFGB1A,,4,Q2,Laser Ablation — Inductively Coupled Plasma — Mass Spectrometry,LA-ICP-MS,,,G9B788,,,,,Q7|Q8,,,,
 
-DG129D,,4,Q2,energiedispersive Röntgenspektroskopie,EDX|EDS,energy dispersive X-ray spectroscopy@en,,G9B788,,,,,,,,,
+DG129D,,4,Q2,energiedispersive Röntgenspektroskopie,EDX|EDS,energy dispersive X-ray spectroscopy@en,,G9B788,,,,,Q7|Q8,,,,
 
-B3G5C7,,4,Q2,Dendrochronologie,,,,G9B788,,,,,,,,,
+B3G5C7,,4,Q2,Dendrochronologie,,,,G9B788,,,,,Q7|Q8,,,,
 
-F6739F,,4,Q2,Radiokarbondatierung,C14-Datierung| Radiokarbonmethode|Radiokohlenstoffdatierung,,,G9B788,,,,,,,,,
+F6739F,,4,Q2,Radiokarbondatierung,C14-Datierung| Radiokarbonmethode|Radiokohlenstoffdatierung,,,G9B788,,,,,Q7|Q8,,,,
 
-A946B5,,4,Q2,chemische Untersuchung,,,Analyse des Objektwerkstoffes mit Hilfe von chemischen Reagenzien ,G9B788,,,,,,,,,
+A946B5,,4,Q2,chemische Untersuchung,,,Analyse des Objektwerkstoffes mit Hilfe von chemischen Reagenzien ,G9B788,,,,,Q7|Q8,,,,
 
-DCD522,,5,Q2,Mikro-Quelltest,,,,A946B5,,,,,,,,,
+DCD522,,5,Q2,Mikro-Quelltest,,,,A946B5,,,,,Q7|Q8,,,,
 
-F66444,,5,Q2,Spot-Test,,,,A946B5,,,,,,,,,
+F66444,,5,Q2,Spot-Test,,,,A946B5,,,,,Q7|Q8,,,,
 
-DAA4F8,,5,Q2,Oddy-Test,,,,A946B5,,,,,,,,,
+DAA4F8,,5,Q2,Oddy-Test,,,,A946B5,,,,,Q7|Q8,,,,
 
-F7AGD2,,4,Q2,Probennahme,Probenentnahme,,"Entnahme einer Stichprobe nach spezifischen Verfahren je nach angedachter Untersuchungsmethode. Die Probennahme dient dazu Aussagen zur Beschaffenheit, Zusammensetzung und/oder charakterischischen Eigenschaften eines Materials treffen zu können.",G9B788,,,,,,,,,
+F7AGD2,,4,Q2,Probennahme,Probenentnahme,,"Entnahme einer Stichprobe nach spezifischen Verfahren je nach angedachter Untersuchungsmethode. Die Probennahme dient dazu Aussagen zur Beschaffenheit, Zusammensetzung und/oder charakterischischen Eigenschaften eines Materials treffen zu können.",G9B788,,,,,Q7|Q8,,,,
 
-G13A7B,,3,Q2,bildgebende Untersuchung,,,Untersuchungs des Objektes auf spezifische Eigenschaften/Zustände durch die Erstellung von bildhaften Darstellungen,D4A13D,,,,,,,,,
+G13A7B,,3,Q2,bildgebende Untersuchung,,,Untersuchungs des Objektes auf spezifische Eigenschaften/Zustände durch die Erstellung von bildhaften Darstellungen,D4A13D,,,,,Q7|Q8,,,,
 
-BAA12F,,4,Q2,Photogrammetrie,,,,G13A7B,,,,,,,,,
+BAA12F,,4,Q2,Photogrammetrie,,,,G13A7B,,,,,Q7|Q8,,,,
 
-D3BFFF,,4,Q2,Rasterelektronenmikroskopie,REM,,Methode mit dem die Objektoberfläche durch das Abrastern mit einem Elektronenstrahl vergrößert abgebildet wird. Erzeugt wird das Bild der Objektoberfläche durch die Wechselwirkungen der Elektronen mit dem Objekt.,G13A7B,,B764C6,,https://de.wikipedia.org/wiki/Rasterelektronenmikroskop,,,,,
+D3BFFF,,4,Q2,Rasterelektronenmikroskopie,REM,,Methode mit dem die Objektoberfläche durch das Abrastern mit einem Elektronenstrahl vergrößert abgebildet wird. Erzeugt wird das Bild der Objektoberfläche durch die Wechselwirkungen der Elektronen mit dem Objekt.,G13A7B,,B764C6,,https://de.wikipedia.org/wiki/Rasterelektronenmikroskop,Q7|Q8,,,,
 
-F58F6D,,4,Q2,3D-Scan,,,,G13A7B,,,,,,,,,
+F58F6D,,4,Q2,3D-Scan,,,,G13A7B,,,,,Q7|Q8,,,,
 
-FB231A,,4,Q2,Röntgenuntersuchung,,,Sammelbegriff für Verfahren zur bildhaften Darstellung inneren Strukturen eines Objektes mit Hilfe von Röntgenstrahlen,G13A7B,,,,,,,,,
+FB231A,,4,Q2,Röntgenuntersuchung,,,Sammelbegriff für Verfahren zur bildhaften Darstellung inneren Strukturen eines Objektes mit Hilfe von Röntgenstrahlen,G13A7B,,,,,Q7|Q8,,,,
 
-A2B5A3,,5,Q2,konventionelle Radiographie,Röntgen,,Bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. ,FB231A,,G8D62A,,https://de.wikipedia.org/wiki/Röntgen,,,,,
+A2B5A3,,5,Q2,konventionelle Radiographie,Röntgen,,Bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. ,FB231A,,G8D62A,,https://de.wikipedia.org/wiki/Röntgen,Q7|Q8,,,,
 
-AF9A88,,5,Q2,Computertomographie,CT,,"Bildgebendes Verfahren bei dem das Objekt aus mehreren Richtungen mit Röntgenstrahlen durchleuchtet wird. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert. Durch die verschiedenen Richtungen, aus denen die Röntgenstrahlen durch das Objekt treten, entstehen mehrere Absorptionsprofile. Diese werden nach Abschluss der Aufnahmen mit Hilfe des Computers zu digitalen Schnittbildern zusammengerechnet. In dem mehrere angrenzende Schnittbilder zusammengesetzt und die Volumengrafiken errechnet werden, lassen sich dreidimnesionale Darstellungen der inneren Struktur des untersuchten Objektes erzeugen. ",FB231A,,DG6841,,https://de.wikipedia.org/wiki/Computertomografie,,,,,
+AF9A88,,5,Q2,Computertomographie,CT,,"Bildgebendes Verfahren bei dem das Objekt aus mehreren Richtungen mit Röntgenstrahlen durchleuchtet wird. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert. Durch die verschiedenen Richtungen, aus denen die Röntgenstrahlen durch das Objekt treten, entstehen mehrere Absorptionsprofile. Diese werden nach Abschluss der Aufnahmen mit Hilfe des Computers zu digitalen Schnittbildern zusammengerechnet. In dem mehrere angrenzende Schnittbilder zusammengesetzt und die Volumengrafiken errechnet werden, lassen sich dreidimnesionale Darstellungen der inneren Struktur des untersuchten Objektes erzeugen. ",FB231A,,DG6841,,https://de.wikipedia.org/wiki/Computertomografie,Q7|Q8,,,,
 
-CA7279,,3,Q2,optische Begutachtung,,,Betrachtung und Einschätzung des optischen Erscheinungsbildes/Zustandes des Objektes mit dem menschlichen Auge,D4A13D,,,,,,,,,
+CA7279,,3,Q2,optische Begutachtung,,,Betrachtung und Einschätzung des optischen Erscheinungsbildes/Zustandes des Objektes mit dem menschlichen Auge,D4A13D,,,,,Q7|Q8,,,,
 
-B53C8F,,4,Q2,UV-Untersuchung,,,Begutachtung eines Objektes mit dem menschlichen Auge unter Zuhilfename einer UV-Lichtquelle,CA7279,,,,,,,,,
+B53C8F,,4,Q2,UV-Untersuchung,,,Begutachtung eines Objektes mit dem menschlichen Auge unter Zuhilfename einer UV-Lichtquelle,CA7279,,,,,Q7|Q8,,,,
 
-D4AC7A,,4,Q2,Mikroskopie,,,Begutachtung eines Objektes mit dem menschlichen Auge mit Hilfe eines Mikroskops,CA7279,,B538AG,,https://de.wikipedia.org/wiki/Mikroskop,,,,,
+D4AC7A,,4,Q2,Mikroskopie,,,Begutachtung eines Objektes mit dem menschlichen Auge mit Hilfe eines Mikroskops,CA7279,,B538AG,,https://de.wikipedia.org/wiki/Mikroskop,Q7|Q8,,,,
 
-F9GC9A,,4,Q2,manuelle Sichtkontrolle,,,Begutachtung eines Objektes mit dem menschlichen Auge ohne technische Hilfmittel,CA7279,,,,,,,,,
+F9GC9A,,4,Q2,manuelle Sichtkontrolle,,,Begutachtung eines Objektes mit dem menschlichen Auge ohne technische Hilfmittel,CA7279,,,,,Q7|Q8,,,,
 
-A4G52F,,1,Q2,Einlieferungszustand,Vorzustand,,Zustand eines Objektes zum Zeitpunkt der Einlieferung in die Restaurierungswerkstatt,C4BCF8,,GDF8C2,,,Q7|Q9,,,,
+A4G52F,,1,Q2,Einlieferungszustand,Vorzustand,,Zustand eines Objektes zum Zeitpunkt der Einlieferung in die Restaurierungswerkstatt,C4BCF8,,GDF8C2,,,Q7|Q8,,,,
 
 C2488A,,1,Q2,Endzustand,Abschlusszustand,,Zustand eines Objektes nach Abschluss der praktisch durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie Überprüfung in wie fern das zuvor festgelegte Restaurierung-/Konservierungsziel erreicht werden konnte.,C4BCF8,,GDF8C2,,,Q7|Q8,,,,
 
 A18D95,,0,Q2,Restaurierungs-/Konservierungskonzept,,,"Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabschätzung, basierend auf den Ergebnissen der Zustandserfassung.",top,,C4BCF8,,,Q7|Q8,,,,
 
-DA4158,,1,Q2,Restaurierungs-/Konservierungsziel,,,,A18D95,,,,,Q7|Q8,,,,
+DA4158,,1,Q2,Restaurierungs-/Konservierungsziel,,,"Festlegung der spezifischen Ziele und Absichten, die bei der Restaurierung oder Konservierung eines Objektes verfolgt werden. Diese Ziele können vielfältig sein und umfassen typischerweise den Erhalt des Objekts in seiner gegenwärtigen Form, die Wiederherstellung seiner ästhetischen Erscheinung, die Sicherung seiner strukturellen Integrität sowie die Erhaltung seiner historischen oder kulturellen Bedeutung für zukünftige Generationen.",A18D95,,,,,Q7|Q8,,,,
 
 AC1786,,1,Q2,Zeitplanung,,,,A18D95,,,,,Q7|Q8,,,,
 
@@ -386,35 +401,35 @@ G98FD4,,1,Q2,Konservierungsmaßnahme,stabilisierende Konservierung|Konservierung
 
 C6A532,,2,Q2,Entsalzung,Entsalzen,desalination@en,Methode zur Entfernung von durch die Bodenlagerung in ein Objekt/Material eingedrungenen Salzen,G98FD4,,,,,Q7|Q8,,,,
 
-C349C5,,3,Q2,Kompressenentsalzung,,,Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch die Auflage von feuchtigkeitsgetränktem Kompressenmaterial. Durch ein Feuchte- und/oder Konzentrationsgefälle zwischen Objekt und Kompresse werden die Salze durch Diffusion und den Kapillareffekt aus dem Objektmaterial in die Kompresse gezogen. ,C6A532,,,,,,,,,
+C349C5,,3,Q2,Kompressenentsalzung,,,Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch die Auflage von feuchtigkeitsgetränktem Kompressenmaterial. Durch ein Feuchte- und/oder Konzentrationsgefälle zwischen Objekt und Kompresse werden die Salze durch Diffusion und den Kapillareffekt aus dem Objektmaterial in die Kompresse gezogen. ,C6A532,,,,,Q7|Q8,,,,
 
-DA9G57,,3,Q2,Badentsalzung,,,Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Einlegen des Objektes in eine Badlösung,C6A532,,,,,,,,,
+DA9G57,,3,Q2,Badentsalzung,,,Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Einlegen des Objektes in eine Badlösung,C6A532,,,,,Q7|Q8,,,,
 
-A1B449,,3,Q2,Ausspülung,,,"Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff, indem fließendes Wasser kontinuierlich über das Objekt geleitet wird.",C6A532,,,,,,,,,
+A1B449,,3,Q2,Ausspülung,,,"Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff, indem fließendes Wasser kontinuierlich über das Objekt geleitet wird.",C6A532,,,,,Q7|Q8,,,,
 
-D66263,,3,Q2,elektrochemische Entsalzung,,,Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Anlegen elektrischer SpannungÂ ,C6A532,,,,,,,,,
+D66263,,3,Q2,elektrochemische Entsalzung,,,Entfernung von durch die Bodenlagerung eingedrungenen Salzen aus dem Objektwerkstoff durch das Anlegen elektrischer SpannungÂ ,C6A532,,,,,Q7|Q8,,,,
 
-F72743,,2,Q2,Plasmabehandlung,,,,G98FD4,,,,,,,,,
+F72743,,2,Q2,Plasmabehandlung,,,"Methode, bei der mit Hilfe von ionisiertem Gas (Plasma) die korrodierte Oberfläche von Metallobjekten reduziert werden kann. Auf diese Weise lassen sich zum Beispiel dunkle Sulfidflecken entfernen, indem das Silbersulfid zu metallischem Silber reduziert wird.",G98FD4,,,,https://www.wikidata.org/wiki/Q126740461,Q7|Q8,,,,
 
-DA9CGG,,2,Q2,Festigung,Festigen|Sicherung|Stabilisierung,,Methode zur Verbesserung des inneren Zusammenhaltes oder der mechanischen Stabiliät eines Objektes durch Zuführung eines stabilisierenden Materials,G98FD4,,,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,,,,
+DA9CGG,,2,Q2,Festigung,Festigen|Sicherung|Stabilisierung,,Methode zur Verbesserung des inneren Zusammenhaltes oder der mechanischen Stabiliät eines Objektes durch Zuführung eines stabilisierenden Materials,G98FD4,,,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://vocab.getty.edu/page/aat/300219960,,,
 
-B26D29,,3,Q2,temporäre Stabilisierung,,,"zeitlich begrenzte, nicht dauerhafte Unterstützung eines fragilen Materials",DA9CGG,,,,,,,,,
+B26D29,,3,Q2,temporäre Stabilisierung,,,"zeitlich begrenzte, nicht dauerhafte Unterstützung eines fragilen Materials",DA9CGG,,,,,Q7|Q8,,,,
 
-A9FF5A,,3,Q2,Tränkung,,,"Konservierungsmethode, bei der die poröse/instabile, innere Werkstoffstruktur eines Objektes durch die Einbringung eines sich in Lösung befindlichen Polymers stabilisiert wird",DA9CGG,,,,,,,,,
+A9FF5A,,3,Q2,Tränkung,,,"Konservierungsmethode, bei der die poröse/instabile, innere Werkstoffstruktur eines Objektes durch die Einbringung eines sich in Lösung befindlichen Polymers stabilisiert wird",DA9CGG,,,,,Q7|Q8,,,,
 
-C17A3G,,4,Q2,Volltränkung,,,"Konservierungsmethode, bei der der Werkstoffe eines Objektes durch das Ausfüllen seines gesamten Porenraums mit einem sich in Lösung befindlichen Polymers stabilisiert wird. Eine Volltränkung wird i.d.R. durch Eintauchen des Objektes in das Lösungsbad durchgeführt.",A9FF5A,,,,,,,,,
+C17A3G,,4,Q2,Volltränkung,,,"Konservierungsmethode, bei der der Werkstoffe eines Objektes durch das Ausfüllen seines gesamten Porenraums mit einem sich in Lösung befindlichen Polymers stabilisiert wird. Eine Volltränkung wird i.d.R. durch Eintauchen des Objektes in das Lösungsbad durchgeführt.",A9FF5A,,,,,Q7|Q8,,,,
 
-CD536F,,4,Q2,Teiltränkung,,,"Konservierungsmethode, bei der der Werkstoff eines Objektes nur in gezielten Bereichen durch das Einbringen eines sich in Lösung befindlichen Polymers stabilisiert wird. Dies kann z.B. durch lokalen Auftrag der Polymerlösung mit einem Pinsel erfolgen.",A9FF5A,,,,,,,,,
+CD536F,,4,Q2,Teiltränkung,,,"Konservierungsmethode, bei der der Werkstoff eines Objektes nur in gezielten Bereichen durch das Einbringen eines sich in Lösung befindlichen Polymers stabilisiert wird. Dies kann z.B. durch lokalen Auftrag der Polymerlösung mit einem Pinsel erfolgen.",A9FF5A,,,,,Q7|Q8,,,,
 
-A31C7C,,3,Q2,Verstärkung,,,"Methode, bei der ein Objekt durch die mechanische Befestigung auf einem festen Material unterstützt/ stabilisiert wird.",DA9CGG,,,,,,,,,
+A31C7C,,3,Q2,Verstärkung,,,"Methode, bei der ein Objekt durch die mechanische Befestigung auf einem festen Material unterstützt/ stabilisiert wird.",DA9CGG,,,,,Q7|Q8,,,,
 
-C7427F,,4,Q2,Laminierung,Hinterklebung,,"Methode, bei der ein fragiles Objekt durch das Hinterlegen mit einem Gewebe (z.B. Glasfaser, Japanpapier, etc.) stabilisiert wird. Durch Tränkung des Gewebes mit einer Polymerlösung entsteht ein stabiles Laminat, das fest mit dem Objektmaterial verbunden ist und dieses bei mechanischer Einwirkung unterstützt.",A31C7C,,,,,,,,,
+C7427F,,4,Q2,Laminierung,Hinterklebung,,"Methode, bei der ein fragiles Objekt durch das Hinterlegen mit einem Gewebe (z.B. Glasfaser, Japanpapier, etc.) stabilisiert wird. Durch Tränkung des Gewebes mit einer Polymerlösung entsteht ein stabiles Laminat, das fest mit dem Objektmaterial verbunden ist und dieses bei mechanischer Einwirkung unterstützt.",A31C7C,,,,,Q7|Q8,,,,
 
-D2D988,,4,Q2,Trägerbau,,,"Methode, bei der ein individuell an die Form des Objektes angepasstes Gestell erarbeitet wird, in welches das Objekt eingespannt/aufgelegt/befestigt werden kann. Der Träger ist dabei i.d.R. nicht dauerhaft fest mit dem Objekt verbunden. Durch den Unterbau wird das Objekt bestmöglich gestützt und die mechanische Belastung reduziert. ",A31C7C,,,,,,,,,
+D2D988,,4,Q2,Trägerbau,,,"Methode, bei der ein individuell an die Form des Objektes angepasstes Gestell erarbeitet wird, in welches das Objekt eingespannt/aufgelegt/befestigt werden kann. Der Träger ist dabei i.d.R. nicht dauerhaft fest mit dem Objekt verbunden. Durch den Unterbau wird das Objekt bestmöglich gestützt und die mechanische Belastung reduziert. ",A31C7C,,,,,Q7|Q8,,,,
 
-GF41DG,,2,Q2,Schutzüberzug,,,Methode zum Schutz der Objektoberfläche vor negativer Einwirkung von außen durch Auftrag eines schützenden Materials,G98FD4,,,,,,,,,
+GF41DG,,2,Q2,Schutzüberzug,,,Methode zum Schutz der Objektoberfläche vor negativer Einwirkung von außen durch Auftrag eines schützenden Materials,G98FD4,,,,,Q7|Q8,,,,
 
-AF1F5C,,2,Q2,Trocknung,,,Methode zur Entfernung von Feuchtigkeit aus dem Objekt oder von dessen Oberfläche,G98FD4,,,,,,,,,
+AF1F5C,,2,Q2,Trocknung,,,Methode zur Entfernung von Feuchtigkeit aus dem Objekt oder von dessen Oberfläche,G98FD4,,,,,Q7|Q8,,,,
 
 C79561,,1,Q2,Restaurierungsmaßnahme,Restaurierungsmethoden|Restaurierung,restoration@en| restoration method@en,"Sammelbegriff für einen aktiven Eingriff an einem stabilen oder stabilisierten Objekt, der darauf abzielen, dessen Verständnis, Wahrnehmung und/oder Wertschätzung, zu verbessern, unter Beachtung dessen ursprünglicher Bedeutung sowie der vorgefundenen oder vermuteten Techniken und Materialien ",CFGDA3,,,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,http://vocab.getty.edu/page/aat/300053742,https://www.wikidata.org/wiki/Q217102,,
 
@@ -428,43 +443,43 @@ A194CF,,4,Q2,Waschung,Nassreinigung|Spülung|Auswaschung| nasse Reinigung,washin
 
 G814D2,,2,Q2,Freilegung,Freilegen,uncovering@en,"Methode zur Entfernung unerwünschter und/oder potenziell schädlicher Materialien von der Oberfläche eines Objektes zur Offenlegung der zuvor verdeckten originalen Objektoberfläche. Der Begriff ""Freilegung"" wird, in Abgrenzung zum Begriff ""Reinigung"", in der Regel hauptsächlich im Bezug auf die Entfernung von Korrosions- oder Sinterauflagerungen verwendet. Der Übergang zwischen den Begriffen muss jedoch als fließend und zum Teil nicht scharf abgrenzbar betrachtet werden.",C79561,,CDD613,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300053027,,
 
-A6A248,,3,Q2,maschinelle Freilegung,,,Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten,G814D2,,,,,,,,,
+A6A248,,3,Q2,maschinelle Freilegung,,,Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten,G814D2,,,,,Q7|Q8,,,,
 
-G3GB59,,3,Q2,manuelle Freilegung,,,Per Hand ausgeführte Freilegung der originalen Oberfläche ohne Verwendung elektrischer Geräte,G814D2,,,,,,,,,
+G3GB59,,3,Q2,manuelle Freilegung,,,Per Hand ausgeführte Freilegung der originalen Oberfläche ohne Verwendung elektrischer Geräte,G814D2,,,,,Q7|Q8,,,,
 
-G8A626,,3,Q2,nasschemische Freilegung,,,Freilegung der originalen Objektoberfläche durch Anwendung von Chemikalien,G814D2,,,,,,,,,
+G8A626,,3,Q2,nasschemische Freilegung,,,Freilegung der originalen Objektoberfläche durch Anwendung von Chemikalien,G814D2,,,,,Q7|Q8,,,,
 
-A13CD1,,2,Q2,Klebung,Kleben|Fügung,bonding@en,Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive Verbindung mit Klebstoff,C79561,,,,,Q7|Q8,,,,
+A13CD1,,2,Q2,Klebung,Kleben|Fügung|Babbe,bonding@en,Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive Verbindung mit Klebstoff,C79561,,,,,Q7|Q8,,,,
 
-F589G5,,3,Q2,Infiltrationsklebung,,,"Zweischrittige Klebemethode, bei der die einzelnen Fragmente/Teile zunächst temporär miteinander verbunden werden (z.B. durch kleine Klebebandstreifen, Omega-Häkchen, etc.), bis die ursprüngliche Form des Objektes wieder erkennbar ist. Die tatsächliche Klebung erfolgt im zweiten Schritt, durch den gleichzeitigen Auftrag eines dünnflüssigen Klebemittels auf alle Bruchfugen. Aufgrund des Kapillareffekts zwischen den vorfixierten Bruchkanten wird der niedrigviskose Klebstoff in die Bruchfuge gesogen.",A13CD1,,,,,,,,,
+F589G5,,3,Q2,Infiltrationsklebung,,,"Zweischrittige Klebemethode, bei der die einzelnen Fragmente/Teile zunächst temporär miteinander verbunden werden (z.B. durch kleine Klebebandstreifen, Omega-Häkchen, etc.), bis die ursprüngliche Form des Objektes wieder erkennbar ist. Die tatsächliche Klebung erfolgt im zweiten Schritt, durch den gleichzeitigen Auftrag eines dünnflüssigen Klebemittels auf alle Bruchfugen. Aufgrund des Kapillareffekts zwischen den vorfixierten Bruchkanten wird der niedrigviskose Klebstoff in die Bruchfuge gesogen.",A13CD1,,,,,Q7|Q8,,,,
 
-AD143A,,3,Q2,Aufbaumethode,,,"Klebemethode, bei der die einzelnen Fragmente/Teile nacheinander angefügt/geklebt werden und die ursprüngliche Form des Objektes nach und nach wieder aufgebaut wird. Bei Gefäßen wird i.d.R. vom Boden zum Rand aufsteigend gearbeitet.Â ",A13CD1,,,,,,,,,
+AD143A,,3,Q2,Aufbaumethode,,,"Klebemethode, bei der die einzelnen Fragmente/Teile nacheinander angefügt/geklebt werden und die ursprüngliche Form des Objektes nach und nach wieder aufgebaut wird. Bei Gefäßen wird i.d.R. vom Boden zum Rand aufsteigend gearbeitet.Â ",A13CD1,,,,,Q7|Q8,,,,
 
 CGC619,,2,Q2,Ergänzung,Ergänzen,filling@en,Methode zur Vervollständigung fehlender Objektteile durch das Hinzufügen von Material. Wird nach der modernen archäologischen Restaurierungsethik nur noch aus statischen/stabilisierenden Gründen oder zu Rekonstruktion eines vollkommen unkenntlichen Erscheinungsbildes durchgeführt.,C79561,,,,,Q7|Q8,,,,
 
-GAD222,,3,Q2,Einfügung,,,Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle.,CGC619,,,,,,,,,
+GAD222,,3,Q2,Einfügung,,,Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle.,CGC619,,,,,Q7|Q8,,,,
 
-CBDC4A,,3,Q2,Manschettenergänzung,,,"Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt bzw. mit weniger Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden. ",CGC619,,,,,,,,,
+CBDC4A,,3,Q2,Manschettenergänzung,,,"Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt bzw. mit weniger Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden. ",CGC619,,,,,Q7|Q8,,,,
 
-DAA82A,,4,Q2,einseitige Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips). ",CBDC4A,,,,,,,,,
+DAA82A,,4,Q2,einseitige Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips). ",CBDC4A,,,,,Q7|Q8,,,,
 
-D152G6,,4,Q2,beidseitigte Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle von beiden Seiten (Außen- und Innenseite bei Gefäßen) umschlossen wird. Hierzu werden zwei Manschetten angefertigt, die jeweils die beiden Seiten der Fehlstelle abdecken. Auf diese Weise wird ein der Materialstärke des Objektes entsprechender Holraum erzeugen, der mit einem Ergänzungsmaterial ausgefüllt werden kann. Diese Ergänzungsvariante wird insbesondere für Glasobjekte verwendet. Auch bei der Wahl von Kunstharzen als Ergänzungsmaterial ist diese Variante zu bevorzugen, da Kunstharze nach dem Aushärten nur noch mit relativ großem Aufwand nachbearbeitet werden können.",CBDC4A,,,,,,,,,
+D152G6,,4,Q2,beidseitige Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle von beiden Seiten (Außen- und Innenseite bei Gefäßen) umschlossen wird. Hierzu werden zwei Manschetten angefertigt, die jeweils die beiden Seiten der Fehlstelle abdecken. Auf diese Weise wird ein der Materialstärke des Objektes entsprechender Holraum erzeugen, der mit einem Ergänzungsmaterial ausgefüllt werden kann. Diese Ergänzungsvariante wird insbesondere für Glasobjekte verwendet. Auch bei der Wahl von Kunstharzen als Ergänzungsmaterial ist diese Variante zu bevorzugen, da Kunstharze nach dem Aushärten nur noch mit relativ großem Aufwand nachbearbeitet werden können.",CBDC4A,,,,,Q7|Q8,,,,
 
-A6F2C7,,3,Q2,Tonkernergänzung,,,,CGC619,,,,,,,,,
+A6F2C7,,3,Q2,Tonkernergänzung,,,,CGC619,,,,,Q7|Q8,,,,
 
-BD119A,,3,Q2,Retusche,Kolorieren|Färben,,,CGC619,,,,,,,,,
+BD119A,,3,Q2,Retusche,Kolorieren|Färben,,,CGC619,,,,,Q7|Q8,,,,
 
 C364G1,,1,Q3,[Konservierungs- und Restaurierungsmaterialien],,restorationmaterial@en|conservationmaterial@en,strukturierender Sammelbegriff für sämtliche zur Konservierung und/oder Restaurierung eines Objektes verwendeter (Verbrauchs-)Materialien,CFGDA3,,,,,Q7|Q8,http://www.wikidata.org/entity/Q214609| http://terminology.lido-schema.org/lido00132,,,
 
-A95DFA,,2,Q2,Reinigungsmittel,,detergent@en,,C364G1,,,,,,,,,
+A95DFA,,2,Q2,Reinigungsmittel,,detergent@en,,C364G1,,,,,Q7|Q8,,,,
 
 C421BF,,2,Q2,Lösungsmittel,Lösemittel,solvent@en,,C364G1,,,,,Q7|Q8,,,,
 
-G7F69C,,2,Q2,Bindemittel,,,,C364G1,,,,,,,,,
+G7F69C,,2,Q2,Bindemittel,,,,C364G1,,,,,Q7|Q8,,,,
 
 F87124,,2,Q2,Komplexbildner,,,,C364G1,,,,,Q7|Q8,,,,
 
-ACFF37,,2,Q2,Korrosionsinhibitor,,,,C364G1,,,,,,,,,
+ACFF37,,2,Q2,Korrosionsinhibitor,,,,C364G1,,,,,Q7|Q8,,,,
 
 B3FCA1,,2,Q2,Reduktionsmittel,,reducing agent@en,"chemische Substanz, die Elektronen abgeben und somit andere Substanzen reduzieren kann (Redoxreaktion)",C364G1,,,,https://www.wikidata.org/wiki/Q216830,Q7|Q8,http://vocab.getty.edu/page/aat/300380032,,,
 
@@ -472,33 +487,69 @@ A2B746,,2,Q2,Base,,alkaline solution@en|base@en,"chemische Substanz, die in wäs
 
 FGF575,,2,Q2,Säure,,acidic detergent@en|acid@en,"chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann",C364G1,,,,https://www.wikidata.org/wiki/Q11158,Q7|Q8,http://vocab.getty.edu/page/aat/300011752|https://cameo.mfa.org/wiki/Acid,,,
 
-A1D125,,2,Q2,synthetisches Polymer,,,,C364G1,,,,,,,,,
+A1D125,,2,Q2,synthetisches Polymer,,,,C364G1,,,,,Q7|Q8,,,,
 
-AF31AG,,3,Q2,Epoxidharz,,,,A1D125,,,,,,,,,
+AF31AG,,3,Q2,Epoxidharz,,,,A1D125,,,,,Q7|Q8,,,,
 
-GFD582,,3,Q2,Acrylharz,,,,A1D125,,,,,,,,,
+GFD582,,3,Q2,Acrylharz,,,,A1D125,,,,,Q7|Q8,,,,
 
-D9F783,,3,Q2,Cyanacrylat,,,,A1D125,,,,,,,,,
+D9F783,,3,Q2,Cyanacrylat,,,,A1D125,,,,,Q7|Q8,,,,
 
-B572B5,,3,Q2,Polyvinylbutyral,,,,A1D125,,,,,,,,,
+B572B5,,3,Q2,Polyvinylbutyral,,,,A1D125,,,,,Q7|Q8,,,,
 
-D41661,,3,Q2,Cellulosederivat,,,,A1D125,,,,,,,,,
+DF5773,,3,Q2,Polyvinylacetat,,,,A1D125,,,,,Q7|Q16|Q8,,,,
 
-A44D5F,,4,Q2,Celluloseether,,,,D41661,,,,,,,,,
+C838C1,,3,Q2,Polyvinylalkohol,,,,A1D125,,,,,Q7|Q17|Q8,,,,
 
-GC6999,,4,Q2,Cellulosenitrat,,,,D41661,,,,,,,,,
+D41661,,3,Q2,Cellulosederivat,,,,A1D125,,,,,Q7|Q8,,,,
 
-AG2965,,2,Q2,Naturharz,,,,C364G1,,,,,,,,,
+A44D5F,,4,Q2,Celluloseether,,,,D41661,,,,,Q7|Q8,,,,
 
-CB4G84,,2,Q2,Wachs,,,,C364G1,,,,,,,,,
+GC6999,,4,Q2,Cellulosenitrat,,,,D41661,,,,,Q7|Q8,,,,
 
-BGGCA4,,2,Q2,Verstärkungsfasern,,,,C364G1,,,,,,,,,
+F387GB,,3,Q2,Polyethylenglycol,,,,A1D125,,,,,Q7|Q16|Q8,,,,
+
+DF633G,,3,Q2,Melaminharz,,,,A1D125,,,,,Q7|Q16|Q8,,,,
+
+F8A93F,,3,Q2,Polyesterharz,,,,A1D125,,,,,Q7|Q17|Q8,,,,
+
+A3G356,,3,Q2,Polyurethan,,,,A1D125,,,,,Q7|Q16|Q8,,,,
+
+AG2965,,2,Q2,Harze aus natürlichen Rohstoffen,Naturharz,,,C364G1,,,,,Q7|Q8,,,,
+
+CB4G84,,2,Q2,Wachs,,,,C364G1,,,,,Q7|Q8,,,,
+
+D7A4BC,,2,Q2,Fett,,,,C364G1,,,,,Q7|Q17|Q8,,,,
+
+BGGCA4,,2,Q2,Verstärkungsfaser,,,,C364G1,,,,,Q7|Q8,,,,
+
+A8245D,,2,Q2,Ton,,,,C364G1,,,,,Q7|Q17|Q8,,,,
+
+A2B583,,2,Q2,Plastilin,,,,C364G1,,,,,Q7|Q17|Q8,,,,
+
+GD5FG6,,2,Q2,Gips,,,,C364G1,,,,,Q7|Q17|Q8,,,,
+
+BB78D2,,2,Q2,Füllstoff,,,,C364G1,,,,,Q7|Q8,,,,
+
+BFB3B9,,3,Q2,Talkum,,,,BB78D2,,,,,Q7|Q17|Q8,,,,
+
+DA86F8,,3,Q2,Aerosil,,,,BB78D2,,,,,Q7|Q17|Q8,,,,
+
+A44BG6,,2,Q2,Silikonkautschuk,,,,C364G1,,,,,Q7|Q8,,,,
+
+A17D39,,2,Q2,Seife,,,,C364G1,,,,,Q7|Q17|Q8,,,,
+
+B23F5G,,2,Q2,Latexmilch,,,,C364G1,,,,,Q7|Q16|Q8,,,,
+
+CCCC7G,,2,Q2,Ãl,,,,C364G1,,,,,Q7|Q17|Q8,,,,
+
+B8B69D,,2,Q2,Pigmente,,,,C364G1,,,,,Q7|Q17|Q8,,,,
 
 C93638,,1,Q3,[Werkzeuge],,,,CFGDA3,,,,,Q7|Q8,http://www.wikidata.org/entity/Q39546,,,
 
 GF9C49,,2,Q3,[technische Geräte],,,,C93638,,,,,Q7|Q8,,,,
 
-G487C2,,3,Q2,Feinsandstrahlgerät,Mikrosandstrahlgerät,,,GF9C49,,,,,Q7|Q8,,,,
+G487C2,,3,Q2,Feinstrahlgerät,Mikrostrahlgerät,,,GF9C49,,,,,Q7|Q8,,,,
 
 D8G747,,3,Q2,Mikromotor,,,,GF9C49,,,,,Q7|Q8,,,,
 
@@ -515,6 +566,12 @@ BBB987,,3,Q2,Absauganlage,,,,GF9C49,,,,,Q7|Q8,,,,
 C2112G,,3,Q2,Gefriertrocknungsanlage,,,,GF9C49,,,,,Q7|Q8,,,,
 
 DAC482,,3,Q2,Lötanlage,,,,GF9C49,,,,,Q7|Q8,,,,
+
+D7GGGG,,3,Q2,Wärmeschrank,Wärmekammer,,,GF9C49,,,,,Q7|Q16|Q8,,,,
+
+F8323G,,3,Q2,industrielle Mikrowellenkammer,Mikrowelle,,,GF9C49,,,,,Q7|Q16|Q8,,,,
+
+C99F9G,,3,Q2,Plasmaanlage,,,,GF9C49,,,,,Q7|Q16|Q8,,,,
 
 D941BB,,2,Q3,[manuelle Werkzeuge],,,,C93638,,,,,Q7|Q8,,,,
 
@@ -544,102 +601,120 @@ F18C56,,3,Q2,Holzschaber,,wood scraper@en,,D941BB,,,,,Q7|Q8,,,,
 
 G33846,,3,Q2,Acrylglasschaber,Plexiglasschaber,acrylic scraper@en,,D941BB,,,,,Q7|Q8,,,,
 
-C3A182,,1,Q2,Nachbildung für wissenschaftliche Zwecke,Nachbilden|Kopieren,,Erstellung aussagekräftiger Vergleichsstücke zu wissenschaftlichem Zweck,CFGDA3,,,,,Q7|Q8,,,,
+C3A182,,1,Q2,Nachbildung für wissenschaftliche Zwecke,Nachbilden|Kopieren,,Methoden zur Erstellung aussagekräftiger Vergleichsstücke zu wissenschaftlichem Zweck,CFGDA3,,,,,Q7|Q8,,,,
 
-G79CAC,,2,Q3,[Nachbildungsmethoden und - materialien],,,"strukturierender Sammelbegriff für verschiedene Methoden, die zur Herstellung von wissenschaftlichen Vergleichsstücken angewandt werden können sowie die hierzu benötigten Materialien",C3A182,,,,,,,,,
+G79CAC,,2,Q3,[Vorgehensweise],,,"strukturierender Sammelbegriff für verschiedene Methoden, die zur Herstellung von wissenschaftlichen Vergleichsstücken angewandt werden können ",C3A182,,,,,Q7|Q8,,,,
 
-DAG2A8,,3,Q2,Abformung,,,,G79CAC,,,,,,,,,
+DAG2A8,,3,Q2,Abformung,,,,G79CAC,,,,,Q7|Q17|Q8,,,,
 
-G52378,,4,Q2,analoge Abformung,,,,DAG2A8,,,,,,,,,
+G52378,,4,Q2,analoge Abformung,,,,DAG2A8,,,,,Q7|Q17|Q8,,,,
 
-BB78D2,,5,Q3,[Abformungsmaterialien],,,,G52378,,,,,Q7|Q8,,,,
+A3G356,,5,Q2,Formbau,,,,,,,,,Q7|Q17|Q8,,,,
 
-A44BG6,,6,Q2,Einbettmasse,,,,BB78D2,,,,,,,,,
+D51B5G,,6,Q2,Isolierung,Isolieren| Absperren,,"Methode, bei der das originale Objekte durch Auftragen einer Trennschicht vor den verwendeten Abformmaterialien geschützt wird. ",G52378,,,,,Q7|Q17|Q8,,,,
 
-D51B5G,,6,Q2,Negativmasse,,,,BB78D2,,,,,,,,,
+C1218G,,6,Q2,Abformung,Abformen,,"Methode, bei der das gewählte Abformmaterial auf das originale Objekt aufgetragen wird, um dessen Form zeichnungsgenau nachzubilden. Dies kann durch Streichen, Gießen oder Drücken erfolgen, je nach Art des verwendeten Abformmaterials.",,,,,,Q7|Q17|Q8,,,,
 
-G967G1,,6,Q2,Stützkapselmaterial,,,,BB78D2,,,,,,,,,
+CC67B2,,6,Q2,Stützkapselbau,,,,G52378,,,,,Q7|Q17|Q8,,,,
 
-C369CB,,7,Q2,Verstärkungsmaterial,,,,BB78D2,,,,,,,,,
+FFA16B,,5,Q3,[Formtyp],[Formart],,,G52378,,,,,Q7|Q8,,,,
 
-A15D7G,,7,Q2,Kunstharz,,,,BB78D2,,,,,,,,,
+G967G1,,6,Q2,Spiegelform,,,,FFA16B,,,,,Q7|Q8,,,,
 
-A2GC16,,7,Q2,Gips,,,,BB78D2,,,,,,,,,
+DC3F7A,,6,Q2,Quetschform,,,,FFA16B,,,,,Q7|Q8,,,,
 
-DC3F7A,,6,Q2,Isoliermittel,Trennmittel,,,G967G1,,,,,,,,,
+ADCC8A,,6,Q2,Laminierform,,,,FFA16B,,,,,Q7|Q8,,,,
 
-ADCC8A,,6,Q2,Zuschlagstoffe,,,,BB78D2,,,,,,,,,
+B1DB9G,,6,Q2,Gussform,,,,FFA16B,,,,,Q7|Q8,,,,
 
-B2D9C9,,5,Q2,Formtypen,,,,G52378,,,,,,,,,
+GGA953,,7,Q2,Fallgussform,,,,FFA16B,,,,,Q7|Q8,,,,
 
-GC14B8,,4,Q2,digitale Abformung,,,,DAG2A8,,,,,,,,,
+C369CB,,7,Q2,Steiggussform,,,,FFA16B,,,,,Q7|Q8,,,,
 
-F8F7CF,,3,Q2,Kopieherstellung,,,Methode zur Erstellung einer originalgetreuen Nachbildung eines Objektes. Der Kopieherstellung geht die Abformung eines Objektes voraus.,G79CAC,,DAG2A8,,,,,,,
+A15D7G,,6,Q2,Schwenkform,,,,FFA16B,,,,,Q7|Q8,,,,
 
-D9CC3C,,4,Q3,[Methoden],,,,F8F7CF,,,,,,,,,
+A2GC16,,6,Q2,Galvanoform,,,,FFA16B,,,,,Q7|Q8,,,,
 
-FFA16B,,4,Q3,[Materialien],,,,F8F7CF,,,,,,,,,
+FBGFC2,,5,Q3,[Formaufbau],,,,G52378,,,,,Q7|Q8,,,,
 
-B1DB9G,,5,Q2,Färbemittel,,,,FFA16B,,,,,,,,,
+F7G7CB,,6,Q2,Einteilige Form,,,,FBGFC2,,,,,Q7|Q8,,,,
 
-FA2332,,3,Q2,Rekonstruktion,,,Methode zur Wiederherstellung und/oder Nachbildung eines ursprünglichen Zustandes ,G79CAC,,,,,,,,,
+B2D9C9,,6,Q2,Mehrteilige Form,,,,FBGFC2,,,,,Q7|Q8,,,,
 
-G6282F,,4,Q2,Rückformung,,,"Umformung einer Kunstharz- oder Galvanokopie zur Herstellung der angenommenen, ursprünglichen Form eines Vorbildobjektes.",FA2332,,,,,,,,,
+GC14B8,,4,Q2,digitale Abformung,,,,DAG2A8,,,,,Q7|Q8,,,,
 
-BDCBC3,,4,Q2,Ergänzung,,,Ausbesserung von Fehlstellen einer Kunstharz- oder Galvanokopie nach Vorbild eines originalen Objektes. ,FA2332,,,,,,,,,
+B14489,,5,Q2,3D-Scan,,,,GC14B8,,,,,Q7|Q8,,,,
 
-G59852,,3,Q2,Reproduktion,,,"Ohne direkte Abformung angefertigte Nachbildung oder Wiedergabe eines originalen Objektes, das von einer anderen Person angefertigt wurde.",G79CAC,,,,,,,,,
+G734B3,,5,Q2,Photogrammetrie,,,,GC14B8,,,,,Q7|Q8,,,,
 
-B689B6,,4,Q3,[Methode],,,,G59852,,,,,,,,,
+F8F7CF,,3,Q2,Kopieherstellung,,,"Methode, bei der das gewählte Material, aus dem die Kopie bestehen soll, in die Form eingefüllt wird. Dies kann durch Gießen, Aufpinseln, Laminieren erfolgen. Der Kopieherstellung geht die Abformung eines Objektes voraus. ",G79CAC,,DAG2A8,,,Q7|Q8,,,,
 
-D2GGAC,,4,Q3,[Material],,,,G59852,,,,,,,,,
+D9F7AC,,4,Q2,Formausguss,,,,F8F7CF,,,,,Q7|Q8,,,,
 
-BD7FF8,,3,Q2,Modellanfertigung,,,Methode zur Herstellung von modellhaften Darstellung auf Forschungsergebnissen basierender Gegebenheiten. ,G79CAC,,,,,,,,,
+BAB7B1,,4,Q2,Galvanisieren,,,,F8F7CF,,,,,Q7|Q8,,,,
 
-F1F372,,3,Q2,Kolorierung,Kolorieren|Färben,,Methode zur farbigen Fassung einer angefertigten Kopie nach originalem Objektvorbild,G79CAC,,,,,Q7|Q8,,,,
+D772G6,,4,Q2,Digitale Kopieerstellung,,,,F8F7CF,,,,,Q7|Q8,,,,
 
-C11192,,2,Q3,[Nachbildungsergebnisse],,,struktureller Sammelbegriff für die bei der Nachbildungstätigkeit entstehenden Objekte,C3A182,,,,,,,,,
+FA2332,,3,Q2,Rekonstruktion (Methode),,,Methode zur Wiederherstellung und/oder Nachbildung eines ursprünglichen Zustandes. Die Rekonstruktion kann sowohl auf Grundlage einer analogen als auch einer digitalen Kopie erfolgen.,G79CAC,,,,,Q7|Q8,,,,
 
-A7FC45,,3,Q2,Kopie,,,"Durch abformen nachgebildetes Objekt eines Vorbildgegenstandes, welches u.A. zur Erforschung der Typologie, Oberflächeneigenschaften und/oder Farbgebung des Originals genutzt wird. ",C11192,,,,,,,,,
+G6282F,,4,Q2,Rückformung,,,"Umformung einer Kunstharz- oder Galvanokopie zur Herstellung der angenommenen, ursprünglichen Form eines Vorbildobjektes.",FA2332,,,,,Q7|Q8,,,,
 
-D532GF,,3,Q2,Rekonstruktion,,,"Nachgebildetes Objekt, das einen angenommenen, ursprünglichen Zustand eines Vorbildgegendstandes wiedergibt. ",C11192,,,,,,,,,
+BDCBC3,,4,Q2,Ergänzung,,,Ausbesserung von Fehlstellen einer Kunstharz- oder Galvanokopie nach Vorbild eines originalen Objektes. ,FA2332,,,,,Q7|Q8,,,,
 
-C5GA26,,3,Q2,Reproduktion,,,"Objekt, welches nach Vorbild eines von einer anderen Person angefertigten Originals hergestellt wurde, ohne das dieses Original im Vorfeld abgeformt wurde",C11192,,,,,,,,,
+G59852,,3,Q2,Reproduktion (Methode),,,"Methoden zur Nachbildung oder Wiedergabe eines originalen Objektes, das von einer anderen Person angefertigt wurde. Die Methode beinhaltet keine analoge oder digitale Abformung des Objekts. ",G79CAC,,,,,Q7|Q8,,,,
 
-F9549F,,3,Q2,Modell,,,"Auf Forschungsergebnissen basierender Nachbau, ohne aktuell extistierendes Vorbild.",C11192,,,,,,,,,
+BD7FF8,,3,Q2,Modellanfertigung,,,Methode zur Herstellung von modellhaften Darstellung auf Forschungsergebnissen basierender Gegebenheiten. ,G79CAC,,,,,Q7|Q8,,,,
+
+F1F372,,3,Q2,Kolorierung,Kolorieren|Färben,,Methode zur farbigen Fassung einer angefertigten Nachbildung nach originalem Objektvorbild,G79CAC,,,,,Q7|Q8,,,,
+
+C11192,,2,Q3,[Nachbildungsergebnisse],,,struktureller Sammelbegriff für die bei der Nachbildungstätigkeit entstehenden Objekte,C3A182,,,,,Q7|Q8,,,,
+
+A7FC45,,3,Q2,Kopie ,,,"Durch abformen nachgebildetes Objekt eines Vorbildgegenstandes, welches u.A. zur Erforschung der Typologie, Oberflächeneigenschaften und/oder Farbgebung des Originals genutzt wird. ",C11192,,,,,Q7|Q8,,,,
+
+B689B6,,4,Q2,Kunstharzkopie,,,,A7FC45,,,,,Q7|Q8,,,,
+
+D2GGAC,,4,Q2,Gipskopie,,,,A7FC45,,,,,Q7|Q8,,,,
+
+D9CC3C,,4,Q2,Galvanoplastik,,,,A7FC45,,,,,Q7|Q8,,,,
+
+D532GF,,3,Q2,Rekonstruktion,,,"Nachgebildetes Objekt, das einen angenommenen, ursprünglichen Zustand eines Vorbildgegendstandes wiedergibt. ",C11192,,,,,Q7|Q8,,,,
+
+C5GA26,,3,Q2,Reproduktion,,,"Objekt, welches nach Vorbild eines von einer anderen Person angefertigten Originals hergestellt wurde, ohne das dieses Original im Vorfeld abgeformt wurde",C11192,,,,,Q7|Q8,,,,
+
+F9549F,,3,Q2,Modell,,,"Auf Forschungsergebnissen basierender Nachbau, ohne aktuell extistierendes Vorbild.",C11192,,,,,Q7|Q8,,,,
 
 F5G576,,1,Q2,präventive Konservierung,präventive Maßnahmen,preventive conservation@en| preventive care@en,"Sammelbegriff für vorbeugende Maßnahmen zur Vermeidung oder Minimierung von künftigen Schaden, Abbau, Verlust und folglich invasivem Eingriff. Bei der präventiven Konservierung findet lediglich eine passive Einwirkung auf das Objekt statt (vgl. DIN EN 15898:2020-02).",CFGDA3,,,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,,,,
 
-AC16G1,,2,Q2,Verpackung,,,,F5G576,,,,,,,,,
+AC16G1,,2,Q2,Verpackung,,,,F5G576,,,,,Q7|Q8,,,,
 
-D78721,,2,Q2,Montage,,,,F5G576,,,,,,,,,
+D78721,,2,Q2,Montage,,,,F5G576,,,,,Q7|Q8,,,,
 
-F285B2,,2,Q2,Risikomanagment,,,,F5G576,,,,,,,,,
+F285B2,,2,Q2,Risikomanagment,,,,F5G576,,,,,Q7|Q8,,,,
 
-G76B7G,,0,Q2,Technologische Auswertung,Interpretation,,Erläuterung und Auslegung der während der Untersuchung und Bearbeitung eines Objektes festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien,top,,,,,,,,,
+G76B7G,,0,Q2,Technologische Auswertung,Interpretation,,Erläuterung und Auslegung der während der Untersuchung und Bearbeitung eines Objektes festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien,top,,,,,Q7|Q8,,,,
 
-F8F594,,1,Q2,Herstellungstechnik,,,basierend auf den festgestellten Spuren angenommene Art und Weise wie das Objekt hergestellt worden ist,G76B7G,,,,,,,,,
+F8F594,,1,Q2,Herstellungstechnik,,,basierend auf den festgestellten Spuren angenommene Art und Weise wie das Objekt hergestellt worden ist,G76B7G,,,,,Q7|Q8,,,,
 
-F2244D,,1,Q2,Verzierungstechnik,,,"angenommene Methode(n), die zur Ausarbeitung der an dem Objekt festgestellten Verzierungselemente verwendet wurden",G76B7G,,,,,,,,,
+F2244D,,1,Q2,Verzierungstechnik,,,"angenommene Methode(n), die zur Ausarbeitung der an dem Objekt festgestellten Verzierungselemente verwendet wurden",G76B7G,,,,,Q7|Q8,,,,
 
-CF3C22,,1,Q2,Verwendungszweck,Gebrauch,,angenommener Zweck für den das Objekt ursprünglich verwendet wurde,G76B7G,,,,,,,,,
+CF3C22,,1,Q2,Verwendungszweck,Gebrauch,,angenommener Zweck für den das Objekt ursprünglich verwendet wurde,G76B7G,,,,,Q7|Q8,,,,
 
-DAB4B7,,0,Q2,Handlungsempfehlung,,,"Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeinträchtigung zu schützen und zu erhalten",top,,,,,,,,,
+DAB4B7,,0,Q2,Handlungsempfehlung,,,"Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeinträchtigung zu schützen und zu erhalten",top,,,,,Q7|Q8,,,,
 
-D1CFD5,,1,Q2,Lagerungsbedingungen,,,,DAB4B7,,,,,,,,,
+D1CFD5,,1,Q2,Lagerungsbedingungen,,,,DAB4B7,,,,,Q7|Q8,,,,
 
-D949G6,,1,Q2,Handhabung,Händelbarkeit,,,DAB4B7,,,,,,,,,
+D949G6,,1,Q2,Handhabung,Händelbarkeit,,,DAB4B7,,,,,Q7|Q8,,,,
 
-BGG5A6,,1,Q2,Transportbedingungen,,,,DAB4B7,,,,,,,,,
+BGG5A6,,1,Q2,Transportbedingungen,,,,DAB4B7,,,,,Q7|Q8,,,,
 
-D6A11G,,1,Q2,Ausstellungsparameter,,,,DAB4B7,,,,,,,,,
+D6A11G,,1,Q2,Ausstellungsparameter,,,,DAB4B7,,,,,Q7|Q8,,,,
 
-CD5C3F,,1,Q2,Gesundheitsschutz,,,,DAB4B7,,,,,,,,,
+CD5C3F,,1,Q2,Gesundheitsschutz,,,,DAB4B7,,,,,Q7|Q8,,,,
 
-C8CG15,,0,Q2,Dokumentation,,documentation@en| report@en,Sammelbegriff für Aufzeichnungen gemachter Beobachtungen und Handlungen,top,,,,,,,,,
+C8CG15,,0,Q2,Dokumentation,,documentation@en| report@en,Sammelbegriff für Aufzeichnungen gemachter Beobachtungen und Handlungen,top,,,,,Q7|Q8,,,,
 
 D3AF3A,,1,Q2,Zustandsbericht,Zustandsbeschreibung|Zustandsdocumentation,condition documentation@en| condition report@en,"Dokumentation der durchgeführten Untersuchungsmethoden, deren Ergebnisse sowie die Einschätzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt",C8CG15,,C4BCF8,,,Q7|Q8,http://vocab.getty.edu/page/aat/300435425| http://vocab.getty.edu/page/aat/300266009| http://terminology.lido-schema.org/lido00268,,,
 
-A8D3G1,,1,Q2,Maßnahmenbericht,Restaurierungsbericht|Restaurierungsprotokoll|Maßnahmendokumentation,,"Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie der dabei verwendeten Materialien und Werkzeuge. ",C8CG15,,CFGDA3,,,,,,,
+A8D3G1,,1,Q2,Maßnahmenbericht,Restaurierungsbericht|Restaurierungsprotokoll|Maßnahmendokumentation,,"Dokumentation des Konservierungs-/Restaurierungskonzeptes, der durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie der dabei verwendeten Materialien und Werkzeuge. ",C8CG15,,CFGDA3,,,Q7|Q8,,,,
 
-BAA258,,1,Q2,Auswertungsdokumentation,,,Dokumentation der technologischen Auswertung,C8CG15,,G76B7G,,,,,,,
+BAA258,,1,Q2,Auswertungsdokumentation,,,Dokumentation der technologischen Auswertung,C8CG15,,G76B7G,,,Q7|Q8,,,,
