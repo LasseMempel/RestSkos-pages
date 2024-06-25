@@ -276,8 +276,7 @@ D2364A,,5,Q2,Abplatzung,,,Ganz Schollen oder Stücke haben sich vollständig von
 
 C9D991,,4,Q2,chemische Veränderung,,,Durch chemische Prozesse herbeigeführte Beschädigung eines Objektes,DAC996,,,,,Q7|Q8,,,,
 
-ADA625,,5,Q2,weinendes Glas,Tröpfchenbildung,weeping glas@en,"Auf der Oberfläche des Objektes sind sichtbare Feuchtigkeitströpfchen/Tränen zu beobachten.
-",C9D991,,,,,Q7|Q8,,,,
+ADA625,,5,Q2,weinendes Glas,Tröpfchenbildung,weeping glas@en,Auf der Oberfläche des Objektes sind sichtbare Feuchtigkeitströpfchen/Tränen zu beobachten.,C9D991,,,,,Q7|Q8,,,,
 
 AA3CA7,,5,Q2,Ausblühung,Effloreszenz| Kristallbildung,,Auf oder im Objekt zeigen sich Ansammlungen von Salzkristallen.,C9D991,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 

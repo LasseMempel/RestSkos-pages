@@ -356,8 +356,7 @@
 <http://leiza.de/thesaurus/ADA625> a skos:Concept ;
     skos:altLabel "Tröpfchenbildung"@de ;
     skos:broader <http://leiza.de/thesaurus/C9D991> ;
-    skos:definition """Auf der Oberfläche des Objektes sind sichtbare Feuchtigkeitströpfchen/Tränen zu beobachten.\r
-"@de"" ;
+    skos:definition "Auf der Oberfläche des Objektes sind sichtbare Feuchtigkeitströpfchen/Tränen zu beobachten."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "ADA625" ;
     skos:prefLabel "weinendes Glas"@de .

@@ -137,8 +137,7 @@ FA9B73,,5,Q2,Delamination,Schichtentrennung,,Das MaterialgefÃ¼ge des Objektes 
 F97BFF,,5,Q2,Schollenbildung,,,"Auf der ObjektoberflÃ¤che sind ein oder mehrere dÃ¼nne MaterialstÃ¼cke zu sehen, die sich teilweise von dieser abgelÃ¶st haben und abstehen.",CB9GD3,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 D2364A,,5,Q2,Abplatzung,,,Ganz Schollen oder StÃ¼cke haben sich vollstÃ¤ndig von der ObjektoberflÃ¤che gelÃ¶st und sind entweder komplett verloren oder liegen getrennt von dem Objekt. ,CB9GD3,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 C9D991,,4,Q2,chemische VerÃ¤nderung,,,Durch chemische Prozesse herbeigefÃ¼hrte BeschÃ¤digung eines Objektes,DAC996,,,,,Q7|Q8,,,,
-ADA625,,5,Q2,weinendes Glas,TrÃ¶pfchenbildung,weeping glas@en,"Auf der OberflÃ¤che des Objektes sind sichtbare FeuchtigkeitstrÃ¶pfchen/TrÃ¤nen zu beobachten.
-",C9D991,,,,,Q7|Q8,,,,
+ADA625,,5,Q2,weinendes Glas,TrÃ¶pfchenbildung,weeping glas@en,Auf der OberflÃ¤che des Objektes sind sichtbare FeuchtigkeitstrÃ¶pfchen/TrÃ¤nen zu beobachten.,C9D991,,,,,Q7|Q8,,,,
 AA3CA7,,5,Q2,AusblÃ¼hung,Effloreszenz| Kristallbildung,,Auf oder im Objekt zeigen sich Ansammlungen von Salzkristallen.,C9D991,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 G3D2F5,,5,Q2,Korrosionserscheinung,Korrosionsprodukt,,Auf oder im Objekt zeigen sich Materialumwandlungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung,C9D991,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 DGC3A9,,6,Q2,Glaskorrosion,Glaspest| Glaskrankheit,sugaring@en,"Fachbegriff fÃ¼r eine Reihe von SchÃ¤den, die typischerweise an archÃ¤ologischen GlÃ¤sern beobachtet werden. Durch chemische Reaktionen mit ihrer Umgebung kÃ¶nnen die GlÃ¤ser TrÃ¼bungen, FarbverÃ¤nderungen, Mattierung der OberflÃ¤che oder auch eine erhÃ¶hte FragilitÃ¤t aufweisen. ",G3D2F5,,,,,Q7|Q8,,,,
