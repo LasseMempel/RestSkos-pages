@@ -85,6 +85,12 @@
     skos:notation "A2BB42" ;
     skos:prefLabel "klimatisierte Individualverpackung"@de .
 
+<http://leiza.de/thesaurus/A2G7B9> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/G52378> ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "A2G7B9" ;
+    skos:prefLabel "Formbau"@de .
+
 <http://leiza.de/thesaurus/A2GC16> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/FFA16B> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
@@ -103,13 +109,6 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "A379F4" ;
     skos:prefLabel "Materialbeschaffenheit"@de .
-
-<http://leiza.de/thesaurus/A3G356> a skos:Concept ;
-    skos:broader <http://leiza.de/thesaurus/A1D125> ;
-    skos:inScheme <http://leiza.de/thesaurus> ;
-    skos:notation "A3G356" ;
-    skos:prefLabel "Formbau"@de,
-        "Polyurethan"@de .
 
 <http://leiza.de/thesaurus/A44BG6> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
@@ -403,6 +402,13 @@
     skos:notation "AG4G3C" ;
     skos:prefLabel "Digitalmikroskop"@de .
 
+<http://leiza.de/thesaurus/AGBB3C> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
+    skos:definition "Fähigkeit des Objektmaterials mechanischen Widerstand gegen eine plastische Verformung oder Trennung zu leisten"@de ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "AGBB3C" ;
+    skos:prefLabel "Festigkeit"@de .
+
 <http://leiza.de/thesaurus/B14489> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/GC14B8> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
@@ -525,13 +531,11 @@
 
 <http://leiza.de/thesaurus/B8B69D> a skos:Concept ;
     dc:source "https://de.wikipedia.org/wiki/Bernstein" ;
-    skos:broader <http://leiza.de/thesaurus/C364G1>,
-        <http://leiza.de/thesaurus/CD3341> ;
+    skos:broader <http://leiza.de/thesaurus/CD3341> ;
     skos:definition "Fossiles Harz von prähistorischen Bäumen, das über Millionen von Jahren polymerisiert und mineralisiert wurde. Als archäologisches Objekt ist Bernstein besonders wertvoll, da er oft organische Einschlüsse wie Insekten oder Pflanzen enthält, die wichtige Informationen über die Umwelt und Lebensbedingungen früherer Epochen liefern."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "B8B69D" ;
-    skos:prefLabel "Bernstein"@de,
-        "Pigmente"@de .
+    skos:prefLabel "Bernstein"@de .
 
 <http://leiza.de/thesaurus/B93G16> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q756257" ;
@@ -681,10 +685,11 @@
 
 <http://leiza.de/thesaurus/C1218G> a skos:Concept ;
     skos:altLabel "Abformen"@de ;
+    skos:broader <http://leiza.de/thesaurus/A3G356> ;
     skos:definition "Methode, bei der das gewählte Abformmaterial auf das originale Objekt aufgetragen wird, um dessen Form zeichnungsgenau nachzubilden. Dies kann durch Streichen, Gießen oder Drücken erfolgen, je nach Art des verwendeten Abformmaterials."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "C1218G" ;
-    skos:prefLabel "Abformung"@de .
+    skos:prefLabel "Abformung (Methode)"@de .
 
 <http://leiza.de/thesaurus/C17A3G> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A9FF5A> ;
@@ -875,6 +880,14 @@
     skos:notation "C99F9G" ;
     skos:prefLabel "Plasmaanlage"@de .
 
+<http://leiza.de/thesaurus/CAB799> a skos:Concept ;
+    skos:altLabel "Integrität"@de ;
+    skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
+    skos:definition "Ausmaß an materieller Ganzheitlichkeit eines Objektes. "@de ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "CAB799" ;
+    skos:prefLabel "Vollständigkeit"@de .
+
 <http://leiza.de/thesaurus/CB4G84> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C364G1> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
@@ -888,7 +901,7 @@
     skos:prefLabel "Pinsel"@de .
 
 <http://leiza.de/thesaurus/CC67B2> a skos:Concept ;
-    skos:broader <http://leiza.de/thesaurus/G52378> ;
+    skos:broader <http://leiza.de/thesaurus/A3G356> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "CC67B2" ;
     skos:prefLabel "Stützkapselbau"@de .
@@ -1053,7 +1066,7 @@
 <http://leiza.de/thesaurus/D51B5G> a skos:Concept ;
     skos:altLabel " Absperren"@de,
         "Isolieren"@de ;
-    skos:broader <http://leiza.de/thesaurus/G52378> ;
+    skos:broader <http://leiza.de/thesaurus/A3G356> ;
     skos:definition "Methode, bei der das originale Objekte durch Auftragen einer Trennschicht vor den verwendeten Abformmaterialien geschützt wird. "@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "D51B5G" ;
@@ -1347,13 +1360,11 @@
     skos:prefLabel "Haarriss"@de .
 
 <http://leiza.de/thesaurus/F387GB> a skos:Concept ;
-    skos:broader <http://leiza.de/thesaurus/A1D125>,
-        <http://leiza.de/thesaurus/A82D86> ;
+    skos:broader <http://leiza.de/thesaurus/A82D86> ;
     skos:definition "Legierung mit Blei als Hauptbestandteil."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "F387GB" ;
-    skos:prefLabel "Bleilegierung"@de,
-        "Polyethylenglycol"@de ;
+    skos:prefLabel "Bleilegierung"@de ;
     skos:related <http://leiza.de/thesaurus/G992B6> .
 
 <http://leiza.de/thesaurus/F52262> a skos:Concept ;
@@ -1375,6 +1386,12 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "F58F6D" ;
     skos:prefLabel "3D-Scan"@de .
+
+<http://leiza.de/thesaurus/F64B9C> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/C364G1> ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "F64B9C" ;
+    skos:prefLabel "Pigmente"@de .
 
 <http://leiza.de/thesaurus/F66444> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A946B5> ;
@@ -1445,6 +1462,12 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "F87124" ;
     skos:prefLabel "Komplexbildner"@de .
+
+<http://leiza.de/thesaurus/F89522> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/A1D125> ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "F89522" ;
+    skos:prefLabel "Polyethylenglycol"@de .
 
 <http://leiza.de/thesaurus/F8A93F> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/A1D125> ;
@@ -1535,6 +1558,14 @@
     skos:notation "FAG415" ;
     skos:prefLabel "Einzelentnahme"@de .
 
+<http://leiza.de/thesaurus/FB6AGB> a skos:Concept ;
+    dc:source "https://www.wikidata.org/wiki/Q125400047" ;
+    skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
+    skos:definition "Fahigkeit eines Objektes physischer Einwirkung stand zu halten"@de ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "FB6AGB" ;
+    skos:prefLabel "Stabilität"@de .
+
 <http://leiza.de/thesaurus/FB7C46> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/F964CG> ;
     skos:definition "Beschädigung des Objektes, die auf unpassende Lagerungsbedingungen zurück zu führen ist."@de ;
@@ -1543,6 +1574,7 @@
     skos:prefLabel "Lagerung"@de .
 
 <http://leiza.de/thesaurus/FC3322> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/DBC278> ;
     skos:definition "Das Objekt war ausgestellt und wurde zur Bearbeitung aus der Ausstellung/der Vitirine entnommen."@de ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "FC3322" ;
@@ -1781,6 +1813,13 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "G967G1" ;
     skos:prefLabel "Spiegelform"@de .
+
+<http://leiza.de/thesaurus/G9D1C8> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
+    skos:definition "Die Abmessungen des Objektes"@de ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "G9D1C8" ;
+    skos:prefLabel "Maße"@de .
 
 <http://leiza.de/thesaurus/GA2C4A> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q126324928" ;
@@ -2142,14 +2181,11 @@
     skos:notation "GC14B8" ;
     skos:prefLabel "digitale Abformung"@de .
 
-<http://leiza.de/thesaurus/GDF8C2> a skos:Concept ;
-    skos:altLabel " Beschaffenheit"@de,
-        "Merkmale"@de ;
-    skos:broader <http://leiza.de/thesaurus/BC5B57> ;
-    skos:definition "Die konkreten Merkmale und Eigenschaften eines Objektes"@de ;
+<http://leiza.de/thesaurus/A3G356> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/A1D125> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
-    skos:notation "GDF8C2" ;
-    skos:prefLabel "Physischer Zustand"@de .
+    skos:notation "A3G356" ;
+    skos:prefLabel "Polyurethan"@de .
 
 <http://leiza.de/thesaurus/A4G8FA> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q126324928" ;
@@ -2191,6 +2227,14 @@
     skos:notation "A9A858" ;
     skos:prefLabel "Holz"@de .
 
+<http://leiza.de/thesaurus/AG4397> a skos:Concept ;
+    skos:altLabel "Wassergehalt"@de ;
+    skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
+    skos:definition "Enthaltener Feuchtigkeitsanteil im Porenraum eines Materialis/Objektes"@de ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "AG4397" ;
+    skos:prefLabel "Feuchtigkeitsgehalt"@de .
+
 <http://leiza.de/thesaurus/BC5B57> a skos:Concept ;
     dc:source "https://www.wikidata.org/wiki/Q125400047" ;
     skos:altLabel "Diagnose"@de ;
@@ -2199,6 +2243,13 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "BC5B57" ;
     skos:prefLabel "[Untersuchungsergebnisse]"@de .
+
+<http://leiza.de/thesaurus/C6GB1C> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/GDF8C2> ;
+    skos:definition "Ãnderung des ursprünglich und/oder geplanten Aussehens eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war. "@de ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "C6GB1C" ;
+    skos:prefLabel "Veränderung"@de .
 
 <http://leiza.de/thesaurus/C7C3B7> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/DBC278> ;
@@ -2267,6 +2318,12 @@
     skos:notation "F8F7CF" ;
     skos:prefLabel "Kopieherstellung"@de ;
     skos:related <http://leiza.de/thesaurus/DAG2A8> .
+
+<http://leiza.de/thesaurus/G52378> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/DAG2A8> ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "G52378" ;
+    skos:prefLabel "analoge Abformung"@de .
 
 <http://leiza.de/thesaurus/GB6DF3> a skos:Concept ;
     skos:altLabel "mineralische Materialien"@de,
@@ -2365,13 +2422,6 @@
     skos:notation "CGC619" ;
     skos:prefLabel "Ergänzung"@de .
 
-<http://leiza.de/thesaurus/DBC278> a skos:Concept ;
-    skos:broader <http://leiza.de/thesaurus/C4BCF8> ;
-    skos:definition "chronologischer Verbleib und die Aufbewahrung von Artefakten seit ihrer Entdeckung oder Ausgrabung bis zur gegenwärtigen Zeit. Diese Aufzeichnungen umfassen Informationen über Fundort, Datum der Entdeckung, frühere Ausstellungen, Lagerungsbedingungen"@de ;
-    skos:inScheme <http://leiza.de/thesaurus> ;
-    skos:notation "DBC278" ;
-    skos:prefLabel "Bisherige Lagerung"@de .
-
 <http://leiza.de/thesaurus/FGA46A> a skos:Concept ;
     skos:altLabel "Edelmetalle"@de ;
     skos:broader <http://leiza.de/thesaurus/B5DD1A> ;
@@ -2394,12 +2444,6 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "G13A7B" ;
     skos:prefLabel "bildgebende Untersuchung"@de .
-
-<http://leiza.de/thesaurus/G52378> a skos:Concept ;
-    skos:broader <http://leiza.de/thesaurus/DAG2A8> ;
-    skos:inScheme <http://leiza.de/thesaurus> ;
-    skos:notation "G52378" ;
-    skos:prefLabel "analoge Abformung"@de .
 
 <http://leiza.de/thesaurus/G814D2> a skos:Concept ;
     skos:altLabel "Freilegen"@de ;
@@ -2439,6 +2483,13 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "D3AGG6" ;
     skos:prefLabel "visuelle Veränderung"@de .
+
+<http://leiza.de/thesaurus/DBC278> a skos:Concept ;
+    skos:broader <http://leiza.de/thesaurus/C4BCF8> ;
+    skos:definition "chronologischer Verbleib und die Aufbewahrung von Artefakten seit ihrer Entdeckung oder Ausgrabung bis zur gegenwärtigen Zeit. Diese Aufzeichnungen umfassen Informationen über Fundort, Datum der Entdeckung, frühere Ausstellungen, Lagerungsbedingungen"@de ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "DBC278" ;
+    skos:prefLabel "Bisherige Lagerung"@de .
 
 <http://leiza.de/thesaurus/G76B7G> a skos:Concept ;
     skos:altLabel "Interpretation"@de ;
@@ -2569,6 +2620,15 @@
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "G9B788" ;
     skos:prefLabel "Materialanalyse"@de .
+
+<http://leiza.de/thesaurus/GDF8C2> a skos:Concept ;
+    skos:altLabel " Beschaffenheit"@de,
+        "Merkmale"@de ;
+    skos:broader <http://leiza.de/thesaurus/BC5B57> ;
+    skos:definition "Die konkreten Merkmale und Eigenschaften eines Objektes"@de ;
+    skos:inScheme <http://leiza.de/thesaurus> ;
+    skos:notation "GDF8C2" ;
+    skos:prefLabel "Physischer Zustand"@de .
 
 <http://leiza.de/thesaurus/GF9C49> a skos:Concept ;
     skos:broader <http://leiza.de/thesaurus/C93638> ;

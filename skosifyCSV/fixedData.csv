@@ -90,7 +90,7 @@ G4AG5C,,3,Q2,Scherbenpflaster,,,Bergung der einzelnen Scherben/Fragmente des Obj
 
 FAG415,,3,Q2,Einzelentnahme,,,Einzelne Entnahme des Objektes/einzelner Fragmente aus dem Boden,C7C3B7,,,,,Q7|Q8,,,,
 
-FC3322,,2,Q2,Ausstellungsentnahme,,,Das Objekt war ausgestellt und wurde zur Bearbeitung aus der Ausstellung/der Vitirine entnommen.,,,,,,,,,,
+FC3322,,2,Q2,Ausstellungsentnahme,,,Das Objekt war ausgestellt und wurde zur Bearbeitung aus der Ausstellung/der Vitirine entnommen.,DBC278,,,,,,,,,
 
 F52262,,2,Q2,Depotlagerung,,,Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt im Museumsdepot aufbewahrt,DBC278,,,,,Q7|Q8,,,,
 
@@ -158,15 +158,27 @@ A14228,,5,Q2,Verkrustung,,,Fest an der Oberfläche des Objektes anhaftende und v
 
 D74F16,,5,Q2,Staubablagerung,,,"Lose, auf der Oberfläche des Objektes angesammelte Ablagerung von luftgetragenen Partikeln",A889A3,,,,https://www.wikidata.org/wiki/Q126324928,Q7|Q8,,,,
 
-FDD71B,,3,Q2,Salzbelastung,Salzsprengung,,"Schadensphänomen, das durch das Vorhandensein löslicher Salze in einem Objekt/Material verursacht wird",F964CG,,,,,Q7|Q8,,,,
+FDD71B,,4,Q2,Salzbelastung,Salzsprengung,,"Schadensphänomen, das durch das Vorhandensein löslicher Salze in einem Objekt/Material verursacht wird",F964CG,,,,,Q7|Q8,,,,
 
 GDF8C2,,3,Q2,Physischer Zustand,Merkmale| Beschaffenheit,physical condition@en,Die konkreten Merkmale und Eigenschaften eines Objektes,BC5B57,,,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300389724,,
+
+CAB799,,4,Q2,Vollständigkeit,Integrität,integrity@en|completeness@en,Ausmaß an materieller Ganzheitlichkeit eines Objektes. ,GDF8C2,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300419305,,,
+
+FB6AGB,,4,Q2,Stabilität,,stability@en,Fahigkeit eines Objektes physischer Einwirkung stand zu halten,GDF8C2,,,,https://www.wikidata.org/wiki/Q125400047,Q7|Q8,,,,
+
+AGBB3C,,4,Q2,Festigkeit,,,Fähigkeit des Objektmaterials mechanischen Widerstand gegen eine plastische Verformung oder Trennung zu leisten,GDF8C2,,,,,Q7|Q8,,,,
+
+C6GB1C,,4,Q2,Veränderung,,alteration@en,"Ãnderung des ursprünglich und/oder geplanten Aussehens eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war. ",GDF8C2,,,,,Q7|Q8,,,,
 
 G43DBC,,5,Q2,Beschädigung,Schaden,,"Das Objekt weist eine unvorteilhafte Veränderung gegenüber seines ursprünglich geplanten Aussehens auf. Die Signifikanz der Beschädigung/ des Schadens, ergibt sich aus der Fragestellung bzw. dem Blickwinkel aus dem das Objekt betrachtet wird. So kann ein Kriegsschaden an einem Objekt zwar große Beschädigung des Materials verursacht haben, gleichzeitig kann diese Veränderung jedoch auch als Erweiterung der Objektgeschichte gewertet werden. Andersherum gibt es Beschädigungen, die zwar keine direkte Bedrohung auf die Integrität des Objektes ausüben, sich jedoch auf die Lesbarkeit und somit die wissenschaftliche Aussagekraft des Objektes negativ auswirken.",C6GB1C,,,,,Q7|Q8,,,,
 
 C77G9C,,5,Q2,Alterung,,,,C6GB1C,,,,,Q7|Q8,,,,
 
 A5D63G,,5,Q2,Altrestaurierung,,,,C6GB1C,,,,,Q7|Q8,,,,
+
+G9D1C8,,4,Q2,Maße,,,Die Abmessungen des Objektes,GDF8C2,,,,,Q7|Q8,,,,
+
+AG4397,,4,Q2,Feuchtigkeitsgehalt,Wassergehalt,moisture content@en|humidity content@en,Enthaltener Feuchtigkeitsanteil im Porenraum eines Materialis/Objektes,GDF8C2,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300379432,,,
 
 G41GC6,,5,Q2,Trocken,,dry@en,Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf.,AG4397,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300195439,,,
 
@@ -506,7 +518,7 @@ A44D5F,,4,Q2,Celluloseether,,,,D41661,,,,,Q7|Q8,,,,
 
 GC6999,,4,Q2,Cellulosenitrat,,,,D41661,,,,,Q7|Q8,,,,
 
-F387GB,,3,Q2,Polyethylenglycol,,,,A1D125,,,,,Q7|Q16|Q8,,,,
+F89522,,3,Q2,Polyethylenglycol,,,,A1D125,,,,,Q7|Q16|Q8,,,,
 
 DF633G,,3,Q2,Melaminharz,,,,A1D125,,,,,Q7|Q16|Q8,,,,
 
@@ -542,7 +554,7 @@ B23F5G,,2,Q2,Latexmilch,,,,C364G1,,,,,Q7|Q16|Q8,,,,
 
 CCCC7G,,2,Q2,Ãl,,,,C364G1,,,,,Q7|Q17|Q8,,,,
 
-B8B69D,,2,Q2,Pigmente,,,,C364G1,,,,,Q7|Q17|Q8,,,,
+F64B9C,,2,Q2,Pigmente,,,,C364G1,,,,,Q7|Q17|Q8,,,,
 
 C93638,,1,Q3,[Werkzeuge],,,,CFGDA3,,,,,Q7|Q8,http://www.wikidata.org/entity/Q39546,,,
 
@@ -608,13 +620,13 @@ DAG2A8,,3,Q2,Abformung,,,,G79CAC,,,,,Q7|Q17|Q8,,,,
 
 G52378,,4,Q2,analoge Abformung,,,,DAG2A8,,,,,Q7|Q17|Q8,,,,
 
-A3G356,,5,Q2,Formbau,,,,,,,,,Q7|Q17|Q8,,,,
+A2G7B9,,5,Q2,Formbau,,,,G52378,,,,,Q7|Q17|Q8,,,,
 
-D51B5G,,6,Q2,Isolierung,Isolieren| Absperren,,"Methode, bei der das originale Objekte durch Auftragen einer Trennschicht vor den verwendeten Abformmaterialien geschützt wird. ",G52378,,,,,Q7|Q17|Q8,,,,
+D51B5G,,6,Q2,Isolierung,Isolieren| Absperren,,"Methode, bei der das originale Objekte durch Auftragen einer Trennschicht vor den verwendeten Abformmaterialien geschützt wird. ",A3G356,,,,,Q7|Q17|Q8,,,,
 
-C1218G,,6,Q2,Abformung,Abformen,,"Methode, bei der das gewählte Abformmaterial auf das originale Objekt aufgetragen wird, um dessen Form zeichnungsgenau nachzubilden. Dies kann durch Streichen, Gießen oder Drücken erfolgen, je nach Art des verwendeten Abformmaterials.",,,,,,Q7|Q17|Q8,,,,
+C1218G,,6,Q2,Abformung (Methode),Abformen,,"Methode, bei der das gewählte Abformmaterial auf das originale Objekt aufgetragen wird, um dessen Form zeichnungsgenau nachzubilden. Dies kann durch Streichen, Gießen oder Drücken erfolgen, je nach Art des verwendeten Abformmaterials.",A3G356,,,,,Q7|Q17|Q8,,,,
 
-CC67B2,,6,Q2,Stützkapselbau,,,,G52378,,,,,Q7|Q17|Q8,,,,
+CC67B2,,6,Q2,Stützkapselbau,,,,A3G356,,,,,Q7|Q17|Q8,,,,
 
 FFA16B,,5,Q3,[Formtyp],[Formart],,,G52378,,,,,Q7|Q8,,,,
 
