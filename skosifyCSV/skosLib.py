@@ -63,10 +63,10 @@ for index, row in df.iterrows():
             if "|" in str(row["example"]):
                 for i in str(row["example"]).split("|"):
                     example = URIRef(i.strip())
-                    g.add ((concept, SKOS.example, example))
+                    g.add ((concept, SKOS.example, example + languageLabel))
             else:
                 example = URIRef(row["example"])
-                g.add ((concept, SKOS.example, example))
+                g.add ((concept, SKOS.example, example + languageLabel))
         if not pd.isnull(row['relatedMatch']):
             if "|" in str(row["relatedMatch"]):
                 for i in str(row["relatedMatch"]).split("|"):

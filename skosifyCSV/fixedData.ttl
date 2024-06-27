@@ -2448,7 +2448,7 @@
         "Objektmaterial"@de ;
     skos:closeMatch <http://terminology.lido-schema.org/lido00132> ;
     skos:definition "Material aus dem das Objekt besteht."@de ;
-    skos:example <https://n4o-ta4-dev.wikibase.cloud/wiki/Item:Q12> ;
+    skos:example <https://n4o-ta4-dev.wikibase.cloud/wiki/Item:Q12@de> ;
     skos:inScheme <http://leiza.de/thesaurus> ;
     skos:notation "B51DAF" ;
     skos:prefLabel "Werkstoff"@de ;
