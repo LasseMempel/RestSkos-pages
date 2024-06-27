@@ -28,22 +28,22 @@ for index, row in df.iterrows():
         if not pd.isnull(row["altLabel"]):
             if "|" in str(row["altLabel"]):
                 for i in str(row["altLabel"]).split("|"):
-                    g.add ((concept, SKOS.altLabel, Literal(i + languageLabel)))
+                    g.add ((concept, SKOS.altLabel, Literal(i.strip() + languageLabel)))
             else:
                 g.add ((concept, SKOS.altLabel, Literal(row["altLabel"] + languageLabel)))
 
         if not pd.isnull(row["seeAlso"]):
             if "|" in str(row["seeAlso"]):
                 for i in str(row["seeAlso"]).split("|"):
-                    seeAlso = URIRef(i)
+                    seeAlso = URIRef(i.strip())
                     g.add ((concept, RDFS.seeAlso, seeAlso))
             else:
-                seeAlso = URIRef(row["seeAlso"])
+                seeAlso = Literal(row["seeAlso"])
                 g.add ((concept, RDFS.seeAlso, seeAlso))
         if not pd.isnull(row["source"]):
             if "|" in str(row["source"]):
                 for i in str(row["source"]).split("|"):
-                    g.add ((concept, DC.source, Literal(i)))
+                    g.add ((concept, DC.source, Literal(i.strip())))
             else:
                 g.add ((concept, DC.source, Literal(row["source"])))
         if not pd.isnull(row["description"]):
@@ -54,7 +54,7 @@ for index, row in df.iterrows():
         if not pd.isnull(row['related']):
             if "|" in str(row["related"]):
                 for i in str(row["related"]).split("|"):
-                    related = URIRef(thesaurusAddendum + i)
+                    related = URIRef(thesaurusAddendum + i.strip())
                     g.add ((concept, SKOS.related, related))
             else:
                 related = URIRef(thesaurusAddendum + row["related"])
@@ -62,26 +62,26 @@ for index, row in df.iterrows():
         if not pd.isnull(row['example']):
             if "|" in str(row["example"]):
                 for i in str(row["example"]).split("|"):
-                    example = URIRef(thesaurusAddendum + i)
+                    example = URIRef(i.strip())
                     g.add ((concept, SKOS.example, example))
             else:
-                example = URIRef(thesaurusAddendum + row["example"])
+                example = URIRef(row["example"])
                 g.add ((concept, SKOS.example, example))
         if not pd.isnull(row['relatedMatch']):
             if "|" in str(row["relatedMatch"]):
                 for i in str(row["relatedMatch"]).split("|"):
-                    relatedMatch = URIRef(thesaurusAddendum + i)
+                    relatedMatch = URIRef(i.strip())
                     g.add ((concept, SKOS.relatedMatch, relatedMatch))
             else:
-                relatedMatch = URIRef(thesaurusAddendum + row["relatedMatch"])
+                relatedMatch = URIRef(row["relatedMatch"])
                 g.add ((concept, SKOS.relatedMatch, relatedMatch))
         if not pd.isnull(row['closeMatch']):
             if "|" in str(row["closeMatch"]):
                 for i in str(row["closeMatch"]).split("|"):
-                    closeMatch = URIRef(thesaurusAddendum + i)
+                    closeMatch = URIRef(i.strip())
                     g.add ((concept, SKOS.closeMatch, closeMatch))
             else:
-                closeMatch = URIRef(thesaurusAddendum + row["closeMatch"])
+                closeMatch = URIRef(row["closeMatch"])
                 g.add ((concept, SKOS.closeMatch, closeMatch))
         g.add ((concept, SKOS.inScheme, thesaurus))
         if row["parent"] == "top":
