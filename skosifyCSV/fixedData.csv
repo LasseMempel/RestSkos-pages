@@ -2,27 +2,27 @@ identifier,Qidentifier,hierarcylevel,type,prefLabel,altLabel,translation,descrip
 
 B51DAF,Q12,0,Q2,Werkstoff,Material|Objektmaterial,,Material aus dem das Objekt besteht.,top,,,,,Q7|Q8,http://terminology.lido-schema.org/lido00132,,,https://n4o-ta4-dev.wikibase.cloud/wiki/Item:Q12
 
-B5DD1A,,1,Q2,Metall,Metalle,metal@en|mÃ©tal@fr,Gruppe chemischer Elemente,B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q11426 |http://vocab.getty.edu/page/aat/300010900 |https://cameo.mfa.org/wiki/Metal| https://d-nb.info/gnd/4038860-8 ,,,
+B5DD1A,,1,Q2,Metall,Metalle,metal@en|mÃ©tal@fr,"anorganischer Werkstoff mit charakteristisch hoher Dichte, Formbarkeit und Beständigkeit. Metall wurde als Werkstoff häufig für Werkzeug, Schmuck und Waffen verwendet und bietet daher einen wertvollen Einblick in frühere technologische Entwicklungen und Handelsnetzwerke.",B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q11426 |http://vocab.getty.edu/page/aat/300010900 |https://cameo.mfa.org/wiki/Metal| https://d-nb.info/gnd/4038860-8 ,,,
 
-FGA46A,,2,Q2,Edelmetall,Edelmetalle,nobel metal@en,"chemisches Element. Seltenes, korrosionsbeständiges Metall, das aufgrund seiner chemischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird. ",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q585302| http://vocab.getty.edu/page/aat/300241621 |http://d-nb.info/gnd/4013531-7 ,,,
+FGA46A,,2,Q2,Edelmetall,Edelmetalle,nobel metal@en,"Seltener, korrosionsbeständiger Werkstoff, der aufgrund seiner chemischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird. ",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q585302| http://vocab.getty.edu/page/aat/300241621 |http://d-nb.info/gnd/4013531-7 ,,,
 
-FD5149,,3,Q2,Gold,,gold@en,"chemisches Element mit dem Symbol Au und der Ordnungszahl 79 im Periodensystem. Es ist ein edles Metall von gelber Farbe, das wegen seiner Seltenheit, Beständigkeit gegen Korrosion und seiner Verwendung in Schmuck und Prestigeobjekten verwendet wurde.",FGA46A,,DC5B2B,,,Q7|Q8,https://www.wikidata.org/wiki/Q897|https://cameo.mfa.org/wiki/Gold|http://vocab.getty.edu/page/aat/300011021 | http://d-nb.info/gnd/4157819-3 ,,,
+FD5149,,3,Q2,Gold,,gold@en,metallisches Element von gelber Farbe mit dem chemischen Symbol Au und der Ordnungszahl 79 ,FGA46A,,DC5B2B,,,Q7|Q8,https://www.wikidata.org/wiki/Q897|https://cameo.mfa.org/wiki/Gold|http://vocab.getty.edu/page/aat/300011021 | http://d-nb.info/gnd/4157819-3 ,,,
 
-DC5B2B,,3,Q2,Goldlegierung,Goldlegierungen,gold alloy@en,Legierung mit Gold als Hauptbestandteil,FGA46A,,FD5149,,,Q7|Q8,https://www.wikidata.org/wiki/Q37136268 |http://vocab.getty.edu/page/aat/300010963 |http://d-nb.info/gnd/4157867-3 ,,,
+DC5B2B,,3,Q2,Goldlegierung,Goldlegierungen,gold alloy@en,"Legierung mit Gold als Hauptbestandteil. Wurde als edler metallischer Werkstoff wegen seiner Seltenheit, hohen Beständigkeit gegen Korrosion und seines auffälligen Glanzes seit Jahrtausenden für Schmuck und Prestigeobjekte verwendet.",FGA46A,,FD5149,,https://de.wikipedia.org/wiki/Gold#Goldlegierungen,Q7|Q8,https://www.wikidata.org/wiki/Q37136268 |http://vocab.getty.edu/page/aat/300010963 |http://d-nb.info/gnd/4157867-3 ,,,
 
-F135A8,,3,Q2,Silber,,silver@en,"chemisches Element, hellgraues, weiches Metall. Kommt in der Natur sowohl gediegen, als auch in Form von Mineralen vor. ",FGA46A,,AD789F,,,Q7|Q8,https://www.wikidata.org/wiki/Q1090 | http://vocab.getty.edu/page/aat/300011029 | http://d-nb.info/gnd/4133759-1 ,,,
+F135A8,,3,Q2,Silber,,silver@en,metallisches Element von weißlich-grauer Farbe mit dem chemischen Symbol Ag und der Ordnungszahl 47 ,FGA46A,,AD789F,,,Q7|Q8,https://www.wikidata.org/wiki/Q1090 | http://vocab.getty.edu/page/aat/300011029 | http://d-nb.info/gnd/4133759-1 ,,,
 
-AD789F,,3,Q2,Silberlegierung,Silberlegierungen,silver alloy@en,Legierung mit Silber als Hauptbestandteil,FGA46A,,F135A8,,,Q7|Q8,https://www.wikidata.org/wiki/Q52895784|http://vocab.getty.edu/page/aat/300010975| http://d-nb.info/gnd/4181330-3,,,
+AD789F,,3,Q2,Silberlegierung,Silberlegierungen,silver alloy@en,"Legierung mit Silber als Hauptbestandteil. Wurde als edler metallischer Werkstoff aufgrund seiner hohen Duktilität, guten Korrosionsbeständigkeit im Vergleich zu anderen Metallen und seiner reinen warm-glänzenden Erscheinung seit der Antike für Münzen, Schmuck und zeremonielle Gegenstände genutzt. Im Vergleich zu Gold war Silber überdies häufiger verfügbar.",FGA46A,,F135A8,,https://de.wikipedia.org/wiki/Silber#Silberlegierungen,Q7|Q8,https://www.wikidata.org/wiki/Q52895784|http://vocab.getty.edu/page/aat/300010975| http://d-nb.info/gnd/4181330-3,,,
 
-BBF566,,2,Q2,unedles Metal,unedle Metalle,base metal@en,"Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q428855|http://vocab.getty.edu/page/aat/300241615|http://d-nb.info/gnd/4583082-4,,,
+BBF566,,2,Q2,unedles Metal,unedle Metalle,base metal@en,"Sammelbegriff für metallische Werkstoffe, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q428855|http://vocab.getty.edu/page/aat/300241615|http://d-nb.info/gnd/4583082-4,,,
 
-F71C6B,,3,Q2,Eisen,Fe,iron@en|fer@fr,"chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. ",BBF566,,BC75G1,,https://cameo.mfa.org/wiki/Iron,Q7|Q8,https://www.wikidata.org/wiki/Q677|http://vocab.getty.edu/page/aat/300011002|http://d-nb.info/gnd/4014002-7,,,
+F71C6B,,3,Q2,Eisen,Fe,iron@en|fer@fr,metallisches Element von gräulicher Farbe mit dem chemischen Symbol Fe und der Ordnungszahl 26,BBF566,,BC75G1,,,Q7|Q8,https://www.wikidata.org/wiki/Q677|http://vocab.getty.edu/page/aat/300011002|http://d-nb.info/gnd/4014002-7,,,
 
-BC75G1,,3,Q2,Eisenlegierung,,iron alloy@en,Legierung mit Eisen als Hauptbestandteil. ,BBF566,,F71C6B,,,Q7|Q8,http://vocab.getty.edu/page/aat/300010904|http://d-nb.info/gnd/4014081-7,,,
+BC75G1,,3,Q2,Eisenlegierung,,iron alloy@en,"Legierung mit Eisen als Hauptbestandteil, die aufgrund ihrer Härte und Verfügbarkeit seit der Antike weit verbreitet für die Herstellung von Werkzeugen, Waffen und landwirtschaftlichen Geräten genutzt wurde. Die Entdeckung der Eisenherstellung (Verhüttung) stellt einen wichtigen Fortschritt in der technologischen Metallverarbeitung der Menschheitsgeschichte dar und beeinflusste maßgeblich die Entwicklung und Expansion antiker Kulturen.",BBF566,,F71C6B,,,Q7|Q8,http://vocab.getty.edu/page/aat/300010904|http://d-nb.info/gnd/4014081-7,,,
 
-GB5BGF,,3,Q2,Buntmetall,,nonferrous metal@en,"Sammelbegriff für farbige Metalle, außer Eisen und Edelmetalle. Sie zeichnen sich durch ihre Farbvielfalt aus und werden oft für ihre spezifischen Eigenschaften wie Härte, Korrosionsbeständigkeit und elektrische Leitfähigkeit geschätzt.",BBF566,,,,,,,,,
+GB5BGF,,3,Q2,Buntmetall,,nonferrous metal@en,"Sammelbegriff für farbige metallisch-reine Werkstoffe und deren Legierungen, außer Eisen und Edelmetalle. Sie zeichnen sich durch ihre Farbvielfalt aus und wurden bereits seit der frühsten Menschheitsgeschichte für ihre spezifischen Eigenschaften wie Härte, Korrosionsbeständigkeit und elektrische Leitfähigkeit geschätzt. ",BBF566,,,,,,,,,
 
-B28FA6,,4,Q2,Kupfer,Cu|reines Kupfer,copper@en,"chemisches Elemten, rot-bräunliches Metall. Auch als ""Halbedelmetall"" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde.",GB5BGF,,,,https://cameo.mfa.org/wiki/Copper,Q7|Q8,http://vocab.getty.edu/page/aat/300011020|https://www.wikidata.org/wiki/Q753|http://d-nb.info/gnd/4033734-0,,,
+B28FA6,,4,Q2,Kupfer,Cu|reines Kupfer,copper@en,"metallisches Element von rot-bräunlicher Farbe mit dem chemischen Symbol Cu und der Ordnungszahl 29. Auch als ""Halbedelmetall"" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde.",GB5BGF,,,,https://cameo.mfa.org/wiki/Copper,Q7|Q8,http://vocab.getty.edu/page/aat/300011020|https://www.wikidata.org/wiki/Q753|http://d-nb.info/gnd/4033734-0,,,
 
 G992B6,,4,Q2,Blei,,lead@en,"Chemisches Element, silber-gräuliches, weiches Metall. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Kommt in der Natur seltener in gediegener Form vor. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glazuren sowie Legierungen mit anderen Metallen verwendet.",A82D86,,,,https://cameo.mfa.org/wiki/Lead,Q7|Q8,https://www.wikidata.org/wiki/Q708|http://vocab.getty.edu/page/aat/300011022,,,
 
@@ -54,7 +54,7 @@ DD9C25,,2,Q2,Pflanzenfasern,,,,CD3341,,,,,,,,,
 
 AB4988,,2,Q2,Textil,Stoff,textile@en,"Ein in verschiedenen Verfahren aus natürlichen oder synthetischen Fasern hergestelltes, räumliches Gebilde. ",CD3341,,,,https://www.wikidata.org/wiki/Q28823,Q7|Q8,https://cameo.mfa.org/wiki/Textile,,,
 
-D73F9B,,2,Q2,Leder,,leather@en,Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut.  ,CD3341,,,,https://www.wikidata.org/wiki/Q286,Q7|Q8,https://cameo.mfa.org/wiki/Leather|http://vocab.getty.edu/page/aat/300011845,,,
+D73F9B,,2,Q2,Leder,,leather@en,"Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut. In der Antike und im Mittelalter wurde Leder vor allem für Schuhe, Kleidung und Behältnisse verwendet.",CD3341,,,,https://www.wikidata.org/wiki/Q286,Q7|Q8,https://cameo.mfa.org/wiki/Leather|http://vocab.getty.edu/page/aat/300011845,,,
 
 A9A858,,2,Q2,Holz,,,"natürliches Material, hauptsächlich bestehend aus Zellulosefasern, Lignin und anderen organischen Bestandteilen. Holz ist aufgrund seiner Festigkeit, Vielseitigkeit und Verfügbarkeit ein wichtiger Rohstoff für Bau-, Möbel- und Kunsthandwerksanwendungen.",CD3341,,,,,Q7|Q8,,,,
 
@@ -64,13 +64,13 @@ C947B5,,3,Q2,archäologisches Holz,Nassholz,wet-wood@en,"Holz aus archäologisch
 
 DFG875,,3,Q3,[Holzart],,,,A9A858,,,,,Q7|Q8,,,,
 
-B626A3,,2,Q2,Bein,Knochen,bone@en,Oberbegriff für Werkstoffe aus Knochenmaterial. Bein gehört zu den ältesten von Menschen intenionell bearbeiteten Materialien. ,CD3341,,,,,Q7|Q8,,,,
+B626A3,,2,Q2,Bein,Knochen,bone@en,"Werkstoffbezeichnung für Objekte aus Knochenmaterial. Knochen besteht hauptsächlich aus Calciumphosphat und Kollagen und bildet harte, dichte Gewebe. Wurde durch Bearbeitung und Formung von Knochen ein Objekt hergestellt, wie beispielsweise Griffschalen, Kämme oder Knöpfe, so wird dessen Material als ""Bein"" bezeichnet. ",CD3341,,,,"Die Informationen über die Unterschiede zwischen Knochen und Bein stammen von einer künstlichen Intelligenz, die auf einem Trainingsdatensatz basiert.",Q7|Q8,,,,
 
-BBC26F,,2,Q2,Horn,,,,CD3341,,,,,Q7|Q8,,,,
+BBC26F,,2,Q2,Horn,,,"Werkstoff aus hauptsächlich tierischem Keratin. Wird beispielsweise von Rindern, Schafen oder Ziegen gebildet und aufgrund seiner Festigkeit und gleichzeitig guter Formbarkeit für Griffe, Knöpfe oder dekorative Gegenstände verwendet.",CD3341,,,,,Q7|Q8,,,,
 
 B8B69D,,2,Q2,Bernstein,,,"Fossiles Harz von prähistorischen Bäumen, das über Millionen von Jahren polymerisiert und mineralisiert wurde. Als archäologisches Objekt ist Bernstein besonders wertvoll, da er oft organische Einschlüsse wie Insekten oder Pflanzen enthält, die wichtige Informationen über die Umwelt und Lebensbedingungen früherer Epochen liefern.",CD3341,,,,https://de.wikipedia.org/wiki/Bernstein,Q7|Q17/Q8,,,,
 
-GB6DF3,,1,Q2,Silikat,silikatische Materialien|mineralische Materialien,,Oberbegriff für Werkstoffe aus anorganischen SiO2 Verbindungen. ,B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q7130787,,,
+GB6DF3,,1,Q2,Silikat,silikatische Materialien|mineralische Materialien,,Oberbegriff für eine Vielzahl von mineralischen Werkstoffen aus anorganischen SiO2 Verbindungen. ,B51DAF,Q12,,,,Q7|Q8,http://www.wikidata.org/entity/Q7130787,,,
 
 A11ACA,,2,Q2,Keramik,,ceramic@en,"anorganischer, nicht-metallischer, durch das Brennen von Ton hergestellter Werkstoff",GB6DF3,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300235507|http://www.wikidata.org/entity/Q45621|https://cameo.mfa.org/wiki/Ceramic,,,
 
@@ -94,17 +94,17 @@ FC3322,,2,Q2,Ausstellungsentnahme,,,Das Objekt war ausgestellt und wurde zur Bea
 
 F52262,,2,Q2,Depotlagerung,,,Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt im Museumsdepot aufbewahrt,DBC278,,,,,Q7|Q8,,,,
 
-A8ABBA,,2,Q2,klimatisierte Lagerung,,,,DBC278,,,,,Q7|Q8,,,,
+A8ABBA,,2,Q2,klimatisierte Lagerung,,,"Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt unter kontrollierten, klimatischen Bedingungen aufbewahrt. ",DBC278,,,,,Q7|Q8,,,,
 
-C948F2,,3,Q2,Gefrierschrank,,,,A8ABBA,,,,,Q7|Q8,,,,
+C948F2,,3,Q2,Gefrierschrank Lagerung,,,Die bisherige Lagerung des Objektes erfolgte tiefgefroren in einem Gefrierschrank,A8ABBA,,,,,Q7|Q8,,,,
 
-D21459,,3,Q2,Kühlschrank,,,,A8ABBA,,,,,Q7|Q8,,,,
+D21459,,3,Q2,Kühlschrank Lagerung,,,Die bisherige Lagerung des Objektes erfolgte gekühlt in einem Kühlschrank,A8ABBA,,,,,Q7|Q8,,,,
 
-C2241C,,3,Q2,Klimaraum,Klimakammer,,,A8ABBA,,,,,Q7|Q8,,,,
+C2241C,,3,Q2,Klimaraum Lagerung,Klimakammer,,"Das Objekt lagerte bisher in einem Raum, der über eine kontrollierte Klimaregulierung verfügte und auf für das Objekt optimale klimatische Bedingungen eingestellt war",A8ABBA,,,,,Q7|Q8,,,,
 
-A2BB42,,3,Q2,klimatisierte Individualverpackung,Klimakiste| Klimabox,,,A8ABBA,,,,,Q7|Q8,,,,
+A2BB42,,3,Q2,klimatisierte Individualverpackung,Klimakiste| Klimabox,,"Das Objekt lagerte in einer individuellen Verpackung, die z.B. mittels Trockenmittel oder anderen Reagenzien auf einen speziellen Klimarwert eingestellt war. ",A8ABBA,,,,,Q7|Q8,,,,
 
-G79CA9,,2,Q2,unklimatisierte Lagerung,,,,DBC278,,,,,Q7|Q8,,,,
+G79CA9,,2,Q2,unklimatisierte Lagerung,,,"Die Lagerung erfolgte ohne spezielle auf das Objekt abgestimmte, kontrollierte klimatische Bedingungen",DBC278,,,,,Q7|Q8,,,,
 
 CA1BC5,,1,Q2,Objektuntersuchung,,investigation@en|examination@en,"Beschaffung und Sammlung von Informationen über den Zustand eines Objektes, anhand derer das Restaurierungs-/Konservierungskonzept und/oder die weiteren Lagerungs- und Handhabungsempefehlungen formuliert werden",C4BCF8,,,,http://www.wikidata.org/entity/Q125400047,Q7|Q8,,http://vocab.getty.edu/page/aat/300137546|http://vocab.getty.edu/page/aat/300226216,,
 
@@ -172,9 +172,9 @@ C6GB1C,,4,Q2,Veränderung,,alteration@en,"Ãnderung des ursprünglich und/oder
 
 G43DBC,,5,Q2,Beschädigung,Schaden,,"Das Objekt weist eine unvorteilhafte Veränderung gegenüber seines ursprünglich geplanten Aussehens auf. Die Signifikanz der Beschädigung/ des Schadens, ergibt sich aus der Fragestellung bzw. dem Blickwinkel aus dem das Objekt betrachtet wird. So kann ein Kriegsschaden an einem Objekt zwar große Beschädigung des Materials verursacht haben, gleichzeitig kann diese Veränderung jedoch auch als Erweiterung der Objektgeschichte gewertet werden. Andersherum gibt es Beschädigungen, die zwar keine direkte Bedrohung auf die Integrität des Objektes ausüben, sich jedoch auf die Lesbarkeit und somit die wissenschaftliche Aussagekraft des Objektes negativ auswirken.",C6GB1C,,,,,Q7|Q8,,,,
 
-C77G9C,,5,Q2,Alterung,,,,C6GB1C,,,,,Q7|Q8,,,,
+C77G9C,,5,Q2,Alterung,,,"An dem Objekt sind Spuren der Veränderung zu beobachten, die auf die natürliche Alterung des Objektes zurück zu führen sind. Eine alterungsbedingte Veränderung ist nicht zwangsläufig als Beschädigung zu verstehen. ",C6GB1C,,,,,Q7|Q8,,,,
 
-A5D63G,,5,Q2,Altrestaurierung,,,,C6GB1C,,,,,Q7|Q8,,,,
+A5D63G,,5,Q2,Altrestaurierung,,,"An dem Objekt sind Spuren der Veränderung festzustellen, die auf eine (oder mehrere) vorherige Konservierungs- bzw. Restaurierungsmaßnahme hindeuten. ",C6GB1C,,,,,Q7|Q8,,,,
 
 G9D1C8,,4,Q2,Maße,,,Die Abmessungen des Objektes,GDF8C2,,,,,Q7|Q8,,,,
 
@@ -232,7 +232,7 @@ GDCD91,,6,Q2,vergilbt,verbräunt,,"Die Farbigkeit des Objektes hat sich zu einem
 
 BBF64G,,4,Q2,Ablagerung,Film,,Bildung/Vorhandensein einer anhaftenden Schicht auf der Oberfläche des Objektes.,DAC996,,,,,Q7|Q8,,,,
 
-G57G31,,5,Q2,Schimmelbefall,,,,BBF64G,,,,,Q7|Q8,,,,
+G57G31,,5,Q2,Schimmelbefall,,,Wachstum und Ausbreitung von Pilzen auf der Oberfläche oder im Inneren des Objektes.,BBF64G,,,,,Q7|Q8,,,,
 
 BG987D,,5,Q2,schwitzendes Glas,,,Bildung von Kondenswasser oder Feuchtigkeit auf der Oberfläche des Glases.,BBF64G,,,,,Q7|Q8,,,,
 
