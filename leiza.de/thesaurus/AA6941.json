@@ -50,6 +50,11 @@
       "de": "Objektuntersuchung"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300122283"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

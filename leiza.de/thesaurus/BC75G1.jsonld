@@ -5,7 +5,7 @@
     "de": "Eisenlegierung"
   },
   "definition": {
-    "de": "Legierung mit Eisen als Hauptbestandteil. "
+    "de": "Legierung mit Eisen als Hauptbestandteil, die aufgrund ihrer Härte und Verfügbarkeit seit der Antike weit verbreitet für die Herstellung von Werkzeugen, Waffen und landwirtschaftlichen Geräten genutzt wurde. Die Entdeckung der Eisenherstellung (Verhüttung) stellt einen wichtigen Fortschritt in der technologischen Metallverarbeitung der Menschheitsgeschichte dar und beeinflusste maßgeblich die Entwicklung und Expansion antiker Kulturen."
   },
   "notation": [
     "BC75G1"
@@ -22,6 +22,14 @@
       "prefLabel": {
         "de": "Eisen"
       }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4014081-7"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300010904"
     }
   ],
   "inScheme": [

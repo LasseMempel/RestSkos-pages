@@ -27,6 +27,11 @@
       "de": "Praktische Durchführung"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://www.wikidata.org/entity/Q39546"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

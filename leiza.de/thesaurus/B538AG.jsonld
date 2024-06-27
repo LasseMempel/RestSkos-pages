@@ -44,6 +44,11 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300024594"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

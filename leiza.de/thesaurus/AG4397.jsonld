@@ -41,6 +41,11 @@
       "de": "Physischer Zustand"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300379432"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

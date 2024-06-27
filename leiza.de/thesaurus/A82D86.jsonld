@@ -65,6 +65,14 @@
       "de": "unedles Metal"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011014"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q355809"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

@@ -16,6 +16,11 @@
       "de": "[Konservierungs- und Restaurierungsmaterialien]"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300380032"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "klimatisierte Lagerung"
   },
+  "definition": {
+    "de": "Das Objekt wurde bis zur Einlieferung in die Restaurierungswerkstatt unter kontrollierten, klimatischen Bedingungen aufbewahrt. "
+  },
   "notation": [
     "A8ABBA"
   ],
@@ -17,19 +20,19 @@
     {
       "id": "http://leiza.de/thesaurus/C2241C",
       "prefLabel": {
-        "de": "Klimaraum"
+        "de": "Klimaraum Lagerung"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/C948F2",
       "prefLabel": {
-        "de": "Gefrierschrank"
+        "de": "Gefrierschrank Lagerung"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/D21459",
       "prefLabel": {
-        "de": "Kühlschrank"
+        "de": "Kühlschrank Lagerung"
       }
     }
   ],

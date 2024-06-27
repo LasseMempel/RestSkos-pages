@@ -13,6 +13,11 @@
       "de": "Restaurierungs-/Konservierungskonzept"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300263660"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

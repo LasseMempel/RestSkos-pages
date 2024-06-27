@@ -5,7 +5,7 @@
     "de": "Silber"
   },
   "definition": {
-    "de": "chemisches Element, hellgraues, weiches Metall. Kommt in der Natur sowohl gediegen, als auch in Form von Mineralen vor. "
+    "de": "metallisches Element von weißlich-grauer Farbe mit dem chemischen Symbol Ag und der Ordnungszahl 47 "
   },
   "notation": [
     "F135A8"
@@ -22,6 +22,17 @@
       "prefLabel": {
         "de": "Silberlegierung"
       }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4133759-1"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011029"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q1090"
     }
   ],
   "inScheme": [

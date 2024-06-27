@@ -6,7 +6,7 @@
   },
   "altLabel": {
     "de": [
-      " Beschaffenheit",
+      "Beschaffenheit",
       "Merkmale"
     ]
   },
@@ -72,6 +72,11 @@
       "prefLabel": {
         "de": "Endzustand"
       }
+    }
+  ],
+  "relatedMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300389724"
     }
   ],
   "inScheme": [

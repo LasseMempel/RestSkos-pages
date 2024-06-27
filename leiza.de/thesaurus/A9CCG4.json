@@ -22,6 +22,14 @@
       "de": "Kupferlegierung"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300133706"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q901715"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

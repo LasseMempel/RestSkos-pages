@@ -2,7 +2,10 @@
   "id": "http://leiza.de/thesaurus/C948F2",
   "type": "Concept",
   "prefLabel": {
-    "de": "Gefrierschrank"
+    "de": "Gefrierschrank Lagerung"
+  },
+  "definition": {
+    "de": "Die bisherige Lagerung des Objektes erfolgte tiefgefroren in einem Gefrierschrank"
   },
   "notation": [
     "C948F2"

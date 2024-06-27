@@ -16,6 +16,17 @@
       "de": "Kupferlegierung"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4745413-1"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300196199"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Tombac"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

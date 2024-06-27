@@ -6,10 +6,10 @@
   },
   "altLabel": {
     "de": [
-      " nasse Reinigung",
       "Auswaschung",
       "Nassreinigung",
-      "Spülung"
+      "Spülung",
+      "nasse Reinigung"
     ]
   },
   "definition": {
@@ -24,6 +24,11 @@
       "de": "Reinigung"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300053042"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

@@ -22,6 +22,22 @@
       "de": "Silikat"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011176"
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "https://cameo.mfa.org/wiki/Rock"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Stone"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q8063"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

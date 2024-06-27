@@ -21,6 +21,11 @@
       "de": "Kohäsionsverlust"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300054130"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

@@ -24,6 +24,20 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4190861-2"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011000"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Zinc_alloys"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q204835"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

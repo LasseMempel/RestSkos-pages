@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "chemisches Element. Seltenes, korrosionsbeständiges Metall, das aufgrund seiner chemischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird. "
+    "de": "Seltener, korrosionsbeständiger Werkstoff, der aufgrund seiner chemischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird. "
   },
   "notation": [
     "FGA46A"
@@ -47,6 +47,17 @@
       "de": "Metall"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4013531-7"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300241621"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q585302"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

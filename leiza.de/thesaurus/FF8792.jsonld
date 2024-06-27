@@ -21,6 +21,11 @@
       "de": "Reinigung"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300219637"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

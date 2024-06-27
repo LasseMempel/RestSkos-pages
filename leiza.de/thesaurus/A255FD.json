@@ -21,6 +21,11 @@
       "de": "Feuchtigkeitsgehalt"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300228711"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

@@ -2,12 +2,15 @@
   "id": "http://leiza.de/thesaurus/C2241C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Klimaraum"
+    "de": "Klimaraum Lagerung"
   },
   "altLabel": {
     "de": [
       "Klimakammer"
     ]
+  },
+  "definition": {
+    "de": "Das Objekt lagerte bisher in einem Raum, der über eine kontrollierte Klimaregulierung verfügte und auf für das Objekt optimale klimatische Bedingungen eingestellt war"
   },
   "notation": [
     "C2241C"

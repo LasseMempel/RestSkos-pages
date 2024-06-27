@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Schimmelbefall"
   },
+  "definition": {
+    "de": "Wachstum und Ausbreitung von Pilzen auf der Oberfläche oder im Inneren des Objektes."
+  },
   "notation": [
     "G57G31"
   ],

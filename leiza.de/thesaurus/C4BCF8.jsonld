@@ -55,6 +55,11 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://terminology.lido-schema.org/lido00931"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Legierung mit Gold als Hauptbestandteil"
+    "de": "Legierung mit Gold als Hauptbestandteil. Wurde als edler metallischer Werkstoff wegen seiner Seltenheit, hohen Beständigkeit gegen Korrosion und seines auffälligen Glanzes seit Jahrtausenden für Schmuck und Prestigeobjekte verwendet."
   },
   "notation": [
     "DC5B2B"
@@ -27,6 +27,17 @@
       "prefLabel": {
         "de": "Gold"
       }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4157867-3"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300010963"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q37136268"
     }
   ],
   "inScheme": [

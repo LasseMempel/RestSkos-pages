@@ -24,6 +24,17 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4145917-9"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300010932"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Lead_alloys"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

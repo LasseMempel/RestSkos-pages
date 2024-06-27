@@ -26,6 +26,11 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300024596"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

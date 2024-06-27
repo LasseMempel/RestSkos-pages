@@ -24,6 +24,20 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4190903-3"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300010978"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Tin_alloys"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q9346089"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

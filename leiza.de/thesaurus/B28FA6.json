@@ -11,7 +11,7 @@
     ]
   },
   "definition": {
-    "de": "chemisches Elemten, rot-bräunliches Metall. Auch als \"Halbedelmetall\" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde."
+    "de": "metallisches Element von rot-bräunlicher Farbe mit dem chemischen Symbol Cu und der Ordnungszahl 29. Auch als \"Halbedelmetall\" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde."
   },
   "notation": [
     "B28FA6"
@@ -22,6 +22,17 @@
       "de": "Buntmetall"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4033734-0"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011020"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q753"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

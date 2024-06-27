@@ -24,6 +24,17 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300133748"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Tin"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q1096"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

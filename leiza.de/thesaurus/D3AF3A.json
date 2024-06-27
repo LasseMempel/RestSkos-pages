@@ -30,6 +30,17 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://terminology.lido-schema.org/lido00268"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300266009"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300435425"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

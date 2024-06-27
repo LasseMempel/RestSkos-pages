@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Gruppe chemischer Elemente"
+    "de": "anorganischer Werkstoff mit charakteristisch hoher Dichte, Formbarkeit und Beständigkeit. Metall wurde als Werkstoff häufig für Werkzeug, Schmuck und Waffen verwendet und bietet daher einen wertvollen Einblick in frühere technologische Entwicklungen und Handelsnetzwerke."
   },
   "notation": [
     "B5DD1A"
@@ -35,6 +35,20 @@
       "de": "Werkstoff"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300010900"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/Q11426"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Metal"
+    },
+    {
+      "id": "https://d-nb.info/gnd/4038860-8"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

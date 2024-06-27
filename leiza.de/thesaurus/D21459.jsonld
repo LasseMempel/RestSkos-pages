@@ -2,7 +2,10 @@
   "id": "http://leiza.de/thesaurus/D21459",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kühlschrank"
+    "de": "Kühlschrank Lagerung"
+  },
+  "definition": {
+    "de": "Die bisherige Lagerung des Objektes erfolgte gekühlt in einem Kühlschrank"
   },
   "notation": [
     "D21459"

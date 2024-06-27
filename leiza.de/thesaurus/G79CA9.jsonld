@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "unklimatisierte Lagerung"
   },
+  "definition": {
+    "de": "Die Lagerung erfolgte ohne spezielle auf das Objekt abgestimmte, kontrollierte klimatische Bedingungen"
+  },
   "notation": [
     "G79CA9"
   ],

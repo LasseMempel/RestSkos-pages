@@ -11,7 +11,7 @@
     ]
   },
   "definition": {
-    "de": "Oberbegriff für Werkstoffe aus anorganischen SiO2 Verbindungen. "
+    "de": "Oberbegriff für eine Vielzahl von mineralischen Werkstoffen aus anorganischen SiO2 Verbindungen. "
   },
   "notation": [
     "GB6DF3"
@@ -42,6 +42,11 @@
       "de": "Werkstoff"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://www.wikidata.org/entity/Q7130787"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

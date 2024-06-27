@@ -5,7 +5,7 @@
     "de": "Gold"
   },
   "definition": {
-    "de": "chemisches Element mit dem Symbol Au und der Ordnungszahl 79 im Periodensystem. Es ist ein edles Metall von gelber Farbe, das wegen seiner Seltenheit, Beständigkeit gegen Korrosion und seiner Verwendung in Schmuck und Prestigeobjekten verwendet wurde."
+    "de": "metallisches Element von gelber Farbe mit dem chemischen Symbol Au und der Ordnungszahl 79 "
   },
   "notation": [
     "FD5149"
@@ -22,6 +22,20 @@
       "prefLabel": {
         "de": "Goldlegierung"
       }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4157819-3"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011021"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Gold"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q897"
     }
   ],
   "inScheme": [

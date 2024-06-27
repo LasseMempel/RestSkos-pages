@@ -16,6 +16,14 @@
       "de": "[Konservierungs- und Restaurierungsmaterialien]"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300237910"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Alkali"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

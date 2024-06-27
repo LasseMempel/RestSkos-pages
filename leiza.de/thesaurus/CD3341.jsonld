@@ -65,6 +65,19 @@
       "de": "Werkstoff"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q1783121"
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011792"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Organic"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

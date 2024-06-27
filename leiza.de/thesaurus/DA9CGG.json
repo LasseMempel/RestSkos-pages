@@ -43,6 +43,11 @@
       "de": "Konservierungsmaßnahme"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300219960"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

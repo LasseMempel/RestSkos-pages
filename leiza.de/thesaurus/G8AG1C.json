@@ -24,6 +24,14 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011037"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q758"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

@@ -16,6 +16,17 @@
       "de": "Silikat"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300235507"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/Q45621"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Ceramic"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

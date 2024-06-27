@@ -13,6 +13,11 @@
       "de": "Mikroskop"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300444116"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

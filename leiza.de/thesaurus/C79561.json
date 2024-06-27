@@ -48,6 +48,16 @@
       "de": "Praktische Durchführung"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q217102"
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300053742"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

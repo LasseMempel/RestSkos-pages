@@ -47,6 +47,14 @@
       "de": "Buntmetalllegierung"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300010942"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q518350"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

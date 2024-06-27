@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Altrestaurierung"
   },
+  "definition": {
+    "de": "An dem Objekt sind Spuren der Veränderung festzustellen, die auf eine (oder mehrere) vorherige Konservierungs- bzw. Restaurierungsmaßnahme hindeuten. "
+  },
   "notation": [
     "A5D63G"
   ],

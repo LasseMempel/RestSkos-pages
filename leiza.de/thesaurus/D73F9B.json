@@ -5,7 +5,7 @@
     "de": "Leder"
   },
   "definition": {
-    "de": "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut.  "
+    "de": "Durch chemische Bearbeitung (Gerbung) haltbar gemachte Tierhaut. In der Antike und im Mittelalter wurde Leder vor allem für Schuhe, Kleidung und Behältnisse verwendet."
   },
   "notation": [
     "D73F9B"
@@ -16,6 +16,14 @@
       "de": "Organik"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011845"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Leather"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

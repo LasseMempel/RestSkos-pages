@@ -16,6 +16,9 @@
   "notation": [
     "B51DAF"
   ],
+  "example": {
+    "de": "https://n4o-ta4-dev.wikibase.cloud/wiki/Item:Q12"
+  },
   "narrower": [
     {
       "id": "http://leiza.de/thesaurus/GB6DF3",
@@ -34,6 +37,11 @@
       "prefLabel": {
         "de": "Metall"
       }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://terminology.lido-schema.org/lido00132"
     }
   ],
   "inScheme": [

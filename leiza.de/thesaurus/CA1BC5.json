@@ -36,6 +36,14 @@
       "de": "Zustandserfassung"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300137546"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300226216"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

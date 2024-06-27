@@ -26,6 +26,11 @@
       }
     }
   ],
+  "closeMatch": [
+    {
+      "id": "https://d-nb.info/gnd/4113240-3"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

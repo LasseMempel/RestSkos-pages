@@ -6,9 +6,12 @@
   },
   "altLabel": {
     "de": [
-      " Klimabox",
+      "Klimabox",
       "Klimakiste"
     ]
+  },
+  "definition": {
+    "de": "Das Objekt lagerte in einer individuellen Verpackung, die z.B. mittels Trockenmittel oder anderen Reagenzien auf einen speziellen Klimarwert eingestellt war. "
   },
   "notation": [
     "A2BB42"

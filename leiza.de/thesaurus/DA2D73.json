@@ -16,6 +16,16 @@
       "de": "Silikat"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q11469"
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300010797"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

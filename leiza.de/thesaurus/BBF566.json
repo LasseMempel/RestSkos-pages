@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen"
+    "de": "Sammelbegriff für metallische Werkstoffe, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen"
   },
   "notation": [
     "BBF566"
@@ -47,6 +47,17 @@
       "de": "Metall"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4583082-4"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300241615"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q428855"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

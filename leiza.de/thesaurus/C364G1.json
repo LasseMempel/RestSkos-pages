@@ -150,6 +150,14 @@
       "de": "Praktische Durchführung"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://terminology.lido-schema.org/lido00132"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/Q214609"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

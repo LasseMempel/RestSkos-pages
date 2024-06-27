@@ -18,6 +18,11 @@
       "de": "Materialanalyse"
     }
   },
+  "relatedMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300224161"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

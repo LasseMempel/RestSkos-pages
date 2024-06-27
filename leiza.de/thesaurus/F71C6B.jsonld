@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "chemisches Element, silber-graues, hartes Metall. Kommt in der Natur selten als gediegenes Metall vor (außer in Meteoriten), wird häufiger aus Eisenerzen verhüttet. "
+    "de": "metallisches Element von gräulicher Farbe mit dem chemischen Symbol Fe und der Ordnungszahl 26"
   },
   "notation": [
     "F71C6B"
@@ -27,6 +27,17 @@
       "prefLabel": {
         "de": "Eisenlegierung"
       }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://d-nb.info/gnd/4014002-7"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300011002"
+    },
+    {
+      "id": "https://www.wikidata.org/wiki/Q677"
     }
   ],
   "inScheme": [

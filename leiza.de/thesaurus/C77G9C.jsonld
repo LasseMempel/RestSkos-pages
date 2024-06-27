@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Alterung"
   },
+  "definition": {
+    "de": "An dem Objekt sind Spuren der Veränderung zu beobachten, die auf die natürliche Alterung des Objektes zurück zu führen sind. Eine alterungsbedingte Veränderung ist nicht zwangsläufig als Beschädigung zu verstehen. "
+  },
   "notation": [
     "C77G9C"
   ],
