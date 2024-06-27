@@ -49,6 +49,15 @@ for index, row in df.iterrows():
         if not pd.isnull(row['related']):
             related = URIRef(thesaurusAddendum + row['related'])
             g.add ((concept, SKOS.related, related))
+        if not pd.isnull(row['example']):
+            example = URIRef(thesaurusAddendum + row['example'])
+            g.add ((concept, SKOS.example, example))
+        if not pd.isnull(row['relatedMatch']):
+            relatedMatch = URIRef(thesaurusAddendum + row['relatedMatch'])
+            g.add ((concept, SKOS.relatedMatch, relatedMatch))
+        if not pd.isnull(row['closeMatch']):
+            closeMatch = URIRef(thesaurusAddendum + row['closeMatch'])
+            g.add ((concept, SKOS.closeMatch, closeMatch))
         g.add ((concept, SKOS.inScheme, thesaurus))
         if row["parent"] == "top":
             g.add ((thesaurus, SKOS.hasTopConcept, concept))
