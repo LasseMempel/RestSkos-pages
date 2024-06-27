@@ -92,6 +92,7 @@ g.serialize(destination='fixedData.ttl', format='turtle')
 with open('fixedData.ttl', 'r', encoding="utf-8") as f:
     text = f.read()
     text = text.replace('@de"', '"@de')
+    text = text.replace("@de>", '>@de')
     #print(text)
 with open('fixedData.ttl', 'w', encoding="utf-8") as f:
     f.write(text)
