@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/F64B9C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Pigmente"
+    "de": "Pigment"
   },
   "notation": [
     "F64B9C"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/C364G1",
+    "id": "http://leiza.de/thesaurus/AFD671",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "farbgebendes Material"
     }
   },
   "inScheme": [

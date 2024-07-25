@@ -6,6 +6,8 @@
   },
   "altLabel": {
     "de": [
+      "Behandlung",
+      "Eingriff",
       "durchgeführte Maßnahme"
     ]
   },
@@ -17,12 +19,6 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/C364G1",
-      "prefLabel": {
-        "de": "[Konservierungs- und Restaurierungsmaterialien]"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/F5G576",
       "prefLabel": {
         "de": "präventive Konservierung"
@@ -32,6 +28,12 @@
       "id": "http://leiza.de/thesaurus/G98FD4",
       "prefLabel": {
         "de": "Konservierungsmaßnahme"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C364G1",
+      "prefLabel": {
+        "de": "Konservierungs- und Restaurierungsmaterialien"
       }
     },
     {
@@ -49,7 +51,7 @@
     {
       "id": "http://leiza.de/thesaurus/C93638",
       "prefLabel": {
-        "de": "[Werkzeuge]"
+        "de": "Werkzeuge"
       }
     }
   ],
@@ -63,7 +65,7 @@
     {
       "id": "http://leiza.de/thesaurus/A18D95",
       "prefLabel": {
-        "de": "Restaurierungs-/Konservierungskonzept"
+        "de": "Konservierungskonzept/Restaurierungskonzept"
       }
     }
   ],

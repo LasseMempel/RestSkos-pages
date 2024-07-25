@@ -9,6 +9,12 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/A3G356",
+      "prefLabel": {
+        "de": "Polyurethan"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/D41661",
       "prefLabel": {
         "de": "Cellulosederivat"
@@ -27,15 +33,21 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/A3G356",
+      "id": "http://leiza.de/thesaurus/C4D888",
       "prefLabel": {
-        "de": "Polyurethan"
+        "de": "Triethylenglycol"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/C838C1",
       "prefLabel": {
         "de": "Polyvinylalkohol"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CD13GA",
+      "prefLabel": {
+        "de": "Cyclododecan"
       }
     },
     {
@@ -76,9 +88,9 @@
     }
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/C364G1",
+    "id": "http://leiza.de/thesaurus/B7B8B6",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Adhäsivstoff"
     }
   },
   "inScheme": [

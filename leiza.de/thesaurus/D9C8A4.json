@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "Zersetzung"
   },
+  "altLabel": {
+    "de": [
+      " "
+    ]
+  },
+  "definition": {
+    "de": "Das Objekt zeigt Spuren eines Abbauprozesses durch Mikroorganismen, Feuchtigkeit und/oder chemische Reaktionen, der zur Zerstörung oder Veränderung der inneren Struktur und Zusammensetzung des Materials geführt hat."
+  },
   "notation": [
     "D9C8A4"
   ],

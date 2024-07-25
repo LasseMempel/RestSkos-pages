@@ -24,6 +24,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/BC1DCG",
+      "prefLabel": {
+        "de": "Verhärtung"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/GB33C3",
       "prefLabel": {
         "de": "Riss"

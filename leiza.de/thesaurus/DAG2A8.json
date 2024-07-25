@@ -9,15 +9,15 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/G52378",
-      "prefLabel": {
-        "de": "analoge Abformung"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/GC14B8",
       "prefLabel": {
         "de": "digitale Abformung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G52378",
+      "prefLabel": {
+        "de": "analoge Abformung"
       }
     }
   ],

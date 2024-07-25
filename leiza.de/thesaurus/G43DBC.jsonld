@@ -2,15 +2,16 @@
   "id": "http://leiza.de/thesaurus/G43DBC",
   "type": "Concept",
   "prefLabel": {
-    "de": "Beschädigung"
+    "de": "beschädigt"
   },
   "altLabel": {
     "de": [
+      "Beschädigung",
       "Schaden"
     ]
   },
   "definition": {
-    "de": "Das Objekt weist eine unvorteilhafte Veränderung gegenüber seines ursprünglich geplanten Aussehens auf. Die Signifikanz der Beschädigung/ des Schadens, ergibt sich aus der Fragestellung bzw. dem Blickwinkel aus dem das Objekt betrachtet wird. So kann ein Kriegsschaden an einem Objekt zwar große Beschädigung des Materials verursacht haben, gleichzeitig kann diese Veränderung jedoch auch als Erweiterung der Objektgeschichte gewertet werden. Andersherum gibt es Beschädigungen, die zwar keine direkte Bedrohung auf die Integrität des Objektes ausüben, sich jedoch auf die Lesbarkeit und somit die wissenschaftliche Aussagekraft des Objektes negativ auswirken."
+    "de": "Das Objekt weist eine ungewollte, negative Veränderung im Vergleich zu seinem ursprünglichen Aussehen auf, die die wissenschaftliche Aussagekraft des Objektes mindert. "
   },
   "notation": [
     "G43DBC"

@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "Patinabildung"
   },
+  "altLabel": {
+    "de": [
+      "Passivierung"
+    ]
+  },
+  "definition": {
+    "de": "Natürliche oder künstliche Entstehung einer oberflächlichen Schicht auf dem Objekt, die durch Oxidation, Witterungseinflüsse oder chemische Reaktionen des Objektwerkstoffes entsteht. Diese Schicht sorgt für einen Schutz des darunterliegenden Materials vor weiteren korrosovienen Einflüssen. "
+  },
   "notation": [
     "GC4CA7"
   ],

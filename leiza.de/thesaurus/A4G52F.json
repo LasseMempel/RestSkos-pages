@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Zustand eines Objektes zum Zeitpunkt der Einlieferung in die Restaurierungswerkstatt"
+    "de": "Erhaltungszustand eines Objektes zum Zeitpunkt der Einlieferung in die Restaurierungswerkstatt"
   },
   "notation": [
     "A4G52F"
@@ -23,9 +23,9 @@
   },
   "related": [
     {
-      "id": "http://leiza.de/thesaurus/GDF8C2",
+      "id": "http://leiza.de/thesaurus/D9G51G",
       "prefLabel": {
-        "de": "Physischer Zustand"
+        "de": "Erhaltungszustand"
       }
     }
   ],

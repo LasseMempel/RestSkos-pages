@@ -5,17 +5,63 @@
     "de": "Reduktionsmittel"
   },
   "definition": {
-    "de": "chemische Substanz, die Elektronen abgeben und somit andere Substanzen reduzieren kann (Redoxreaktion)"
+    "de": "chemische Substanz, die in der Restaurierung eingesetzt wird um Oxidation von Metallen zu reduzieren, Korrosionsprodukte zu entfernen und die ursprüngliche Erscheinung von Objekten wiederherzustellen. Die Substanz fungiert dabei als Eletronendonator (gibt Elektronen ab) und kann somit andere Substanzen reduzieren (Redoxreaktion)."
   },
   "notation": [
     "B3FCA1"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/B614CD",
+      "prefLabel": {
+        "de": "Natriumsulfit"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CB3941",
+      "prefLabel": {
+        "de": "Natriumdithionit"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D4A6D1",
+      "prefLabel": {
+        "de": "Natriumborhydrid"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FCA8C9",
+      "prefLabel": {
+        "de": "Natriumthiosulfat"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/D3A484",
+      "prefLabel": {
+        "de": "Oxalsäure"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F54686",
+      "prefLabel": {
+        "de": "Ascorbinsäure"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G7BADF",
+      "prefLabel": {
+        "de": "Thioglykolsäure"
+      }
+    }
+  ],
   "closeMatch": [
     {
       "id": "http://vocab.getty.edu/page/aat/300380032"

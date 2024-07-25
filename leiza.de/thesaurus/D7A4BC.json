@@ -7,10 +7,24 @@
   "notation": [
     "D7A4BC"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/AF1328",
+      "prefLabel": {
+        "de": "Stearin"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D81175",
+      "prefLabel": {
+        "de": "Vaseline"
+      }
+    }
+  ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/C364G1",
+    "id": "http://leiza.de/thesaurus/FBFFF5",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Abform- und Ergänzungsmaterial"
     }
   },
   "inScheme": [

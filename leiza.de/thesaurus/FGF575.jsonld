@@ -5,15 +5,59 @@
     "de": "Säure"
   },
   "definition": {
-    "de": "chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann"
+    "de": "chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann. In der Restaurierung werden Säuren zur Reinigung, Entfernung von Korrosionsprodukten und Verkrustungen, sowie zur Stabilisierung und Konservierung verwendet."
   },
   "notation": [
     "FGF575"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/AA69FB",
+      "prefLabel": {
+        "de": "Ameisensäure"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B7395G",
+      "prefLabel": {
+        "de": "Schwefelsäure"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D3A484",
+      "prefLabel": {
+        "de": "Oxalsäure"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F54686",
+      "prefLabel": {
+        "de": "Ascorbinsäure"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G7BADF",
+      "prefLabel": {
+        "de": "Thioglykolsäure"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GA33BC",
+      "prefLabel": {
+        "de": "Salzsäure"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GBC8AC",
+      "prefLabel": {
+        "de": "Zitronensäure"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "closeMatch": [

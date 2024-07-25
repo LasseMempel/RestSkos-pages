@@ -2,12 +2,11 @@
   "id": "http://leiza.de/thesaurus/A194CF",
   "type": "Concept",
   "prefLabel": {
-    "de": "Waschung"
+    "de": "Nassreinigung"
   },
   "altLabel": {
     "de": [
       "Auswaschung",
-      "Nassreinigung",
       "Spülung",
       "nasse Reinigung"
     ]

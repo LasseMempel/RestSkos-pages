@@ -2,10 +2,15 @@
   "id": "http://leiza.de/thesaurus/C17A3G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Volltränkung"
+    "de": "Badtränkung"
+  },
+  "altLabel": {
+    "de": [
+      "Volltränkung"
+    ]
   },
   "definition": {
-    "de": "Konservierungsmethode, bei der der Werkstoffe eines Objektes durch das Ausfüllen seines gesamten Porenraums mit einem sich in Lösung befindlichen Polymers stabilisiert wird. Eine Volltränkung wird i.d.R. durch Eintauchen des Objektes in das Lösungsbad durchgeführt."
+    "de": "Konservierungsmethode, bei der das Objekt durch vollständiges Eintauchen in eine Badlösung gefestigt wird. Der gesamte Porenraum des Objektwerkstoffes wird dabei mit einem sich in Lösung befindlichen Polymers ausgefüllt, welches nach Verflüchtigung des Lösemittels die instabile innere Struktur des Werkstoffes stabilisiert. "
   },
   "notation": [
     "C17A3G"

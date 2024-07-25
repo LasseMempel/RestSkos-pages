@@ -2,15 +2,20 @@
   "id": "http://leiza.de/thesaurus/B69747",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ringkorrosion"
+    "de": "Schnecke"
+  },
+  "altLabel": {
+    "de": [
+      "Schneckenhaus"
+    ]
   },
   "notation": [
     "B69747"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/G3D2F5",
+    "id": "http://leiza.de/thesaurus/F1BA31",
     "prefLabel": {
-      "de": "Korrosionserscheinung"
+      "de": "Biomineral"
     }
   },
   "inScheme": [

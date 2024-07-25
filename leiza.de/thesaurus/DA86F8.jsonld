@@ -2,7 +2,13 @@
   "id": "http://leiza.de/thesaurus/DA86F8",
   "type": "Concept",
   "prefLabel": {
-    "de": "Aerosil"
+    "de": "Pyrogenes Siliziumdioxid"
+  },
+  "altLabel": {
+    "de": [
+      "Aerosil",
+      "pyrogene Kieselsäure"
+    ]
   },
   "notation": [
     "DA86F8"

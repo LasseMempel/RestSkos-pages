@@ -2,12 +2,12 @@
   "id": "http://leiza.de/thesaurus/A889A3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schmutz"
+    "de": "Verschmutzung"
   },
   "altLabel": {
     "de": [
       "Ablagerung",
-      "Verschmutzung"
+      "Schmutz"
     ]
   },
   "definition": {
@@ -33,6 +33,12 @@
       "id": "http://leiza.de/thesaurus/D74F16",
       "prefLabel": {
         "de": "Staubablagerung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F8915F",
+      "prefLabel": {
+        "de": "Versinterung"
       }
     }
   ],

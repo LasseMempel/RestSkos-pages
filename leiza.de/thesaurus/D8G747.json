@@ -7,30 +7,10 @@
   "notation": [
     "D8G747"
   ],
-  "narrower": [
-    {
-      "id": "http://leiza.de/thesaurus/A97F31",
-      "prefLabel": {
-        "de": "Gummischleifkörper"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/ABF57G",
-      "prefLabel": {
-        "de": "Diamantschleifkörper"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/CDF423",
-      "prefLabel": {
-        "de": "Metallfräser"
-      }
-    }
-  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GF9C49",
     "prefLabel": {
-      "de": "[technische Geräte]"
+      "de": "technische Geräte"
     }
   },
   "inScheme": [

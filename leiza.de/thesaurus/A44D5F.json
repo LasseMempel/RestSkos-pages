@@ -7,6 +7,14 @@
   "notation": [
     "A44D5F"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/F84988",
+      "prefLabel": {
+        "de": "Methylcellulose"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D41661",
     "prefLabel": {

@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Polarisationsmikroskop"
   },
+  "definition": {
+    "de": "spezielles Lichtmikroskops, das polarisiertes Licht verwendet, um die optischen Eigenschaften doppelbrechender Materialien zu untersuchen. Bei Polarisationsmikroskopen handelt es sich in der Regel um Durchlichtmikroskope, bei denen unterhalb des Objekttisches ein Polarisationsfilter (Polarisator) über der Lichtquelle eingebracht ist. Dieser polarisiert das aus der Lichtquelle austretende Licht linear und lässt somit nur in einer Schwingungsebene schwingendes Licht durch das Präperat auf dem Objekttisch.  Oberhalb des Objekttisches trifft dieses Licht auf einen weiteren, jedoch um 90Â° gedrehten Polarisationsfilter (Analysator), der die Schwingungsebene des polarisierten Lichtes blockiert und somit kein Licht durchlässt. Befindet sich nun ein doppelbrechendes Material als Präperat zwischen diesen beiden Polarisationsfiltern, ist dieses in der Lage die Schwingunsebene des polarisierten Lichtes so zu drehen, dass es nicht mehr durch den Analysator ausgelöscht wird und bestimmte Strukturen sichtbar werden."
+  },
   "notation": [
     "A7FA3B"
   ],

@@ -7,10 +7,18 @@
   "notation": [
     "CCCC7G"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/G44C1A",
+      "prefLabel": {
+        "de": "Leinöl"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "inScheme": [

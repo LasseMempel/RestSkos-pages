@@ -2,23 +2,40 @@
   "id": "http://leiza.de/thesaurus/AB4988",
   "type": "Concept",
   "prefLabel": {
-    "de": "Textil"
+    "de": "tierische Faser"
   },
   "altLabel": {
     "de": [
-      "Stoff"
+      "Tierfaser"
     ]
-  },
-  "definition": {
-    "de": "Ein in verschiedenen Verfahren aus natürlichen oder synthetischen Fasern hergestelltes, räumliches Gebilde. "
   },
   "notation": [
     "AB4988"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/G899F5",
+      "prefLabel": {
+        "de": "Haar"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DF96G1",
+      "prefLabel": {
+        "de": "Wolle"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F6F797",
+      "prefLabel": {
+        "de": "Seide"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CD3341",
     "prefLabel": {
-      "de": "Organik"
+      "de": "organisches Material"
     }
   },
   "closeMatch": [

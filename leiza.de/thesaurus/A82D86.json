@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung hauptsächlich als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde"
+    "de": "Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung häufig als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde"
   },
   "notation": [
     "A82D86"
@@ -29,33 +29,15 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/G8AG1C",
-      "prefLabel": {
-        "de": "Zink"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/F387GB",
       "prefLabel": {
         "de": "Bleilegierung"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/G992B6",
-      "prefLabel": {
-        "de": "Blei"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/G6A358",
       "prefLabel": {
         "de": "Zinnlegierung"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/G78BD6",
-      "prefLabel": {
-        "de": "Zinn"
       }
     }
   ],

@@ -19,15 +19,15 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/B26D29",
-      "prefLabel": {
-        "de": "temporäre Stabilisierung"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/A9FF5A",
       "prefLabel": {
         "de": "Tränkung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B26D29",
+      "prefLabel": {
+        "de": "temporäre Stabilisierung"
       }
     },
     {

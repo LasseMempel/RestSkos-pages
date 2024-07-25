@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "Spannungsrisskorrosion"
   },
+  "altLabel": {
+    "de": [
+      "Transkristalline Korrosion"
+    ]
+  },
+  "definition": {
+    "de": "Rissbildung bis hin zum vollständigen Versagen des Materials durch Eigenspannungen im Werkstoffgefüge in Kombination mit korrosiven Umgebungsbedingungen (u.a. die Anwesenheit eines Elektrolyten). Erstes Anzeichen einer beginnenden Spannungsrisskorrosion ist eine feine, vielfach verzweigte Rissbildung an Stellen mit hoher Spannung oder Materialdefekten. "
+  },
   "notation": [
     "BFDB22"
   ],

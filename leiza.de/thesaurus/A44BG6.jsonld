@@ -7,10 +7,24 @@
   "notation": [
     "A44BG6"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/DA841D",
+      "prefLabel": {
+        "de": "additionsvernetzender Silikonkautschuk"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GD9CA3",
+      "prefLabel": {
+        "de": "kondensationsvernetzender Silikonkautschuk"
+      }
+    }
+  ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/C364G1",
+    "id": "http://leiza.de/thesaurus/FBFFF5",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Abform- und Ergänzungsmaterial"
     }
   },
   "inScheme": [

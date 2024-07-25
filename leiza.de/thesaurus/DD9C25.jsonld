@@ -4,13 +4,72 @@
   "prefLabel": {
     "de": "Pflanzenfasern"
   },
+  "definition": {
+    "de": "Natürliche Fasern, die aus pflanzlichem Material gewonnen und für verschiedene Anwendungen, wie Textilien, Seilen, Körben, Schnüren oder Matten, verwendet wurden. "
+  },
   "notation": [
     "DD9C25"
+  ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A2159C",
+      "prefLabel": {
+        "de": "Bast"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/A5G856",
+      "prefLabel": {
+        "de": "Baumwolle"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/AG4634",
+      "prefLabel": {
+        "de": "Jute"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/BC685F",
+      "prefLabel": {
+        "de": "Flachs"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C3AF5A",
+      "prefLabel": {
+        "de": "Hanf"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D53ADA",
+      "prefLabel": {
+        "de": "Papyrus"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D57G1G",
+      "prefLabel": {
+        "de": "Nessel"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DFD2GD",
+      "prefLabel": {
+        "de": "Planzenseide"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G8533D",
+      "prefLabel": {
+        "de": "Kapok"
+      }
+    }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/CD3341",
     "prefLabel": {
-      "de": "Organik"
+      "de": "organisches Material"
     }
   },
   "inScheme": [

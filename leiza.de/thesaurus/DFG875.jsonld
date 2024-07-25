@@ -7,6 +7,20 @@
   "notation": [
     "DFG875"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/FC3FD6",
+      "prefLabel": {
+        "de": "Nadelholz"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B7DD6B",
+      "prefLabel": {
+        "de": "Laubholz"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A9A858",
     "prefLabel": {

@@ -10,18 +10,12 @@
     ]
   },
   "definition": {
-    "de": "Auf oder im Objekt zeigen sich Materialumwandlungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung"
+    "de": "Materialumwandlungserscheinungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung"
   },
   "notation": [
     "G3D2F5"
   ],
   "narrower": [
-    {
-      "id": "http://leiza.de/thesaurus/B69747",
-      "prefLabel": {
-        "de": "Ringkorrosion"
-      }
-    },
     {
       "id": "http://leiza.de/thesaurus/BCDC47",
       "prefLabel": {
@@ -32,6 +26,12 @@
       "id": "http://leiza.de/thesaurus/BFDB22",
       "prefLabel": {
         "de": "Spannungsrisskorrosion"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CFC44A",
+      "prefLabel": {
+        "de": "Zinnpest"
       }
     },
     {
@@ -55,7 +55,7 @@
     {
       "id": "http://leiza.de/thesaurus/F9C118",
       "prefLabel": {
-        "de": "Lochfraßkorrosion"
+        "de": "Lochkorrosion"
       }
     },
     {

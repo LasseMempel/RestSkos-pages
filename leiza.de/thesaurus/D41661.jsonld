@@ -9,6 +9,12 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/A9A929",
+      "prefLabel": {
+        "de": "Celluloseesther"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/A44D5F",
       "prefLabel": {
         "de": "Celluloseether"

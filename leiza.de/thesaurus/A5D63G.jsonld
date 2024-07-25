@@ -2,7 +2,12 @@
   "id": "http://leiza.de/thesaurus/A5D63G",
   "type": "Concept",
   "prefLabel": {
-    "de": "Altrestaurierung"
+    "de": "altrestauriert"
+  },
+  "altLabel": {
+    "de": [
+      "vorbehandelt"
+    ]
   },
   "definition": {
     "de": "An dem Objekt sind Spuren der Veränderung festzustellen, die auf eine (oder mehrere) vorherige Konservierungs- bzw. Restaurierungsmaßnahme hindeuten. "

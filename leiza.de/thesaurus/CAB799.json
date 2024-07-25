@@ -15,6 +15,20 @@
   "notation": [
     "CAB799"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/F573A5",
+      "prefLabel": {
+        "de": "vollständig"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GAD71G",
+      "prefLabel": {
+        "de": "unvollständig"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GDF8C2",
     "prefLabel": {

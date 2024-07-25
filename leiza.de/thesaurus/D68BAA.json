@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Flächenkorrosion"
   },
+  "definition": {
+    "de": "Über einen großen Bereich der Oberfläche (oder die gesamte Oberfläche) des Objektes verteilt findet ein Korrosionsangriff statt, der zu einem gleichmäßigen Abtrag und der Verdünnung des Materials führt. Die strukturelle Integrität als auch das ästhetische Erscheinungsbild des Objektes sind beeinträchtigt. "
+  },
   "notation": [
     "D68BAA"
   ],

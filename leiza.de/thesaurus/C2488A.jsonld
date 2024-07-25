@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Zustand eines Objektes nach Abschluss der praktisch durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie Überprüfung in wie fern das zuvor festgelegte Restaurierung-/Konservierungsziel erreicht werden konnte."
+    "de": "Erhaltungszustand eines Objektes nach Abschluss der praktisch durchgeführten Konservierungs- und Restaurierungsmaßnahmen sowie Überprüfung in wie fern das zuvor festgelegte Restaurierung-/Konservierungsziel erreicht werden konnte."
   },
   "notation": [
     "C2488A"
@@ -23,9 +23,9 @@
   },
   "related": [
     {
-      "id": "http://leiza.de/thesaurus/GDF8C2",
+      "id": "http://leiza.de/thesaurus/D9G51G",
       "prefLabel": {
-        "de": "Physischer Zustand"
+        "de": "Erhaltungszustand"
       }
     }
   ],

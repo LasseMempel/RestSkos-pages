@@ -5,15 +5,41 @@
     "de": "Base"
   },
   "definition": {
-    "de": "chemische Substanz, die in wässriger Lösung ein Proton aufnehmen oder ein freies Elektronenpaar abspalten kann."
+    "de": "chemische Substanz, die in wässriger Lösung ein Proton aufnehmen oder ein freies Elektronenpaar abspalten kann. In der Restaurierung wird sie zur Reinigung, Stabilisierung und Konservierung von Objekten verwendet."
   },
   "notation": [
     "A2B746"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A5D92A",
+      "prefLabel": {
+        "de": "Ammoniak"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/AA8A54",
+      "prefLabel": {
+        "de": "Thiosulfat"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CB2D46",
+      "prefLabel": {
+        "de": "Natriumcarbonat"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GG3G4B",
+      "prefLabel": {
+        "de": "Natriumhydroxid"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "closeMatch": [

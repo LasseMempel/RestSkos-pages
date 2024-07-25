@@ -2,7 +2,13 @@
   "id": "http://leiza.de/thesaurus/A18D95",
   "type": "Concept",
   "prefLabel": {
-    "de": "Restaurierungs-/Konservierungskonzept"
+    "de": "Konservierungskonzept/Restaurierungskonzept"
+  },
+  "altLabel": {
+    "de": [
+      "Konservierungsplanung",
+      "Restaurierungsplanung"
+    ]
   },
   "definition": {
     "de": "Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabschätzung, basierend auf den Ergebnissen der Zustandserfassung."
@@ -26,7 +32,7 @@
     {
       "id": "http://leiza.de/thesaurus/DA4158",
       "prefLabel": {
-        "de": "Restaurierungs-/Konservierungsziel"
+        "de": "Konservierungs-/Restaurierungsziel"
       }
     },
     {
@@ -38,15 +44,15 @@
   ],
   "related": [
     {
-      "id": "http://leiza.de/thesaurus/C4BCF8",
-      "prefLabel": {
-        "de": "Zustandserfassung"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/CFGDA3",
       "prefLabel": {
         "de": "Praktische Durchführung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C4BCF8",
+      "prefLabel": {
+        "de": "Zustandserfassung"
       }
     }
   ],

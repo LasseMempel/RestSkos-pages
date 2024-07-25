@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Oberflächenriss"
   },
+  "definition": {
+    "de": "Das Objekt zeigt einen Riss, im Bereich seiner Oberfläche"
+  },
   "notation": [
     "GD5454"
   ],

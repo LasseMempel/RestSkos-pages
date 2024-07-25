@@ -2,20 +2,32 @@
   "id": "http://leiza.de/thesaurus/AG2965",
   "type": "Concept",
   "prefLabel": {
-    "de": "Harze aus natürlichen Rohstoffen"
+    "de": "biogenes Polymer"
   },
   "altLabel": {
     "de": [
-      "Naturharz"
+      "Naturharz",
+      "natürliches Polymer"
     ]
+  },
+  "definition": {
+    "de": "Oberbegriff für Materialien, die aus natürlichen Quellen stammen, leicht bis garnicht synthetisch modifiziert wurden und vielseitig einsetzbar sind. Diese Stoffe wurden vor allem in den Anfängen der Restaurierungsgeschichte, bevor synthetische Polymere in breiter Bandbreite zur Verfügung standen, häufig zum Kleben und Stabilisieren von Objekten eingesetzt. In der modernen Restaurierung spielen sie eher eine untergeordnete Rollen, finden jedoch nach wie vor vereinzelt Verwendung."
   },
   "notation": [
     "AG2965"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/C176FC",
+      "prefLabel": {
+        "de": "Schellack"
+      }
+    }
+  ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/C364G1",
+    "id": "http://leiza.de/thesaurus/B7B8B6",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Adhäsivstoff"
     }
   },
   "inScheme": [

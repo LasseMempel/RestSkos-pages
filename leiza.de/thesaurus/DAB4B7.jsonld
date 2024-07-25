@@ -42,6 +42,14 @@
       }
     }
   ],
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/F5G576",
+      "prefLabel": {
+        "de": "präventive Konservierung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

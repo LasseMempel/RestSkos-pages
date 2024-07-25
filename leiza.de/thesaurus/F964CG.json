@@ -20,19 +20,19 @@
     {
       "id": "http://leiza.de/thesaurus/A889A3",
       "prefLabel": {
-        "de": "Schmutz"
+        "de": "Verschmutzung"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/A379F4",
       "prefLabel": {
-        "de": "Materialbeschaffenheit"
+        "de": "materialbedingter Schaden"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/AA819F",
       "prefLabel": {
-        "de": "Licht"
+        "de": "lichtinduzierter Schaden"
       }
     },
     {
@@ -50,55 +50,49 @@
     {
       "id": "http://leiza.de/thesaurus/C473B4",
       "prefLabel": {
-        "de": "Vorherige Bearbeitung"
+        "de": "Beschädigung durch vorherige Bearbeitung"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/C64BC8",
       "prefLabel": {
-        "de": "Klimabedingungen"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/CC2F9C",
-      "prefLabel": {
-        "de": "antike Beschädigung"
+        "de": "Klimaschaden"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/D16G86",
       "prefLabel": {
-        "de": "Korrosion"
+        "de": "Korrosionsinduzierter Schaden"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/D171FF",
       "prefLabel": {
-        "de": "Feuer"
+        "de": "Feuerschaden"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/DD3A3D",
       "prefLabel": {
-        "de": "Transport"
+        "de": "Transportschaden"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/F968G3",
       "prefLabel": {
-        "de": "Bodenlagerung"
+        "de": "Bodenlagerungsschaden"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/FAFCF5",
       "prefLabel": {
-        "de": "mechanische Beanspruchung"
+        "de": "Schaden durch mechanische Beanspruchung"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/FB7C46",
       "prefLabel": {
-        "de": "Lagerung"
+        "de": "Lagerungsschaden"
       }
     },
     {
@@ -110,13 +104,13 @@
     {
       "id": "http://leiza.de/thesaurus/G1GA5F",
       "prefLabel": {
-        "de": "Biologische Zerstörung"
+        "de": "Biologischer Befall"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/GBDG4D",
       "prefLabel": {
-        "de": "Bergung"
+        "de": "Bergungsschaden"
       }
     },
     {
@@ -128,7 +122,7 @@
     {
       "id": "http://leiza.de/thesaurus/GGD66G",
       "prefLabel": {
-        "de": "Wasser"
+        "de": "Wasserschaden"
       }
     }
   ],

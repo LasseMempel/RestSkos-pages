@@ -5,10 +5,24 @@
     "de": "Stabilität"
   },
   "definition": {
-    "de": "Fahigkeit eines Objektes physischer Einwirkung stand zu halten"
+    "de": "Fahigkeit eines Objektes auch bei physischer Einwirkung seine Form oder Struktur bei zu behalten"
   },
   "notation": [
     "FB6AGB"
+  ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/D79DA6",
+      "prefLabel": {
+        "de": "stabil"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FBA99A",
+      "prefLabel": {
+        "de": "instabil"
+      }
+    }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GDF8C2",

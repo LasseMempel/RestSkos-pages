@@ -2,32 +2,24 @@
   "id": "http://leiza.de/thesaurus/CC2F9C",
   "type": "Concept",
   "prefLabel": {
-    "de": "antike Beschädigung"
+    "de": "Defekt"
+  },
+  "altLabel": {
+    "de": [
+      "antike Beschädigung",
+      "historische Beschädigung"
+    ]
   },
   "definition": {
-    "de": "Schaden, der bereits vor der Bodenlagerung entstanden ist und demnach zur historischen Objektbiographie des Objektes zählt. Solche Schäden liefern wichtige Hinweise zu Herstellungstechnik und Verwendung, gehören somit zur wissenschaftlichen Aussagekraft des Objektes und dürfen nicht entfernt werden."
+    "de": "Beeinträchtigung eines Objektes, die bereits vor der Bodenlagerung, d.h. in der historischen Geschichte des Objektes, entstanden ist. Eine solche Beeinträchtigung kann infolge der Konzeption, des Herstellungsverfahrens oder der historischen Verwendung auftreten. Sie liefert wichtige Informationen über den kulturellen und historischen Kontext sowie über die technologischen Fähigkeiten der Menschen, die das Objekt hergestellt oder verwendet haben, tragen somit zur wissenschaftlichen Aussagekraft des Objektes bei und bedürfen in der Regel keiner konservatorischen oder restauratorischen Behandlung."
   },
   "notation": [
     "CC2F9C"
   ],
-  "narrower": [
-    {
-      "id": "http://leiza.de/thesaurus/C7861C",
-      "prefLabel": {
-        "de": "Herstellung"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/D2C2A9",
-      "prefLabel": {
-        "de": "Gebrauch"
-      }
-    }
-  ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/F964CG",
+    "id": "http://leiza.de/thesaurus/C6GB1C",
     "prefLabel": {
-      "de": "Schadensursache"
+      "de": "Veränderung"
     }
   },
   "inScheme": [

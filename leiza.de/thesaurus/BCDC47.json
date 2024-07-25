@@ -4,6 +4,15 @@
   "prefLabel": {
     "de": "Kontaktkorrosion"
   },
+  "altLabel": {
+    "de": [
+      "Bimetallkorrosion",
+      "galvanische Korrosion"
+    ]
+  },
+  "definition": {
+    "de": "Durch die Berührung zweier Metalle unterschiedlicher Elektronegativität auftretender, lokaler Korrosionsangriff. An den Berührungspunkten entsteht, unter Anwesenheit eines Elektrolyten (z.B. Wasser/Luftfeuchtigkeit), eine galvanische Zelle bei der das unedlere Metall als Anode fungiert und entsprechend korrodiert wird, während das edlere Metall als Kathode relativ unbeschädigt bleibt. Typische Beobachtungen bei Kontaktkorrosion sind eine verstärkte Korrosion an den Berührungsstellen der beiden Metalle sowie Verfärbungen, Materialverlust und Ablagerungen von Korrosionsprodukten."
+  },
   "notation": [
     "BCDC47"
   ],

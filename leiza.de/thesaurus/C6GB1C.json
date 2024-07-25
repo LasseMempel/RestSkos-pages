@@ -5,7 +5,7 @@
     "de": "Veränderung"
   },
   "definition": {
-    "de": "Ãnderung des ursprünglich und/oder geplanten Aussehens eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war. "
+    "de": "Ãnderung des Zustandes eines Objektes, unabhängig ob diese vorteilhaft oder nicht, beabsichtigt oder nicht ist/war. "
   },
   "notation": [
     "C6GB1C"
@@ -14,19 +14,25 @@
     {
       "id": "http://leiza.de/thesaurus/A5D63G",
       "prefLabel": {
-        "de": "Altrestaurierung"
+        "de": "altrestauriert"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/C77G9C",
       "prefLabel": {
-        "de": "Alterung"
+        "de": "gealtert"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CC2F9C",
+      "prefLabel": {
+        "de": "Defekt"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/G43DBC",
       "prefLabel": {
-        "de": "Beschädigung"
+        "de": "beschädigt"
       }
     }
   ],

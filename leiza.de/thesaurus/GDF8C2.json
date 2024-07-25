@@ -30,15 +30,15 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/AGBB3C",
+      "id": "http://leiza.de/thesaurus/G9D1C8",
       "prefLabel": {
-        "de": "Festigkeit"
+        "de": "Maße"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/CAB799",
+      "id": "http://leiza.de/thesaurus/AGBB3C",
       "prefLabel": {
-        "de": "Vollständigkeit"
+        "de": "Festigkeit"
       }
     },
     {
@@ -48,9 +48,9 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/G9D1C8",
+      "id": "http://leiza.de/thesaurus/CAB799",
       "prefLabel": {
-        "de": "Maße"
+        "de": "Vollständigkeit"
       }
     }
   ],
@@ -60,20 +60,6 @@
       "de": "[Untersuchungsergebnisse]"
     }
   },
-  "related": [
-    {
-      "id": "http://leiza.de/thesaurus/A4G52F",
-      "prefLabel": {
-        "de": "Einlieferungszustand"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/C2488A",
-      "prefLabel": {
-        "de": "Endzustand"
-      }
-    }
-  ],
   "relatedMatch": [
     {
       "id": "http://vocab.getty.edu/page/aat/300389724"

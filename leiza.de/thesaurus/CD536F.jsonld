@@ -2,10 +2,15 @@
   "id": "http://leiza.de/thesaurus/CD536F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Teiltränkung"
+    "de": "Pinseltränkung"
+  },
+  "altLabel": {
+    "de": [
+      "Teiltränkung"
+    ]
   },
   "definition": {
-    "de": "Konservierungsmethode, bei der der Werkstoff eines Objektes nur in gezielten Bereichen durch das Einbringen eines sich in Lösung befindlichen Polymers stabilisiert wird. Dies kann z.B. durch lokalen Auftrag der Polymerlösung mit einem Pinsel erfolgen."
+    "de": "Konservierungsmethode, bei der der Werkstoff eines Objektes nur in gezielten Bereichen durch das Einbringen eines sich in Lösung befindlichen Polymers stabilisiert wird. Dies kann z.B. durch lokalen Auftrag der Polymerlösung mit einem Pinsel oder auch einer Pipette erfolgen. "
   },
   "notation": [
     "CD536F"

@@ -6,7 +6,7 @@
   },
   "altLabel": {
     "de": [
-      "Film"
+      "Filmbildung"
     ]
   },
   "definition": {
@@ -17,9 +17,21 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/B221BB",
+      "prefLabel": {
+        "de": "Kontaminierung"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/BG987D",
       "prefLabel": {
         "de": "schwitzendes Glas"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C82F3D",
+      "prefLabel": {
+        "de": "rezente Ablagerungen"
       }
     },
     {

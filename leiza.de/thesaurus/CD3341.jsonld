@@ -2,42 +2,36 @@
   "id": "http://leiza.de/thesaurus/CD3341",
   "type": "Concept",
   "prefLabel": {
-    "de": "Organik"
+    "de": "organisches Material"
   },
   "altLabel": {
     "de": [
-      "organisches Material"
+      "Organik"
     ]
   },
   "definition": {
-    "de": "Allgemeiner Sammelbegriff für natürlich von Organismen gebildete Stoffe meist tierisch- oder pflanzlichen Ursprungs. Werden durch biologische Mechanismen im Boden abgebaut, wodurch archäologische Objekte aus organischen Materialien nur unter besonderen Bedingungen, die deren fortschreitende Zersetzung verlangsamen oder verhindern, erhalten bleiben. "
+    "de": "Allgemeiner Sammelbegriff für natürlich von Organismen gebildete Stoffe meist tierisch- oder pflanzlichen Ursprungs. "
   },
   "notation": [
     "CD3341"
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/AB4988",
+      "id": "http://leiza.de/thesaurus/DD9C25",
       "prefLabel": {
-        "de": "Textil"
+        "de": "Pflanzenfasern"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/B626A3",
+      "id": "http://leiza.de/thesaurus/F1BA31",
       "prefLabel": {
-        "de": "Bein"
+        "de": "Biomineral"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/B8B69D",
+      "id": "http://leiza.de/thesaurus/G76A78",
       "prefLabel": {
-        "de": "Bernstein"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/BBC26F",
-      "prefLabel": {
-        "de": "Horn"
+        "de": "Kaustobiolith"
       }
     },
     {
@@ -53,9 +47,9 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/DD9C25",
+      "id": "http://leiza.de/thesaurus/AB4988",
       "prefLabel": {
-        "de": "Pflanzenfasern"
+        "de": "tierische Faser"
       }
     }
   ],

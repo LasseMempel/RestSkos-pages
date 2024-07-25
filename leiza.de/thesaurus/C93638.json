@@ -2,7 +2,7 @@
   "id": "http://leiza.de/thesaurus/C93638",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Werkzeuge]"
+    "de": "Werkzeuge"
   },
   "notation": [
     "C93638"
@@ -11,13 +11,13 @@
     {
       "id": "http://leiza.de/thesaurus/D941BB",
       "prefLabel": {
-        "de": "[manuelle Werkzeuge]"
+        "de": "manuelle Werkzeuge"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/GF9C49",
       "prefLabel": {
-        "de": "[technische Geräte]"
+        "de": "technische Geräte"
       }
     }
   ],

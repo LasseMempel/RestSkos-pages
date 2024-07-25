@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Polyethylenglycol"
   },
+  "altLabel": {
+    "de": [
+      "PEG"
+    ]
+  },
   "notation": [
     "F89522"
   ],

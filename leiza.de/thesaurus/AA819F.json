@@ -2,7 +2,12 @@
   "id": "http://leiza.de/thesaurus/AA819F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Licht"
+    "de": "lichtinduzierter Schaden"
+  },
+  "altLabel": {
+    "de": [
+      "Lichtschaden"
+    ]
   },
   "definition": {
     "de": "licht- bzw. beleuchtungsinduzierte Beschädigung des Objektes"

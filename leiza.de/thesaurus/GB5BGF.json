@@ -16,6 +16,24 @@
       "prefLabel": {
         "de": "Kupfer"
       }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G8AG1C",
+      "prefLabel": {
+        "de": "Zink"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G992B6",
+      "prefLabel": {
+        "de": "Blei"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G78BD6",
+      "prefLabel": {
+        "de": "Zinn"
+      }
     }
   ],
   "broader": {

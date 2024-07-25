@@ -17,6 +17,12 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/F9F6DG",
+      "prefLabel": {
+        "de": "Elektron"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/AD789F",
       "prefLabel": {
         "de": "Silberlegierung"

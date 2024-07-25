@@ -5,15 +5,15 @@
     "de": "Zinn"
   },
   "definition": {
-    "de": "Chemisches Elemtent, silberweißes, sehr weiches Metall. Gehört zur Gruppe der Schwermetalle. Wurde in der Antike hauptsächlich als Legierungsbestandteil von (Zinn-)Bronze, später auch als reines Metall (v.a. für Geschirr und kleinere Kultobjekte), Beschichtungen und Lote verwendet."
+    "de": "silberweißes, sehr weiches Metall. Gehört zur Gruppe der Schwermetalle. Wurde in der Antike hauptsächlich als Legierungsbestandteil von (Zinn-)Bronze, später auch als reines Metall (v.a. für Geschirr und kleinere Kultobjekte), Beschichtungen und Lote verwendet."
   },
   "notation": [
     "G78BD6"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/A82D86",
+    "id": "http://leiza.de/thesaurus/GB5BGF",
     "prefLabel": {
-      "de": "Buntmetalllegierung"
+      "de": "Buntmetall"
     }
   },
   "related": [

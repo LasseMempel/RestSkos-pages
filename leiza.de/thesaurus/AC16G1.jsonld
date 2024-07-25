@@ -2,7 +2,15 @@
   "id": "http://leiza.de/thesaurus/AC16G1",
   "type": "Concept",
   "prefLabel": {
-    "de": "Verpackung"
+    "de": "Verpacken"
+  },
+  "altLabel": {
+    "de": [
+      "Verpackung"
+    ]
+  },
+  "definition": {
+    "de": "Maßnahme zur schützenden/sichernden Umhüllung des Objektes während eines Transportes und/oder der Depotlagerung "
   },
   "notation": [
     "AC16G1"

@@ -9,22 +9,46 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/A17G33",
+      "prefLabel": {
+        "de": "Holzmehl"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B9D357",
+      "prefLabel": {
+        "de": "Hohlglaskügelchen"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/BFB3B9",
       "prefLabel": {
         "de": "Talkum"
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/C1BBFB",
+      "prefLabel": {
+        "de": "Metallpulver"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/DA86F8",
       "prefLabel": {
-        "de": "Aerosil"
+        "de": "Pyrogenes Siliziumdioxid"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FC6F82",
+      "prefLabel": {
+        "de": "Graphit"
       }
     }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "inScheme": [

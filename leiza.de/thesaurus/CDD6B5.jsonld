@@ -4,13 +4,16 @@
   "prefLabel": {
     "de": "Risikobeurteilung"
   },
+  "definition": {
+    "de": "Systematischer Prozess zur Bestimmung, Bewertung und Priorisierung potenzieller Gefahren, die das Objekt bzw. dessen Werkstoff beeinträchtigen könnten. Durch die Risikobeurteilung können die benötigten Maßnahmen zur Minimierung der festgestellten Risiken gezielt gewählt werden, um einen langfristigen Erhalt des Objektes zu gewährleisten."
+  },
   "notation": [
     "CDD6B5"
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A18D95",
     "prefLabel": {
-      "de": "Restaurierungs-/Konservierungskonzept"
+      "de": "Konservierungskonzept/Restaurierungskonzept"
     }
   },
   "relatedMatch": [

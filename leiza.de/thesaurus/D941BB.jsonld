@@ -2,7 +2,7 @@
   "id": "http://leiza.de/thesaurus/D941BB",
   "type": "Concept",
   "prefLabel": {
-    "de": "[manuelle Werkzeuge]"
+    "de": "manuelle Werkzeuge"
   },
   "notation": [
     "D941BB"
@@ -45,6 +45,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/D11BD4",
+      "prefLabel": {
+        "de": "Gaze"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/D1A63D",
       "prefLabel": {
         "de": "Putzholz"
@@ -69,6 +75,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/F19194",
+      "prefLabel": {
+        "de": "Nadel"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/F71C33",
       "prefLabel": {
         "de": "Skalpell"
@@ -85,12 +97,18 @@
       "prefLabel": {
         "de": "Acrylglasschaber"
       }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GG75C3",
+      "prefLabel": {
+        "de": "Wattepads"
+      }
     }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C93638",
     "prefLabel": {
-      "de": "[Werkzeuge]"
+      "de": "Werkzeuge"
     }
   },
   "inScheme": [

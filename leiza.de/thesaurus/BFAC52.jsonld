@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Tiefenriss"
   },
+  "definition": {
+    "de": "Das Objekt zeigt mindestens einen Riss, der bis tief in das Material hineinreicht "
+  },
   "notation": [
     "BFAC52"
   ],

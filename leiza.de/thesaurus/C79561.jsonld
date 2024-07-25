@@ -40,6 +40,12 @@
       "prefLabel": {
         "de": "Klebung"
       }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D865C3",
+      "prefLabel": {
+        "de": "Rerestaurierung"
+      }
     }
   ],
   "broader": {

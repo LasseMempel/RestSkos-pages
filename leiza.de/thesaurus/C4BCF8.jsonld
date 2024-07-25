@@ -17,21 +17,27 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/DBC278",
+      "prefLabel": {
+        "de": "Bisherige Lagerung"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/A4G52F",
       "prefLabel": {
         "de": "Einlieferungszustand"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/C2488A",
+      "id": "http://leiza.de/thesaurus/D9G51G",
       "prefLabel": {
-        "de": "Endzustand"
+        "de": "Erhaltungszustand"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/DBC278",
+      "id": "http://leiza.de/thesaurus/C2488A",
       "prefLabel": {
-        "de": "Bisherige Lagerung"
+        "de": "Endzustand"
       }
     },
     {
@@ -45,13 +51,13 @@
     {
       "id": "http://leiza.de/thesaurus/A18D95",
       "prefLabel": {
-        "de": "Restaurierungs-/Konservierungskonzept"
+        "de": "Konservierungskonzept/Restaurierungskonzept"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/D3AF3A",
       "prefLabel": {
-        "de": "Zustandsbericht"
+        "de": "Zustandsdokumentation"
       }
     }
   ],

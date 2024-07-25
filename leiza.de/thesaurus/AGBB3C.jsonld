@@ -5,10 +5,66 @@
     "de": "Festigkeit"
   },
   "definition": {
-    "de": "Fähigkeit des Objektmaterials mechanischen Widerstand gegen eine plastische Verformung oder Trennung zu leisten"
+    "de": "Fähigkeit des Objektwerkstoffs mechanischen Widerstand gegen eine plastische Verformung oder Trennung zu leisten"
   },
   "notation": [
     "AGBB3C"
+  ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/AF5C86",
+      "prefLabel": {
+        "de": "spröde"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/BCG421",
+      "prefLabel": {
+        "de": "elastisch"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/BF6339",
+      "prefLabel": {
+        "de": "weich"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DB581C",
+      "prefLabel": {
+        "de": "zugfest"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FBG2B1",
+      "prefLabel": {
+        "de": "hart"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G147AG",
+      "prefLabel": {
+        "de": "schlagfest"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G2A47C",
+      "prefLabel": {
+        "de": "druckfest"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G2F586",
+      "prefLabel": {
+        "de": "biegefest"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DG7A1D",
+      "prefLabel": {
+        "de": "fragil"
+      }
+    }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GDF8C2",

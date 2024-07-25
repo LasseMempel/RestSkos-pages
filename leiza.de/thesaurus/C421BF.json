@@ -12,10 +12,72 @@
   "notation": [
     "C421BF"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/AFC696",
+      "prefLabel": {
+        "de": "Methyl-Ethyl-Keton"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DFD1B7",
+      "prefLabel": {
+        "de": "Wasser"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B77A8F",
+      "prefLabel": {
+        "de": "Ethylacetat"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/BBA28A",
+      "prefLabel": {
+        "de": "Ethanol"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D347D6",
+      "prefLabel": {
+        "de": "Terpentin"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D627B2",
+      "prefLabel": {
+        "de": "Toloul"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D72F3A",
+      "prefLabel": {
+        "de": "Aceton"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G34563",
+      "prefLabel": {
+        "de": "Benzin"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G46243",
+      "prefLabel": {
+        "de": "Propylacetat"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GGD87G",
+      "prefLabel": {
+        "de": "Coloradol"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {
-      "de": "[Konservierungs- und Restaurierungsmaterialien]"
+      "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "inScheme": [

@@ -10,6 +10,26 @@
   "notation": [
     "G9D1C8"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A9AC1A",
+      "prefLabel": {
+        "de": "Tiefe"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CG49C6",
+      "prefLabel": {
+        "de": "Breite"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F7D3DB",
+      "prefLabel": {
+        "de": "Höhe"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/GDF8C2",
     "prefLabel": {

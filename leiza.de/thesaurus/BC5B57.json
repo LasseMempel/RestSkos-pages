@@ -41,6 +41,14 @@
       "de": "Objektuntersuchung"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/D9G51G",
+      "prefLabel": {
+        "de": "Erhaltungszustand"
+      }
+    }
+  ],
   "relatedMatch": [
     {
       "id": "http://vocab.getty.edu/page/aat/300137593"

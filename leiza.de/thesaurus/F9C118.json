@@ -2,11 +2,11 @@
   "id": "http://leiza.de/thesaurus/F9C118",
   "type": "Concept",
   "prefLabel": {
-    "de": "Lochfraßkorrosion"
+    "de": "Lochkorrosion"
   },
   "altLabel": {
     "de": [
-      "Lochkorrosion"
+      "Lochfraßkorrosion"
     ]
   },
   "definition": {

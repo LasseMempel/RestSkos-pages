@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "binokular Mikroskop"
   },
+  "definition": {
+    "de": "optisches Lichtmikroskop mit zwei Okulareinblicken, die durch einen gemeinsamen Strahlengang ein einziges Bild erzeugen. Zur bequemeren Beobachtung wird dieses Bild durch einen Strahlenteiler für beide Augen verfügbar gemacht. Im Gegensatz zum Stereomikroskop ist mit einem binokularem Mikroskop kein räumliches Sehen, d.h. keine Tiefenwahrnehmung, möglich. Im allgemeinen Sprachgebrauch wird der Begriff häufig synonym für das Stereomikroskop verwendet, was jedoch irreführend und daher zu vermeiden ist! "
+  },
   "notation": [
     "GA6422"
   ],

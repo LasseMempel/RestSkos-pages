@@ -4,13 +4,16 @@
   "prefLabel": {
     "de": "Zeitplanung"
   },
+  "definition": {
+    "de": "Einschätzung und Planung des für das Erreichen des Konservierungs-/Restaurierungsziels benötigten Zeitrahmens"
+  },
   "notation": [
     "AC1786"
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A18D95",
     "prefLabel": {
-      "de": "Restaurierungs-/Konservierungskonzept"
+      "de": "Konservierungskonzept/Restaurierungskonzept"
     }
   },
   "inScheme": [

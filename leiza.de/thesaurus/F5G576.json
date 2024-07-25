@@ -19,7 +19,7 @@
     {
       "id": "http://leiza.de/thesaurus/AC16G1",
       "prefLabel": {
-        "de": "Verpackung"
+        "de": "Verpacken"
       }
     },
     {
@@ -31,7 +31,7 @@
     {
       "id": "http://leiza.de/thesaurus/F285B2",
       "prefLabel": {
-        "de": "Risikomanagment"
+        "de": "Risikomanagement"
       }
     }
   ],
@@ -41,6 +41,14 @@
       "de": "Praktische Durchführung"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/DAB4B7",
+      "prefLabel": {
+        "de": "Handlungsempfehlung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

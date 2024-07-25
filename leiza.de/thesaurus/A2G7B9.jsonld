@@ -7,6 +7,26 @@
   "notation": [
     "A2G7B9"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/C1218G",
+      "prefLabel": {
+        "de": "Abformung (Methode)"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CC67B2",
+      "prefLabel": {
+        "de": "Stützkapselbau"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D51B5G",
+      "prefLabel": {
+        "de": "Isolierung"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G52378",
     "prefLabel": {

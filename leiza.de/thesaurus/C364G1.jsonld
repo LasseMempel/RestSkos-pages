@@ -2,7 +2,7 @@
   "id": "http://leiza.de/thesaurus/C364G1",
   "type": "Concept",
   "prefLabel": {
-    "de": "[Konservierungs- und Restaurierungsmaterialien]"
+    "de": "Konservierungs- und Restaurierungsmaterialien"
   },
   "definition": {
     "de": "strukturierender Sammelbegriff für sämtliche zur Konservierung und/oder Restaurierung eines Objektes verwendeter (Verbrauchs-)Materialien"
@@ -12,15 +12,9 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/A17D39",
+      "id": "http://leiza.de/thesaurus/BB78D2",
       "prefLabel": {
-        "de": "Seife"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/A2B583",
-      "prefLabel": {
-        "de": "Plastilin"
+        "de": "Füllstoff"
       }
     },
     {
@@ -30,57 +24,9 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/A44BG6",
-      "prefLabel": {
-        "de": "Silikonkautschuk"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/A8245D",
-      "prefLabel": {
-        "de": "Ton"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/A95DFA",
-      "prefLabel": {
-        "de": "Reinigungsmittel"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/ACFF37",
       "prefLabel": {
         "de": "Korrosionsinhibitor"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/A1D125",
-      "prefLabel": {
-        "de": "synthetisches Polymer"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/AG2965",
-      "prefLabel": {
-        "de": "Harze aus natürlichen Rohstoffen"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/B23F5G",
-      "prefLabel": {
-        "de": "Latexmilch"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/B3FCA1",
-      "prefLabel": {
-        "de": "Reduktionsmittel"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/BB78D2",
-      "prefLabel": {
-        "de": "Füllstoff"
       }
     },
     {
@@ -90,33 +36,45 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/FGF575",
+      "prefLabel": {
+        "de": "Säure"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/C421BF",
       "prefLabel": {
         "de": "Lösungsmittel"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/CB4G84",
+      "id": "http://leiza.de/thesaurus/B3FCA1",
       "prefLabel": {
-        "de": "Wachs"
+        "de": "Reduktionsmittel"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/CCCC7G",
+      "id": "http://leiza.de/thesaurus/ADD53A",
       "prefLabel": {
-        "de": "Ãl"
+        "de": "Strahlgut"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/D7A4BC",
+      "id": "http://leiza.de/thesaurus/AFD671",
       "prefLabel": {
-        "de": "Fett"
+        "de": "farbgebendes Material"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/F64B9C",
+      "id": "http://leiza.de/thesaurus/FBFFF5",
       "prefLabel": {
-        "de": "Pigmente"
+        "de": "Abform- und Ergänzungsmaterial"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D2G12A",
+      "prefLabel": {
+        "de": "Naturkautschuk"
       }
     },
     {
@@ -126,21 +84,21 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/FGF575",
+      "id": "http://leiza.de/thesaurus/D9G356",
       "prefLabel": {
-        "de": "Säure"
+        "de": "Lager- und Verpackungsmaterial"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/G7F69C",
+      "id": "http://leiza.de/thesaurus/CCCC7G",
       "prefLabel": {
-        "de": "Bindemittel"
+        "de": "Ãl"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/GD5FG6",
+      "id": "http://leiza.de/thesaurus/B7B8B6",
       "prefLabel": {
-        "de": "Gips"
+        "de": "Adhäsivstoff"
       }
     }
   ],

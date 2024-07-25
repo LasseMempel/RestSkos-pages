@@ -12,15 +12,21 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/A9D149",
+      "prefLabel": {
+        "de": "Niederdrucktränkung"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/C17A3G",
       "prefLabel": {
-        "de": "Volltränkung"
+        "de": "Badtränkung"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/CD536F",
       "prefLabel": {
-        "de": "Teiltränkung"
+        "de": "Pinseltränkung"
       }
     }
   ],

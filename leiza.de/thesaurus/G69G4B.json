@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "monokular Mikroskop"
   },
+  "definition": {
+    "de": "optisches Lichtmikroskop mit einem einzigen Okular, durch das ein vergrößertes Bild eines Objektes betrachtet werden kann. Es bietet eine begrenzte Tiefenwahrnehmung im Vergleich zu Mikroskopen mit mehreren Okularen."
+  },
   "notation": [
     "G69G4B"
   ],

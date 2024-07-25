@@ -23,13 +23,13 @@
     {
       "id": "http://leiza.de/thesaurus/GB6DF3",
       "prefLabel": {
-        "de": "Silikat"
+        "de": "mineralisches Material"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/CD3341",
       "prefLabel": {
-        "de": "Organik"
+        "de": "organisches Material"
       }
     },
     {
@@ -39,9 +39,17 @@
       }
     }
   ],
+  "relatedMatch": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q16829513"
+    }
+  ],
   "closeMatch": [
     {
       "id": "http://terminology.lido-schema.org/lido00132"
+    },
+    {
+      "id": "http://vocab.getty.edu/page/aat/300010358"
     }
   ],
   "inScheme": [

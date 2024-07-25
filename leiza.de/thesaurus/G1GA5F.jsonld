@@ -2,11 +2,11 @@
   "id": "http://leiza.de/thesaurus/G1GA5F",
   "type": "Concept",
   "prefLabel": {
-    "de": "Biologische Zerstörung"
+    "de": "Biologischer Befall"
   },
   "altLabel": {
     "de": [
-      "Biologischer Befall"
+      "Biologische Zerstörung"
     ]
   },
   "definition": {

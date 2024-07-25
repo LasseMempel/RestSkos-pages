@@ -15,15 +15,15 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/A2G7B9",
-      "prefLabel": {
-        "de": "Formbau"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/FBGFC2",
       "prefLabel": {
         "de": "[Formaufbau]"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/A2G7B9",
+      "prefLabel": {
+        "de": "Formbau"
       }
     }
   ],

@@ -23,6 +23,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/B614CA",
+      "prefLabel": {
+        "de": "Feuchtkammermethode"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/C349C5",
       "prefLabel": {
         "de": "Kompressenentsalzung"

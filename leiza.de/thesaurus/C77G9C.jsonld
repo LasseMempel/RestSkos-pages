@@ -2,10 +2,10 @@
   "id": "http://leiza.de/thesaurus/C77G9C",
   "type": "Concept",
   "prefLabel": {
-    "de": "Alterung"
+    "de": "gealtert"
   },
   "definition": {
-    "de": "An dem Objekt sind Spuren der Veränderung zu beobachten, die auf die natürliche Alterung des Objektes zurück zu führen sind. Eine alterungsbedingte Veränderung ist nicht zwangsläufig als Beschädigung zu verstehen. "
+    "de": "An dem Objekt sind Spuren der Veränderung zu beobachten, die auf die natürliche Alterung des Objektes zurück zu führen sind. Eine alterungsbedingte Veränderung ist nicht zwangsläufig als Beschädigung, sondern unter Umständen als aussagekräftiger Teil der Objektbiographie zu werten. "
   },
   "notation": [
     "C77G9C"

@@ -2,19 +2,32 @@
   "id": "http://leiza.de/thesaurus/D3AF3A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Zustandsbericht"
+    "de": "Zustandsdokumentation"
   },
   "altLabel": {
     "de": [
-      "Zustandsbeschreibung",
-      "Zustandsdocumentation"
+      "Zustandsbeschreibung"
     ]
   },
   "definition": {
-    "de": "Dokumentation der durchgeführten Untersuchungsmethoden, deren Ergebnisse sowie die Einschätzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt"
+    "de": "Aufzeichnungen zur Einschätzung des Erhaltungszustandes eines Objektes zu einem bestimmten Zeitpunkt mit speziellem Zweck"
   },
   "notation": [
     "D3AF3A"
+  ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/CB7747",
+      "prefLabel": {
+        "de": "Bildgebende Dokumentation"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D7D443",
+      "prefLabel": {
+        "de": "Zustandsbericht "
+      }
+    }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C8CG15",

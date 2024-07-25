@@ -2,16 +2,22 @@
   "id": "http://leiza.de/thesaurus/GF9C49",
   "type": "Concept",
   "prefLabel": {
-    "de": "[technische Geräte]"
+    "de": "technische Geräte"
   },
   "notation": [
     "GF9C49"
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/D8G747",
+      "id": "http://leiza.de/thesaurus/C4C6B6",
       "prefLabel": {
-        "de": "Mikromotor"
+        "de": "Schleifkörper"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/A4G4G1",
+      "prefLabel": {
+        "de": "Heißluftföhn"
       }
     },
     {
@@ -33,9 +39,21 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/C871CB",
+      "prefLabel": {
+        "de": "Ultraschallfeinmeißel"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/C99F9G",
       "prefLabel": {
         "de": "Plasmaanlage"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C9G1B6",
+      "prefLabel": {
+        "de": "Airbrush-System"
       }
     },
     {
@@ -45,15 +63,27 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/D8G747",
+      "prefLabel": {
+        "de": "Mikromotor"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/DAC482",
       "prefLabel": {
-        "de": "Lötanlage"
+        "de": "Lötvorrichtung"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/F8323G",
       "prefLabel": {
         "de": "industrielle Mikrowellenkammer"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FG9C55",
+      "prefLabel": {
+        "de": "Exsikkator"
       }
     },
     {
@@ -66,7 +96,7 @@
   "broader": {
     "id": "http://leiza.de/thesaurus/C93638",
     "prefLabel": {
-      "de": "[Werkzeuge]"
+      "de": "Werkzeuge"
     }
   },
   "inScheme": [

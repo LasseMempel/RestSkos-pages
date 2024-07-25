@@ -2,16 +2,16 @@
   "id": "http://leiza.de/thesaurus/GB6DF3",
   "type": "Concept",
   "prefLabel": {
-    "de": "Silikat"
+    "de": "mineralisches Material"
   },
   "altLabel": {
     "de": [
-      "mineralische Materialien",
+      "Silikat",
       "silikatische Materialien"
     ]
   },
   "definition": {
-    "de": "Oberbegriff für eine Vielzahl von mineralischen Werkstoffen aus anorganischen SiO2 Verbindungen. "
+    "de": "Oberbegriff für eine Vielzahl von nichtmetallischen, anorganischen Werkstoffen, die aus Mineralien bestehen oder aus diesen gewonnen werden.  "
   },
   "notation": [
     "GB6DF3"
@@ -24,15 +24,21 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/D866AD",
+      "id": "http://leiza.de/thesaurus/BGC9F3",
       "prefLabel": {
-        "de": "Gestein"
+        "de": "Mineral"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/DA2D73",
       "prefLabel": {
         "de": "Glas"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D866AD",
+      "prefLabel": {
+        "de": "Gestein"
       }
     }
   ],

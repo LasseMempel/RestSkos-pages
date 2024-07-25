@@ -4,13 +4,18 @@
   "prefLabel": {
     "de": "Metallschaber"
   },
+  "altLabel": {
+    "de": [
+      "Dreikantschaber"
+    ]
+  },
   "notation": [
     "D1C67A"
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D941BB",
     "prefLabel": {
-      "de": "[manuelle Werkzeuge]"
+      "de": "manuelle Werkzeuge"
     }
   },
   "inScheme": [
