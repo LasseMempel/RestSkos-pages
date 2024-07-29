@@ -7,6 +7,26 @@
   "notation": [
     "CB7747"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/C33D85",
+      "prefLabel": {
+        "de": "Zustandsfoto"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F58F6D",
+      "prefLabel": {
+        "de": "3D-Scan"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FD2B2B",
+      "prefLabel": {
+        "de": "Röntgenbild"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/D3AF3A",
     "prefLabel": {

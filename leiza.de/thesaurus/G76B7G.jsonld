@@ -17,15 +17,15 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/CF3C22",
-      "prefLabel": {
-        "de": "Verwendungszweck"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/F2244D",
       "prefLabel": {
         "de": "Verzierungstechnik"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CF3C22",
+      "prefLabel": {
+        "de": "Verwendungszweck"
       }
     },
     {

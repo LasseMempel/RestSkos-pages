@@ -2,18 +2,20 @@
   "id": "http://leiza.de/thesaurus/G69G4B",
   "type": "Concept",
   "prefLabel": {
-    "de": "monokular Mikroskop"
+    "de": "Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma"
   },
-  "definition": {
-    "de": "optisches Lichtmikroskop mit einem einzigen Okular, durch das ein vergrößertes Bild eines Objektes betrachtet werden kann. Es bietet eine begrenzte Tiefenwahrnehmung im Vergleich zu Mikroskopen mit mehreren Okularen."
+  "altLabel": {
+    "de": [
+      "ICP-OES"
+    ]
   },
   "notation": [
     "G69G4B"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/FC2113",
+    "id": "http://leiza.de/thesaurus/G17B8B",
     "prefLabel": {
-      "de": "Lichtmikroskop"
+      "de": "Analyse der chemischen Zusammensetzung"
     }
   },
   "inScheme": [

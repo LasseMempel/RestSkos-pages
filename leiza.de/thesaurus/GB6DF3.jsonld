@@ -2,12 +2,12 @@
   "id": "http://leiza.de/thesaurus/GB6DF3",
   "type": "Concept",
   "prefLabel": {
-    "de": "mineralisches Material"
+    "de": "silikatisches Material"
   },
   "altLabel": {
     "de": [
       "Silikat",
-      "silikatische Materialien"
+      "mineralisches Materialien"
     ]
   },
   "definition": {
@@ -45,7 +45,7 @@
   "broader": {
     "id": "http://leiza.de/thesaurus/B51DAF",
     "prefLabel": {
-      "de": "Werkstoff"
+      "de": "Material"
     }
   },
   "closeMatch": [

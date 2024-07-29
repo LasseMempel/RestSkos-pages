@@ -40,18 +40,6 @@
       "prefLabel": {
         "de": "Auflichtmikroskop"
       }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/G69G4B",
-      "prefLabel": {
-        "de": "monokular Mikroskop"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/GA6422",
-      "prefLabel": {
-        "de": "binokular Mikroskop"
-      }
     }
   ],
   "broader": {

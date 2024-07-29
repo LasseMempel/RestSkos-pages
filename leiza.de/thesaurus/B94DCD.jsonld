@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Auflichtmikroskop"
   },
+  "definition": {
+    "de": "Lichtmikroskop, bei dem die Lichtquelle von oben oder von der Seite auf das zu betrachtende Objekt/ die Probe gerichtet ist. Das Objekt reflektiert die auftreffenden Lichtstrahlen, die dann durch das Objektiv hindurch mit Hilfe von Spiegeln in Richtung des Okulars und damit auf das menschliche Auge gelenkt werden. Auf diese Weise können bei lichtundurchlässigen Objekten die oberflächlichen Strukturen, wie z.B. Feilspuren der Herstellung auf Metallobjekten, vergrößert betrachtet werden."
+  },
   "notation": [
     "B94DCD"
   ],

@@ -9,21 +9,21 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/G9B788",
-      "prefLabel": {
-        "de": "Materialanalyse"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/CA7279",
       "prefLabel": {
         "de": "optische Begutachtung"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/G13A7B",
+      "id": "http://leiza.de/thesaurus/BAA12F",
       "prefLabel": {
-        "de": "bildgebende Untersuchung"
+        "de": "Photogrammetrie"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G9B788",
+      "prefLabel": {
+        "de": "Materialanalyse"
       }
     }
   ],

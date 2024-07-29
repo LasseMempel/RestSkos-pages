@@ -9,6 +9,9 @@
       "REM"
     ]
   },
+  "definition": {
+    "de": "Mikroskop, bei dem ein erzeugter Elektronenstrahl gezielt auf die Oberfläche eines Objekt gelenkt wird, diese in einem bestimmten Muster abrastert und durch die Wechselwirkung zwischen Elektronen und Objektoberfläche eine Abbildung der Oberflächenbeschaffenheit erzeugt wird. "
+  },
   "notation": [
     "B764C6"
   ],

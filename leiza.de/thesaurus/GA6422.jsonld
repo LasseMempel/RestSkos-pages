@@ -2,18 +2,21 @@
   "id": "http://leiza.de/thesaurus/GA6422",
   "type": "Concept",
   "prefLabel": {
-    "de": "binokular Mikroskop"
+    "de": "Laserinduzierte Plasmaspektroskopie"
   },
-  "definition": {
-    "de": "optisches Lichtmikroskop mit zwei Okulareinblicken, die durch einen gemeinsamen Strahlengang ein einziges Bild erzeugen. Zur bequemeren Beobachtung wird dieses Bild durch einen Strahlenteiler für beide Augen verfügbar gemacht. Im Gegensatz zum Stereomikroskop ist mit einem binokularem Mikroskop kein räumliches Sehen, d.h. keine Tiefenwahrnehmung, möglich. Im allgemeinen Sprachgebrauch wird der Begriff häufig synonym für das Stereomikroskop verwendet, was jedoch irreführend und daher zu vermeiden ist! "
+  "altLabel": {
+    "de": [
+      "LIBS",
+      "LIPS"
+    ]
   },
   "notation": [
     "GA6422"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/FC2113",
+    "id": "http://leiza.de/thesaurus/G17B8B",
     "prefLabel": {
-      "de": "Lichtmikroskop"
+      "de": "Analyse der chemischen Zusammensetzung"
     }
   },
   "inScheme": [

@@ -10,6 +10,20 @@
   "notation": [
     "F8F594"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A15F83",
+      "prefLabel": {
+        "de": "Fügetechnik"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/AGG387",
+      "prefLabel": {
+        "de": "formgebende Technik"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/G76B7G",
     "prefLabel": {

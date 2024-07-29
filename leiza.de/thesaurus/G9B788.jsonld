@@ -12,9 +12,15 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/B3G5C7",
+      "id": "http://leiza.de/thesaurus/CG676B",
       "prefLabel": {
-        "de": "Dendrochronologie"
+        "de": "Analyse der isotopischen Zusammensetzung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C5BD13",
+      "prefLabel": {
+        "de": "Datierung"
       }
     },
     {
@@ -30,15 +36,9 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/DG129D",
+      "id": "http://leiza.de/thesaurus/G17B8B",
       "prefLabel": {
-        "de": "energiedispersive Röntgenspektroskopie"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/F6739F",
-      "prefLabel": {
-        "de": "Radiokarbondatierung"
+        "de": "Analyse der chemischen Zusammensetzung"
       }
     },
     {
@@ -54,9 +54,9 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/FFA1AC",
+      "id": "http://leiza.de/thesaurus/G13A7B",
       "prefLabel": {
-        "de": "Ramanspektroskopie"
+        "de": "Strukturanalyse"
       }
     }
   ],

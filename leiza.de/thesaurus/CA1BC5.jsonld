@@ -12,6 +12,12 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/D4A13D",
+      "prefLabel": {
+        "de": "[Untersuchungsmethode]"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/AA6941",
       "prefLabel": {
         "de": "[Untersuchungsgerät]"
@@ -21,12 +27,6 @@
       "id": "http://leiza.de/thesaurus/BC5B57",
       "prefLabel": {
         "de": "[Untersuchungsergebnisse]"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/D4A13D",
-      "prefLabel": {
-        "de": "[Untersuchungsmethode]"
       }
     }
   ],

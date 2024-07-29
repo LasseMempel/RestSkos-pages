@@ -2,25 +2,25 @@
   "id": "http://leiza.de/thesaurus/G13A7B",
   "type": "Concept",
   "prefLabel": {
-    "de": "bildgebende Untersuchung"
+    "de": "Strukturanalyse"
   },
   "definition": {
-    "de": "Untersuchungs des Objektes auf spezifische Eigenschaften/Zustände durch die Erstellung von bildhaften Darstellungen"
+    "de": "Sammelbegriff für Analysen, die die innere Struktur eines Objektes sichtbar machen bzw. diese auf spezifische Eigenschaften untersuchen"
   },
   "notation": [
     "G13A7B"
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/BAA12F",
+      "id": "http://leiza.de/thesaurus/FFA1AC",
       "prefLabel": {
-        "de": "Photogrammetrie"
+        "de": "Ramanspektroskopie"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/F58F6D",
+      "id": "http://leiza.de/thesaurus/FFAF3C",
       "prefLabel": {
-        "de": "3D-Scan"
+        "de": "Röntgendiffraktion"
       }
     },
     {
@@ -37,9 +37,9 @@
     }
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/D4A13D",
+    "id": "http://leiza.de/thesaurus/G9B788",
     "prefLabel": {
-      "de": "[Untersuchungsmethode]"
+      "de": "Materialanalyse"
     }
   },
   "inScheme": [

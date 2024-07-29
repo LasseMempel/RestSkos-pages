@@ -2,12 +2,11 @@
   "id": "http://leiza.de/thesaurus/AG2965",
   "type": "Concept",
   "prefLabel": {
-    "de": "biogenes Polymer"
+    "de": "natürliches Polymer"
   },
   "altLabel": {
     "de": [
-      "Naturharz",
-      "natürliches Polymer"
+      "Naturharz"
     ]
   },
   "definition": {

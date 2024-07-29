@@ -2,11 +2,10 @@
   "id": "http://leiza.de/thesaurus/B51DAF",
   "type": "Concept",
   "prefLabel": {
-    "de": "Werkstoff"
+    "de": "Material"
   },
   "altLabel": {
     "de": [
-      "Material",
       "Objektmaterial"
     ]
   },
@@ -23,7 +22,7 @@
     {
       "id": "http://leiza.de/thesaurus/GB6DF3",
       "prefLabel": {
-        "de": "mineralisches Material"
+        "de": "silikatisches Material"
       }
     },
     {
