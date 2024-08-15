@@ -15,6 +15,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/G5733B",
+      "prefLabel": {
+        "de": "Dispersionsfarbe"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/F49579",
       "prefLabel": {
         "de": "Blattgold"
@@ -24,12 +30,6 @@
       "id": "http://leiza.de/thesaurus/F64B9C",
       "prefLabel": {
         "de": "Pigment"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/G5733B",
-      "prefLabel": {
-        "de": "Dispersionsfarbe"
       }
     },
     {

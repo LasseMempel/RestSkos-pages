@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Legierung mit Kupfer als Hauptbestandteil"
+    "de": "Legierung mit Kupfer als Hauptbestandteil. Parallel zur Verwendung von reinem Kupfer, steht auch die Herstellung von Kupferlegierung am Beginn der historischen Metallverarbeitung der Menschheitsgeschichte. Aufgrund der reichen Verfügbarkeit, guten Verarbeitbarkeit und Verständigkeit wurde Kupfer für vielerlei Gegenstände (z.B. Schmuck, Waffen, Gefäße, etc.) verwendet. "
   },
   "notation": [
     "FGB415"
@@ -20,12 +20,6 @@
       "id": "http://leiza.de/thesaurus/A8B271",
       "prefLabel": {
         "de": "Messing"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/A9CCG4",
-      "prefLabel": {
-        "de": "Rotguss"
       }
     },
     {
@@ -47,6 +41,14 @@
       "de": "Buntmetalllegierung"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/B28FA6",
+      "prefLabel": {
+        "de": "Kupfer"
+      }
+    }
+  ],
   "closeMatch": [
     {
       "id": "http://vocab.getty.edu/page/aat/300010942"

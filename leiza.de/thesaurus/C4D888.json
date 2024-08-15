@@ -2,7 +2,12 @@
   "id": "http://leiza.de/thesaurus/C4D888",
   "type": "Concept",
   "prefLabel": {
-    "de": "Triethylenglycol"
+    "de": "Polyethylenglycol"
+  },
+  "altLabel": {
+    "de": [
+      "PEG"
+    ]
   },
   "notation": [
     "C4D888"

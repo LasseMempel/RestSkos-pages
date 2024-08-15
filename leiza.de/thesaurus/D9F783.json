@@ -7,6 +7,14 @@
   "notation": [
     "D9F783"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/F584FC",
+      "prefLabel": {
+        "de": "Loctite"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

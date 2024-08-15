@@ -4,19 +4,27 @@
   "prefLabel": {
     "de": "Polyethylen-Schaum"
   },
-  "altLabel": {
-    "de": [
-      "Ethafoam",
-      "Plastazote"
-    ]
-  },
   "notation": [
     "F91427"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A93F6C",
+      "prefLabel": {
+        "de": "Plastazote"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GA1687",
+      "prefLabel": {
+        "de": "Ethafoam"
+      }
+    }
+  ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/B2F4F2",
+    "id": "http://leiza.de/thesaurus/D9G356",
     "prefLabel": {
-      "de": "Mastix"
+      "de": "Lager- und Verpackungsmaterial"
     }
   },
   "inScheme": [

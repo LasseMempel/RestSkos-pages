@@ -7,6 +7,20 @@
   "notation": [
     "F8A93F"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/D39264",
+      "prefLabel": {
+        "de": "Palatal"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DAC425",
+      "prefLabel": {
+        "de": "Akemi Marmorkitt 1000"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

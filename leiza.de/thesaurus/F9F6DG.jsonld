@@ -2,10 +2,15 @@
   "id": "http://leiza.de/thesaurus/F9F6DG",
   "type": "Concept",
   "prefLabel": {
-    "de": "Elektron"
+    "de": "Elektrum"
+  },
+  "altLabel": {
+    "de": [
+      "Elektron"
+    ]
   },
   "definition": {
-    "de": "natürlich vorkommende Legierung aus Gold und Silber, teils auch mit geringem Kupferanteil"
+    "de": "natürlich vorkommende Legierung aus Gold und Silber, teils auch mit geringem Kupferanteil."
   },
   "notation": [
     "F9F6DG"

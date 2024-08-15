@@ -11,7 +11,7 @@
     ]
   },
   "definition": {
-    "de": "rot-bräunliches Metall mit dem chemischen Symbol Cu und der Ordnungszahl 29. Auch als \"Halbedelmetall\" bezeichnet. Kommt in der Natur in gediegener Form und als Erz vor. Erstes Metall, dass von den Menschen gezielt bearbeitet wurde. Kupfer ist korrossionsanfällig, wobei diese nicht immer aggressiv und zerstörend fortlaufend sein muss. Durch die Bildung einer Edelpatina kann das darunterliegende Metall geschützt sein und das Objekt gleichzeitig ein ästhetisch geschätztes Aussehen erhalten. "
+    "de": "rot-bräunliches Metall mit dem chemischen Symbol Cu und der Ordnungszahl 29. Kupfer war wohl das erstes Metall, dass von den Menschen gezielt hergestellt und verarbeitet wurde. Kupfer ist in feuchter, verunreinigter Luft, sowie in chloridbelasteten Böden recht korrossionsanfällig. Mit den Bestandteilen der Luft (u.a. Schwefel- oder Carbonatverbindungen) bildet es eine Patina, die als Schutzschicht für das darunterliegende Metall gegenüber weiterem Korrosionsangriff dient. Diese Patina kann dem Objekt unter umständen ein recht ästhetisches Erscheinungsbild verleihen (sog. \"Edelpatina\"). "
   },
   "notation": [
     "B28FA6"
@@ -22,6 +22,14 @@
       "de": "Buntmetall"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/FGB415",
+      "prefLabel": {
+        "de": "Kupferlegierung"
+      }
+    }
+  ],
   "closeMatch": [
     {
       "id": "http://d-nb.info/gnd/4033734-0"

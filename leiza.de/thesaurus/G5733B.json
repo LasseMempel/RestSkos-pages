@@ -7,6 +7,20 @@
   "notation": [
     "G5733B"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/C632FD",
+      "prefLabel": {
+        "de": "Acrylfarbe"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C9GD44",
+      "prefLabel": {
+        "de": "Vollton-/Abtönfarbe"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/AFD671",
     "prefLabel": {

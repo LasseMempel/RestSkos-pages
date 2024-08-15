@@ -18,6 +18,18 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/CCCC7G",
+      "prefLabel": {
+        "de": "Ãl"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D9G356",
+      "prefLabel": {
+        "de": "Lager- und Verpackungsmaterial"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/A2B746",
       "prefLabel": {
         "de": "Base"
@@ -81,18 +93,6 @@
       "id": "http://leiza.de/thesaurus/F87124",
       "prefLabel": {
         "de": "Komplexbildner"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/D9G356",
-      "prefLabel": {
-        "de": "Lager- und Verpackungsmaterial"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/CCCC7G",
-      "prefLabel": {
-        "de": "Ãl"
       }
     },
     {

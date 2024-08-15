@@ -15,15 +15,15 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/A44D5F",
+      "id": "http://leiza.de/thesaurus/GC7998",
       "prefLabel": {
-        "de": "Celluloseether"
+        "de": "Cellulosenitrat"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/GC6999",
+      "id": "http://leiza.de/thesaurus/A44D5F",
       "prefLabel": {
-        "de": "Cellulosenitrat"
+        "de": "Celluloseether"
       }
     }
   ],

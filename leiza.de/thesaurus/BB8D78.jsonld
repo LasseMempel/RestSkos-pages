@@ -7,10 +7,18 @@
   "notation": [
     "BB8D78"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A7824C",
+      "prefLabel": {
+        "de": "Makrolon"
+      }
+    }
+  ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/B2F4F2",
+    "id": "http://leiza.de/thesaurus/D9G356",
     "prefLabel": {
-      "de": "Mastix"
+      "de": "Lager- und Verpackungsmaterial"
     }
   },
   "inScheme": [

@@ -9,15 +9,15 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/B2F4F2",
-      "prefLabel": {
-        "de": "Mastix"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/A4CDG9",
       "prefLabel": {
         "de": "Kolophonium"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B2F4F2",
+      "prefLabel": {
+        "de": "Mastix"
       }
     },
     {

@@ -15,6 +15,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/GD5FG6",
+      "prefLabel": {
+        "de": "Gips"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/A8245D",
       "prefLabel": {
         "de": "Ton"
@@ -24,12 +30,6 @@
       "id": "http://leiza.de/thesaurus/CB4G84",
       "prefLabel": {
         "de": "Wachs"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/GD5FG6",
-      "prefLabel": {
-        "de": "Gips"
       }
     }
   ],

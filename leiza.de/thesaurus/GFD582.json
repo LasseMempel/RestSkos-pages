@@ -7,6 +7,56 @@
   "notation": [
     "GFD582"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A14455",
+      "prefLabel": {
+        "de": "Paraloid B72"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B15G98",
+      "prefLabel": {
+        "de": "Kallocryl"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B69C57",
+      "prefLabel": {
+        "de": "Acrylic One"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B8ABD9",
+      "prefLabel": {
+        "de": "Paraloid B48"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C77887",
+      "prefLabel": {
+        "de": "Acrystal"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CG2863",
+      "prefLabel": {
+        "de": "Ebacryl"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D28564",
+      "prefLabel": {
+        "de": "Paraloid B44"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G23A9A",
+      "prefLabel": {
+        "de": "Technovit 5071"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

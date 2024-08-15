@@ -18,6 +18,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/A7C8CB",
+      "prefLabel": {
+        "de": "Plasma"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/CB3941",
       "prefLabel": {
         "de": "Natriumdithionit"

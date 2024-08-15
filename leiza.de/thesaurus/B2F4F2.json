@@ -7,56 +7,6 @@
   "notation": [
     "B2F4F2"
   ],
-  "narrower": [
-    {
-      "id": "http://leiza.de/thesaurus/A33F4B",
-      "prefLabel": {
-        "de": "Seidenpapier"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/BB8D78",
-      "prefLabel": {
-        "de": "Polycarbonat"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/CBBF13",
-      "prefLabel": {
-        "de": "Styrodur"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/CCB66C",
-      "prefLabel": {
-        "de": "Styropor"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/DAG754",
-      "prefLabel": {
-        "de": "Kartonage"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/DD3858",
-      "prefLabel": {
-        "de": "Acrylglas"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/F432G4",
-      "prefLabel": {
-        "de": "Tyvek"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/F91427",
-      "prefLabel": {
-        "de": "Polyethylen-Schaum"
-      }
-    }
-  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C176FC",
     "prefLabel": {

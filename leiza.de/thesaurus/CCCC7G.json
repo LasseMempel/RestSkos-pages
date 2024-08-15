@@ -9,6 +9,12 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/A28B4D",
+      "prefLabel": {
+        "de": "Auro Naturharzölimpregniergrund Nr 121"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/G44C1A",
       "prefLabel": {
         "de": "Leinöl"

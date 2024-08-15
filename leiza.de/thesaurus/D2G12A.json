@@ -12,6 +12,20 @@
   "notation": [
     "D2G12A"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/C97B35",
+      "prefLabel": {
+        "de": "Revultex"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DFDG2A",
+      "prefLabel": {
+        "de": "Givul MR"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C364G1",
     "prefLabel": {

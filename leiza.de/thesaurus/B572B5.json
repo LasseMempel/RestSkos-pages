@@ -7,6 +7,20 @@
   "notation": [
     "B572B5"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A974A4",
+      "prefLabel": {
+        "de": "Mowital B30H"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/F97896",
+      "prefLabel": {
+        "de": "Mowital B60H"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

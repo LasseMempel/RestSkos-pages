@@ -9,9 +9,15 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/DD4B75",
+      "prefLabel": {
+        "de": "Klucel G"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/F84988",
       "prefLabel": {
-        "de": "Methylcellulose"
+        "de": "Methocel A4C"
       }
     }
   ],

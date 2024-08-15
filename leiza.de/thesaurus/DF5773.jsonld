@@ -7,6 +7,14 @@
   "notation": [
     "DF5773"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A447D9",
+      "prefLabel": {
+        "de": "Mowilith"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A1D125",
     "prefLabel": {

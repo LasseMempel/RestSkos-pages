@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Seltener, korrosionsbeständiger Werkstoff, der aufgrund seiner chemischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird. "
+    "de": "korrosionsbeständiges Metall, das aufgrund seiner chemischen Eigenschaften und ästhetischen Qualitäten hochgeschätzt wird. "
   },
   "notation": [
     "FGA46A"
@@ -19,7 +19,7 @@
     {
       "id": "http://leiza.de/thesaurus/F9F6DG",
       "prefLabel": {
-        "de": "Elektron"
+        "de": "Elektrum"
       }
     },
     {

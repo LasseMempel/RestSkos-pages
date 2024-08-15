@@ -39,6 +39,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/B69F1G",
+      "prefLabel": {
+        "de": "Schildpatt"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/B77128",
       "prefLabel": {
         "de": "Koralle"

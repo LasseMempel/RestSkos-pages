@@ -7,6 +7,26 @@
   "notation": [
     "DA841D"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/AF6D7D",
+      "prefLabel": {
+        "de": "Smooth On Mold Star 30"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C76568",
+      "prefLabel": {
+        "de": "Smooth On Rebound 25"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GCDG5D",
+      "prefLabel": {
+        "de": "Nedform Silikon Addition Transparent 25"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A44BG6",
     "prefLabel": {

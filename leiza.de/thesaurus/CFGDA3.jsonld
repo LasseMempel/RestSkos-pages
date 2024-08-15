@@ -31,15 +31,15 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/C364G1",
-      "prefLabel": {
-        "de": "Konservierungs- und Restaurierungsmaterialien"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/C79561",
       "prefLabel": {
         "de": "Restaurierungsmaßnahme"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C364G1",
+      "prefLabel": {
+        "de": "Konservierungs- und Restaurierungsmaterialien"
       }
     },
     {

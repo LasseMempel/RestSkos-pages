@@ -2,15 +2,15 @@
   "id": "http://leiza.de/thesaurus/GC6999",
   "type": "Concept",
   "prefLabel": {
-    "de": "Cellulosenitrat"
+    "de": "Zaponlack"
   },
   "notation": [
     "GC6999"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/D41661",
+    "id": "http://leiza.de/thesaurus/GC7998",
     "prefLabel": {
-      "de": "Cellulosederivat"
+      "de": "Cellulosenitrat"
     }
   },
   "inScheme": [

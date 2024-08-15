@@ -7,6 +7,38 @@
   "notation": [
     "GD9CA3"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A6CA1C",
+      "prefLabel": {
+        "de": "Elastosil M 4503"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/A8GFCC",
+      "prefLabel": {
+        "de": "Bluesil RTV 3325"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/AC1C85",
+      "prefLabel": {
+        "de": "Nedsil 20 TLV A"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C9C7C7",
+      "prefLabel": {
+        "de": "Elastosil M350"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DB5G7D",
+      "prefLabel": {
+        "de": "Elastosil M4514"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/A44BG6",
     "prefLabel": {

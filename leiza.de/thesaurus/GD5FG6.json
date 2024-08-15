@@ -7,6 +7,32 @@
   "notation": [
     "GD5FG6"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/A3D23D",
+      "prefLabel": {
+        "de": "Moltofill"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/C35AG4",
+      "prefLabel": {
+        "de": "Exaduro Gips"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/CD784B",
+      "prefLabel": {
+        "de": "Alabaster Modellgips"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D24653",
+      "prefLabel": {
+        "de": "Keramiplast"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/DG8FG3",
     "prefLabel": {

@@ -9,15 +9,15 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/DA841D",
-      "prefLabel": {
-        "de": "additionsvernetzender Silikonkautschuk"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/GD9CA3",
       "prefLabel": {
         "de": "kondensationsvernetzender Silikonkautschuk"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DA841D",
+      "prefLabel": {
+        "de": "additionsvernetzender Silikonkautschuk"
       }
     }
   ],

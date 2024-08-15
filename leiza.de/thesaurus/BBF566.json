@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Sammelbegriff für metallische Werkstoffe, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen"
+    "de": "Sammelbegriff für Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen"
   },
   "notation": [
     "BBF566"
@@ -23,12 +23,6 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/A82D86",
-      "prefLabel": {
-        "de": "Buntmetalllegierung"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/BC75G1",
       "prefLabel": {
         "de": "Eisenlegierung"
@@ -38,6 +32,12 @@
       "id": "http://leiza.de/thesaurus/F71C6B",
       "prefLabel": {
         "de": "Eisen"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/A82D86",
+      "prefLabel": {
+        "de": "Buntmetalllegierung"
       }
     }
   ],
