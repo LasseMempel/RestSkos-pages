@@ -4,13 +4,16 @@
   "prefLabel": {
     "de": "Glasperlen"
   },
+  "definition": {
+    "de": "feinkugeliges Feinstrahlmittel aus Natronglas. Im Vergleich zu Edelkorund zeigen Glasperlen als Strahlmittel eine weniger stark abrasive Wirkung und sind daher besonders für die Reinigung/Freilegung empfindlicherer Oberflächen geeignet. Durch die kugelige Form wird zudem eine \"Hämmerwirkung\" erzielt, die zur leichten Verdichtung der Oberflächen bei metallischen Objekten führt."
+  },
   "notation": [
     "FGB66B"
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/ADD53A",
     "prefLabel": {
-      "de": "Strahlgut"
+      "de": "Strahlmittel"
     }
   },
   "inScheme": [

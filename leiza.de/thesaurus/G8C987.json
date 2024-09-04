@@ -4,6 +4,15 @@
   "prefLabel": {
     "de": "UV-Lampe"
   },
+  "altLabel": {
+    "de": [
+      "Schwarzlicht",
+      "UV-Licht"
+    ]
+  },
+  "definition": {
+    "de": "Lichquelle, die ultraviolettes Licht emittieren kann. In der Regel handelt es sich dabei um Lampen mit UV-A Filter, Gasentladungslampen oder spezielle LEDs. "
+  },
   "notation": [
     "G8C987"
   ],
@@ -13,6 +22,14 @@
       "de": "[Untersuchungsgerät]"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/B53C8F",
+      "prefLabel": {
+        "de": "UV-Lumineszenz-Untersuchung"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

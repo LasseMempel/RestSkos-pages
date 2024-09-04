@@ -9,6 +9,9 @@
       "Lösemittel"
     ]
   },
+  "definition": {
+    "de": "Substanz, die in der Lage ist andere Stoffe (Feststoffe, Flüssigkeiten oder Gase) zu lösen, ohne dabei selbst eine chemische Reaktion mit diesem Stoff einzugehen. Das Lösungsmittel bildet eine homogene Mischung (Lösung) mit dem gelösten Stoff, in der die Moleküle des gelösten Stoffes in der Matrix des Lösemittels fein verteilt sind. "
+  },
   "notation": [
     "C421BF"
   ],
@@ -38,6 +41,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/BDG3D5",
+      "prefLabel": {
+        "de": "Xylol"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/D347D6",
       "prefLabel": {
         "de": "Terpentin"
@@ -58,7 +67,7 @@
     {
       "id": "http://leiza.de/thesaurus/G34563",
       "prefLabel": {
-        "de": "Benzin"
+        "de": "Testbenzin"
       }
     },
     {

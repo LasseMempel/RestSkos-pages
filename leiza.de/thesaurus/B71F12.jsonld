@@ -4,13 +4,16 @@
   "prefLabel": {
     "de": "Walnussschalenganulat"
   },
+  "definition": {
+    "de": "organisches Strahlmittel aus den Schalen der Walnuss. Trotz der geringen Härte besitzen Walsnussschalen eine hohe Festigkeit, wodurch sie besonders gut für einen leichten und schonenden Reinigungseffekt empfindlicher Materialien geeignet sind. "
+  },
   "notation": [
     "B71F12"
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/ADD53A",
     "prefLabel": {
-      "de": "Strahlgut"
+      "de": "Strahlmittel"
     }
   },
   "inScheme": [

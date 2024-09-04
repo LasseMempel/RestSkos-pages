@@ -2,7 +2,15 @@
   "id": "http://leiza.de/thesaurus/G34563",
   "type": "Concept",
   "prefLabel": {
-    "de": "Benzin"
+    "de": "Testbenzin"
+  },
+  "altLabel": {
+    "de": [
+      "Benzin",
+      "Lösungsbenzin",
+      "Siedegrenzbenzin",
+      "Terpentinersatz"
+    ]
   },
   "notation": [
     "G34563"

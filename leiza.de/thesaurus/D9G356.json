@@ -21,6 +21,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/C38B35",
+      "prefLabel": {
+        "de": "Trockenmittel"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/F91427",
       "prefLabel": {
         "de": "Polyethylen-Schaum"

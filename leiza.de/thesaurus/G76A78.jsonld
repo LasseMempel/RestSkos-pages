@@ -18,6 +18,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/AAG733",
+      "prefLabel": {
+        "de": "Sapropelit"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/D467F2",
       "prefLabel": {
         "de": "Pech"

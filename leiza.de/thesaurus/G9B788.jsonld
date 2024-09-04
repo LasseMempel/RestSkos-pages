@@ -30,15 +30,15 @@
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/A946B5",
-      "prefLabel": {
-        "de": "chemische Untersuchung"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/G17B8B",
       "prefLabel": {
         "de": "Analyse der chemischen Zusammensetzung"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/A946B5",
+      "prefLabel": {
+        "de": "chemische Untersuchung"
       }
     },
     {

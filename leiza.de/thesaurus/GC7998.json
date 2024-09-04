@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Cellulosenitrat"
   },
+  "altLabel": {
+    "de": [
+      "Nitrocellulose"
+    ]
+  },
   "notation": [
     "GC7998"
   ],
@@ -12,6 +17,12 @@
       "id": "http://leiza.de/thesaurus/C65F47",
       "prefLabel": {
         "de": "Mecosan L-TR"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FD8AG2",
+      "prefLabel": {
+        "de": "PantarolÂ® Metallschutz Nr. 100"
       }
     },
     {

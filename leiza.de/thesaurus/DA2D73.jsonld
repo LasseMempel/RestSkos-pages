@@ -5,7 +5,7 @@
     "de": "Glas"
   },
   "definition": {
-    "de": "anorganischer, amorpher Feststoff, der durch schnelles Abkühlen einer Schmelze erzeugt wird. Gläser bestehen in der Rege aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3)). "
+    "de": "anorganischer, amorpher Feststoff, der durch schnelles Abkühlen einer Schmelze erzeugt wird. Gläser bestehen in der Regel aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3)). "
   },
   "notation": [
     "DA2D73"
@@ -44,6 +44,9 @@
   "closeMatch": [
     {
       "id": "http://vocab.getty.edu/page/aat/300010797"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Glass"
     }
   ],
   "inScheme": [

@@ -4,10 +4,19 @@
   "prefLabel": {
     "de": "Analyse der chemischen Zusammensetzung"
   },
+  "definition": {
+    "de": "Methode, bei der mit Hilfe technischer Geräte die Eigenschaften von Stoffen untersucht und Rückschlüsse auf die chemische Zusammensetzung von Materialien gezogen werden kann."
+  },
   "notation": [
     "G17B8B"
   ],
   "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/C2DF6G",
+      "prefLabel": {
+        "de": "Fourier-Transform-Infrarotspektrometrie"
+      }
+    },
     {
       "id": "http://leiza.de/thesaurus/DADDD6",
       "prefLabel": {

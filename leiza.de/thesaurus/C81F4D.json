@@ -4,10 +4,25 @@
   "prefLabel": {
     "de": "Calcedon"
   },
+  "altLabel": {
+    "de": [
+      "Calzedon",
+      "Chalcedon"
+    ]
+  },
+  "definition": {
+    "de": "in verschiedenen Farben vorkommende Quarzvarietät, aus parallel gewachsenen, faserigen Kristallen von mikroskopischer und submikroskopischer Größe. Häufig finden sich auch Beimengungen von Moganite zwischen 1% - 20%, die sich jedoch im Laufe der Zeit zu Quarz umwandeln können, sodass ein moganite-freier Calcedon entsteht."
+  },
   "notation": [
     "C81F4D"
   ],
   "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/B97F4A",
+      "prefLabel": {
+        "de": "Achat"
+      }
+    },
     {
       "id": "http://leiza.de/thesaurus/BBA96A",
       "prefLabel": {
@@ -18,12 +33,6 @@
       "id": "http://leiza.de/thesaurus/C5322D",
       "prefLabel": {
         "de": "Jaspis"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/B97F4A",
-      "prefLabel": {
-        "de": "Achat"
       }
     }
   ],

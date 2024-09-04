@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Zinnpest"
   },
+  "definition": {
+    "de": "Bei Lagerung unter 13Â°C auftretende Zerstörung von Zinnobjekten, durch Umwandlungsprozesse innerhalb des metallischen Gefüges. Das Schadensbild zeigt sich im Anfangsstadium meist durch Flecken und Pusteln auf der Metalloberfläche, die sich allmählich ausbreiten und bis zur vollständigen Zerstörung des Objektes durch Materialinstabilität fortschreiten kann. "
+  },
   "notation": [
     "CFC44A"
   ],

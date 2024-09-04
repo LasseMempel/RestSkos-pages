@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Metamorphit"
   },
+  "altLabel": {
+    "de": [
+      "metamorphoses Gestein"
+    ]
+  },
   "definition": {
     "de": "Überbegriff für Gesteine, die durch Umwandlung anderer Gesteine (z.B. Magmatite oder Sedimentgesteine) in den Tiefen der Erdkruste, aufgrund des dort herrschenden Drucks und steigenden Temperaturen, entstanden sind. "
   },

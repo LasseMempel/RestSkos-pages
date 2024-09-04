@@ -2,7 +2,15 @@
   "id": "http://leiza.de/thesaurus/AFD671",
   "type": "Concept",
   "prefLabel": {
-    "de": "farbgebendes Material"
+    "de": "Farbstoff"
+  },
+  "altLabel": {
+    "de": [
+      "farbgebendes Material"
+    ]
+  },
+  "definition": {
+    "de": "Material, das zur Erzeugung einer Färbung verwendet wird."
   },
   "notation": [
     "AFD671"

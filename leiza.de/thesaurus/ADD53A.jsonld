@@ -2,7 +2,16 @@
   "id": "http://leiza.de/thesaurus/ADD53A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Strahlgut"
+    "de": "Strahlmittel"
+  },
+  "altLabel": {
+    "de": [
+      "Feinstrahlmittel",
+      "Strahlgut"
+    ]
+  },
+  "definition": {
+    "de": "feinkörnige Substanz, die für die Methode des Feinstrahlens in einem Strahlgerät verwendet wird. Je nach Objektzustand und dem angestrebten Ergebnis stehen härtere oder weichere, kugelige oder kantige Strahlmittel zur Verfügung. Im Bereich der Restaurierung haben sich vor allem mineralische und organische Strahlmittel etabliert."
   },
   "notation": [
     "ADD53A"

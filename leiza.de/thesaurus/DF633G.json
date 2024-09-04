@@ -17,9 +17,15 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/B6CAB5",
+      "prefLabel": {
+        "de": "KauraminÂ® Tränkharz 801"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/BFB162",
       "prefLabel": {
-        "de": "Kauramin CE5549"
+        "de": "Kauramin CE 5549"
       }
     },
     {
@@ -31,7 +37,7 @@
     {
       "id": "http://leiza.de/thesaurus/C4D6G3",
       "prefLabel": {
-        "de": "Kauramin 800"
+        "de": "KauraminÂ® Tränkharz 800"
       }
     },
     {
@@ -43,7 +49,7 @@
     {
       "id": "http://leiza.de/thesaurus/FF4767",
       "prefLabel": {
-        "de": "Lyofix CHM"
+        "de": "Lyofix CHN"
       }
     }
   ],

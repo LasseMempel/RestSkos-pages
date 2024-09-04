@@ -2,10 +2,17 @@
   "id": "http://leiza.de/thesaurus/F9GC9A",
   "type": "Concept",
   "prefLabel": {
-    "de": "manuelle Sichtkontrolle"
+    "de": "visuelle Inspektion"
+  },
+  "altLabel": {
+    "de": [
+      "Sichtprüfung",
+      "optische Begutachtung",
+      "visuelle Untersuchung"
+    ]
   },
   "definition": {
-    "de": "Begutachtung eines Objektes mit dem menschlichen Auge ohne technische Hilfmittel"
+    "de": "Begutachtung eines Objektes mit dem menschlichen Auge, hinsichtlich seiner Form, Farbe, Größe, Materialbeschaffenheit, Zustand, Herstellungsspuren und weiteren Auffälligkeiten."
   },
   "notation": [
     "F9GC9A"

@@ -4,13 +4,16 @@
   "prefLabel": {
     "de": "Pigment"
   },
+  "definition": {
+    "de": "feiner, als Feststoff vorliegender Farbstoff, der zur Einfärbung anderer Materialien in diesen suspendiert oder ein/aufgerieben wird."
+  },
   "notation": [
     "F64B9C"
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/AFD671",
     "prefLabel": {
-      "de": "farbgebendes Material"
+      "de": "Farbstoff"
     }
   },
   "inScheme": [

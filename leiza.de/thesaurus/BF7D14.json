@@ -30,6 +30,9 @@
   "closeMatch": [
     {
       "id": "http://vocab.getty.edu/page/aat/300010957"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Bronze"
     }
   ],
   "inScheme": [

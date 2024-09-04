@@ -35,13 +35,25 @@
     {
       "id": "http://leiza.de/thesaurus/D2D671",
       "prefLabel": {
-        "de": "Araldit 20/20"
+        "de": "Araldite 2020"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/D38147",
       "prefLabel": {
         "de": "Hxtal NYL-1"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/D5F7BC",
+      "prefLabel": {
+        "de": "Araldit AY 103"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/DAA17A",
+      "prefLabel": {
+        "de": "Araldit SV 426"
       }
     },
     {

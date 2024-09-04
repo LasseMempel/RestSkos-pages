@@ -12,12 +12,6 @@
   ],
   "narrower": [
     {
-      "id": "http://leiza.de/thesaurus/B53C8F",
-      "prefLabel": {
-        "de": "UV-Untersuchung"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/D4AC7A",
       "prefLabel": {
         "de": "Mikroskopie"
@@ -26,7 +20,13 @@
     {
       "id": "http://leiza.de/thesaurus/F9GC9A",
       "prefLabel": {
-        "de": "manuelle Sichtkontrolle"
+        "de": "visuelle Inspektion"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/B53C8F",
+      "prefLabel": {
+        "de": "UV-Lumineszenz-Untersuchung"
       }
     }
   ],

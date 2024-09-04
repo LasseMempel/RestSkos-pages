@@ -4,13 +4,16 @@
   "prefLabel": {
     "de": "Digitalmikroskop"
   },
+  "definition": {
+    "de": "Lichtmikroskop ohne Okular, bei dem die vom Objektiv eingefangenen Lichtstrahlen auf eine Kamera gelenkt werden. Über einen mit der Kamera verbundenen Bildschirm wird der durch das Mikroskop eingefangene Bildausschnitt digital sichtbar.  "
+  },
   "notation": [
     "AG4G3C"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/B538AG",
+    "id": "http://leiza.de/thesaurus/FC2113",
     "prefLabel": {
-      "de": "Mikroskop"
+      "de": "Lichtmikroskop"
     }
   },
   "closeMatch": [

@@ -2,10 +2,10 @@
   "id": "http://leiza.de/thesaurus/B53C8F",
   "type": "Concept",
   "prefLabel": {
-    "de": "UV-Untersuchung"
+    "de": "UV-Lumineszenz-Untersuchung"
   },
   "definition": {
-    "de": "Begutachtung eines Objektes mit dem menschlichen Auge unter Zuhilfename einer UV-Lichtquelle"
+    "de": "zerstörungsfreie Untersuchungsmethode, bei der das Objekt mit UV-Licht bestrahlt wird. Befinden sich in dem Objektmaterial fluoreszierende Stoffe werden diese durch die kurzwelligen UV-Strahlen zum Leuchten angeregt und gegenüber den nicht fluoreszierenden Stoffen sichtbar. Auf diese Weise lassen sich z.B. Klebstoffe, Überzüge, Retuschen und Übermalungen auf bereits restaurierten Objekten sichtbar machen, die mit dem bloßen Auge im Tageslicht nicht zu erkennen sind. Als Methode zur Identifizierung eines Stoffes ist die UV-Fluoreszenz nur bedingt geeignet. Viele Stoffe zeigen zwar eine charakteristische Färbung in ihrer Fluoreszenz, die mit Hilfe von Referenztabellen bestimmt werden kann, allerdings können Verunreinigungen (wie z.B. Staub) die Fluoreszenz stark beeinträchtigen, indem sie entweder die natürliche Fluorezenz des Materials auslöschen oder selbst fluoreszieren. "
   },
   "notation": [
     "B53C8F"
@@ -16,6 +16,14 @@
       "de": "optische Begutachtung"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/G8C987",
+      "prefLabel": {
+        "de": "UV-Lampe"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

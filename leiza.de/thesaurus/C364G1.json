@@ -36,6 +36,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/FBFFF5",
+      "prefLabel": {
+        "de": "Abform- und Ergänzungsmaterial"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/ACFF37",
       "prefLabel": {
         "de": "Korrosionsinhibitor"
@@ -68,19 +74,13 @@
     {
       "id": "http://leiza.de/thesaurus/ADD53A",
       "prefLabel": {
-        "de": "Strahlgut"
+        "de": "Strahlmittel"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/AFD671",
       "prefLabel": {
-        "de": "farbgebendes Material"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/FBFFF5",
-      "prefLabel": {
-        "de": "Abform- und Ergänzungsmaterial"
+        "de": "Farbstoff"
       }
     },
     {

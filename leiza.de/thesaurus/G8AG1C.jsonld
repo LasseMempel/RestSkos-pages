@@ -5,7 +5,7 @@
     "de": "Zink"
   },
   "definition": {
-    "de": "bläulich-weißes Metall mit dem chemischen Symbol Zn und der Ordnungszahl 30. Zink wurde in der Antike hauptsächlich als \"zufälliger\" Nebenbestandteil von Erzen bei der Kupferverhüttung verarbeitet. Erst im späten Mittelalter wird Zink gezielt als reines Metall hergestellt.  "
+    "de": "bläulich-weißes Metall mit dem chemischen Symbol Zn und der Ordnungszahl 30. Zink wurde in der Antike hauptsächlich als Erz bei der Kupferverhüttung bzw. -legierung verarbeitet. Erst im späten Mittelalter wird Zink gezielt als reines Metall hergestellt.  "
   },
   "notation": [
     "G8AG1C"
@@ -27,6 +27,9 @@
   "closeMatch": [
     {
       "id": "http://vocab.getty.edu/page/aat/300011037"
+    },
+    {
+      "id": "https://cameo.mfa.org/wiki/Zinc"
     },
     {
       "id": "https://www.wikidata.org/wiki/Q758"

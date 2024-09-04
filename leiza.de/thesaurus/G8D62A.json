@@ -2,7 +2,10 @@
   "id": "http://leiza.de/thesaurus/G8D62A",
   "type": "Concept",
   "prefLabel": {
-    "de": "Röntgenanlage"
+    "de": "konventionelles Röntgengerät"
+  },
+  "definition": {
+    "de": "technisches Gerät, mit dem zweidimensionale Röntgenaufnahmen erzeugt werden können. Das Gerät besteht dabei aus einer Röntgenröhre, die Röntgenstrahlen erzeugt und einem Detektor oder Film, der die Strahlen erfasst. Das zu untersuchende Objekt wird zwischen Röntgenröhre und Detektor positioniert und somit von den Strahlen aus der Strahlenquelle durchleuchtet. Im Gegensatz zum Aufbau eines CT-Scanners handelt es sich beim konventionellen Röntgengerät um einen starren Aufbau, bei dem keine Bewegung während des Aufnahmevorgangs stattfindet. "
   },
   "notation": [
     "G8D62A"

@@ -30,6 +30,14 @@
       "de": "Ergänzung"
     }
   },
+  "related": [
+    {
+      "id": "http://leiza.de/thesaurus/FBFFF5",
+      "prefLabel": {
+        "de": "Abform- und Ergänzungsmaterial"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

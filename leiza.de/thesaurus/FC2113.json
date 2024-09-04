@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Lichtmikroskop"
   },
+  "altLabel": {
+    "de": [
+      "Optisches Mikroskop"
+    ]
+  },
   "definition": {
     "de": "Instrument, bei dem mit Hilfe von sichtbarem Licht Objekte vergrößert betrachtet werden können. Es besteht aus einer Lichtquelle, Linsen und einer Bildgebungseinheit, die es ermöglichen, Details von Objekten im Bereich von Mikrometern bis Millimetern zu visualisieren."
   },
@@ -33,6 +38,12 @@
       "id": "http://leiza.de/thesaurus/A9F854",
       "prefLabel": {
         "de": "Fluoreszenzmikroskopen"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/AG4G3C",
+      "prefLabel": {
+        "de": "Digitalmikroskop"
       }
     },
     {

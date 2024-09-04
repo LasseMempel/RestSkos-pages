@@ -1,16 +1,21 @@
 {
-  "id": "http://leiza.de/thesaurus/GD13BC",
+  "id": "http://leiza.de/thesaurus/C33933",
   "type": "Concept",
   "prefLabel": {
-    "de": "Sardonyx"
+    "de": "Fourier-Transform-Infrarotspektrometer"
+  },
+  "altLabel": {
+    "de": [
+      "FTIR-Spektrometer"
+    ]
   },
   "notation": [
-    "GD13BC"
+    "C33933"
   ],
   "broader": {
-    "id": "http://leiza.de/thesaurus/B97F4A",
+    "id": "http://leiza.de/thesaurus/A9A54D",
     "prefLabel": {
-      "de": "Achat"
+      "de": "Spektrometer"
     }
   },
   "inScheme": [

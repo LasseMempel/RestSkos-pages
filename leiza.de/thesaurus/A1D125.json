@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "synthetisches Polymer"
   },
+  "altLabel": {
+    "de": [
+      "Kunststoff"
+    ]
+  },
+  "definition": {
+    "de": "Durch Polymerisation von einem oder mehreren kleineren Einheiten, sog. Monomeren, künstlich hergestellter großer, langkettiger Molekülverbund. "
+  },
   "notation": [
     "A1D125"
   ],

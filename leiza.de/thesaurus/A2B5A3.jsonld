@@ -10,7 +10,7 @@
     ]
   },
   "definition": {
-    "de": "Bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. "
+    "de": "zerstörungsfreies, bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. Mit Hilfe dieses Verfahrens lassen sich z.B. korrodierte Metalle untersuchen, da das Metall in seiner metallischen Form dichter ist als seine Korrosionsprodukte. Auf dem Röntgenfilm ist es daher heller abgebildet und lässt sich von den weniger deutlich sichtbaren Korrosionsprodukten unterscheiden. "
   },
   "notation": [
     "A2B5A3"
@@ -25,7 +25,7 @@
     {
       "id": "http://leiza.de/thesaurus/G8D62A",
       "prefLabel": {
-        "de": "Röntgenanlage"
+        "de": "konventionelles Röntgengerät"
       }
     }
   ],

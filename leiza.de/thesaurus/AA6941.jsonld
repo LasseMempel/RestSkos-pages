@@ -17,33 +17,33 @@
   ],
   "narrower": [
     {
+      "id": "http://leiza.de/thesaurus/A9A54D",
+      "prefLabel": {
+        "de": "Spektrometer"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/B538AG",
       "prefLabel": {
         "de": "Mikroskop"
       }
     },
     {
-      "id": "http://leiza.de/thesaurus/C2788C",
-      "prefLabel": {
-        "de": "RFA-Spektrometer"
-      }
-    },
-    {
-      "id": "http://leiza.de/thesaurus/G8C987",
-      "prefLabel": {
-        "de": "UV-Lampe"
-      }
-    },
-    {
       "id": "http://leiza.de/thesaurus/G8D62A",
       "prefLabel": {
-        "de": "Röntgenanlage"
+        "de": "konventionelles Röntgengerät"
       }
     },
     {
       "id": "http://leiza.de/thesaurus/DG6841",
       "prefLabel": {
         "de": "Computertomograph"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G8C987",
+      "prefLabel": {
+        "de": "UV-Lampe"
       }
     }
   ],

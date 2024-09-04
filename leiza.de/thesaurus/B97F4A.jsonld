@@ -4,16 +4,11 @@
   "prefLabel": {
     "de": "Achat"
   },
+  "definition": {
+    "de": "gebändert oder geschichtete Calcedon-Varietät, die je nach Einlagerungen in vielen verschiedenen Farben auftreten kann. Häufig finden sich Verunreinigungen in Form von Eisen, Mangan, Chrom, Calcium u.a., die den Achat in plakativ natürlichen Tönen färben. Achat ist hauptsächlich in vulkanischen Gesteinen, aber auch in Sedimentgestein zu finden. "
+  },
   "notation": [
     "B97F4A"
-  ],
-  "narrower": [
-    {
-      "id": "http://leiza.de/thesaurus/GD13BC",
-      "prefLabel": {
-        "de": "Sardonyx"
-      }
-    }
   ],
   "broader": {
     "id": "http://leiza.de/thesaurus/C81F4D",

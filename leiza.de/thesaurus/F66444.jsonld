@@ -4,6 +4,9 @@
   "prefLabel": {
     "de": "Spot-Test"
   },
+  "definition": {
+    "de": "Qualitätive Untersuchungsmöglichkeit unbekannter Materialien. Eine Probe der unbekannten Substanz wird mit einer definierten chemischen Substanz oder Lösung in Kontakt gebracht und sämtliche auftretenden Reaktionen dokumentiert. Mit Hilfe von detaillierten Referenzbeschreibungen können die Beobachtungen ausgewertet und das unbekannte Material identifiziert oder zumindest die zugehörige Stoffklasse näher eingegrenzt werden. "
+  },
   "notation": [
     "F66444"
   ],

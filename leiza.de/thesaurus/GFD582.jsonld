@@ -33,6 +33,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/C4A859",
+      "prefLabel": {
+        "de": "Plastogen G"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/C77887",
       "prefLabel": {
         "de": "Acrystal"
@@ -63,6 +69,11 @@
       "de": "synthetisches Polymer"
     }
   },
+  "closeMatch": [
+    {
+      "id": "http://vocab.getty.edu/page/aat/300014426"
+    }
+  ],
   "inScheme": [
     {
       "id": "http://leiza.de/thesaurus"

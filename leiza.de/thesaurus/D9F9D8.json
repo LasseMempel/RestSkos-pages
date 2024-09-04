@@ -12,6 +12,14 @@
   "notation": [
     "D9F9D8"
   ],
+  "narrower": [
+    {
+      "id": "http://leiza.de/thesaurus/CC2F8A",
+      "prefLabel": {
+        "de": "Titriplex III"
+      }
+    }
+  ],
   "broader": {
     "id": "http://leiza.de/thesaurus/F87124",
     "prefLabel": {
