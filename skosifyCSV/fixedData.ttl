@@ -1691,8 +1691,7 @@
     ns2:source "K18" ;
     ns1:altLabel "Kauramin CE5549"@de ;
     ns1:broader <http://leiza.de/thesaurus/DF633G> ;
-    ns1:definition """Produktname des wasserverdünnbaren Melamin-Formaldehydharzes der Firma BASF. Wurde vormals unter der Bezeichnung Kauramin CE 5549 im Jahr 1936 auf den Markt gebracht und nach erfolgreicher Bewährung in Kauramin Tränkharz 800 umbenannt. Im Jahr 2023 wurde das Produkt vom Markt genommen und durch das Nachfolgeprodukt Kauramin Tränkharz 801 ersetzt. \r
-"@de"" ;
+    ns1:definition "Produktname des wasserverdünnbaren Melamin-Formaldehydharzes der Firma BASF. Wurde vormals unter der Bezeichnung Kauramin CE 5549 im Jahr 1936 auf den Markt gebracht und nach erfolgreicher Bewährung in Kauramin Tränkharz 800 umbenannt. Im Jahr 2023 wurde das Produkt vom Markt genommen und durch das Nachfolgeprodukt Kauramin Tränkharz 801 ersetzt."@de ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "C4D6G3" ;
     ns1:prefLabel "KauraminÂ® Tränkharz 800"@de .
