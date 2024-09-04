@@ -14,9 +14,9 @@ F135A8,,3,Q2,Silber,,silver@en,"weißlich-graues Metall mit dem chemischen Symbo
 
 AD789F,,3,Q2,Silberlegierung,Silberlegierungen,silver alloy@en,"Legierung mit Silber als Hauptbestandteil. Reines Silber ist für viele Anwendungsbereiche zu weich, sodass es häufig mit anderen Metallen (vor allem Kupfer) legiert wird. Neben den Korrosionserscheinungen des reinen Silbers treten in Legierungssystemen weitere Korrosionen auf. So kann sich z.B. bei kupferhaltigen Silberlegierungen Kupfer-I-oxid und Kupfersulfid bilden.",FGA46A,,F135A8,,K20| K22| K24,Q7|Q8,https://www.wikidata.org/wiki/Q52895784|http://vocab.getty.edu/page/aat/300010975| http://d-nb.info/gnd/4181330-3,,,
 
-F9F6DG,,3,Q2,Elektrum,Elektron,electrum@en,"natürlich vorkommende Legierung aus Gold und Silber, teils auch mit geringem Kupferanteil.",FGA46A,,,,K24,,,,,
+F9F6DG,,3,Q2,Elektrum,Elektron,electrum@en,"natürlich vorkommende Legierung aus Gold und Silber, teils auch mit geringem Kupferanteil.",FGA46A,,,,K24| K28,,,,,
 
-BBF566,,2,Q2,unedles Metal,unedle Metalle,base metal@en,"Sammelbegriff für Metalle, die aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur Korrosion neigen",B5DD1A,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q428855|http://vocab.getty.edu/page/aat/300241615|http://d-nb.info/gnd/4583082-4,,,
+BBF566,,2,Q2,unedles Metal,unedle Metalle,base metal@en,"Sammelbegriff für Metalle, mit negativem Normalpotenzial. Sie neigen, aufgrund ihres hohen Lösungsdrucks, unter Normalbedingungen zur chemischen Reaktion mit ihrer Umgebung. Objekte aus unedlen Metallen zeigen im archäologischen Kontext daher in der Regel mehr oder weniger starke Korrosionserscheinungen.",B5DD1A,,,,K22| K36,Q7|Q8,https://www.wikidata.org/wiki/Q428855|http://vocab.getty.edu/page/aat/300241615|http://d-nb.info/gnd/4583082-4,,,
 
 F71C6B,,3,Q2,Eisen,Fe,iron@en|fer@fr,"bläulich-gräuliches Metall mit dem chemischen Symbol Fe und der Ordnungszahl 26. Im archäologischen Kontext kommen in der Regel ausschließlich Eisen-Kohlenstoff-Legierungen vor, sodass reines Eisen kaum eine Rolle in der Restaurierung spielt. Eisen ist sehr unedel und neigt sowohl an der Luft, als auch bei der Bodenlagerung zu starken Korrosionsreaktionen.  ",BBF566,,BC75G1,,K22,Q7|Q8,https://www.wikidata.org/wiki/Q677|http://vocab.getty.edu/page/aat/300011002|http://d-nb.info/gnd/4014002-7,,,
 
@@ -26,21 +26,21 @@ GB5BGF,,3,Q2,Buntmetall,,nonferrous metal@en,"Sammelbegriff für farbige Metalle
 
 B28FA6,,4,Q2,Kupfer,Cu|reines Kupfer,copper@en,"rot-bräunliches Metall mit dem chemischen Symbol Cu und der Ordnungszahl 29. Kupfer war wohl das erstes Metall, dass von den Menschen gezielt hergestellt und verarbeitet wurde. Kupfer ist in feuchter, verunreinigter Luft, sowie in chloridbelasteten Böden recht korrossionsanfällig. Mit den Bestandteilen der Luft (u.a. Schwefel- oder Carbonatverbindungen) bildet es eine Patina, die als Schutzschicht für das darunterliegende Metall gegenüber weiterem Korrosionsangriff dient. Diese Patina kann dem Objekt unter umständen ein recht ästhetisches Erscheinungsbild verleihen (sog. ""Edelpatina""). ",GB5BGF,,FGB415,,K20| K22| K24,Q7|Q8,http://vocab.getty.edu/page/aat/300011020|https://www.wikidata.org/wiki/Q753|http://d-nb.info/gnd/4033734-0,,,
 
-G992B6,,4,Q2,Blei,,lead@en,"sehr weiches Metall, von bläulich-gräulicher Farbe mit dem chemischen Symbol Pb und der Ordnungszahl 82. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glasuren sowie Legierungen mit anderen Metallen verwendet. Blei läuft an der Luft unter Bildung einer passivierenden Oxidschicht an und ist auch bei Kontak mit Wasser oder Säuren stark korrosionsanfällig. ",GB5BGF,,F387GB,,https://cameo.mfa.org/wiki/Lead| K22| K24,Q7|Q8,https://www.wikidata.org/wiki/Q708|http://vocab.getty.edu/page/aat/300011022,,,
+G992B6,,4,Q2,Blei,,lead@en,"sehr weiches Metall, von bläulich-gräulicher Farbe mit dem chemischen Symbol Pb und der Ordnungszahl 82. Gehört zur Gruppe der Schwermetalle und wirkt giftig auf den menschlichen Körper. Wurde in der Antike sowohl für eigenständige Objektherstellung, als auch in Pigmenten und Glasuren sowie Legierungen mit anderen Metallen verwendet. Blei läuft an der Luft unter Bildung einer passivierenden Oxidschicht an und ist auch bei Kontak mit Wasser oder Säuren stark korrosionsanfällig. ",GB5BGF,,F387GB,,K22| K24,Q7|Q8,https://www.wikidata.org/wiki/Q708|http://vocab.getty.edu/page/aat/300011022|https://cameo.mfa.org/wiki/Lead,,,
 
-G8AG1C,,4,Q2,Zink,,zinc@en,"bläulich-weißes Metall mit dem chemischen Symbol Zn und der Ordnungszahl 30. Zink wurde in der Antike hauptsächlich als ""zufälliger"" Nebenbestandteil von Erzen bei der Kupferverhüttung verarbeitet. Erst im späten Mittelalter wird Zink gezielt als reines Metall hergestellt.  ",GB5BGF,,F15DFD,,https://cameo.mfa.org/wiki/Zinc| K24,Q7|Q8,http://vocab.getty.edu/page/aat/300011037| https://www.wikidata.org/wiki/Q758,,,
+G8AG1C,,4,Q2,Zink,,zinc@en,bläulich-weißes Metall mit dem chemischen Symbol Zn und der Ordnungszahl 30. Zink wurde in der Antike hauptsächlich als Erz bei der Kupferverhüttung bzw. -legierung verarbeitet. Erst im späten Mittelalter wird Zink gezielt als reines Metall hergestellt.  ,GB5BGF,,F15DFD,,K22| K24,Q7|Q8,http://vocab.getty.edu/page/aat/300011037| https://www.wikidata.org/wiki/Q758| https://cameo.mfa.org/wiki/Zinc,,,
 
 G78BD6,,4,Q2,Zinn,,tin@en,"silberweißes, sehr weiches Metall mit dem chemischen Symbol Sn und der Ordnungszahl 50. Zinn wird hauptsächlich als Legierungsbestandteil (z.B. für (Zinn-)Bronze oder in Weichloten) verwendet, aber auch als reines Metall für die Herstellung von Geschirr und kleinen Kulturobjekten. Gegenüber Luftsauerstoff ist es weitgehend beständig, wird jedoch von Säuren (v.a. Salpetersäure) stark angegriffen. Bei der Lagerung von Zinnobjekten unterhalb 13Â°C tritt das Phänomen der sog. ""Zinnpest"" auf, bei der sich das stabile Zinn in Î±-Zinn umwandelt, was sich in Form von Flecken und Pusteln bemerktbar macht und schleichend zur vollständigen Verstörung des Zinnobjektes führt.",GB5BGF,,G6A358,,K22| K24,Q7|Q8,http://vocab.getty.edu/page/aat/300133748| https://www.wikidata.org/wiki/Q1096| https://cameo.mfa.org/wiki/Tin,,,
 
-A82D86,,3,Q2,Buntmetalllegierung,Buntmetall,,"Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung häufig als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde.",BBF566,,,,,Q7|Q8,https://www.wikidata.org/wiki/Q355809|http://vocab.getty.edu/page/aat/300011014 ,,,
+A82D86,,3,Q2,Buntmetalllegierung,Buntmetall,,"Sammelbezeichnung für farbige Legierungen mit schweren Nichteisenmetallen als Hauptbestandsteile. Wird in der archäologischen Restaurierung häufig als allgemeiner Oberbegriff für kupferhaltige Objektwerkstoffe verwendet, solange keine eindeutige Materialanalyse durchgeführt wurde.",BBF566,,,,K28,Q7|Q8,https://www.wikidata.org/wiki/Q355809|http://vocab.getty.edu/page/aat/300011014 ,,,
 
 FGB415,,4,Q2,Kupferlegierung,Kupferlegierungen,copper alloy@en,"Legierung mit Kupfer als Hauptbestandteil. Parallel zur Verwendung von reinem Kupfer, steht auch die Herstellung von Kupferlegierung am Beginn der historischen Metallverarbeitung der Menschheitsgeschichte. Aufgrund der reichen Verfügbarkeit, guten Verarbeitbarkeit und Verständigkeit wurde Kupfer für vielerlei Gegenstände (z.B. Schmuck, Waffen, Gefäße, etc.) verwendet. ",A82D86,,B28FA6,,K22|K24,Q7|Q8,https://www.wikidata.org/wiki/Q518350|http://vocab.getty.edu/page/aat/300010942,,,
 
-BF7D14,,5,Q2,Bronze,Zinnbronze|Bronzen,bronze@en,"Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen. Ebenso hängt die Verarbeitbarkeit maßgeblich von den Legierungszusammensetzten ab. So lässt sich Bronze mit ca. 20% Zinngehalt (sog. ""Gussbronze"") besonders gut gießen, während Bronzen mit niedrigerem Zinngehalt besonders gut schmied- und kaltverformbar sind. Die Korrosionsanfälligkeit von Bronze entspricht im Wesentlichen der des Kupfers, wobei entsprechend der anderen Bestandteile weitere Korrosionserscheinungen auftreten können.",FGB415,,,,K24| https://cameo.mfa.org/wiki/Bronze,Q7|Q8,http://vocab.getty.edu/page/aat/300010957,https://www.wikidata.org/wiki/Q34095,,
+BF7D14,,5,Q2,Bronze,Zinnbronze|Bronzen,bronze@en,"Kupferlegierung mit Zinn als zweiter Hauptbestandteil. Moderne Bronzen weisen in der Regel genormte Zusammensetzungen und gezielte Legierungsbestandteile auf. In historischen Bronzen finden sich, je nach Zeitstellung und Kultur, unter Umständen sehr unterschiedliche Zusammetzungen und andere Bestandteile, wie Zink, Silber, Blei, Antimon, Arsen, etc. Zur eindeutigen metallurgischen Bestimmung wird der Begriff Bronze häufig zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet (Bleibronze, Arsenbronze, usw.). Bronze kann, je nach Legierungszusammensetzung, eine gelb-golde, rötliche bis weißliche Färbung aufweisen. Ebenso hängt die Verarbeitbarkeit maßgeblich von den Legierungszusammensetzten ab. So lässt sich Bronze mit ca. 20% Zinngehalt (sog. ""Gussbronze"") besonders gut gießen, während Bronzen mit niedrigerem Zinngehalt besonders gut schmied- und kaltverformbar sind. Die Korrosionsanfälligkeit von Bronze entspricht im Wesentlichen der des Kupfers, wobei entsprechend der anderen Bestandteile weitere Korrosionserscheinungen auftreten können.",FGB415,,,,K22|K24,Q7|Q8,http://vocab.getty.edu/page/aat/300010957| https://cameo.mfa.org/wiki/Bronze,https://www.wikidata.org/wiki/Q34095,,
 
-A8B271,,5,Q2,Messing,,brass@en,"Kupferlegierung mit mindestens 50% Kupfer und Zink als zweiten Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile (z.B. Blei) können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen. Aus diesem Grund wird es unter anderem für Goldimitationen verwendet. Messing lässt sich sehr gut gießen, ebenso gut kalt verformen sowie spanlos und spanabhebend bearbeiten, wodurch es entsprechend für die Herstellung von gegossenen Gegenständen als auch getriebenen Gefäßen verwendet wird. Messing zeigt, ebenso wie Bronze, hauptsächlich Korrosionserscheinungen entsprechend des Hauptbestandteiles Kupfer.",FGB415,,,,K24| https://cameo.mfa.org/wiki/Brass,Q7|Q8,https://www.wikidata.org/wiki/Q39782|http://vocab.getty.edu/page/aat/300010946,,,
+A8B271,,5,Q2,Messing,,brass@en,"Kupferlegierung mit mindestens 50% Kupfer und Zink als zweiten Hauptbestandteil in unterschiedlichen Massenanteilen. Weitere Legierungsbestandteile (z.B. Blei) können zur Einstellung bestimmter Eigenschaften zugegeben sein. Messing kann, je nach Legierungszusammensetzung, eine hellgelbe, goldene bis bräunliche Färbung aufweisen. Aus diesem Grund wird es unter anderem für Goldimitationen verwendet. Messing lässt sich sehr gut gießen, ebenso gut kalt verformen sowie spanlos und spanabhebend bearbeiten, wodurch es entsprechend für die Herstellung von gegossenen Gegenständen als auch getriebenen Gefäßen verwendet wird. Messing zeigt, ebenso wie Bronze, hauptsächlich Korrosionserscheinungen entsprechend des Hauptbestandteiles Kupfer.",FGB415,,,,K22| K24,Q7|Q8,https://www.wikidata.org/wiki/Q39782|http://vocab.getty.edu/page/aat/300010946|https://cameo.mfa.org/wiki/Brass,,,
 
-B93G16,,5,Q2,Tombak,,tombac@en,"Kupfer-Zink Legierung, mit hohem Kupferanteil (> 67%) . Ãhnlich dem Messing, aber durch den höheren Kupferanteil von deutlich rötlicherer Farbe.",FGB415,,,,https://www.wikidata.org/wiki/Q756257,Q7|Q8,http://d-nb.info/gnd/4745413-1|http://vocab.getty.edu/page/aat/300196199|https://cameo.mfa.org/wiki/Tombac,,,
+B93G16,,5,Q2,Tombak,,tombac@en,"Kupfer-Zink Legierung, mit hohem Kupferanteil (> 67%) . Ãhnlich dem Messing, aber durch den höheren Kupferanteil von deutlich rötlicherer Farbe.",FGB415,,,,K22| K24,Q7|Q8,http://d-nb.info/gnd/4745413-1|http://vocab.getty.edu/page/aat/300196199|https://cameo.mfa.org/wiki/Tombac,,,
 
 F387GB,,4,Q2,Bleilegierung,,lead alloy@en,Legierung mit Blei als Hauptbestandteil.,A82D86,,G992B6,,,Q7|Q8,http://d-nb.info/gnd/4145917-9|http://vocab.getty.edu/page/aat/300010932|https://cameo.mfa.org/wiki/Lead_alloys ,,,
 
@@ -152,45 +152,51 @@ A3D91B,,3,Q2,Muschel,Muschelschale,shell@en,,F1BA31,,,,,Q7|Q8,,,,
 
 AG8F3A,,3,Q2,Perlmutt,,,"Material, welches an der Schaleninnenseite von Perlmuscheln, manchen Schneckenarten und weiteren Kopffüßlern gebildet wird. Die Farbigkeit des Perlmutts variiert stark je nach Herkunft. Perlmutt wurde in der Antike hauptsächlich in Form von Mosaik- und Einlegearbeiten verwendet, aber auch für Knöpfe und Kleinplastiken. ",F1BA31,,,,K24,Q7|Q8,,,,
 
+F9D2A8,,3,Q2,Perle,,,,F1BA31,,,,,,,,,
+
+B41GC3,,4,Q2,Süßwasserperle,,,,F9D2A8,,,,,,,,,
+
+FB8DCB,,4,Q2,Salzwasserperle,,,,F9D2A8,,,,,,,,,
+
 B69747,,3,Q2,Schnecke,Schneckenhaus,snail@en,,F1BA31,,,,,Q7|Q8,,,,
 
 B59296,,3,Q2,Zahn,,tooth@en,,F1BA31,,,,,Q7|Q8,,,,
 
-AG55BC,,4,Q2,Elfenbein,,ivory@en,"Zahnsubstanz, das als Werkstoff aus den Stoßzähnen des Elefanten und seiner Vorfahren (Mastodon, Mammut) gewonnen wird. Im allgemeinen Sprachgebrauch wird auch eine Reihe weitere, in Aussehen und Struktur ähnlicher Materialien (Walrosszahn, Nilpferdzahn, Narwahlzahn, etc.) als Elfenbein bezeichnet. Elfenbein ist in der Regel von cremeweißer Farbe, mit Schwankungen ins gelblich, grünlich, rötlich oder bräunliche, und weist eine charakteristische Maserung vergleichbar einer Holzmaserung auf. Im Gegensatz zu Knochen weist Elfenbein einen niedrigeren Mineralgehalt auf, was sich in einer höheren Elastizität, Bruchfestigkeit, Polierfähigkeit und geringerer Sprödigkeit im Vergleich zu Knochenmaterial zeigt.",B626A3,,,,K24,Q7|Q8,,,,
+AG55BC,,4,Q2,Elfenbein,,ivory@en,"Zahnsubstanz, das als Werkstoff aus den Stoßzähnen des Elefanten und seiner Vorfahren (Mastodon, Mammut) gewonnen wird. Im allgemeinen Sprachgebrauch wird auch eine Reihe weitere, in Aussehen und Struktur ähnlicher Materialien (Walrosszahn, Nilpferdzahn, Narwahlzahn, etc.) als Elfenbein bezeichnet. Elfenbein ist in der Regel von cremeweißer Farbe, mit Schwankungen ins gelblich, grünlich, rötlich oder bräunliche, und weist eine charakteristische Maserung auf. Im Gegensatz zu Knochen weist Elfenbein einen niedrigeren Mineralgehalt auf, was sich in einer höheren Elastizität, Bruchfestigkeit, Polierfähigkeit und geringerer Sprödigkeit im Vergleich zu Knochenmaterial zeigt.",B626A3,,,,K24|K26,Q7|Q8,,,,
 
 DGC848,,4,Q2,Menschenzahn,,,,B59296,,,,,Q7|Q8,,,,
 
 C12BC3,,4,Q2,Tierzahn,,,,B59296,,,,,Q7|Q8,,,,
 
-B8B69D,,3,Q2,Bernstein,,,"Fossiles Harz von prähistorischen Bäumen, das über Millionen von Jahren polymerisiert und mineralisiert wurde. Als archäologisches Objekt ist Bernstein besonders wertvoll, da er oft organische Einschlüsse wie Insekten oder Pflanzen enthält, die wichtige Informationen über die Umwelt und Lebensbedingungen früherer Epochen liefern.",F1BA31,,,,https://de.wikipedia.org/wiki/Bernstein,Q7|Q17/Q8,,,,
+B8B69D,,3,Q2,Bernstein,,,"Fossiles Harz von prähistorischen Bäumen, das über Millionen von Jahren polymerisiert und mineralisiert wurde. Als archäologisches Objekt ist Bernstein besonders wertvoll, da er oft organische Einschlüsse wie Insekten oder Pflanzen enthält, die wichtige Informationen über die Umwelt und Lebensbedingungen früherer Epochen liefern.",F1BA31,,,,https://de.wikipedia.org/wiki/Bernstein,Q7|Q17|Q8,,,,
 
-G76A78,,2,Q2,Kaustobiolith,,,"Überbegriff für verfestigten Anreicherungen von organischen Kohlenstoffverbindungen (oder reinem Kohlenstoff) aus Überresten von Pflanzen und Tieren. Sie entstehen durch Umwandlung der organischen Materialien unter hohem Druck und Temperatur über geologische Zeiträume hinweg. Teilweise werden die Kaustobiolithe aufgrund ihrer Entstehungsart auch den sedimentären Gesteinen zugeordnet. Eine besondere Eigenschaft der Kaustobiolithe, die sie von den meisten ""klassischen"" Gesteinen unterscheidet, ist ihre Brennbarkeit. ",CD3341,,,,K17,Q7|Q17/Q8,,,,
+G76A78,,2,Q2,Kaustobiolith,,,"Überbegriff für verfestigten Anreicherungen von organischen Kohlenstoffverbindungen (oder reinem Kohlenstoff) aus Überresten von Pflanzen und Tieren. Sie entstehen durch Umwandlung der organischen Materialien unter hohem Druck und Temperatur über geologische Zeiträume hinweg. Teilweise werden die Kaustobiolithe aufgrund ihrer Entstehungsart auch den sedimentären Gesteinen zugeordnet. Eine besondere Eigenschaft der Kaustobiolithe, die sie von den meisten ""klassischen"" Gesteinen unterscheidet, ist ihre Brennbarkeit. ",CD3341,,,,K17,Q7|Q17|Q8,,,,
 
-A5B5B2,,3,Q2,Gagat,Jet,,"aus in Faulschlamm eingebetteten Hölzern entstandene besonders dichte und homogene Kohleart. Die Farbigkeit ist in der Regel von einem tiefen, samtigen schwarz, die Oberfläche glänzend und gut polierbar.",G76A78,,,,K17,Q7|Q17/Q8,,,,
+AAG733,,3,Q2,Sapropelit,,,"Sapropelite sind das Resultat verfestigter Faulschlämme (altgriechisch ÏÎ±ÏÏÏÏ sapros âfaulâ, âverfaultâ). Sie entstehen unter natürlichen Bedingungen in zuvor nährstoffreichen Gewässern und Sümpfen, wenn organisches Material bei Abwesenheit von Sauerstoff biochemisch umgewandelt wird.",G76A78,,,,K18,Q19|Q8,,,,
 
-GBF241,,3,Q2,Kohle,,,,G76A78,,,,,Q7|Q17/Q8,,,,
+A5B5B2,,3,Q2,Gagat,Jet,,"aus in Faulschlamm eingebetteten Hölzern entstandene besonders dichte und homogene Kohleart. Die Farbigkeit ist in der Regel von einem tiefen, samtigen schwarz, die Oberfläche glänzend und gut polierbar.",G76A78,,,,K17,Q7|Q17|Q8,,,,
 
-D467F2,,3,Q2,Pech,,,,G76A78,,,,,Q7|Q17/Q8,,,,
+GBF241,,3,Q2,Kohle,,,,G76A78,,,,,Q7|Q17|Q8,,,,
+
+D467F2,,3,Q2,Pech,,,,G76A78,,,,,Q7|Q17|Q8,,,,
 
 GB6DF3,,1,Q2,silikatisches Material,mineralisches Materialien| Silikat,,"Oberbegriff für eine Vielzahl von nichtmetallischen, anorganischen Werkstoffen, die aus Mineralien bestehen oder aus diesen gewonnen werden.  ",B51DAF,Q12,,,K24,Q7|Q8,http://www.wikidata.org/entity/Q7130787,,,
 
-A11ACA,,2,Q2,Keramik,,ceramic@en,"anorganischer, nicht-metallischer, durch das Brennen von Ton hergestellter Werkstoff",GB6DF3,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300235507 |http://www.wikidata.org/entity/Q45621 |https://cameo.mfa.org/wiki/Ceramic,,,
+A11ACA,,2,Q2,Keramik,,ceramic@en,"anorganischer, nicht-metallischer, durch das Brennen von Ton hergestelltes Material. Ton stellt einen weit verbreiteten Werkstoff da, der im feuchten Zustand gut plastisch formbar ist und sich beim Brennen zur mehr oder weniger festen Keramik umwandelt. Ton besteht aus verschiedenen Tonmineralen (z.B. Kaolinit, Montmorillonit und Illit), Zuschlagstoffen - sog. Magerungsmitteln - wie Sand, Kalk, Ziegelmehl, Stroh, Häcksel, Tierhaare, Knochenasche oder Muscheln und Wasser. Objekte aus Keramik wurden bereits vor tausenden von Jahren von vielen Kulturen für verschiedenste Verwendungszwecke angefertigt. ",GB6DF3,,,,K26,Q7|Q8,http://vocab.getty.edu/page/aat/300235507 |http://www.wikidata.org/entity/Q45621 |https://cameo.mfa.org/wiki/Ceramic,,,
 
-DA2D73,,2,Q2,Glas,,glas@en,"anorganischer, amorpher Feststoff, der durch schnelles Abkühlen einer Schmelze erzeugt wird. Gläser bestehen in der Rege aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3)). ",GB6DF3,,,,https://cameo.mfa.org/wiki/Glass| K24,Q7|Q8,http://vocab.getty.edu/page/aat/300010797,https://www.wikidata.org/wiki/Q11469,,
+DA2D73,,2,Q2,Glas,,glas@en,"anorganischer, amorpher Feststoff, der durch schnelles Abkühlen einer Schmelze erzeugt wird. Gläser bestehen in der Regel aus Glasbildner (Quarzsand (SIO2)), Flussmittel (z.B. Soda (NA2O) oder Pottasche (K2O)) und Stabilisatoren (z.B. Calciumoxid (CaO) oder Calciumcarbonat (CaCO3)). ",GB6DF3,,,,K24| 26,Q7|Q8,http://vocab.getty.edu/page/aat/300010797| https://cameo.mfa.org/wiki/Glass,https://www.wikidata.org/wiki/Q11469,,
 
 BGC9F3,,2,Q2,Mineral,,mineral@en,"anorganischer, chemisch und physikalisch homogener Festkörper, mit meist kristalliner Struktur. Minerale entstehend durch natürliche, geologische Prozesse und zeichnen sich durch unterschiedliche charakterisierende Eigenschaften aus. ",GB6DF3,,,,K17,Q7|Q8,,,,
 
-C84834,,3,Q2,Quarz,,,,BGC9F3,,,,,Q7|Q8,,,,
+C84834,,3,Q2,Quarz,,,"weit verbreitetes Mineral aus reinem SiO2, welches in vielen Gesteinsarten vorkommt. Quarz ist grundsätzlich farblos - weiß, tritt jedoch je nach Verunreinigungen/Einlagerungen auch in vielerlei Farben auf (weiß, gelb, violett, braun, schwarz, grün, blau, rosa, etc.) und zeigt in der Regel einen glasigen, matten Glanz. Quarz ist bekannt für seine Härte und Widerstandsfähigkeit gegenüber Verwitterung. ",BGC9F3,,,,K18|K25,Q7|Q8,,,,
 
-A2C56B,,4,Q2,Amethyst,,,,C84834,,,,,Q7|Q8,,,,
+A2C56B,,4,Q2,Amethyst,,,"violette Varietät des Quarz. Die Farbigkeit reicht von blasslila bis tiefviolett, je nach Menge der enthaltenen Eisenverunreinigungen und Einwirkung natürlicher Strahlung. Bei Erhitzung verliert er seine Farbe und wird gelblich-braun, was wiederum als Quarz Varietät ""Citrin"" zählt. Dem Amethyst werden oft spirituelle und heilende Eigenschaften zugeschrieben und er wurde bereits seit der Antike für Schmuck verwendet.",C84834,,,,K18|K25,Q7|Q8,,,,
 
-C81F4D,,4,Q2,Calcedon,,,,C84834,,,,,Q7|Q8,,,,
+C81F4D,,4,Q2,Calcedon,Calzedon|Chalcedon,calcedony@en|chalcedone@en,"in verschiedenen Farben vorkommende Quarzvarietät, aus parallel gewachsenen, faserigen Kristallen von mikroskopischer und submikroskopischer Größe. Häufig finden sich auch Beimengungen von Moganite zwischen 1% - 20%, die sich jedoch im Laufe der Zeit zu Quarz umwandeln können, sodass ein moganite-freier Calcedon entsteht.",C84834,,,,K18|K25,Q7|Q8,,,,
 
-B97F4A,,5,Q2,Achat,,,,C81F4D,,,,,Q7|Q8,,,,
+B97F4A,,5,Q2,Achat,,agate@en,"gebändert oder geschichtete Calcedon-Varietät, die je nach Einlagerungen in vielen verschiedenen Farben auftreten kann. Häufig finden sich Verunreinigungen in Form von Eisen, Mangan, Chrom, Calcium u.a., die den Achat in plakativ natürlichen Tönen färben. Achat ist hauptsächlich in vulkanischen Gesteinen, aber auch in Sedimentgestein zu finden. ",C81F4D,,,,K18|K25,Q7|Q8,,,,
 
-GD13BC,,6,Q2,Sardonyx,,,,B97F4A,,,,,Q7|Q8,,,,
-
-C5322D,,5,Q2,Jaspis,,,,C81F4D,,,,,Q7|Q8,,,,
+C5322D,,5,Q2,Jaspis,,jasper@en,"mikrokristalline Varietät des Calcedons, durch Eisen rötlich bis bräunlich, gelb gefärbt. Jaspis weist dichtes, lichtundurchlässiges Gefüge auf und zeigt einen splittrigen Bruch.",C81F4D,,,,K18|K25,Q7|Q8,,,,
 
 BBA96A,,5,Q2,Karneol,,,,C81F4D,,,,,Q7|Q8,,,,
 
@@ -236,9 +242,9 @@ C39873,,3,Q2,Montmorillonit,,,,BGC9F3,,,,,Q7|Q8,,,,
 
 D4FCB6,,3,Q2,Chlorit,,,,BGC9F3,,,,,Q7|Q8,,,,
 
-D866AD,,2,Q2,Gestein,Stein,stone@en,"mehr oder weniger verfestigter Werkstoff aus mikroskopisch heterogenen Gemengen von Mineralen, Gesteinsbruchstücken, organischen und/oder anorganischen Ausscheidungen und Wasser (Kristallwasser). Hauptgemengeteile bilden Minerale wie Silikate (Feldspat, Quarz, Glimmer, etc.) und Karbonate (Calcit, Dolomit, etc.).",GB6DF3,,,,https://de.wikipedia.org/wiki/Gestein,Q7|Q8,https://cameo.mfa.org/wiki/Stone|https://www.wikidata.org/wiki/Q8063|https://cameo.mfa.org/wiki/Rock,http://vocab.getty.edu/page/aat/300011176,,
+D866AD,,2,Q2,Gestein,Stein,stone@en,"mehr oder weniger verfestigter Werkstoff aus mikroskopisch heterogenen Gemengen von Mineralen, Gesteinsbruchstücken, organischen und/oder anorganischen Ausscheidungen und Wasser (Kristallwasser). Hauptgemengeteile bilden Minerale wie Silikate (Feldspat, Quarz, Glimmer, etc.) und Karbonate (Calcit, Dolomit, etc.). Stein findet im Bereich historischer Kulturgüter in der Verwendung als Statuen, Schmuck, Gefäßen, und Bauteilen. Je nach Zusammensetzung sind Gesteine mehr oder weniger anfällig für umgebungsbedingten Zerfall, so können z.B. Schadstoffe aus der Luft ebenso wie Salze und andere Bodenbestandteile Zerfallsprozesse an der Oberfläche von Steinobjekten hervorrufen. ",GB6DF3,,,,K26,Q7|Q8,https://cameo.mfa.org/wiki/Stone|https://www.wikidata.org/wiki/Q8063|https://cameo.mfa.org/wiki/Rock,http://vocab.getty.edu/page/aat/300011176,,
 
-DF7826,,3,Q2,Magmatit,,,"Überbegriff für Gesteine, die aus Erstarrung einer Gesteinsschmelze entstehen. ",D866AD,,,,K17,Q7|Q8,,,,
+DF7826,,3,Q2,Magmatit,magmatisches Gestein,,"Überbegriff für Gesteine, die aus Erstarrung einer Gesteinsschmelze entstehen. ",D866AD,,,,K17,Q7|Q8,,,,
 
 C6F794,,4,Q2,Lava,,,,DF7826,,,,,Q7|Q8,,,,
 
@@ -258,7 +264,7 @@ D51GA5,,5,Q2,Bimsstein,,,"schaumiges Gesteinsglas, bestehend aus subparallel ver
 
 C7BG27,,5,Q2,Schlacke,,,"poröses, festes Material aus der Abkühlung und Erstarrung geschmolzener basaltischer Gesteine auf der Oberseite von Lavaströmen. Ãhnelt von der Textur und Struktur dem Bimsstein, ist jedoch deutlich schwerer und von dunklerer Farbe als dieser. Schlacke zählt nur bedingt zu den natürlichen Gesteinen, da es neben vulkanischen Ereignissen auch als Nebenprodukt technologischer Prozesse wie der Metallurgie entstehen kann.",B12CB4,,,,K17,Q7|Q8,,,,
 
-C7F346,,3,Q2,Sedimentgestein,Sedimentit,,"Überbegriff für Gesteine, die mittels Diagenese durch Verwitterung, Abtragung, Zerfall anderer Gesteine und deren sekundäre Ablagerung auf der Erdoberfläche entstehen. Auch Gesteine die durch chemische Ausfällung oder von Organismen aufgebaut werden, zählen zur Gruppe der Sedimentgesteine.",D866AD,,,,K17,Q7|Q8,,,,
+C7F346,,3,Q2,Sedimentgestein,Sedimentit| sedimentäres Gestein,,"Überbegriff für Gesteine, die mittels Diagenese durch Verwitterung, Abtragung, Zerfall anderer Gesteine und deren sekundäre Ablagerung auf der Erdoberfläche entstehen. Auch Gesteine die durch chemische Ausfällung oder von Organismen aufgebaut werden, zählen zur Gruppe der Sedimentgesteine.",D866AD,,,,K17,Q7|Q8,,,,
 
 F2B8B7,,4,Q2,Feuerstein,Flint,,"hartes Sedimentgestein, hauptsächlich bestehend aus feinkörnigem Quarz. Feuerstein bildet sich durch chemische Ausfällung von Siliziumdioxid in marinen Umgebungen und findet sich häufig lagenweise in Kalksteinen oder Kreideschichten. Die Farbe ist meist dunkelgrau bis schwarz und häufig von einer hellen Rinde umgeben. Der Bruch des Feuerstein ist schwarfkantig, muschelig, wesswegen er bereits früh in der Menschheitsgeschichte für Werkzeuge und Waffen verwendet wurde. Der Namensgebung entsprechend zeichnet sich Feuerstein durch seine Eigenschaft der Funkenerzeugung, bei harten Schlägen gegeneinander oder gegen andere harte Materialien, aus. ",C7F346,,,,K17,Q7|Q8,,,,
 
@@ -278,13 +284,13 @@ GG4BF9,,4,Q2,Bentonit,,,"polymineralisches Sedimentgestein, welches durch die Ve
 
 ACD56G,,4,Q2,eisenreiches Sedimentit,Eisenerz|Eisenformation,,"sedimentäres Gestein mit einem Eisengehalt von mehr als 15%. Als eisenmineralien sind häufig u.A. Limonit, Hämatit, Magnetit, Siderit und/oder Pyrit enthalten. ",C7F346,,,,K17,Q7|Q8,,,,
 
-ABB166,,3,Q2,Metamorphit,,,"Überbegriff für Gesteine, die durch Umwandlung anderer Gesteine (z.B. Magmatite oder Sedimentgesteine) in den Tiefen der Erdkruste, aufgrund des dort herrschenden Drucks und steigenden Temperaturen, entstanden sind. ",D866AD,,,,K17,Q7|Q8,,,,
+ABB166,,3,Q2,Metamorphit,metamorphoses Gestein,,"Überbegriff für Gesteine, die durch Umwandlung anderer Gesteine (z.B. Magmatite oder Sedimentgesteine) in den Tiefen der Erdkruste, aufgrund des dort herrschenden Drucks und steigenden Temperaturen, entstanden sind. ",D866AD,,,,K17,Q7|Q8,,,,
 
 F85G77,,4,Q2,Amphibolit,Hornblendegestein,,"metamorphes Gestein, welches hauptsächlich aus Amphibolen und Feldspat besteht. Aufgrund des besonders hohen Vorkommens von Hornblende als Hauptbestandteil, wird der Amphibolit im deutschsprachigen Raum auch als Hornblendegestein bezeichnet. Je nach Zusammensetzung sind grau, graugrüne oder schwarzgrüne Farbigkeiten möglich, wobei durch einen hohen Anteil von Plagioklasen-Feldspäten auch ein weiß gepunktetes Aussehen zu finden ist. Die Textur ist als kristallin bis schiefrig zu bezeichnen mit mittel- bis grobkörnigen Korngrößen.",ABB166,,,,K17,Q7|Q8,,,,
 
 G63684,,4,Q2,Serpentinit,,,"metamorphes Gestein mit den mineralischen Hauptbestandteilen Serpentin, Olivin und Pyroxen. Zeigt häufig hell grünlich-graue bis dunkelgrüne Färbungen, aber auch rötliche Töne im Falle von Mangan-Gehalten. Auch fleckige, gebändert bis gestreifte oder völlig unregelmäßige Farbgebungen sind möglich. Die Textur kann schuppig, stumpf oder seidig-glänzend sein. ",ABB166,,,,K17,Q7|Q8,,,,
 
-BAB939,,4,Q2,Marmor,,,"metamorphes Gestein, welches überwiegend aus Calcit und/oder Dolomit besteht und durch unterschiedliche Metamorphosebedingungen entstanden sein kann. Die Farbigkeit kann von schneeweiß über grau, schwarz, blassgelb, braun, rosa, dunkelrot, bläulich, lila bis grünlich reichen. Häufig sind Mehrfarbigkeiten in Form von Flecken, einheitlichen Bänderungen oder willkürliche ""Marmorierung"" zu beobachten. In der Industrie werden häufig alle Karbonatgesteine als ""Marmor"" bezeichnet, in dieser Definition ist jedoch die streng petrographische Definition des Begriffs gemeint. ",ABB166,,,,K17,Q7|Q8,,,,
+BAB939,,4,Q2,Marmor,,,"metamorphes Gestein, welches überwiegend aus Calcit und/oder Dolomit besteht und durch unterschiedliche Metamorphosebedingungen entstanden sein kann. Die Farbigkeit kann von schneeweiß über grau, schwarz, blassgelb, braun, rosa, dunkelrot, bläulich, lila bis grünlich reichen. Häufig sind Mehrfarbigkeiten in Form von Flecken, einheitlichen Bänderungen oder willkürliche ""Marmorierung"" zu beobachten. In der Industrie werden häufig alle Karbonatgesteine als ""Marmor"" bezeichnet, in der hier vorliegenden Definition ist jedoch die streng petrographische Definition des Begriffs, als Gestein mit kristallinem Gefüge das eine Metamorphose erfahren hat, gemeint. ",ABB166,,,,K17,Q7|Q8,,,,
 
 D6959D,,4,Q2,Quarzit,,,"metamorphoses Gestein, welches zu mindestens 80% aus Quarz besteht. Die metamorphosen Bedingungen, unter denen sich der Quarzit bildet, können dabei ganz unterschiedlich sein. Durch den hohen Quarzanteil tritt der Quarzit vorallem in weißlicher Farbe auf, kann jedoch auch in jeder anderen Farbe, wie grau, rot oder braun, vorkommen. Die Struktur und Textur ist fein lamelliert bis massig und Schieferungen sind undeutlich ausgebildet oder fehlen ganz. ",ABB166,,,,K17,Q7|Q8,,,,
 
@@ -420,7 +426,7 @@ CG49C6,,5,Q2,Breite,,,,G9D1C8,,,,,,,,,
 
 A9AC1A,,5,Q2,Tiefe,,,,G9D1C8,,,,,,,,,
 
-AG4397,,4,Q2,Feuchtigkeitsgehalt,Wassergehalt,moisture content@en|humidity content@en,Enthaltener Feuchtigkeitsanteil im Porenraum eines Materialis/Objektes,GDF8C2,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300379432,,,
+AG4397,,4,Q2,Feuchtigkeitsgehalt,Wassergehalt,moisture content@en|humidity content@en,Enthaltener Feuchtigkeitsanteil im Porenraum eines Materials/Objektes,GDF8C2,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300379432,,,
 
 G41GC6,,5,Q2,Trocken ,,dry@en,Das Materialgefüge/der Porenraum des Objektes oder dessen Oberfläche weisen keinen Wassergehalt auf.,AG4397,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300195439,,,
 
@@ -542,7 +548,7 @@ AA3CA7,,5,Q2,Ausblühung,Effloreszenz| Kristallbildung,,Bildung/Ansammlungen von
 
 G3D2F5,,5,Q2,Korrosionserscheinung,Korrosionsprodukt,,Materialumwandlungserscheinungen aufgrund chemischer Reaktionen des Objektmaterials mit seiner Umgebung,C9D991,,,,K9,Q7|Q8,,,,
 
-CFC44A,,6,Q2,Zinnpest,,,,G3D2F5,,,,,,,,,
+CFC44A,,6,Q2,Zinnpest,,,"Bei Lagerung unter 13Â°C auftretende Zerstörung von Zinnobjekten, durch Umwandlungsprozesse innerhalb des metallischen Gefüges. Das Schadensbild zeigt sich im Anfangsstadium meist durch Flecken und Pusteln auf der Metalloberfläche, die sich allmählich ausbreiten und bis zur vollständigen Zerstörung des Objektes durch Materialinstabilität fortschreiten kann. ",G3D2F5,,,,K22|K24,,,,,
 
 DGC3A9,,6,Q2,Glaskorrosion,Glaspest| Glaskrankheit,sugaring@en,"Fachbegriff für eine Reihe von Schäden, die typischerweise an archäologischen Gläsern beobachtet werden. Durch chemische Reaktionen mit ihrer Umgebung können die Gläser Trübungen, Farbveränderungen, Mattierung der Oberfläche oder auch eine erhöhte Fragilität aufweisen. ",G3D2F5,,,,,Q7|Q8,,,,
 
@@ -562,83 +568,89 @@ A9B23D,,5,Q2,Verkohlung,Verbrennung,,Das Objekt zeigt Spuren von Hitze- bzw. Feu
 
 AA6941,,2,Q3,[Untersuchungsgerät],Analysegerät,analytical device@en,Zur Untersuchung/Analyse des Objektes bzw. seines Werkstoffs verwendete Gerätschaft,CA1BC5,,,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300122283,,
 
-C2788C,,3,Q2,RFA-Spektrometer,Röntgenfluoreszenz-Spektrometer,X-ray fluorescence spectrometer@en,"Gerät mit dem eine Röntgenfluoreszenzanalyse durchgeführt werden kann. Das Gerät misst dabei die Intensitäten der emmitierten Fluoreszenzsröntgenstrahlung eines Materials/einer Probe, sodass Rückschlüsse auf die Elementzusammensetzung innerhalb der Probe gezogen werden können.",AA6941,,,,,Q7|Q8,,,,
+A9A54D,,3,Q2,Spektrometer,,,"technisches Geräte, mit dem sich Spektren darstellen und ausmessen lassen.",AA6941,,,,,,,,,
 
-DG6841,,3,Q2,Computertomograph,CT,computed tomography scanner@en,,AA6941,,AF9A88,,https://de.wikipedia.org/wiki/Computertomografie,Q7|Q8,https://d-nb.info/gnd/4113240-3,,,
+C33933,,4,Q2,Fourier-Transform-Infrarotspektrometer,FTIR-Spektrometer,,,A9A54D,,,,,,,,,
 
-G8D62A,,3,Q2,Röntgenanlage,,X-ray equipment@en,,AA6941,,A2B5A3,,https://de.wikipedia.org/wiki/Röntgen,Q7|Q8,,,,
+C2788C,,4,Q2,RFA-Spektrometer,Röntgenfluoreszenz-Spektrometer,X-ray fluorescence spectrometer@en,"Gerät mit dem eine Röntgenfluoreszenzanalyse durchgeführt werden kann. Das Gerät misst dabei die Intensitäten der emmitierten Fluoreszenzsröntgenstrahlung eines Materials/einer Probe, sodass Rückschlüsse auf die Elementzusammensetzung innerhalb der Probe gezogen werden können.",A9A54D,,,,,Q7|Q8,,,,
 
-B538AG,,3,Q2,Mikroskop,,microscope@en,"Instrument, zur detaillierten bildlichen Darstellung von mikroskopisch kleinen Strukturen, die für das menschliche Auge ohne Hilfmittel nicht erkennbar sind. Mit Hilfe von Linsen und Licht oder Elektronenstrahlen, können die Strukturen/Abbildungen vergrößert und für das menschliche Auge wahrnehmbar gemacht werden.",AA6941,,,,https://de.wikipedia.org/wiki/Mikroskop,Q7|Q8,http://vocab.getty.edu/page/aat/300024594,,,
+DG6841,,3,Q2,Computertomograph,CT,computed tomography scanner@en,"technisches Gerät, mit dem dreidimensionale Röntgenaufnahmen und Schichtbilder erzeugt werden können. Das Gerät besteht prinzipiell, ebenso wie das konventionelle Röntgengerät, aus einer Röntgenröhre, die Röntgenstrahlen erzeugt, und einem Detektor, der die Strahlen erfasst. Der Unterschied liegt jedoch in der rotierenden Bewegung des zu untersuchenden Objektes, welches sich auf einem Drehteller zwischen Strahlenquelle und Detektor langsam und gleichmäßig um die eigene Achse dreht. Auf diese Weise wird das Objekt aus verschiedenen Winklen von den Röntgenstrahlen durchleuchtet.",AA6941,,AF9A88,,K39,Q7|Q8,https://d-nb.info/gnd/4113240-3,,,
 
-FC2113,,4,Q2,Lichtmikroskop,,light microscope@en,"Instrument, bei dem mit Hilfe von sichtbarem Licht Objekte vergrößert betrachtet werden können. Es besteht aus einer Lichtquelle, Linsen und einer Bildgebungseinheit, die es ermöglichen, Details von Objekten im Bereich von Mikrometern bis Millimetern zu visualisieren.",B538AG,,,,https://de.wikipedia.org/wiki/Lichtmikroskop,Q7|Q8,,,,
+G8D62A,,3,Q2,konventionelles Röntgengerät,,X-ray equipment@en,"technisches Gerät, mit dem zweidimensionale Röntgenaufnahmen erzeugt werden können. Das Gerät besteht dabei aus einer Röntgenröhre, die Röntgenstrahlen erzeugt und einem Detektor oder Film, der die Strahlen erfasst. Das zu untersuchende Objekt wird zwischen Röntgenröhre und Detektor positioniert und somit von den Strahlen aus der Strahlenquelle durchleuchtet. Im Gegensatz zum Aufbau eines CT-Scanners handelt es sich beim konventionellen Röntgengerät um einen starren Aufbau, bei dem keine Bewegung während des Aufnahmevorgangs stattfindet. ",AA6941,,A2B5A3,,K39,Q7|Q8,,,,
 
-A75779,,5,Q2,Stereomikroskop,,stereomicroscop@en,"optisches Lichtmikroskop, das zwei getrennte Strahlengänge verwendet um ein dreidimensionales Bild eines Objektes zu erzeugen. Dadurch können detaillierte Oberflächenstrukturen besser untersucht werden. Es bietet eine geringere Vergrößerung im Vergleich zu anderen Mikroskopen aber eine größerer Tiefenschärfe.",FC2113,,,,https://de.wikipedia.org/wiki/Stereomikroskop,Q7|Q8,,,,
+B538AG,,3,Q2,Mikroskop,,microscope@en,"Instrument, zur detaillierten bildlichen Darstellung von mikroskopisch kleinen Strukturen, die für das menschliche Auge ohne Hilfmittel nicht erkennbar sind. Mit Hilfe von Linsen und Licht oder Elektronenstrahlen, können die Strukturen/Abbildungen vergrößert und für das menschliche Auge wahrnehmbar gemacht werden.",AA6941,,,,K30| K32,Q7|Q8,http://vocab.getty.edu/page/aat/300024594,,,
 
-A7FA3B,,5,Q2,Polarisationsmikroskop,,petrographic microscope@en,"spezielles Lichtmikroskop, das polarisiertes Licht verwendet, um die optischen Eigenschaften doppelbrechender Materialien zu untersuchen. Bei Polarisationsmikroskopen handelt es sich in der Regel um Durchlichtmikroskope, bei denen unterhalb des Objekttisches ein Polarisationsfilter (Polarisator) über der Lichtquelle eingebracht ist. Dieser polarisiert das aus der Lichtquelle austretende Licht linear und lässt somit nur in einer Schwingungsebene schwingendes Licht durch das Präperat auf dem Objekttisch.  Oberhalb des Objekttisches trifft dieses Licht auf einen weiteren, jedoch um 90Â° gedrehten Polarisationsfilter (Analysator), der die Schwingungsebene des polarisierten Lichtes blockiert und somit kein Licht durchlässt. Befindet sich nun ein doppelbrechendes Material als Präperat zwischen diesen beiden Polarisationsfiltern, ist dieses in der Lage die Schwingunsebene des polarisierten Lichtes so zu drehen, dass es nicht mehr durch den Analysator ausgelöscht wird und bestimmte Strukturen sichtbar werden.",FC2113,,,,https://de.wikipedia.org/wiki/Polarisationsmikroskop,Q7|Q8,,,,
+FC2113,,4,Q2,Lichtmikroskop,Optisches Mikroskop,light microscope@en,"Instrument, bei dem mit Hilfe von sichtbarem Licht Objekte vergrößert betrachtet werden können. Es besteht aus einer Lichtquelle, Linsen und einer Bildgebungseinheit, die es ermöglichen, Details von Objekten im Bereich von Mikrometern bis Millimetern zu visualisieren.",B538AG,,,,K26| K32,Q7|Q8,,,,
 
-A9F854,,5,Q2,Fluoreszenzmikroskopen,,fluorescence microscope@en,"spezielles Lichtmikroskop, welches die Fluoresenz von Stoffen, bei einer Anregung mit spezifischen Wellenlängen, zur Visualisierung von internen Strukturen, Anordnungen und Zusammensetzungen nutzt. Die Probe wird dabei gezielt mit Licht einer bestimmten Wellenlänge beleuchtet und die emittierte Fluoresenzstrahlung erfasst. Besonders gut können dabei Strukturen erfasst werden, wenn nur ein Teil der Probe fluorisziert und sich somit die hellen Signale vor dem dunklen Hintergrund der nicht fluoreszierenden Stoffe abheben. ",FC2113,,,,https://de.wikipedia.org/wiki/Fluoreszenzmikroskopie,Q7|Q8,,,,
+A75779,,5,Q2,Stereomikroskop,,stereomicroscop@en,"optisches Lichtmikroskop, das zwei getrennte Strahlengänge verwendet um ein dreidimensionales Bild eines Objektes zu erzeugen. Dadurch können detaillierte Oberflächenstrukturen besser untersucht werden. Es bietet eine geringere Vergrößerung im Vergleich zu anderen Mikroskopen aber eine größerer Tiefenschärfe.",FC2113,,,,K26| K32,Q7|Q8,,,,
 
-B94DCD,,5,Q2,Auflichtmikroskop,,incident light microscope@en,"Lichtmikroskop, bei dem die Lichtquelle von oben oder von der Seite auf das zu betrachtende Objekt/ die Probe gerichtet ist. Das Objekt reflektiert die auftreffenden Lichtstrahlen, die dann durch das Objektiv hindurch mit Hilfe von Spiegeln in Richtung des Okulars und damit auf das menschliche Auge gelenkt werden. Auf diese Weise können bei lichtundurchlässigen Objekten die oberflächlichen Strukturen, wie z.B. Feilspuren der Herstellung auf Metallobjekten, vergrößert betrachtet werden.",FC2113,,,,https://de.wikipedia.org/wiki/Auflichtmikroskopie,Q7|Q8,,,,
+A7FA3B,,5,Q2,Polarisationsmikroskop,,petrographic microscope@en,"spezielles Lichtmikroskop, das polarisiertes Licht verwendet, um die optischen Eigenschaften von Materialien zu untersuchen. Bei Polarisationsmikroskopen handelt es sich in der Regel um Durchlichtmikroskope, bei denen unterhalb des Objekttisches ein Polarisationsfilter (Polarisator) über der Lichtquelle eingebracht ist. Dieser polarisiert das aus der Lichtquelle austretende Licht linear und lässt somit nur in einer Schwingungsebene schwingendes Licht durch das Präperat auf dem Objekttisch. Oberhalb des Objektives trifft dieses Licht auf einen weiteren Polarisationsfilter (Analysator), der das durch das Präperat geleitete Licht analysiert. Auf diese Weise werden z.B. bei kristallinen Substanzen charakteristische Eigenschaften wie Farbe, innere Strukturen, Doppelbrechung, optische Aktivität oder Stressmuster sichtbar, was wiederum eine nähere Differenzierung des untersuchten Materials ermöglicht. ",FC2113,,,,K32,Q7|Q8,,,,
 
-A9611D,,5,Q2,Durchlichtmikroskop,,transmitted light microscope@en,"Lichtmikroskop, bei dem sich die Lichtquelle unterhalb des Objekttisches befindet und das Licht somit durch das Präperat hindurch geleitet wird, bevor es vom Objektiv eingefangen und weiter zum Okular und schließlich auf das menschliche Auge gelenkt wird. Auf diese Weise können die inneren Strukturen durchsichtiger/durchscheinender bzw. dünn geschnittener Präperate vergrößert sichtbar gemacht werden.",FC2113,,,,https://de.wikipedia.org/wiki/Lichtmikroskop,Q7|Q8,,,,
+A9F854,,5,Q2,Fluoreszenzmikroskopen,,fluorescence microscope@en,"spezielles Lichtmikroskop, welches die Fluoresenz von Stoffen, bei einer Anregung mit spezifischen Wellenlängen, zur Visualisierung von internen Strukturen, Anordnungen und Zusammensetzungen nutzt. Die Probe wird dabei gezielt mit Licht einer bestimmten Wellenlänge beleuchtet und die emittierte Fluoresenzstrahlung erfasst. Besonders gut können dabei Strukturen erfasst werden, wenn nur ein Teil der Probe fluorisziert und sich somit die hellen Signale vor dem dunklen Hintergrund der nicht fluoreszierenden Stoffe abheben. ",FC2113,,,,K32,Q7|Q8,,,,
 
-B764C6,,4,Q2,Rasterelektronenmikroskop,REM,scanning electron microscope@en|SEM@en,"Mikroskop, bei dem ein erzeugter Elektronenstrahl gezielt auf die Oberfläche eines Objekt gelenkt wird, diese in einem bestimmten Muster abrastert und durch die Wechselwirkung zwischen Elektronen und Objektoberfläche eine Abbildung der Oberflächenbeschaffenheit erzeugt wird. ",B538AG,,D3BFFF,,https://de.wikipedia.org/wiki/Rasterelektronenmikroskop,Q7|Q8,http://vocab.getty.edu/page/aat/300024596,,,
+B94DCD,,5,Q2,Auflichtmikroskop,,incident light microscope@en,"Lichtmikroskop, bei dem die Lichtquelle von oben oder von der Seite auf das zu betrachtende Objekt/ die Probe gerichtet ist. Das Objekt reflektiert die auftreffenden Lichtstrahlen, die dann durch das Objektiv hindurch mit Hilfe von Spiegeln in Richtung des Okulars und damit auf das menschliche Auge bzw. auf eine Kamera gelenkt werden. Auf diese Weise können bei lichtundurchlässigen Objekten die oberflächlichen Strukturen, wie z.B. Feilspuren der Herstellung auf Metallobjekten, vergrößert betrachtet werden.",FC2113,,,,https://de.wikipedia.org/wiki/Auflichtmikroskopie,Q7|Q8,,,,
 
-AG4G3C,,4,Q2,Digitalmikroskop,,,,B538AG,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300444116,,,
+A9611D,,5,Q2,Durchlichtmikroskop,,transmitted light microscope@en,"Lichtmikroskop, bei dem sich die Lichtquelle unterhalb des Objekttisches befindet und das Licht somit durch das Präperat hindurch geleitet wird, bevor es vom Objektiv eingefangen und weiter zum Okular und schließlich auf das menschliche Auge bzw. auf eine Kamera gelenkt wird. Auf diese Weise können die inneren Strukturen durchsichtiger/durchscheinender bzw. dünn geschnittener Präperate vergrößert sichtbar gemacht werden.",FC2113,,,,https://de.wikipedia.org/wiki/Lichtmikroskop,Q7|Q8,,,,
 
-G8C987,,3,Q2,UV-Lampe,,,,AA6941,,,,,Q7|Q8,,,,
+AG4G3C,,5,Q2,Digitalmikroskop,,,"Lichtmikroskop ohne Okular, bei dem die vom Objektiv eingefangenen Lichtstrahlen auf eine Kamera gelenkt werden. Über einen mit der Kamera verbundenen Bildschirm wird der durch das Mikroskop eingefangene Bildausschnitt digital sichtbar.  ",FC2113,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300444116,,,
+
+B764C6,,4,Q2,Rasterelektronenmikroskop,REM,scanning electron microscope@en|SEM@en,"Mikroskop, bei dem ein erzeugter Elektronenstrahl gezielt auf die Oberfläche eines Objekt gelenkt wird, diese in einem bestimmten Muster abrastert und durch die Wechselwirkung zwischen Elektronen und Objektoberfläche eine Abbildung der Oberflächenbeschaffenheit erzeugt wird. ",B538AG,,D3BFFF,,K26| K30,Q7|Q8,http://vocab.getty.edu/page/aat/300024596,,,
+
+G8C987,,3,Q2,UV-Lampe,UV-Licht| Schwarzlicht,,"Lichquelle, die ultraviolettes Licht emittieren kann. In der Regel handelt es sich dabei um Lampen mit UV-A Filter, Gasentladungslampen oder spezielle LEDs. ",AA6941,,B53C8F,,K33,Q7|Q8,,,,
 
 D4A13D,,2,Q3,[Untersuchungsmethode],,,,CA1BC5,,,,,Q7|Q8,,,,
 
 G9B788,,3,Q2,Materialanalyse,,,Analyse des Objektswerkstoffes auf spezifische Eigenschaften,D4A13D,,,,,Q7|Q8,,,,
 
-G17B8B,,4,Q2,Analyse der chemischen Zusammensetzung,,,,G9B788,,,,,,,,,
+G17B8B,,4,Q2,Analyse der chemischen Zusammensetzung,,,"Methode, bei der mit Hilfe technischer Geräte die Eigenschaften von Stoffen untersucht und Rückschlüsse auf die chemische Zusammensetzung von Materialien gezogen werden kann.",G9B788,,,,,Q18|Q8,,,,
 
 FCB7A5,,5,Q2,Röntgenfluoresezenzanalyse,RFA,XRF@en|X-ray fluorescence analysis@en,,G9B788,,,,,Q7|Q8,,http://vocab.getty.edu/page/aat/300224161,,
 
 BFGB1A,,5,Q2,Laser Ablation — Inductively Coupled Plasma — Mass Spectrometry,LA-ICP-MS,,,G9B788,,,,,Q7|Q8,,,,
 
-GA6422,,5,Q2,Laserinduzierte Plasmaspektroskopie,LIBS|LIPS,laser-induced breakdown spectroscopy@en,,G17B8B,,,,,,,,,
+GA6422,,5,Q2,Laserinduzierte Plasmaspektroskopie,LIBS|LIPS,laser-induced breakdown spectroscopy@en,,G17B8B,,,,,Q18|Q8,,,,
 
-G69G4B,,5,Q2,Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma,ICP-OES,inductively coupled plasma optical emission spectrometry@en,,G17B8B,,,,,,,,,
+G69G4B,,5,Q2,Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma,ICP-OES,inductively coupled plasma optical emission spectrometry@en,,G17B8B,,,,,Q18|Q8,,,,
 
-DADDD6,,5,Q2,Instrumentelle Neutronenaktivierungsanalyse,INAA,,,G17B8B,,,,,,,,,
+DADDD6,,5,Q2,Instrumentelle Neutronenaktivierungsanalyse,INAA,,,G17B8B,,,,,Q18|Q8,,,,
 
-DG129D,,5,Q2,energiedispersive Röntgenspektroskopie,EDX|EDS,energy dispersive X-ray spectroscopy@en,,G17B8B,,,,,Q7|Q8,,,,
+DG129D,,5,Q2,energiedispersive Röntgenspektroskopie,EDX|EDS,energy dispersive X-ray spectroscopy@en,,G17B8B,,,,K26,Q7|Q8,,,,
 
-CG676B,,4,Q2,Analyse der isotopischen Zusammensetzung,,,,G9B788,,,,,,,,,
+C2DF6G,,5,Q2,Fourier-Transform-Infrarotspektrometrie,FTIR,fourier transform infrared spectroscopy@en,"analytische Methode, die zur Identifizierung und Charakterisierung von organischen und anorganischen Verbindungen verwendet wird. Das Prinzip beruht auf der Interferenz von Strahlung zwischen zwei Lichtstrahlen, bei der die Ãnderung der Weglänge zwischen den beiden Strahlen in Form eines Signals (Interferogram) gemessen und als Infrarotspektrum am Computer ausgewertet werden kann. Dieses gibt Auskunft über die molekulare Struktur und chemische Zusammensetzung einer Probe. ",G17B8B,,,,K26| K29,Q7|Q8,,,,
 
-A17652,,5,Q2,Multicollector-Inductively Coupled Plasma Mass Spectrometry,MC-ICP-MS,,,CG676B,,,,,,,,,
+CG676B,,4,Q2,Analyse der isotopischen Zusammensetzung,,,,G9B788,,,,,Q18|Q8,,,,
 
-G87B12,,5,Q2,Thermoionisations-Massenspektrometrie,TIMS,Thermal Ionization Mass Spectrometry,,CG676B,,,,,,,,,
+A17652,,5,Q2,Multicollector-Inductively Coupled Plasma Mass Spectrometry,MC-ICP-MS,,,CG676B,,,,,Q18|Q8,,,,
 
-D5F8G2,,5,Q2,Gaschromatographie mit Massenspektrometrie,GC-MS,,,CG676B,,,,,,,,,
+G87B12,,5,Q2,Thermoionisations-Massenspektrometrie,TIMS,Thermal Ionization Mass Spectrometry,,CG676B,,,,,Q18|Q8,,,,
+
+D5F8G2,,5,Q2,Gaschromatographie mit Massenspektrometrie,GC-MS,,,CG676B,,,,,Q18|Q8,,,,
 
 G13A7B,,3,Q2,Strukturanalyse,,,"Sammelbegriff für Analysen, die die innere Struktur eines Objektes sichtbar machen bzw. diese auf spezifische Eigenschaften untersuchen",G9B788,,,,,Q7|Q8,,,,
 
 FFA1AC,,4,Q2,Ramanspektroskopie,,,,G13A7B,,,,,Q7|Q8,,,,
 
-D3BFFF,,4,Q2,Rasterelektronenmikroskopie,REM,,Methode mit dem die Objektoberfläche durch das Abrastern mit einem Elektronenstrahl vergrößert abgebildet wird. Erzeugt wird das Bild der Objektoberfläche durch die Wechselwirkungen der Elektronen mit dem Objekt.,G13A7B,,B764C6,,https://de.wikipedia.org/wiki/Rasterelektronenmikroskop,Q7|Q8,,,,
+D3BFFF,,4,Q2,Rasterelektronenmikroskopie,REM,scanning electron microscopy@en| SEM@en,Methode mit dem die Objektoberfläche durch das Abrastern mit einem Elektronenstrahl vergrößert abgebildet wird. Erzeugt wird das Bild der Objektoberfläche durch die Wechselwirkungen der Elektronen mit dem Objekt.,G13A7B,,B764C6,,K26| K30,Q7|Q8,,,,
 
 FB231A,,4,Q2,Röntgenuntersuchung,,,Sammelbegriff für Verfahren zur bildhaften Darstellung inneren Strukturen eines Objektes mit Hilfe von Röntgenstrahlen,G13A7B,,,,,Q7|Q8,,,,
 
-A2B5A3,,5,Q2,konventionelle Radiographie,Röntgen,,Bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. ,FB231A,,G8D62A,,https://de.wikipedia.org/wiki/Röntgen,Q7|Q8,,,,
+A2B5A3,,5,Q2,konventionelle Radiographie,Röntgen,,"zerstörungsfreies, bildgebendes Verfahren bei dem das Objekt mit Röntgenstrahlen durchleuchtet und auf einem Röntgenfilm abgebildet wird. Das Röntgenbild zeigt eine Abbildung des dreidimensionalen Objektes auf einer zweidimensionalen Fläche. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert und zeigen eine dunklere oder hellere Darstellung auf dem belichteten Röntgenfilm. Mit Hilfe dieses Verfahrens lassen sich z.B. korrodierte Metalle untersuchen, da das Metall in seiner metallischen Form dichter ist als seine Korrosionsprodukte. Auf dem Röntgenfilm ist es daher heller abgebildet und lässt sich von den weniger deutlich sichtbaren Korrosionsprodukten unterscheiden. ",FB231A,,G8D62A,,K26| K33| K39,Q7|Q8,,,,
 
-AF9A88,,5,Q2,Computertomographie,CT,,"Bildgebendes Verfahren bei dem das Objekt aus mehreren Richtungen mit Röntgenstrahlen durchleuchtet wird. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert. Durch die verschiedenen Richtungen, aus denen die Röntgenstrahlen durch das Objekt treten, entstehen mehrere Absorptionsprofile. Diese werden nach Abschluss der Aufnahmen mit Hilfe des Computers zu digitalen Schnittbildern zusammengerechnet. In dem mehrere angrenzende Schnittbilder zusammengesetzt und die Volumengrafiken errechnet werden, lassen sich dreidimnesionale Darstellungen der inneren Struktur des untersuchten Objektes erzeugen. ",FB231A,,DG6841,,https://de.wikipedia.org/wiki/Computertomografie,Q7|Q8,,,,
+AF9A88,,5,Q2,Röntgen-Computertomographie,CT,,"Bildgebendes Verfahren, bei dem das Objekt aus mehreren Richtungen mit Röntgenstrahlen durchleuchtet wird. Je nach Dichte des untersuchten Materials werden die Röntgenstrahlen unterschiedlich stark absorbiert. Durch die verschiedenen Richtungen, aus denen die Röntgenstrahlen durch das Objekt treten, entstehen mehrere Absorptionsprofile. Diese werden nach Abschluss der Aufnahmen mit Hilfe des Computers zu digitalen Schnittbildern zusammengerechnet. In dem mehrere angrenzende Schnittbilder zusammengesetzt und die Volumengrafiken errechnet werden, lassen sich dreidimensionale Darstellungen der inneren Struktur des untersuchten Objektes erzeugen. ",FB231A,,DG6841,,K26| K33| K39,Q7|Q8,,,,
 
-FFAF3C,,4,Q2,Röntgendiffraktion,Röntgenbeugung|XRD,X-ray diffraction@en,,G13A7B,,,,,,,,,
+FFAF3C,,4,Q2,Röntgendiffraktion,Röntgenbeugung|XRD,X-ray diffraction@en,,G13A7B,,,,,Q18|Q8,,,,
 
-C5BD13,,4,Q2,Datierung,,,"Methode anhand spezifischer Materialeigenschaften das Alter des Materials, und damit des Objektes, zu bestimmen.",G9B788,,,,,,,,,
+C5BD13,,4,Q2,Datierung,,,"Methode anhand spezifischer Materialeigenschaften das Alter des Materials, und damit des Objektes, zu bestimmen.",G9B788,,,,,Q7|Q8,,,,
 
 B3G5C7,,5,Q2,Dendrochronologie,,,,C5BD13,,,,,Q7|Q8,,,,
 
 F6739F,,5,Q2,Radiokarbondatierung,C14-Datierung| Radiokarbonmethode|Radiokohlenstoffdatierung,,,C5BD13,,,,,Q7|Q8,,,,
 
-A946B5,,4,Q2,chemische Untersuchung,,,Analyse von Materialien mit Hilfe chemischer Reagenzien ,G9B788,,,,,Q7|Q8,,,,
+A946B5,,4,Q2,chemische Untersuchung,,chemical tests@en,"Untersuchungsmethode von Materialien und ihren Eigenschaften mit Hilfe chemischer Reagenzien. Bei dieser Untersuchungsart können zum einen unbekannte Materialien identifiziert, bzw. näher eingegrenzt und zum anderen Verhaltensweisen von Materialien in klar definierten Rahmenbedingungen untersucht werden. ",G9B788,,,,,Q7|Q8,,,,
 
 DCD522,,5,Q2,Mikro-Quelltest,,,,A946B5,,,,,Q7|Q8,,,,
 
-F66444,,5,Q2,Spot-Test,,,,A946B5,,,,,Q7|Q8,,,,
+F66444,,5,Q2,Spot-Test,,,Qualitätive Untersuchungsmöglichkeit unbekannter Materialien. Eine Probe der unbekannten Substanz wird mit einer definierten chemischen Substanz oder Lösung in Kontakt gebracht und sämtliche auftretenden Reaktionen dokumentiert. Mit Hilfe von detaillierten Referenzbeschreibungen können die Beobachtungen ausgewertet und das unbekannte Material identifiziert oder zumindest die zugehörige Stoffklasse näher eingegrenzt werden. ,A946B5,,,,K26,Q7|Q8,,,,
 
 DAA4F8,,5,Q2,Oddy-Test,,,,A946B5,,,,,Q7|Q8,,,,
 
@@ -646,13 +658,13 @@ F7AGD2,,4,Q2,Probennahme,Probenentnahme,,"Entnahme einer Stichprobe nach spezifi
 
 BAA12F,,3,Q2,Photogrammetrie,,,,D4A13D,,,,,Q7|Q8,,,,
 
-CA7279,,3,Q2,optische Begutachtung,,,Betrachtung und Einschätzung des optischen Erscheinungsbildes/Zustandes des Objektes mit dem menschlichen Auge,D4A13D,,,,,Q7|Q8,,,,
+CA7279,,3,Q2,optische Begutachtung,,,Betrachtung und Einschätzung des optischen Erscheinungsbildes/Zustandes des Objektes mit dem menschlichen Auge,D4A13D,,,,K31,Q7|Q8,,,,
 
-B53C8F,,4,Q2,UV-Untersuchung,,,Begutachtung eines Objektes mit dem menschlichen Auge unter Zuhilfename einer UV-Lichtquelle,CA7279,,,,,Q7|Q8,,,,
+B53C8F,,4,Q2,UV-Lumineszenz-Untersuchung,,uv fluorescence examination@en,"zerstörungsfreie Untersuchungsmethode, bei der das Objekt mit UV-Licht bestrahlt wird. Befinden sich in dem Objektmaterial fluoreszierende Stoffe werden diese durch die kurzwelligen UV-Strahlen zum Leuchten angeregt und gegenüber den nicht fluoreszierenden Stoffen sichtbar. Auf diese Weise lassen sich z.B. Klebstoffe, Überzüge, Retuschen und Übermalungen auf bereits restaurierten Objekten sichtbar machen, die mit dem bloßen Auge im Tageslicht nicht zu erkennen sind. Als Methode zur Identifizierung eines Stoffes ist die UV-Fluoreszenz nur bedingt geeignet. Viele Stoffe zeigen zwar eine charakteristische Färbung in ihrer Fluoreszenz, die mit Hilfe von Referenztabellen bestimmt werden kann, allerdings können Verunreinigungen (wie z.B. Staub) die Fluoreszenz stark beeinträchtigen, indem sie entweder die natürliche Fluorezenz des Materials auslöschen oder selbst fluoreszieren. ",CA7279,,G8C987,,K26| K33,Q7|Q8,,,,
 
-D4AC7A,,4,Q2,Mikroskopie,,,Begutachtung eines Objektes mit dem menschlichen Auge mit Hilfe eines Mikroskops,CA7279,,B538AG,,https://de.wikipedia.org/wiki/Mikroskop,Q7|Q8,,,,
+D4AC7A,,4,Q2,Mikroskopie,,,Begutachtung eines Objektes mit dem menschlichen Auge mit Hilfe eines Mikroskops,CA7279,,B538AG,,K26,Q7|Q8,,,,
 
-F9GC9A,,4,Q2,manuelle Sichtkontrolle,,,Begutachtung eines Objektes mit dem menschlichen Auge ohne technische Hilfmittel,CA7279,,,,,Q7|Q8,,,,
+F9GC9A,,4,Q2,visuelle Inspektion,Sichtprüfung| visuelle Untersuchung| optische Begutachtung,visual examination@en,"Begutachtung eines Objektes mit dem menschlichen Auge, hinsichtlich seiner Form, Farbe, Größe, Materialbeschaffenheit, Zustand, Herstellungsspuren und weiteren Auffälligkeiten.",CA7279,,,,K26| K31,Q7|Q8,,,,
 
 A4G52F,,2,Q2,Einlieferungszustand,Vorzustand,,Erhaltungszustand eines Objektes zum Zeitpunkt der Einlieferung in die Restaurierungswerkstatt,C4BCF8,,D9G51G,,,Q7|Q8,,,,
 
@@ -728,7 +740,7 @@ G3GB59,,3,Q2,manuelle Freilegung,,,Per Hand ausgeführte Freilegung der original
 
 G8A626,,3,Q2,nasschemische Freilegung,,,Freilegung der originalen Objektoberfläche durch Anwendung von Chemikalien,G814D2,,,,,Q7|Q8,,,,
 
-A13CD1,,2,Q2,Klebung,Kleben|Fügung|Babbe,bonding@en,"Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive und kohäsive Verbindung mit Klebstoff, ohne dass das Objektgefüge wesentlich verändert wird. Um eine stabile Klebung zu erhalten ist eine sorgfältige Oberflächenbehandlung durch Reinigung und Entfettung notwendig.",C79561,,,,,Q7|Q8,,,,
+A13CD1,,2,Q2,Klebung,Kleben|Fügung|Babbe,bonding@en,"Methode des Zusammenfügens von Fragmenten und/oder Materialien durch eine adhäsive und kohäsive Verbindung mit Klebstoff, ohne dass das Objektgefüge wesentlich verändert wird. ",C79561,,,,,Q7|Q8,,,,
 
 F589G5,,3,Q2,Infiltrationsklebung,,,"Zweischrittige Klebemethode, bei der die einzelnen Fragmente/Teile zunächst temporär miteinander verbunden werden (z.B. durch kleine Klebebandstreifen, Omega-Häkchen, etc.), bis die ursprüngliche Form des Objektes wieder erkennbar ist. Die tatsächliche Klebung erfolgt im zweiten Schritt, durch den gleichzeitigen Auftrag eines dünnflüssigen Klebemittels auf alle Bruchfugen. Aufgrund des Kapillareffekts zwischen den vorfixierten Bruchkanten wird der niedrigviskose Klebstoff in die Bruchfuge gesogen.",A13CD1,,,,,Q7|Q8,,,,
 
@@ -736,15 +748,15 @@ AD143A,,3,Q2,Aufbaumethode,,,"Klebemethode, bei der die einzelnen Fragmente/Teil
 
 CGC619,,2,Q2,Ergänzung,Ergänzen,filling@en,Methode zur Schließung von Fehlstellen und/oder Vervollständigung fehlender Objektteile durch das Hinzufügen von Material. Wird nach der modernen archäologischen Restaurierungsethik hauptsächlich aus statischen/stabilisierenden Gründen oder zu Rekonstruktion eines vollkommen unkenntlichen Erscheinungsbildes durchgeführt. ,C79561,,,,,Q7|Q8,,,,
 
-GAD222,,3,Q2,Einfügung,,,"Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle. Das separate Ausformen der Ergänzung kann durch freies Modellieren, Abnehmen der fehlenden Form an einer anderen Stelle des Objektes oder separate Abformung an einem dem fehlenden Teil ähnlichen Vergleichsobjekt erfolgen.",CGC619,,,,,Q7|Q8,,,,
+GAD222,,3,Q2,Einfügung,,,"Ergänzungsmethode durch separate Herstellung des fehlenden Formteiles eines Objektes und anschließendes Einpassen/Einkleben in die Fehlstelle. Das separate Ausformen der Ergänzung kann durch freies Modellieren, Abnehmen der fehlenden Form an einer anderen Stelle des Objektes oder separate Abformung an einem dem fehlenden Teil ähnlichen Vergleichsobjekt erfolgen.",CGC619,,FBFFF5,,,Q7|Q8,,,,
 
-CBDC4A,,3,Q2,Manschettenergänzung,,,"Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt an das Objekt angegossen und mit wenig Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden. ",CGC619,,,,,Q7|Q8,,,,
+CBDC4A,,3,Q2,Manschettenergänzung,,,"Ergänzungsmethode, bei der die fehlende Stelle des Objektes mit Hilfe einer, der Form des Objektes entsprechend ausgearbeiteten Manschette hinterlegt oder umschlossen wird. Auf diese Weise kann das Ergänzungsmaterial direkt an das Objekt angegossen und mit wenig Nacharbeit an die benötigte Form der zu ergänzenden Stelle angepasst werden. ",CGC619,,FBFFF5,,,Q7|Q8,,,,
 
-DAA82A,,4,Q2,einseitige Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips). ",CBDC4A,,,,,Q7|Q8,,,,
+DAA82A,,4,Q2,einseitige Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle nur von einer Seite (bei Gefäßen i.d.R. die Innenseite) hinterlegt wird, beispielsweise mit einer dünnen Plastilinplatte. Von der freien Seite aus kann dann das Ergänzungsmaterial aufgetragen werden. Diese Art der Ergänzung wird insbesondere für Keramikgefäße angewandt und verlangt die Verwendung eines Ergänzungsmaterials, welches auch nach dem Aushärten/Abbinden noch gut mechanisch bearbeitet werden kann (z.B. Gips). ",CBDC4A,,FBFFF5,,,Q7|Q8,,,,
 
-D152G6,,4,Q2,beidseitige Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle von beiden Seiten (Außen- und Innenseite bei Gefäßen) umschlossen wird. Hierzu werden zwei Manschetten angefertigt, die jeweils die beiden Seiten der Fehlstelle abdecken. Auf diese Weise wird ein der Materialstärke des Objektes entsprechender Holraum erzeugen, der mit einem Ergänzungsmaterial ausgefüllt werden kann. Diese Ergänzungsvariante wird insbesondere für Glasobjekte verwendet. Auch bei der Wahl von Kunstharzen als Ergänzungsmaterial ist diese Variante zu bevorzugen, da Kunstharze nach dem Aushärten nur noch mit relativ großem Aufwand nachbearbeitet werden können.",CBDC4A,,,,,Q7|Q8,,,,
+D152G6,,4,Q2,beidseitige Manschettenergänzung,,,"Variante der Manschettenergänzung, bei der die Fehlstelle von beiden Seiten (Außen- und Innenseite bei Gefäßen) umschlossen wird. Hierzu werden zwei Manschetten angefertigt, die jeweils die beiden Seiten der Fehlstelle abdecken. Auf diese Weise wird ein der Materialstärke des Objektes entsprechender Holraum erzeugen, der mit einem Ergänzungsmaterial ausgefüllt werden kann. Diese Ergänzungsvariante wird insbesondere für Glasobjekte verwendet. Auch bei der Wahl von Kunstharzen als Ergänzungsmaterial ist diese Variante zu bevorzugen, da Kunstharze nach dem Aushärten nur noch mit relativ großem Aufwand nachbearbeitet werden können.",CBDC4A,,FBFFF5,,,Q7|Q8,,,,
 
-A6F2C7,,3,Q2,Tonkernergänzung,,,"Ergänzungsmethode für Objekte (i.d.R. Keramikgefäße), bei denen nur noch wenige Teile/Scherben erhalten sind. Voraussetzung ist ein durchgehendes Profil oder eine eindeutige Zuordnung des Objektes zu einer standartisierten Gefäßform. Durch die Ermittlung der ursprünglichen Innenform und dem Durchmesser des Gefäßes wird ein Tonkern angefertig, der diesen Maßen entspricht. Darauf werden die vorhandenen Objektteile/Scherben positioniert und die Fehlstellen durch Auftrag des Ergänzungsmaterials (meist Gips) gefüllt. Durch den Tonkern erhält das aufgetragene Ergänzungsmaterial bereits die ermittelte ursprüngliche Innenform des Objektes/Gefäßes, sodass lediglich die Außenform an die Form der erhaltenen Objektteile angeglichen werden muss. ",CGC619,,,,,Q7|Q8,,,,
+A6F2C7,,3,Q2,Tonkernergänzung,,,"Ergänzungsmethode für Objekte (i.d.R. Keramikgefäße), bei denen nur noch wenige Teile/Scherben erhalten sind. Voraussetzung ist ein durchgehendes Profil oder eine eindeutige Zuordnung des Objektes zu einer standartisierten Gefäßform. Durch die Ermittlung der ursprünglichen Innenform und dem Durchmesser des Gefäßes wird ein Tonkern angefertig, der diesen Maßen entspricht. Darauf werden die vorhandenen Objektteile/Scherben positioniert und die Fehlstellen durch Auftrag des Ergänzungsmaterials (meist Gips) gefüllt. Durch den Tonkern erhält das aufgetragene Ergänzungsmaterial bereits die ermittelte ursprüngliche Innenform des Objektes/Gefäßes, sodass lediglich die Außenform an die Form der erhaltenen Objektteile angeglichen werden muss. ",CGC619,,FBFFF5,,,Q7|Q8,,,,
 
 BD119A,,3,Q2,Retusche,Kolorieren|Färben,,"Methode zur farbigen Nachfassung ergänzter Bereiche um sie, im Vergleich zum originalen Material, weniger stark in den Vordergrund treten zu lassen. In der Regel werden die Ergänzungen im gleichen Farbton, aber eine Nuance heller als das original Material, eingefärbt.  ",CGC619,,,,,Q7|Q8,,,,
 
@@ -752,19 +764,19 @@ D865C3,,2,Q2,Rerestaurierung,Überarbeitung,,"Sammelbegriff für Methoden, die b
 
 C364G1,,1,Q2,Konservierungs- und Restaurierungsmaterialien,,restorationmaterial@en|conservationmaterial@en,strukturierender Sammelbegriff für sämtliche zur Konservierung und/oder Restaurierung eines Objektes verwendeter (Verbrauchs-)Materialien,CFGDA3,,,,,Q7|Q8,http://www.wikidata.org/entity/Q214609| http://terminology.lido-schema.org/lido00132,,,
 
-C421BF,,2,Q2,Lösungsmittel,Lösemittel,solvent@en,,C364G1,,,,,Q7|Q8,,,,
+C421BF,,2,Q2,Lösungsmittel,Lösemittel,solvent@en,"Substanz, die in der Lage ist andere Stoffe (Feststoffe, Flüssigkeiten oder Gase) zu lösen, ohne dabei selbst eine chemische Reaktion mit diesem Stoff einzugehen. Das Lösungsmittel bildet eine homogene Mischung (Lösung) mit dem gelösten Stoff, in der die Moleküle des gelösten Stoffes in der Matrix des Lösemittels fein verteilt sind. ",C364G1,,,,K34| K37,Q7|Q8,,,,
 
-G34563,,3,Q2,Benzin,,,,C421BF,,,,,Q7|Q8,,,,
+G34563,,3,Q2,Testbenzin,Lösungsbenzin| Benzin| Terpentinersatz| Siedegrenzbenzin,spirit@en,,C421BF,,,,K35,Q7|Q8,,,,
 
 DFD1B7,,3,Q2,Wasser,,,,C421BF,,,,,Q7|Q8,,,,
 
 CA3B92,,4,Q2,Leitungswasser,,,,DFD1B7,,,,,Q7|Q8,,,,
 
-B6C1A7,,4,Q2,Destilliertes Wasser,,,"Wasser, bei dem durch Erhitzen und Rekondensieren des Dampfes nahezu alle gelösten Mineralien, Salze und Verunreinigungen entfernt wurden. ",DFD1B7,,,,,Q7|Q8,,,,
+B6C1A7,,4,Q2,Destilliertes Wasser,,distilled water@en,"Wasser, bei dem durch Erhitzen und Rekondensieren des Dampfes nahezu alle gelösten Mineralien, Salze und Verunreinigungen entfernt wurden. ",DFD1B7,,,,,Q7|Q8,,,,
 
 BBF7BG,,4,Q2,Demineralisiertes Wasser ,Deionisiertes Wasser| vollentsalztes Wasser,,"Wasser, aus dem die meisten gelösten Mineralien entfernt wurden. Dies kann durch verschiedene Methoden erreicht werden. Je nach Grad der Reinheit wird demineralisiertes Wasser aus deionisiertes oder vollentsalztes Wasser genannt. Demineralisiertes Wasser unterscheidet sich von destilliertem Wasser durch möglicherweise im Wasser verbliebene apolare oder organische Stoffe.  ",DFD1B7,,,,,Q7|Q8,,,,
 
-D72F3A,,3,Q2,Aceton,,,,C421BF,,,,,Q7|Q8,,,,
+D72F3A,,3,Q2,Aceton,,,,C421BF,,,,,Q7|Q8,,,K35,
 
 BBA28A,,3,Q2,Ethanol,Spiritus,,,C421BF,,,,,Q7|Q8,,,,
 
@@ -780,9 +792,13 @@ G46243,,3,Q2,Propylacetat,,,,C421BF,,,,,Q7|Q8,,,,
 
 D347D6,,3,Q2,Terpentin,,,,C421BF,,,,,Q7|Q8,,,,
 
+BDG3D5,,3,Q2,Xylol,,,,C421BF,,,,,,,,,
+
 F87124,,2,Q2,Komplexbildner,,,,C364G1,,,,,Q7|Q8,,,,
 
 D9F9D8,,3,Q2,Ethylendiamintetraessigsäure,ETDA,,,F87124,,,,,Q7|Q8,,,,
+
+CC2F8A,,4,Q2,Titriplex III,,,,D9F9D8,,,,,,,,,
 
 F49B77,,3,Q2,Thioharnstoff,,,,F87124,,,,,Q7|Q8,,,,
 
@@ -796,7 +812,7 @@ A75619,,3,Q2,Natriumnitrit,,,,ACFF37,,,,,Q7|Q8,,,,
 
 F845F7,,3,Q2,Diethanolamin,,,,ACFF37,,,,,Q7|Q8,,,,
 
-B3FCA1,,2,Q2,Reduktionsmittel,,reducing agent@en,"chemische Substanz, die in der Restaurierung eingesetzt wird um Oxidation von Metallen zu reduzieren, Korrosionsprodukte zu entfernen und die ursprüngliche Erscheinung von Objekten wiederherzustellen. Die Substanz fungiert dabei als Eletronendonator (gibt Elektronen ab) und kann somit andere Substanzen reduzieren (Redoxreaktion).",C364G1,,,,https://www.wikidata.org/wiki/Q216830,Q7|Q8,http://vocab.getty.edu/page/aat/300380032,,,
+B3FCA1,,2,Q2,Reduktionsmittel,,reducing agent@en,"chemische Substanz, die in der Lage ist bei einer chemischen Reaktion andere Substanzen zu reduzieren. Das Reduktionsmittel fungiert dabei als Eletronendonator (gibt Elektronen ab) und wird somit selbst oxidiert (Redoxreaktion). In der Restaurierung werden Reduktionsmittel eingesetzt, um die ungewollte Oxidation von Metallen zu reduzieren, Korrosionsprodukte zu entfernen und die ursprüngliche Erscheinung von Objekten wiederherzustellen. ",C364G1,,,,K36,Q7|Q8,http://vocab.getty.edu/page/aat/300380032,,,
 
 D4A6D1,,3,Q2,Natriumborhydrid,NaBH4,,,B3FCA1,,,,,,,,,
 
@@ -806,7 +822,7 @@ CB3941,,3,Q2,Natriumdithionit,,,,B3FCA1,,,,,,,,,
 
 B614CD,,3,Q2,Natriumsulfit,,,,B3FCA1,,,,,,,,,
 
-A7C8CB,,3,Q2,Plasma,,,,B3FCA1,,,,,,,,,
+A7C8CB,,3,Q2,Plasma,,,"ionisiertes, energiereiches Gas, welches entweder durch hohe Temperaturen von mehreren 1000Â°C oder durch den Durchfluss elektrischen Stroms entsteht. Im Vergleich zu ""normalem"" Gas, das nicht ionisiert ist, unterscheides sich Plasma durch die Fähigkeit elektrischen Strom zu leiten. Dadurch ist es in der Lage magnetische Felder und elektromagnetische Wellen zu absorbieren, reflektieren und zu emmittieren und wird gleichzeitig selbst von diesen beeinflusst. In der Restaurierung kann Plasma zur Reduktion von Korrosionsprodukten in deren ursprünglichen metallischen Zustand verwendet werden. ",B3FCA1,,,,K14,,,,,
 
 BB7D84,,4,Q2,Stickstoffplasma,,,,A7C8CB,,,,,,,,,
 
@@ -816,7 +832,7 @@ CD75GD,,4,Q2,Methanplasma,,,,A7C8CB,,,,,,,,,
 
 CC687C,,4,Q2,Sauerstoffplasma,,,,A7C8CB,,,,,,,,,
 
-A2B746,,2,Q2,Base,,alkaline solution@en|base@en,"chemische Substanz, die in wässriger Lösung ein Proton aufnehmen oder ein freies Elektronenpaar abspalten kann. In der Restaurierung wird sie zur Reinigung, Stabilisierung und Konservierung von Objekten verwendet.",C364G1,,,,https://www.wikidata.org/wiki/Q11193,Q7|Q8,http://vocab.getty.edu/page/aat/300237910|https://cameo.mfa.org/wiki/Alkali,,,
+A2B746,,2,Q2,Base,,alkaline solution@en|base@en,"chemische Substanz, die in wässriger Lösung ein Proton aufnehmen oder ein freies Elektronenpaar abspalten kann. In der Restaurierung wird sie zur Reinigung, Stabilisierung und Konservierung von Objekten verwendet.",C364G1,,,,K36,Q7|Q8,http://vocab.getty.edu/page/aat/300237910|https://cameo.mfa.org/wiki/Alkali,,,
 
 AA8A54,,3,Q2,Thiosulfat,,,,A2B746,,,,,Q7|Q8,,,,
 
@@ -826,7 +842,7 @@ GG3G4B,,3,Q2,Natriumhydroxid,NaOH,,,A2B746,,,,,Q7|Q8,,,,
 
 CB2D46,,3,Q2,Natriumcarbonat,Na2CO3,,,A2B746,,,,,,,,,
 
-FGF575,,2,Q2,Säure,,acidic detergent@en|acid@en,"chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann. In der Restaurierung werden Säuren zur Reinigung, Entfernung von Korrosionsprodukten und Verkrustungen, sowie zur Stabilisierung und Konservierung verwendet.",C364G1,,,,https://www.wikidata.org/wiki/Q11158,Q7|Q8,http://vocab.getty.edu/page/aat/300011752|https://cameo.mfa.org/wiki/Acid,,,
+FGF575,,2,Q2,Säure,,acidic detergent@en|acid@en,"chemische Substanz, die in wässriger Lösung Protonen aus ihrer Wasserstoffverbindung abspalten oder ein freies Elektronenpaar aufnehmen kann. In der Restaurierung werden Säuren zur Reinigung, Entfernung von Korrosionsprodukten und Verkrustungen, sowie zur Stabilisierung und Konservierung verwendet.",C364G1,,,,K36,Q7|Q8,http://vocab.getty.edu/page/aat/300011752|https://cameo.mfa.org/wiki/Acid,,,
 
 F54686,,3,Q2,Ascorbinsäure,,,,FGF575,,B3FCA1,,,,,,,
 
@@ -842,17 +858,21 @@ AA69FB,,3,Q2,Ameisensäure,,formic acid@en,,FGF575,,,,,Q7|Q8,,,,
 
 GBC8AC,,3,Q2,Zitronensäure,,citric acid@en,,FGF575,,,,,Q7|Q8,,,,
 
-B7B8B6,,2,Q2,Adhäsivstoff,Klebemittel|Festigungsmittel| Bindemittel,,"Sammelbegriff für Materialien, die die Fähigkeit haben, andere Materialien durch Adhäsion (Haftung) zu verbinden. Adhäsivstoffe können sowohl in der Funktion des Klebens, des Festigens oder des Ergänzens als auch als schützender Überzug verwendet werden.",C364G1,,,,,,,,,
+B7B8B6,,2,Q2,Adhäsivstoff,Klebemittel|Festigungsmittel| Bindemittel,,"Sammelbegriff für Materialien, die die Fähigkeit haben, andere Materialien durch Adhäsion (Haftung) zu verbinden. Adhäsivstoffe werden in der Restaurierung sowohl für Klebungen, Festigungen, Ergänzungen als auch als schützender Überzug verwendet.",C364G1,,,,,,,,,
 
-A1D125,,3,Q2,synthetisches Polymer,,,,B7B8B6,,,,,Q7|Q8,,,,
+A1D125,,3,Q2,synthetisches Polymer,Kunststoff,synthetic polymer@en,"Durch Polymerisation von einem oder mehreren kleineren Einheiten, sog. Monomeren, künstlich hergestellter großer, langkettiger Molekülverbund. ",B7B8B6,,,,K26| K27| K34,Q7|Q8,,,,
 
 CD13GA,,4,Q2,Cyclododecan,,,,A1D125,,,,,Q7|Q8,,,,
 
 AF31AG,,4,Q2,Epoxidharz,,,,A1D125,,,,,Q7|Q8,,,,
 
-D2D671,,5,Q2,Araldit 20/20,Araldit 2020| Araldite 2020,,,AF31AG,,,,,,,,,
+D2D671,,5,Q2,Araldite 2020,Araldit 20/20| Araldite 2020,,"Produktname eines niedrigviskosen, bei Raumtemperatur aushärtenden Zweikomponenten-Systems auf Epoxidharzbasis der Firma Huntsman Corporation. Araldit 20/20 wird aus zwei Komponenten (Harz A und Härter B) angemischt und wurde speziell für das Kleben, Vergießen und Beschichten von Glas und ähnlichen Materialien entwickelt. Es zeichnet sich durch eine gute Haftung, Beständigkeit und hohe Transparenz aus. Araldite 20/20 zeigt eine ähnliche Lichtbrechung wie Glas, wodurch es bei der Verwendung als Glasklebstoff die geklebten Bruchkanten weniger bis kaum sichtbar erscheinen lässt. ",AF31AG,,,,https://www.ruderer.de/fileadmin/Dokumente/Araldite_2020.pdf,,,,,
 
-A57386,,5,Q2,Araldit BY 158,,,,AF31AG,,,,,,,,,
+A57386,,5,Q2,Araldit BY 158,,,"Produktname eines niedrigviskosen Epoxidharzes der Firma Huntsman Corporation, basierend auf Bisphenol-A und einem reaktiven Verdünnungsmittel. In Kombination mit aliphatischen und/oder cycloaliphatischen Aminen wird Araldite BY 158 vor allem in industriellen Injektionssystemen verwendet, um stabile und widerstandsfähige Verbindungen zu schaffen.",AF31AG,,,,https://info.lindberg-lund.no/produktblad/Norge/4-6%20TD/ARA-158.pdf,,,,,
+
+DAA17A,,5,Q2,Araldit SV 426,,,,AF31AG,,,,,,,,,
+
+D5F7BC,,5,Q2,Araldit AY 103,,,,AF31AG,,,,,,,,,
 
 C3G438,,5,Q2,UHU Plus Schnellfest,,,,AF31AG,,,,,,,,,
 
@@ -866,7 +886,7 @@ F5G8DB,,5,Q2,Ebalta AH 100,AH 100,,,AF31AG,,,,,,,,,
 
 A99485,,5,Q2,Biresin LS/LM,,,,AF31AG,,,,,,,,,
 
-GFD582,,4,Q2,Acrylharz,,,,A1D125,,,,,Q7|Q8,,,,
+GFD582,,4,Q2,Acrylharz,,acrylic resin@en| polyacrylate@en,,A1D125,,,,,Q7|Q8,http://vocab.getty.edu/page/aat/300014426,,,
 
 A14455,,5,Q2,Paraloid B72,,,,GFD582,,,,,,,,,
 
@@ -884,6 +904,8 @@ B69C57,,5,Q2,Acrylic One,,,,GFD582,,,,,,,,,
 
 CG2863,,5,Q2,Ebacryl,,,,GFD582,,,,,,,,,
 
+C4A859,,5,Q2,Plastogen G,,,,GFD582,,,,,,,,,
+
 D9F783,,4,Q2,Cyanacrylat,,cyanacrylate@en,,A1D125,,,,,Q7|Q8,,,,
 
 F584FC,,5,Q2,Loctite,,,,D9F783,,,,,,,,,
@@ -894,9 +916,13 @@ A974A4,,5,Q2,Mowital B30H,,,,B572B5,,,,,,,,,
 
 F97896,,5,Q2,Mowital B60H,,,,B572B5,,,,,,,,,
 
-DF5773,,4,Q2,Polyvinylacetat,,,,A1D125,,,,,Q7|Q16|Q8,,,,
+DF5773,,4,Q2,Polyvinylacetat,PVAC,polyvinyl acetate@en,"durch radikalische Polymerisation von Vinylacetat-Monomeren hergestelltes thermoplastisches Polymer, das in fester oder flüssiger Form (als wässrige Dispersion oder Emulsion) bezogen werden kann. PVAC wird in der Restaurierung häuptsächlich als Klebstoff und als Schutzüberzug verwendet. ",A1D125,,,,K34|K38,Q7|Q16|Q8,https://cameo.mfa.org/wiki/Polyvinyl_acetate| http://vocab.getty.edu/page/aat/300014507 ,,,
 
-A447D9,,5,Q2,Mowilith,,,,DF5773,,,,,,,,,
+A447D9,,5,Q2,Mowilith 50,,,,DF5773,,,,,,,,,
+
+F16511,,5,Q2,Mowilith D025,,,,DF5773,,,,,,,,,
+
+A42BD6,,5,Q2,Ponal Classic,,,"Produktname einer wässrigen Polyvinylacetat-Dispersion, hergestellt von der Firma Henkel. ",DF5773,,,,https://epos.henkel.com/media/e9c8648a451fb9327893b72a85b8216d/Ponal_Classic/sds_ponal_classic_de.pdf ,,,,,
 
 C838C1,,4,Q2,Polyvinylalkohol,,,,A1D125,,,,,Q7|Q17|Q8,,,,
 
@@ -908,7 +934,9 @@ DD4B75,,6,Q2,Klucel G,,,,A44D5F,,,,,,,,,
 
 F84988,,6,Q2,Methocel A4C,,,,A44D5F,,,,,,,,,
 
-GC7998,,5,Q2,Cellulosenitrat,,,,D41661,,,,,Q7|Q8,,,,
+GC7998,,5,Q2,Cellulosenitrat,Nitrocellulose,cellulose nitrate@en| nitrocellulose@en,,D41661,,,,,Q7|Q8,,,,
+
+FD8AG2,,6,Q2,PantarolÂ® Metallschutz Nr. 100,,,Produktname eines farblosen Harzes auf Cellulosenitrat-Epoxidharz-Basis der Firma Edelweiss Industrielacke Lutzenberger GmbH.,GC7998,,,,https://www.pantarol.de/shop/metallschutz-innenbereich/pantarol-r-metallschutz-farblos-nr.-100/,,,,,
 
 C65F47,,6,Q2,Mecosan L-TR,,,,GC7998,,,,,,,,,
 
@@ -920,15 +948,18 @@ F89522,,4,Q2,Polyethylenglycol,PEG,,,A1D125,,,,,Q7|Q16|Q8,,,,
 
 DF633G,,4,Q2,Melamin-Formaldehydharz,Melaminharz,,"Durch Polykondensation von Melamin und Formaldehyd hergestellter Kunststoff, der hauptsächlich für die Konservierung archäologischer Hölzer verwendet wird. Melaminharze ist durchsichtig, lichtecht und wasserfest, zusätzlich weist es eine hohe mechanische Festigkeit sowie eine gute chemische Beständigkeit gegen schwache Laugen und Lösemittel auf. ",A1D125,,,,K24,Q7|Q16|Q8,,,,
 
-BGACD3,,5,Q2,Arigal C,,,,DF633G,,,,,,,,,
+BGACD3,,5,Q2,Arigal C,,,"Produktname eines wasserverdünnbaren Melamin-Formaldehydkondensats der Firma Ciba. Es wurde in den 70er Jahren für die Konservierung von archäologischen Hölzern verwendet, dann allerdings vom Markt genommen und durch das Nachfolgerprodukt Lyfix DML ersetzt. ",DF633G,,,,K7,Q7|Q8,,,"H. Müller-Beck/A. Haas, A method for wood preservation using Arigal C. In: Studies in Conservation 5/4 (1960), 150 — 158.",
 
 D2F2D5,,5,Q2,Lyfix DML,,,,DF633G,,,,,,,,,
 
-FF4767,,5,Q2,Lyofix CHM,,,,DF633G,,,,,,,,,
+FF4767,,5,Q2,Lyofix CHN,,,,DF633G,,,,,,,,,
 
-BFB162,,5,Q2,Kauramin CE5549,,,,DF633G,,,,,,,,,
+C4D6G3,,5,Q2,KauraminÂ® Tränkharz 800,Kauramin CE5549,,"Produktname des wasserverdünnbaren Melamin-Formaldehydharzes der Firma BASF. Wurde vormals unter der Bezeichnung Kauramin CE 5549 im Jahr 1936 auf den Markt gebracht und nach erfolgreicher Bewährung in Kauramin Tränkharz 800 umbenannt. Im Jahr 2023 wurde das Produkt vom Markt genommen und durch das Nachfolgeprodukt Kauramin Tränkharz 801 ersetzt. 
+",DF633G,,,,K18,Q16|Q8,,,,
 
-C4D6G3,,5,Q2,Kauramin 800,,,,DF633G,,,,,,,,,
+BFB162,,5,Q2,Kauramin CE 5549,,,Begriff aussortiert!,DF633G,,,,,,,,,
+
+B6CAB5,,5,Q2,KauraminÂ® Tränkharz 801,,,,DF633G,,,,,,,,,
 
 F8A93F,,4,Q2,Polyesterharz,,,,A1D125,,,,,Q7|Q17|Q8,,,,
 
@@ -940,7 +971,7 @@ A3G356,,4,Q2,Polyurethan,,,,A1D125,,,,,Q7|Q16|Q8,,,,
 
 C4D888,,4,Q2,Polyethylenglycol,PEG,,,A1D125,,,,,Q7|Q8,,,,
 
-AG2965,,3,Q2,natürliches Polymer,Naturharz,,"Oberbegriff für Materialien, die aus natürlichen Quellen stammen, leicht bis garnicht synthetisch modifiziert wurden und vielseitig einsetzbar sind. Diese Stoffe wurden vor allem in den Anfängen der Restaurierungsgeschichte, bevor synthetische Polymere in breiter Bandbreite zur Verfügung standen, häufig zum Kleben und Stabilisieren von Objekten eingesetzt. In der modernen Restaurierung spielen sie eher eine untergeordnete Rollen, finden jedoch nach wie vor vereinzelt Verwendung.",B7B8B6,,,,,Q7|Q8,,,,
+AG2965,,3,Q2,natürliches Polymer,Naturharz,,"Oberbegriff für Polymere, die aus natürlichen Quellen stammen, leicht bis garnicht synthetisch modifiziert wurden und vielseitig einsetzbar sind. Diese Stoffe wurden vor allem in den Anfängen der Restaurierungsgeschichte, bevor synthetische Polymere in breiter Bandbreite zur Verfügung standen, häufig zum Kleben und Stabilisieren von Objekten eingesetzt. In der modernen Restaurierung spielen sie eher eine untergeordnete Rollen, finden jedoch nach wie vor vereinzelt Verwendung.",B7B8B6,,,,,Q7|Q8,,,,
 
 C176FC,,4,Q2,Schellack,,,,AG2965,,,,,Q7|Q8,,,,
 
@@ -998,7 +1029,7 @@ AC1C85,,5,Q2,Nedsil 20 TLV A,,,,GD9CA3,,,,,,,,,
 
 C5G53A,,3,Q2,Dentalsilikon,,,,FBFFF5,,,,,,,,,
 
-D7A4BC,,3,Q2,Fett,,,,FBFFF5,,,,,Q7|Q17|Q8,,,,
+D7A4BC,,3,Q2,Fett,,,"bei Raumtemeperatur fester Stoff, der aus einem Gemisch aus Triglyceriden mit Estern von Fettsäuren besteht. In der Restaurierung werden Fette haupstächlich als Schmier- bzw. Trennmittel z.B. bei der Abformung von Objekten verwendet.",FBFFF5,,,,K36,Q7|Q17|Q8,,,,
 
 D81175,,4,Q2,Vaseline,,,,D7A4BC,,,,,Q7|Q8,,,,
 
@@ -1052,11 +1083,13 @@ CCCC7G,,2,Q2,Ãl,,,,C364G1,,,,,Q7|Q17|Q8,,,,
 
 G44C1A,,3,Q2,Leinöl,,,,CCCC7G,,,,,Q7|Q8,,,,
 
-A28B4D,,3,Q2,Auro Naturharzölimpregniergrund Nr 121,Auro Ãl| Holzöl,,,CCCC7G,,,,,,,,,
+A28B4D,,3,Q2,Auro Naturharzölimpregniergrund Nr. 121,Auro Ãl| Holzöl,,,CCCC7G,,,,,,,,,
 
-AFD671,,2,Q2,farbgebendes Material,,,,C364G1,,,,,,,,,
+F3DB41,,3,Q2,Auro Hartöl Nr. 126,Holzöl,,,CCCC7G,,,,,,,,,
 
-F64B9C,,3,Q2,Pigment,,,,AFD671,,,,,Q7|Q17|Q8,,,,
+AFD671,,2,Q2,Farbstoff,farbgebendes Material,colourant@en,"Material, das zur Erzeugung einer Färbung verwendet wird.",C364G1,,,,,,,,,
+
+F64B9C,,3,Q2,Pigment,,pigment@en,"feiner, als Feststoff vorliegender Farbstoff, der zur Einfärbung anderer Materialien in diesen suspendiert oder ein/aufgerieben wird.",AFD671,,,,K26| K36,Q7|Q17|Q8,,,,
 
 G5733B,,3,Q2,Dispersionsfarbe,,,,AFD671,,,,,,,,,
 
@@ -1070,13 +1103,13 @@ F49579,,3,Q2,Blattgold,,,,AFD671,,,,,,,,,
 
 C1G6C8,,3,Q2,Blattsilber,,,,AFD671,,,,,,,,,
 
-ADD53A,,2,Q2,Strahlgut,,,,C364G1,,,,,Q7|Q8,,,,
+ADD53A,,2,Q2,Strahlmittel,Strahlgut| Feinstrahlmittel,,"feinkörnige Substanz, die für die Methode des Feinstrahlens in einem Strahlgerät verwendet wird. Je nach Objektzustand und dem angestrebten Ergebnis stehen härtere oder weichere, kugelige oder kantige Strahlmittel zur Verfügung. Im Bereich der Restaurierung haben sich vor allem mineralische und organische Strahlmittel etabliert.",C364G1,,,,K19,Q7|Q8,,,,
 
-DF9GCF,,3,Q2,Edelkorund,,,,ADD53A,,,,,Q7|Q8,,,,
+DF9GCF,,3,Q2,Edelkorund,,,"synthetisch hergestelltes Feinstrahlmittel aus nahezu reinem Aluminiumoxyd. Korund weist eine hohe Härte und spitz bizarre Kornform auf, wodurch es in der Verwendung als Strahlmittel eine stark abrasive Wirkung zeigt. In der Restaurierung wird Korund vor allem für die Freilegung von metallischen Korrosionsprodukten verwendet.",ADD53A,,,,K19,Q7|Q8,,,,
 
-FGB66B,,3,Q2,Glasperlen,,,,ADD53A,,,,,Q7|Q8,,,,
+FGB66B,,3,Q2,Glasperlen,,,"feinkugeliges Feinstrahlmittel aus Natronglas. Im Vergleich zu Edelkorund zeigen Glasperlen als Strahlmittel eine weniger stark abrasive Wirkung und sind daher besonders für die Reinigung/Freilegung empfindlicherer Oberflächen geeignet. Durch die kugelige Form wird zudem eine ""Hämmerwirkung"" erzielt, die zur leichten Verdichtung der Oberflächen bei metallischen Objekten führt.",ADD53A,,,,K19,Q7|Q8,,,,
 
-B71F12,,3,Q2,Walnussschalenganulat,,,,ADD53A,,,,,Q7|Q8,,,,
+B71F12,,3,Q2,Walnussschalenganulat,,,"organisches Strahlmittel aus den Schalen der Walnuss. Trotz der geringen Härte besitzen Walsnussschalen eine hohe Festigkeit, wodurch sie besonders gut für einen leichten und schonenden Reinigungseffekt empfindlicher Materialien geeignet sind. ",ADD53A,,,,K19,Q7|Q8,,,,
 
 D9G356,,2,Q2,Lager- und Verpackungsmaterial,,,,C364G1,,,,,,,,,
 
@@ -1100,7 +1133,13 @@ A33F4B,,3,Q2,Seidenpapier,,,,D9G356,,,,,Q7|Q8,,,,
 
 DAG754,,3,Q2,Kartonage,,,,D9G356,,,,,Q7|Q8,,,,
 
-F432G4,,3,Q2,Tyvek,,,,D9G356,,,,,Q7|Q8,,,,
+F432G4,,3,Q2,Tyvek,,,,D9G356,D9G356,,,,Q7|Q8,,,,
+
+C38B35,,3,Q2,Trockenmittel,,,,D9G356,D9G356,,,,,,,,
+
+A8B27G,,4,Q2,Silicagel,,,,C38B35,,,,,,,,,
+
+B33968,,4,Q2,Molekularsiebe,,,,C38B35,,,,,,,,,
 
 C93638,,1,Q2,Werkzeuge,,,,CFGDA3,,,,,Q7|Q8,http://www.wikidata.org/entity/Q39546,,,
 
