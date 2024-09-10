@@ -5,7 +5,7 @@
     "de": "Kopieherstellung"
   },
   "definition": {
-    "de": "Methode, bei der das gewählte Material, aus dem die Kopie bestehen soll, in die Form eingefüllt wird. Dies kann durch Gießen, Aufpinseln, Laminieren erfolgen. Der Kopieherstellung geht die Abformung eines Objektes voraus. "
+    "de": "Methode, bei der aus der zuvor hergestellten Form (analog oder digital) ein dem Aussehen des originalen Objektes entsprechendes neues Objekt hergestellt wird. "
   },
   "notation": [
     "F8F7CF"
@@ -20,7 +20,7 @@
     {
       "id": "http://leiza.de/thesaurus/D772G6",
       "prefLabel": {
-        "de": "Digitale Kopieerstellung"
+        "de": "3D-Druckverfahren"
       }
     },
     {

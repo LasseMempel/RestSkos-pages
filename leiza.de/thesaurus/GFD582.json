@@ -15,6 +15,18 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/A1C48C",
+      "prefLabel": {
+        "de": "Lascaux 498 HY"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/A64281",
+      "prefLabel": {
+        "de": "Technovit 2000 LC"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/B15G98",
       "prefLabel": {
         "de": "Kallocryl"
@@ -39,6 +51,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/C622FG",
+      "prefLabel": {
+        "de": "Plastogen EP"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/C77887",
       "prefLabel": {
         "de": "Acrystal"
@@ -57,9 +75,21 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/D5B73B",
+      "prefLabel": {
+        "de": "Plexisol B 597"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/G23A9A",
       "prefLabel": {
         "de": "Technovit 5071"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/GBA321",
+      "prefLabel": {
+        "de": "Plexigum"
       }
     }
   ],

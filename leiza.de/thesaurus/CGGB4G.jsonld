@@ -4,6 +4,11 @@
   "prefLabel": {
     "de": "Feldspat"
   },
+  "altLabel": {
+    "de": [
+      "    +"
+    ]
+  },
   "notation": [
     "CGGB4G"
   ],

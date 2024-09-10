@@ -43,6 +43,12 @@
       "prefLabel": {
         "de": "Graphit"
       }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/G2G253",
+      "prefLabel": {
+        "de": "Kreide"
+      }
     }
   ],
   "broader": {

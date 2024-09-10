@@ -30,6 +30,12 @@
       }
     },
     {
+      "id": "http://leiza.de/thesaurus/F75BDB",
+      "prefLabel": {
+        "de": "Beryll"
+      }
+    },
+    {
       "id": "http://leiza.de/thesaurus/A986F9",
       "prefLabel": {
         "de": "Augit"
@@ -57,6 +63,12 @@
       "id": "http://leiza.de/thesaurus/B86DFC",
       "prefLabel": {
         "de": "Olivin"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/AD3B58",
+      "prefLabel": {
+        "de": "Korund"
       }
     },
     {
@@ -117,6 +129,12 @@
       "id": "http://leiza.de/thesaurus/F68381",
       "prefLabel": {
         "de": "Jadeit"
+      }
+    },
+    {
+      "id": "http://leiza.de/thesaurus/FD27A8",
+      "prefLabel": {
+        "de": "Fluorit"
       }
     }
   ],
