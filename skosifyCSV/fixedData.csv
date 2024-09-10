@@ -202,7 +202,23 @@ BBA96A,,5,Q2,Karneol,,,,C81F4D,,,,,Q7|Q8,,,,
 
 B9A8BF,,4,Q2,Bergkristall,,,,C84834,,,,,Q7|Q8,,,,
 
-CGGB4G,,3,Q2,Feldspat,,,,BGC9F3,,,,,Q7|Q8,,,,
+AD3B58,,3,Q2,Korund,,,,BGC9F3,,,,,,,,,
+
+D75514,,4,Q2,Rubin,,,,AD3B58,,,,,,,,,
+
+BC5A3C,,4,Q2,Saphir,,,"typischerweise blaue - hellblaue Varietät des Korunds, seltener grün bis gelbliche Färbungen. Die Färbung ist auf Einschlüsse von Eisen und Titan zurückzuführen. Saphir bricht in muschelig,splittriger Form, besitzt die Mohshärte 9 und zeigt keine Lumineszenz. ",AD3B58,,,,K18,,,,,
+
+F75BDB,,3,Q2,Beryll,,,,BGC9F3,,,,,,,,,
+
+A72G88,,4,Q2,Smaragd,,,,F75BDB,,,,,,,,,
+
+F43643,,4,Q2,Aquamarin,,,,F75BDB,,,,,,,,,
+
+G98D28,,4,Q2,Morganit,,,,F75BDB,,,,,,,,,
+
+FD27A8,,3,Q2,Fluorit,Flussspat,,,BGC9F3,,,,,,,,,
+
+CGGB4G,,3,Q2,Feldspat,    +,,,BGC9F3,,,,,Q7|Q8,,,,
 
 B86DFC,,3,Q2,Olivin,,,,BGC9F3,,,,,Q7|Q8,,,,
 
@@ -776,7 +792,7 @@ B6C1A7,,4,Q2,Destilliertes Wasser,,distilled water@en,"Wasser, bei dem durch Erh
 
 BBF7BG,,4,Q2,Demineralisiertes Wasser ,Deionisiertes Wasser| vollentsalztes Wasser,,"Wasser, aus dem die meisten gelösten Mineralien entfernt wurden. Dies kann durch verschiedene Methoden erreicht werden. Je nach Grad der Reinheit wird demineralisiertes Wasser aus deionisiertes oder vollentsalztes Wasser genannt. Demineralisiertes Wasser unterscheidet sich von destilliertem Wasser durch möglicherweise im Wasser verbliebene apolare oder organische Stoffe.  ",DFD1B7,,,,,Q7|Q8,,,,
 
-D72F3A,,3,Q2,Aceton,,,,C421BF,,,,,Q7|Q8,,,K35,
+D72F3A,,3,Q2,Aceton,,,,C421BF,,,,https://www.gischem.de/download/01_0-000067-64-1-000000_7_1_2121.PDF,Q7|Q8,,,K35,
 
 BBA28A,,3,Q2,Ethanol,Spiritus,,,C421BF,,,,,Q7|Q8,,,,
 
@@ -874,6 +890,8 @@ DAA17A,,5,Q2,Araldit SV 426,,,,AF31AG,,,,,,,,,
 
 D5F7BC,,5,Q2,Araldit AY 103,,,,AF31AG,,,,,,,,,
 
+D8B3D6,,5,Q2,Araldit XB 260,,,,AF31AG,,,,,,,,,
+
 C3G438,,5,Q2,UHU Plus Schnellfest,,,,AF31AG,,,,,,,,,
 
 G12F98,,5,Q2,Uhu Plus Endfest 300,,,,AF31AG,,,,,,,,,
@@ -898,13 +916,23 @@ B15G98,,5,Q2,Kallocryl,,,,GFD582,,,,,,,,,
 
 G23A9A,,5,Q2,Technovit 5071,,,,GFD582,,,,,,,,,
 
+A64281,,5,Q2,Technovit 2000 LC,,,Produktname eines lichthärtendes Methacrylharzes der Firma Heraeus Kulzer GmbH und Co. KG,GFD582,,,,,,,,,
+
 C77887,,5,Q2,Acrystal,,,,GFD582,,,,,,,,,
 
 B69C57,,5,Q2,Acrylic One,,,,GFD582,,,,,,,,,
 
 CG2863,,5,Q2,Ebacryl,,,,GFD582,,,,,,,,,
 
-C4A859,,5,Q2,Plastogen G,,,,GFD582,,,,,,,,,
+C4A859,,5,Q2,Plastogen G,,,Methylmethacrylat,GFD582,,,,,,,,,
+
+C622FG,,5,Q2,Plastogen EP,,,,GFD582,,,,,,,,,
+
+GBA321,,5,Q2,Plexigum,,,,GFD582,,,,,,,,,
+
+A1C48C,,5,Q2,Lascaux 498 HY,,,,GFD582,,,,,,,,,
+
+D5B73B,,5,Q2,Plexisol B 597,,,,GFD582,,,,,,,,,
 
 D9F783,,4,Q2,Cyanacrylat,,cyanacrylate@en,,A1D125,,,,,Q7|Q8,,,,
 
@@ -921,6 +949,8 @@ DF5773,,4,Q2,Polyvinylacetat,PVAC,polyvinyl acetate@en,"durch radikalische Polym
 A447D9,,5,Q2,Mowilith 50,,,,DF5773,,,,,,,,,
 
 F16511,,5,Q2,Mowilith D025,,,,DF5773,,,,,,,,,
+
+AF8F61,,5,Q2,Mowilith DV,,,,DF5773,,,,,,,,,
 
 A42BD6,,5,Q2,Ponal Classic,,,"Produktname einer wässrigen Polyvinylacetat-Dispersion, hergestellt von der Firma Henkel. ",DF5773,,,,https://epos.henkel.com/media/e9c8648a451fb9327893b72a85b8216d/Ponal_Classic/sds_ponal_classic_de.pdf ,,,,,
 
@@ -954,8 +984,7 @@ D2F2D5,,5,Q2,Lyfix DML,,,,DF633G,,,,,,,,,
 
 FF4767,,5,Q2,Lyofix CHN,,,,DF633G,,,,,,,,,
 
-C4D6G3,,5,Q2,KauraminÂ® Tränkharz 800,Kauramin CE5549,,"Produktname des wasserverdünnbaren Melamin-Formaldehydharzes der Firma BASF. Wurde vormals unter der Bezeichnung Kauramin CE 5549 im Jahr 1936 auf den Markt gebracht und nach erfolgreicher Bewährung in Kauramin Tränkharz 800 umbenannt. Im Jahr 2023 wurde das Produkt vom Markt genommen und durch das Nachfolgeprodukt Kauramin Tränkharz 801 ersetzt. 
-",DF633G,,,,K18,Q16|Q8,,,,
+C4D6G3,,5,Q2,KauraminÂ® Tränkharz 800,Kauramin CE5549,,Produktname des wasserverdünnbaren Melamin-Formaldehydharzes der Firma BASF. Wurde vormals unter der Bezeichnung Kauramin CE 5549 im Jahr 1936 auf den Markt gebracht und nach erfolgreicher Bewährung in Kauramin Tränkharz 800 umbenannt. Im Jahr 2023 wurde das Produkt vom Markt genommen und durch das Nachfolgeprodukt Kauramin Tränkharz 801 ersetzt.,DF633G,,,,K18,Q16|Q8,,,,
 
 BFB162,,5,Q2,Kauramin CE 5549,,,Begriff aussortiert!,DF633G,,,,,,,,,
 
@@ -1078,6 +1107,8 @@ BFB3B9,,3,Q2,Talkum,,talcum powder@en,,BB78D2,,,,,Q7|Q17|Q8,,,,
 DA86F8,,3,Q2,Pyrogenes Siliziumdioxid,pyrogene Kieselsäure| Aerosil,fumed silica@en,,BB78D2,BB78D2,,,,Q7|Q17|Q8,,,,
 
 A17G33,,3,Q2,Holzmehl,,,,BB78D2,BB78D2,,,,Q7|Q8,,,,
+
+G2G253,,3,Q2,Kreide,,,,BB78D2,,,,,,,,,
 
 CCCC7G,,2,Q2,Ãl,,,,C364G1,,,,,Q7|Q17|Q8,,,,
 
@@ -1261,13 +1292,13 @@ B14489,,5,Q2,3D-Scan,,,,GC14B8,,,,,Q7|Q8,,,,
 
 G734B3,,5,Q2,Photogrammetrie,,,,GC14B8,,,,,Q7|Q8,,,,
 
-F8F7CF,,3,Q2,Kopieherstellung,,,"Methode, bei der das gewählte Material, aus dem die Kopie bestehen soll, in die Form eingefüllt wird. Dies kann durch Gießen, Aufpinseln, Laminieren erfolgen. Der Kopieherstellung geht die Abformung eines Objektes voraus. ",G79CAC,,DAG2A8,,,Q7|Q8,,,,
+F8F7CF,,3,Q2,Kopieherstellung,,,"Methode, bei der aus der zuvor hergestellten Form (analog oder digital) ein dem Aussehen des originalen Objektes entsprechendes neues Objekt hergestellt wird. ",G79CAC,,DAG2A8,,,Q7|Q8,,,,
 
 D9F7AC,,4,Q2,Formausguss,,,,F8F7CF,,,,,Q7|Q8,,,,
 
 BAB7B1,,4,Q2,Galvanisieren,,,,F8F7CF,,,,,Q7|Q8,,,,
 
-D772G6,,4,Q2,Digitale Kopieerstellung,,,,F8F7CF,,,,,Q7|Q8,,,,
+D772G6,,4,Q2,3D-Druckverfahren,,,,F8F7CF,,,,,Q7|Q8,,,,
 
 FA2332,,3,Q2,Rekonstruktion (Methode),,,Methode zur Wiederherstellung und/oder Nachbildung eines ursprünglichen Zustandes. Die Rekonstruktion kann sowohl auf Grundlage einer analogen als auch einer digitalen Kopie erfolgen.,G79CAC,,,,,Q7|Q8,,,,
 

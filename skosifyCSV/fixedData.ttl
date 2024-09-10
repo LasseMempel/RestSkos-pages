@@ -70,6 +70,12 @@
     ns1:notation "A1B449" ;
     ns1:prefLabel "Ausspülung"@de .
 
+<http://leiza.de/thesaurus/A1C48C> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/GFD582> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "A1C48C" ;
+    ns1:prefLabel "Lascaux 498 HY"@de .
+
 <http://leiza.de/thesaurus/A2159C> a ns1:Concept ;
     ns1:altLabel "Rindenbast"@de ;
     ns1:broader <http://leiza.de/thesaurus/DD9C25> ;
@@ -275,6 +281,13 @@
     ns1:notation "A5G856" ;
     ns1:prefLabel "Baumwolle"@de .
 
+<http://leiza.de/thesaurus/A64281> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/GFD582> ;
+    ns1:definition "Produktname eines lichthärtendes Methacrylharzes der Firma Heraeus Kulzer GmbH und Co. KG"@de ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "A64281" ;
+    ns1:prefLabel "Technovit 2000 LC"@de .
+
 <http://leiza.de/thesaurus/A6A248> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/G814D2> ;
     ns1:definition "Freilegung der originalen Objektoberfläche durch Verwendung von Maschinen/ maschinellen Geräten"@de ;
@@ -307,6 +320,12 @@
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "A6FA7G" ;
     ns1:prefLabel "inkrustiert"@de .
+
+<http://leiza.de/thesaurus/A72G88> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/F75BDB> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "A72G88" ;
+    ns1:prefLabel "Smaragd"@de .
 
 <http://leiza.de/thesaurus/A73FD7> a ns1:Concept ;
     ns1:altLabel "Pinus silvestris"@de ;
@@ -738,6 +757,12 @@
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "AF7CC8" ;
     ns1:prefLabel "Hohlraum"@de .
+
+<http://leiza.de/thesaurus/AF8F61> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/DF5773> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "AF8F61" ;
+    ns1:prefLabel "Mowilith DV"@de .
 
 <http://leiza.de/thesaurus/AFC696> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/C421BF> ;
@@ -1291,6 +1316,14 @@
     ns1:notation "BC1DCG" ;
     ns1:prefLabel "Verhärtung"@de .
 
+<http://leiza.de/thesaurus/BC5A3C> a ns1:Concept ;
+    ns2:source "K18" ;
+    ns1:broader <http://leiza.de/thesaurus/AD3B58> ;
+    ns1:definition "typischerweise blaue - hellblaue Varietät des Korunds, seltener grün bis gelbliche Färbungen. Die Färbung ist auf Einschlüsse von Eisen und Titan zurückzuführen. Saphir bricht in muschelig,splittriger Form, besitzt die Mohshärte 9 und zeigt keine Lumineszenz. "@de ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "BC5A3C" ;
+    ns1:prefLabel "Saphir"@de .
+
 <http://leiza.de/thesaurus/BC685F> a ns1:Concept ;
     ns1:altLabel "Leinen"@de ;
     ns1:broader <http://leiza.de/thesaurus/DD9C25> ;
@@ -1677,6 +1710,7 @@
 
 <http://leiza.de/thesaurus/C4A859> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/GFD582> ;
+    ns1:definition "Methylmethacrylat"@de ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "C4A859" ;
     ns1:prefLabel "Plastogen G"@de .
@@ -1778,6 +1812,12 @@
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "C61955" ;
     ns1:prefLabel "Kerbschnittdekor"@de .
+
+<http://leiza.de/thesaurus/C622FG> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/GFD582> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "C622FG" ;
+    ns1:prefLabel "Plastogen EP"@de .
 
 <http://leiza.de/thesaurus/C632FD> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/G5733B> ;
@@ -2166,6 +2206,7 @@
     ns1:prefLabel "gewirkt"@de .
 
 <http://leiza.de/thesaurus/CGGB4G> a ns1:Concept ;
+    ns1:altLabel "    +"@de ;
     ns1:broader <http://leiza.de/thesaurus/BGC9F3> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "CGGB4G" ;
@@ -2442,6 +2483,12 @@
     ns1:notation "D57G1G" ;
     ns1:prefLabel "Nessel"@de .
 
+<http://leiza.de/thesaurus/D5B73B> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/GFD582> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "D5B73B" ;
+    ns1:prefLabel "Plexisol B 597"@de .
+
 <http://leiza.de/thesaurus/D5F7BC> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/AF31AG> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
@@ -2520,6 +2567,7 @@
     ns1:prefLabel "Illit"@de .
 
 <http://leiza.de/thesaurus/D72F3A> a ns1:Concept ;
+    ns2:source "https://www.gischem.de/download/01_0-000067-64-1-000000_7_1_2121.PDF" ;
     rdfs:seeAlso "K35" ;
     ns1:broader <http://leiza.de/thesaurus/C421BF> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
@@ -2544,6 +2592,12 @@
     ns1:notation "D74F16" ;
     ns1:prefLabel "Staubablagerung"@de .
 
+<http://leiza.de/thesaurus/D75514> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/AD3B58> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "D75514" ;
+    ns1:prefLabel "Rubin"@de .
+
 <http://leiza.de/thesaurus/D75A3A> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/AGG387> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
@@ -2560,7 +2614,7 @@
     ns1:broader <http://leiza.de/thesaurus/F8F7CF> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "D772G6" ;
-    ns1:prefLabel "Digitale Kopieerstellung"@de .
+    ns1:prefLabel "3D-Druckverfahren"@de .
 
 <http://leiza.de/thesaurus/D78721> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/F5G576> ;
@@ -2610,6 +2664,12 @@
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "D865C3" ;
     ns1:prefLabel "Rerestaurierung"@de .
+
+<http://leiza.de/thesaurus/D8B3D6> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/AF31AG> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "D8B3D6" ;
+    ns1:prefLabel "Araldit XB 260"@de .
 
 <http://leiza.de/thesaurus/D8CBG2> a ns1:Concept ;
     ns2:source "K9" ;
@@ -3006,6 +3066,12 @@
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "F432G4" ;
     ns1:prefLabel "Tyvek"@de .
+
+<http://leiza.de/thesaurus/F43643> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/F75BDB> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "F43643" ;
+    ns1:prefLabel "Aquamarin"@de .
 
 <http://leiza.de/thesaurus/F49579> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/AFD671> ;
@@ -3472,6 +3538,13 @@
     ns1:prefLabel "Röntgenfluoresezenzanalyse"@de ;
     ns1:relatedMatch <http://vocab.getty.edu/page/aat/300224161> .
 
+<http://leiza.de/thesaurus/FD27A8> a ns1:Concept ;
+    ns1:altLabel "Flussspat"@de ;
+    ns1:broader <http://leiza.de/thesaurus/BGC9F3> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "FD27A8" ;
+    ns1:prefLabel "Fluorit"@de .
+
 <http://leiza.de/thesaurus/FD2B2B> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/CB7747> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
@@ -3702,6 +3775,12 @@
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "G2FC47" ;
     ns1:prefLabel "appliziert"@de .
+
+<http://leiza.de/thesaurus/G2G253> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/BB78D2> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "G2G253" ;
+    ns1:prefLabel "Kreide"@de .
 
 <http://leiza.de/thesaurus/G33846> a ns1:Concept ;
     ns1:altLabel "Plexiglasschaber"@de ;
@@ -4008,6 +4087,12 @@
     ns1:notation "G967G1" ;
     ns1:prefLabel "Spiegelform"@de .
 
+<http://leiza.de/thesaurus/G98D28> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/F75BDB> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "G98D28" ;
+    ns1:prefLabel "Morganit"@de .
+
 <http://leiza.de/thesaurus/GA1687> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/F91427> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
@@ -4072,6 +4157,12 @@
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "GB8544" ;
     ns1:prefLabel "lackiert"@de .
+
+<http://leiza.de/thesaurus/GBA321> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/GFD582> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "GBA321" ;
+    ns1:prefLabel "Plexigum"@de .
 
 <http://leiza.de/thesaurus/GBC8AC> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/FGF575> ;
@@ -4636,6 +4727,12 @@
     ns1:notation "A9A54D" ;
     ns1:prefLabel "Spektrometer"@de .
 
+<http://leiza.de/thesaurus/AD3B58> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/BGC9F3> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "AD3B58" ;
+    ns1:prefLabel "Korund"@de .
+
 <http://leiza.de/thesaurus/B572B5> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/A1D125> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
@@ -5083,27 +5180,21 @@
     ns1:notation "DAG2A8" ;
     ns1:prefLabel "Abformung"@de .
 
-<http://leiza.de/thesaurus/DF5773> a ns1:Concept ;
-    ns2:source "K34",
-        "K38" ;
-    ns1:altLabel "PVAC"@de ;
-    ns1:broader <http://leiza.de/thesaurus/A1D125> ;
-    ns1:closeMatch <http://vocab.getty.edu/page/aat/300014507>,
-        <https://cameo.mfa.org/wiki/Polyvinyl_acetate> ;
-    ns1:definition "durch radikalische Polymerisation von Vinylacetat-Monomeren hergestelltes thermoplastisches Polymer, das in fester oder flüssiger Form (als wässrige Dispersion oder Emulsion) bezogen werden kann. PVAC wird in der Restaurierung häuptsächlich als Klebstoff und als Schutzüberzug verwendet. "@de ;
-    ns1:inScheme <http://leiza.de/thesaurus> ;
-    ns1:notation "DF5773" ;
-    ns1:prefLabel "Polyvinylacetat"@de .
-
 <http://leiza.de/thesaurus/DFD1B7> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/C421BF> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "DFD1B7" ;
     ns1:prefLabel "Wasser"@de .
 
+<http://leiza.de/thesaurus/F75BDB> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/BGC9F3> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "F75BDB" ;
+    ns1:prefLabel "Beryll"@de .
+
 <http://leiza.de/thesaurus/F8F7CF> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/G79CAC> ;
-    ns1:definition "Methode, bei der das gewählte Material, aus dem die Kopie bestehen soll, in die Form eingefüllt wird. Dies kann durch Gießen, Aufpinseln, Laminieren erfolgen. Der Kopieherstellung geht die Abformung eines Objektes voraus. "@de ;
+    ns1:definition "Methode, bei der aus der zuvor hergestellten Form (analog oder digital) ein dem Aussehen des originalen Objektes entsprechendes neues Objekt hergestellt wird. "@de ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "F8F7CF" ;
     ns1:prefLabel "Kopieherstellung"@de ;
@@ -5282,6 +5373,18 @@
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "CGC619" ;
     ns1:prefLabel "Ergänzung"@de .
+
+<http://leiza.de/thesaurus/DF5773> a ns1:Concept ;
+    ns2:source "K34",
+        "K38" ;
+    ns1:altLabel "PVAC"@de ;
+    ns1:broader <http://leiza.de/thesaurus/A1D125> ;
+    ns1:closeMatch <http://vocab.getty.edu/page/aat/300014507>,
+        <https://cameo.mfa.org/wiki/Polyvinyl_acetate> ;
+    ns1:definition "durch radikalische Polymerisation von Vinylacetat-Monomeren hergestelltes thermoplastisches Polymer, das in fester oder flüssiger Form (als wässrige Dispersion oder Emulsion) bezogen werden kann. PVAC wird in der Restaurierung häuptsächlich als Klebstoff und als Schutzüberzug verwendet. "@de ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "DF5773" ;
+    ns1:prefLabel "Polyvinylacetat"@de .
 
 <http://leiza.de/thesaurus/F396G6> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/F2244D> ;
@@ -5541,12 +5644,6 @@
     ns1:notation "A8D9GF" ;
     ns1:prefLabel "Deformation"@de .
 
-<http://leiza.de/thesaurus/BB78D2> a ns1:Concept ;
-    ns1:broader <http://leiza.de/thesaurus/C364G1> ;
-    ns1:inScheme <http://leiza.de/thesaurus> ;
-    ns1:notation "BB78D2" ;
-    ns1:prefLabel "Füllstoff"@de .
-
 <http://leiza.de/thesaurus/C188DA> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/DAC996> ;
     ns1:definition "Teile des Objektes sind verloren gegangen"@de ;
@@ -5600,6 +5697,12 @@
     ns1:notation "GDF8C2" ;
     ns1:prefLabel "Physischer Zustand"@de ;
     ns1:relatedMatch <http://vocab.getty.edu/page/aat/300389724> .
+
+<http://leiza.de/thesaurus/BB78D2> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/C364G1> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "BB78D2" ;
+    ns1:prefLabel "Füllstoff"@de .
 
 <http://leiza.de/thesaurus/DAB4B7> a ns1:Concept ;
     ns1:definition "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeinträchtigung zu schützen und zu erhalten"@de ;
@@ -5726,24 +5829,17 @@
     ns1:prefLabel "Abform- und Ergänzungsmaterial"@de ;
     ns1:related <http://leiza.de/thesaurus/DG8FG3> .
 
-<http://leiza.de/thesaurus/GFD582> a ns1:Concept ;
-    ns1:broader <http://leiza.de/thesaurus/A1D125> ;
-    ns1:closeMatch <http://vocab.getty.edu/page/aat/300014426> ;
+<http://leiza.de/thesaurus/DAA3F9> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/B7DD6B> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
-    ns1:notation "GFD582" ;
-    ns1:prefLabel "Acrylharz"@de .
+    ns1:notation "DAA3F9" ;
+    ns1:prefLabel "zerstreutporiges Laubholz"@de .
 
 <http://leiza.de/thesaurus/AF31AG> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/A1D125> ;
     ns1:inScheme <http://leiza.de/thesaurus> ;
     ns1:notation "AF31AG" ;
     ns1:prefLabel "Epoxidharz"@de .
-
-<http://leiza.de/thesaurus/DAA3F9> a ns1:Concept ;
-    ns1:broader <http://leiza.de/thesaurus/B7DD6B> ;
-    ns1:inScheme <http://leiza.de/thesaurus> ;
-    ns1:notation "DAA3F9" ;
-    ns1:prefLabel "zerstreutporiges Laubholz"@de .
 
 <http://leiza.de/thesaurus/C421BF> a ns1:Concept ;
     ns2:source "K34",
@@ -5785,6 +5881,13 @@
     ns1:notation "GF9C49" ;
     ns1:prefLabel "technische Geräte"@de .
 
+<http://leiza.de/thesaurus/GFD582> a ns1:Concept ;
+    ns1:broader <http://leiza.de/thesaurus/A1D125> ;
+    ns1:closeMatch <http://vocab.getty.edu/page/aat/300014426> ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "GFD582" ;
+    ns1:prefLabel "Acrylharz"@de .
+
 <http://leiza.de/thesaurus/C364G1> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/CFGDA3> ;
     ns1:closeMatch <http://terminology.lido-schema.org/lido00132>,
@@ -5800,14 +5903,6 @@
     ns1:notation "D941BB" ;
     ns1:prefLabel "manuelle Werkzeuge"@de .
 
-<http://leiza.de/thesaurus/BGC9F3> a ns1:Concept ;
-    ns2:source "K17" ;
-    ns1:broader <http://leiza.de/thesaurus/GB6DF3> ;
-    ns1:definition "anorganischer, chemisch und physikalisch homogener Festkörper, mit meist kristalliner Struktur. Minerale entstehend durch natürliche, geologische Prozesse und zeichnen sich durch unterschiedliche charakterisierende Eigenschaften aus. "@de ;
-    ns1:inScheme <http://leiza.de/thesaurus> ;
-    ns1:notation "BGC9F3" ;
-    ns1:prefLabel "Mineral"@de .
-
 <http://leiza.de/thesaurus/F964CG> a ns1:Concept ;
     ns2:source "K8" ;
     rdfs:seeAlso "DIN EN 15898:2020-02" ;
@@ -5819,6 +5914,14 @@
     ns1:notation "F964CG" ;
     ns1:prefLabel "Schadensursache"@de ;
     ns1:related <http://leiza.de/thesaurus/DAC996> .
+
+<http://leiza.de/thesaurus/BGC9F3> a ns1:Concept ;
+    ns2:source "K17" ;
+    ns1:broader <http://leiza.de/thesaurus/GB6DF3> ;
+    ns1:definition "anorganischer, chemisch und physikalisch homogener Festkörper, mit meist kristalliner Struktur. Minerale entstehend durch natürliche, geologische Prozesse und zeichnen sich durch unterschiedliche charakterisierende Eigenschaften aus. "@de ;
+    ns1:inScheme <http://leiza.de/thesaurus> ;
+    ns1:notation "BGC9F3" ;
+    ns1:prefLabel "Mineral"@de .
 
 <http://leiza.de/thesaurus/A15F83> a ns1:Concept ;
     ns1:broader <http://leiza.de/thesaurus/F8F594> ;
