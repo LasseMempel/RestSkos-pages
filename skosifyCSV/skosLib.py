@@ -14,7 +14,7 @@ with open ('data.csv', 'r', encoding="utf-8") as f:
 df = pd.read_csv('fixedData.csv', encoding="utf-8")
 languageLabel = "@de"
 g = Graph()
-thesaurus = URIRef("www.leiza.de/thesaurus")
+thesaurus = URIRef(":leiza.de/thesaurus")
 thesaurusAddendum = thesaurus + "/"
 g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
 g.add ((thesaurus, DC.title, Literal("Leiza Restaurierungs- und Konservierungsthesaurus")+languageLabel))
