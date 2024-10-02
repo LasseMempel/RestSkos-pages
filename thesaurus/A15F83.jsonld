@@ -1,0 +1,353 @@
+{
+  "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/A15F83",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Fügetechnik"
+  },
+  "notation": [
+    "A15F83"
+  ],
+  "narrower": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/A2B2CD",
+      "prefLabel": {
+        "de": "gedübelt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/A6CD9G",
+      "prefLabel": {
+        "de": "gefalzt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/ABAD42",
+      "prefLabel": {
+        "de": "gezapft"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/AFFB47",
+      "prefLabel": {
+        "de": "gebördelt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/B2CC48",
+      "prefLabel": {
+        "de": "gefilzt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/B5D998",
+      "prefLabel": {
+        "de": "verschraubt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/B61CC6",
+      "prefLabel": {
+        "de": "geklammert"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/B7A13A",
+      "prefLabel": {
+        "de": "weichgelötet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/BABA94",
+      "prefLabel": {
+        "de": "geschweißt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/BD18A1",
+      "prefLabel": {
+        "de": "genagelt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/BFA9BB",
+      "prefLabel": {
+        "de": "überfangen"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/C5FAFF",
+      "prefLabel": {
+        "de": "verstiftet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/C79172",
+      "prefLabel": {
+        "de": "geknüpft"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/CAF8AF",
+      "prefLabel": {
+        "de": "gewebt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/CG5F26",
+      "prefLabel": {
+        "de": "gewirkt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/D1CA6B",
+      "prefLabel": {
+        "de": "geknotet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/D67657",
+      "prefLabel": {
+        "de": "reaktionsgelötet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/D6DFDB",
+      "prefLabel": {
+        "de": "geflochten"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/D9165B",
+      "prefLabel": {
+        "de": "verzwirnt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/D9G8B5",
+      "prefLabel": {
+        "de": "verdrillt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/DF986A",
+      "prefLabel": {
+        "de": "geflochten"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/F988F4",
+      "prefLabel": {
+        "de": "gekittet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/FB76BC",
+      "prefLabel": {
+        "de": "geklebt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/FC7874",
+      "prefLabel": {
+        "de": "gesteckt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/FD2CC8",
+      "prefLabel": {
+        "de": "gebunden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/G3GB79",
+      "prefLabel": {
+        "de": "hartgelötet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/G4B128",
+      "prefLabel": {
+        "de": "geklemmt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/G6GG4C",
+      "prefLabel": {
+        "de": "gelötet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/G859A7",
+      "prefLabel": {
+        "de": "gesponnen"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/G887B8",
+      "prefLabel": {
+        "de": "genietet"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus/F8F594",
+    "prefLabel": {
+      "de": "Herstellungstechnik"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/thesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
