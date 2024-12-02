@@ -18,7 +18,7 @@ thesaurus = URIRef("https://lassemempel.github.io/RestSkos-pages/thesaurus")
 thesaurusAddendum = thesaurus + "/"
 g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
 g.add ((thesaurus, DC.title, Literal("Leiza Restaurierungs- und Konservierungsthesaurus")+languageLabel))
-g.add ((thesaurus, DC.description, Literal("Der mächtige Leiza Restaurierungs- und Konservierungsthesaurus")+languageLabel))
+g.add ((thesaurus, DC.description, Literal("Der Leiza Restaurierungs- und Konservierungsthesaurus für archäologische Kulturgüter")+languageLabel))
 for index, row in df.iterrows():
     if not pd.isnull(row["prefLabel"]):
         concept = URIRef(thesaurusAddendum + str(row['identifier']))
@@ -88,6 +88,7 @@ for index, row in df.iterrows():
             g.add ((thesaurus, SKOS.hasTopConcept, concept))
             g.add ((concept, SKOS.topConceptOf, thesaurus))
 #g.serialize(destination='fixedData.rdf', format='xml')
+print(g)
 g.serialize(destination='fixedData.ttl', format='turtle')
 with open('fixedData.ttl', 'r', encoding="utf-8") as f:
     text = f.read()
