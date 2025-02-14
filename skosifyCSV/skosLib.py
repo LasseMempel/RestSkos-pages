@@ -3,18 +3,18 @@ import pandas as pd
 from rdflib import Graph, URIRef, BNode, Literal, Namespace
 from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS
 
+""""""
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 with open("data.csv", "w", encoding="utf-8") as f:
-    f.write(requests.get(link).text)
-with open ('data.csv', 'r', encoding="utf-8") as f:
-    with open("fixedData.csv", "w", encoding="utf-8") as ff:
-        # repair wrong encoded german umlauts
-        for line in f:
-            ff.write(line.replace("Ã¼", "ü").replace("Ã¶", "ö").replace("Ã¤", "ä").replace("ÃŸ", "ß").replace("Ã„", "Ä").replace("Ã–", "Ö").replace("Ãœ", "Ü").replace("Ã", "ß").replace("Ã", "Ü").replace("â", "—"))
-df = pd.read_csv('fixedData.csv', encoding="utf-8")
+    f.write(requests.get(link).text.encode("ISO-8859-1").decode())
+df = pd.read_csv('data.csv', encoding="utf-8")
 languageLabel = "@de"
+
+csvCols = ["identifier","prefLabel","altLabel","translation","description","parent","related","source","creator","closeMatch","relatedMatch","seeAlso"]
+skosProperties[SKOS.notation, SKOS.prefLabel, SKOS.altLabel, SKOS.definition, SKOS.definition, SKOS.broader, SKOS.related, SKOS.source, SKOS.creator, SKOS.closeMatch, SKOS.relatedMatch, SKOS.seeAlso]
+
 g = Graph()
-thesaurus = URIRef("https://lassemempel.github.io/RestSkos-pages/thesaurus")
+thesaurus = URIRef("https://www.lassemempel.github.io/RestSkos-pages/thesaurus")
 thesaurusAddendum = thesaurus + "/"
 g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
 g.add ((thesaurus, DC.title, Literal("Leiza Restaurierungs- und Konservierungsthesaurus")+languageLabel))
@@ -59,14 +59,6 @@ for index, row in df.iterrows():
             else:
                 related = URIRef(thesaurusAddendum + row["related"])
                 g.add ((concept, SKOS.related, related))
-        if not pd.isnull(row['example']):
-            if "|" in str(row["example"]):
-                for i in str(row["example"]).split("|"):
-                    example = Literal(i.strip())
-                    g.add ((concept, SKOS.example, example + languageLabel))
-            else:
-                example = Literal(row["example"])
-                g.add ((concept, SKOS.example, example + languageLabel))
         if not pd.isnull(row['relatedMatch']):
             if "|" in str(row["relatedMatch"]):
                 for i in str(row["relatedMatch"]).split("|"):
