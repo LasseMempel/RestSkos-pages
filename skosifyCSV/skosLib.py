@@ -22,8 +22,8 @@ def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAdd
         if pred in [SKOS.broader, SKOS.narrower, SKOS.related]:
             if i != "top":
                 g.add ((concept, pred, URIRef(thesaurusAddendum + i)))
-            if pred == SKOS.broader:
-                g.add ((URIRef(thesaurusAddendum + i), SKOS.narrower, concept))
+                if pred == SKOS.broader:
+                    g.add ((URIRef(thesaurusAddendum + i), SKOS.narrower, concept))
         else:
             g.add ((concept, pred, URIRef(urllib.parse.quote(i))))
     else:
