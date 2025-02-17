@@ -7790,7 +7790,6 @@ Technologie. München 2000, S. 93.""" ;
 <http://data.archaeology.link/terminology/archeologicalconservation/B51DAF> a skos:Concept ;
     dc:creator "LEIZA" ;
     skos:altLabel "Objektmaterial"@de ;
-    skos:broader <http://data.archaeology.link/terminology/archeologicalconservation/top> ;
     skos:closeMatch <http%3A//terminology.lido-schema.org/lido00132>,
         <http%3A//vocab.getty.edu/page/aat/300010358> ;
     skos:definition "Material aus dem das Objekt besteht."@de ;
@@ -7854,7 +7853,6 @@ Technologie. München 2000, S. 93.""" ;
     dc:creator "LEIZA" ;
     skos:altLabel "documentation"@en,
         "report"@en ;
-    skos:broader <http://data.archaeology.link/terminology/archeologicalconservation/top> ;
     skos:definition "Sammelbegriff für Aufzeichnungen gemachter Beobachtungen und Handlungen"@de ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "C8CG15" ;
@@ -8236,7 +8234,6 @@ Technologie. München 2000, S. 93.""" ;
 <http://data.archaeology.link/terminology/archeologicalconservation/G76B7G> a skos:Concept ;
     dc:creator "LEIZA" ;
     skos:altLabel "Interpretation"@de ;
-    skos:broader <http://data.archaeology.link/terminology/archeologicalconservation/top> ;
     skos:definition "Erläuterung und Auslegung der während der Untersuchung und Bearbeitung eines Objektes festgestellten Beobachtungen und gewonnenen Erkentnisse hinsichtlich der anzunehmenden antiken Technologien"@de ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "G76B7G" ;
@@ -8310,7 +8307,6 @@ Technologie. München 2000, S. 92 - 97.""" ;
     skos:altLabel "Konservierungsplanung"@de,
         "Restaurierungskonzept"@de,
         "Restaurierungsplanung"@de ;
-    skos:broader <http://data.archaeology.link/terminology/archeologicalconservation/top> ;
     skos:definition "Festlegung des anzustrebenden Konservierungs-/Restaurierungsziels, Planung/Entwicklung der methodischen Vorgehensweise zur Erhaltung und Wiederherstellung des Objektes, Zeitplanung und Risikoabschätzung, basierend auf den Ergebnissen der Zustandserfassung."@de ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "A18D95" ;
@@ -8438,7 +8434,6 @@ Technologie. München 2000, S. 92 - 97.""" ;
 
 <http://data.archaeology.link/terminology/archeologicalconservation/DAB4B7> a skos:Concept ;
     dc:creator "LEIZA" ;
-    skos:broader <http://data.archaeology.link/terminology/archeologicalconservation/top> ;
     skos:definition "Durch einen fachlich qualifizierten Restaurator formulierte Hinweise zur Handhabung eines Objektes, um dieses nachhaltig vor negativer Beeinträchtigung zu schützen und zu erhalten"@de ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "DAB4B7" ;
@@ -8519,7 +8514,6 @@ Technologie. München 2000, S. 92 - 97.""" ;
     dc:source "DIN EN 15898:2020-02, Erhaltung des kulturellen Erbes - Allgemeine Begriffe; Dreisprachige Fassung EN 15898:2019, Deutsches Institut für Normung." ;
     skos:altLabel "Zustandserhebung"@de,
         "Condition assessment"@en ;
-    skos:broader <http://data.archaeology.link/terminology/archeologicalconservation/top> ;
     skos:closeMatch <http%3A//terminology.lido-schema.org/lido00931> ;
     skos:definition "methodischen Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt"@de ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
@@ -8532,7 +8526,6 @@ Technologie. München 2000, S. 92 - 97.""" ;
     skos:altLabel "Behandlung"@de,
         "Eingriff"@de,
         "durchgeführte Maßnahme"@de ;
-    skos:broader <http://data.archaeology.link/terminology/archeologicalconservation/top> ;
     skos:definition "Ausführung der im Restaurierungskonzept geplanten Vorgehensweisen zur Erreichung des festgelegten Restaurierungs-/Konservierungsziel"@de ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "CFGDA3" ;

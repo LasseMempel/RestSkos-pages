@@ -16,7 +16,8 @@ def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAdd
     i = i.strip()
     if obj == URIRef:
         if pred in [SKOS.broader, SKOS.narrower, SKOS.related]:
-            g.add ((concept, pred, URIRef(thesaurusAddendum + i)))
+            if i != "top":
+                g.add ((concept, pred, URIRef(thesaurusAddendum + i)))
         else:
             g.add ((concept, pred, URIRef(urllib.parse.quote(i))))
     else:
@@ -26,12 +27,6 @@ def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAdd
             g.add ((concept, pred, obj(i, lang= baseLanguageLabel)))
         else:
             g.add ((concept, pred, obj(i)))
-    """
-    if isLang:
-        g.add ((concept, pred, obj(i, lang= baseLanguageLabel)))
-    else:
-        g.add ((concept, pred, obj(i)))
-    """
     return g
 
 def df2Skos(df, baseLanguageLabel, baseUri, seperator):
@@ -81,7 +76,6 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
                 g.add ((thesaurus, SKOS.hasTopConcept, concept))
                 g.add ((concept, SKOS.topConceptOf, thesaurus))
     return g
-
 
 def main(link, baseLanguageLabel, propertyMatchDict, seperator):
     """
