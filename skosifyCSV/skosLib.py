@@ -12,6 +12,28 @@ def csv2Df(link, propertyMatchDict):
     df = df.map(lambda x: x.strip() if isinstance(x, str) else x) # remove leading and trailing whitespaces from all cells
     return df
 
+def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum):
+    i = i.strip()
+    if obj == URIRef:
+        if pred in [SKOS.broader, SKOS.narrower, SKOS.related]:
+            g.add ((concept, pred, URIRef(thesaurusAddendum + i)))
+        else:
+            g.add ((concept, pred, URIRef(urllib.parse.quote(i))))
+    else:
+        if isLang:
+            if len(i) > 2 and i[-3] == "@":
+                i, baseLanguageLabel = i.split("@")
+            g.add ((concept, pred, obj(i, lang= baseLanguageLabel)))
+        else:
+            g.add ((concept, pred, obj(i)))
+    """
+    if isLang:
+        g.add ((concept, pred, obj(i, lang= baseLanguageLabel)))
+    else:
+        g.add ((concept, pred, obj(i)))
+    """
+    return g
+
 def df2Skos(df, baseLanguageLabel, baseUri, seperator):
     propertyTuples = [
         ("notation", SKOS.notation, Literal, False),
@@ -29,7 +51,8 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
     extendedTuples = [
         ("source", DC.source, Literal, False),
         ("creator", DC.creator, Literal, False),
-        ("seeAlso", RDFS.seeAlso, Literal, False)
+        ("seeAlso", RDFS.seeAlso, Literal, False),
+        ("translation", SKOS.altLabel, Literal, True)
     ]
 
     g = Graph()
@@ -42,7 +65,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
 
     for index, row in df.iterrows():
         if row["prefLabel"] and isinstance(row["prefLabel"], str) and row["notation"] and isinstance(row["notation"], str):
-            print(row["prefLabel"], row["notation"])
+            #print(row["prefLabel"], row["notation"])
             concept = URIRef(thesaurusAddendum + row['notation'])
             g.add ((concept, RDF.type, SKOS.Concept))
             for prop, pred, obj, isLang in propertyTuples+extendedTuples:
@@ -50,38 +73,13 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
                     if not isinstance(row[prop], float):
                         if seperator in row[prop]:
                             for i in row[prop].split(seperator):
-                                i = i.strip()
-                                print(i)
-                                if obj == URIRef:
-                                    if pred in [SKOS.broader, SKOS.narrower, SKOS.related]:
-                                        g.add ((concept, pred, URIRef(thesaurusAddendum + i)))
-                                    else:
-                                        g.add ((concept, pred, URIRef(urllib.parse.quote(i))))
-                                else:
-                                    if isLang:
-                                        g.add ((concept, pred, obj(i, lang= baseLanguageLabel)))
-                                    else:
-                                        g.add ((concept, pred, obj(i)))
-                                if isLang:
-                                    g.add ((concept, pred, obj(i, lang= baseLanguageLabel)))
-                                else:
-                                    g.add ((concept, pred, obj(i)))
+                                g = row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum)
                         else:
-                            if obj == URIRef:
-                                if pred in [SKOS.broader, SKOS.narrower, SKOS.related]:
-                                    g.add ((concept, pred, URIRef(thesaurusAddendum + row[prop])))
-                                else:
-                                    g.add ((concept, pred, URIRef(urllib.parse.quote(row[prop]))))
-                            else:
-                                if isLang:
-                                    g.add ((concept, pred, obj(row[prop], lang= baseLanguageLabel)))
-                                else:
-                                    g.add ((concept, pred, obj(row[prop])))
+                            g = row2Triple(row[prop], g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum)
             g.add ((concept, SKOS.inScheme, thesaurus))
             if row["broader"] == "top":
                 g.add ((thesaurus, SKOS.hasTopConcept, concept))
                 g.add ((concept, SKOS.topConceptOf, thesaurus))
-
     return g
 
 
@@ -95,11 +93,11 @@ def main(link, baseLanguageLabel, propertyMatchDict, seperator):
     df = pd.read_csv('polishedData.csv', encoding="utf-8")
     graph = df2Skos(df, baseLanguageLabel, baseUri, seperator)
     graph.serialize(destination='thesaurus.ttl', format='turtle')   
-
+    graph.serialize(destination='thesaurus.json-ld', format='json-ld')
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 baseLanguageLabel = "de"
-baseUri = "https://archaeology.link/conservationthesaurus"
+baseUri = "http://data.archaeology.link/terminology/archeologicalconservation"
 
 # dictionary to map divergent column names in the csv to the SKOS properties
 propertyMatchDict = {"identifier":"notation","description":"definition","parent":"broader"}
