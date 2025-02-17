@@ -14,6 +14,10 @@ def csv2Df(link, propertyMatchDict):
 
 def row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum):
     i = i.strip()
+    if i == "":
+        print("Empty cell")
+        print(concept, pred, obj)
+        return g
     if obj == URIRef:
         if pred in [SKOS.broader, SKOS.narrower, SKOS.related]:
             if i != "top":

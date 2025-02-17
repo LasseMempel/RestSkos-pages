@@ -1189,8 +1189,7 @@
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "B2642A" ;
     skos:prefLabel "Oberflächenbeschichtungen entfernt"@de ;
-    skos:related <http://data.archaeology.link/terminology/archeologicalconservation/>,
-        <http://data.archaeology.link/terminology/archeologicalconservation/A6A248>,
+    skos:related <http://data.archaeology.link/terminology/archeologicalconservation/A6A248>,
         <http://data.archaeology.link/terminology/archeologicalconservation/G3GB59>,
         <http://data.archaeology.link/terminology/archeologicalconservation/G8A626> .
 
@@ -2724,8 +2723,7 @@ Diese Kügelchen werden entweder durch Löten bzw. Schweißen auf der Metallober
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "CA59C2" ;
     skos:prefLabel "Klebungen entfernt"@de ;
-    skos:related <http://data.archaeology.link/terminology/archeologicalconservation/>,
-        <http://data.archaeology.link/terminology/archeologicalconservation/A6A248>,
+    skos:related <http://data.archaeology.link/terminology/archeologicalconservation/A6A248>,
         <http://data.archaeology.link/terminology/archeologicalconservation/G3GB59>,
         <http://data.archaeology.link/terminology/archeologicalconservation/G8A626> .
 
@@ -2830,8 +2828,7 @@ Diese Kügelchen werden entweder durch Löten bzw. Schweißen auf der Metallober
 
 <http://data.archaeology.link/terminology/archeologicalconservation/CC63FA> a skos:Concept ;
     dc:creator "LEIZA" ;
-    dc:source "",
-        """Wolfgang Knobloch, Ergänzungen und Rekonstruktionen an historischen Objekten aus Metall. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und\r
+    dc:source """Wolfgang Knobloch, Ergänzungen und Rekonstruktionen an historischen Objekten aus Metall. In: Peter Heinrich (Hrsg.), Metallrestaurierung. Beiträge zur Analyse, Konzeption und\r
 \r
 Technologie. München 2000, S. 93.""" ;
     rdfs:seeAlso "DIN EN ISO 2080:2022-06, Metallische und andere anorganische Überzüge - Oberflächenbehandlung, metallische und andere anorganische Überzüge - Wörterbuch (ISO 2080:2022); Deutsche und Englische Fassung EN ISO 2080:2022, Deutsches Institut für Normung. https://dx.doi.org/10.31030/3302924" ;
@@ -4291,8 +4288,7 @@ Technologie. München 2000, S. 93.""" ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "F57A2A" ;
     skos:prefLabel "temporäre Stabilisierung entfernt"@de ;
-    skos:related <http://data.archaeology.link/terminology/archeologicalconservation/>,
-        <http://data.archaeology.link/terminology/archeologicalconservation/A6A248>,
+    skos:related <http://data.archaeology.link/terminology/archeologicalconservation/A6A248>,
         <http://data.archaeology.link/terminology/archeologicalconservation/G3GB59>,
         <http://data.archaeology.link/terminology/archeologicalconservation/G8A626> .
 
@@ -5022,8 +5018,7 @@ Technologie. München 2000, S. 93.""" ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
     skos:notation "FGBB54" ;
     skos:prefLabel "Ergänzungsmaterialien entfernt"@de ;
-    skos:related <http://data.archaeology.link/terminology/archeologicalconservation/>,
-        <http://data.archaeology.link/terminology/archeologicalconservation/A6A248>,
+    skos:related <http://data.archaeology.link/terminology/archeologicalconservation/A6A248>,
         <http://data.archaeology.link/terminology/archeologicalconservation/G3GB59>,
         <http://data.archaeology.link/terminology/archeologicalconservation/G8A626> .
 
@@ -7445,8 +7440,7 @@ Technologie. München 2000, S. 63.""" ;
 
 <http://data.archaeology.link/terminology/archeologicalconservation/C84834> a skos:Concept ;
     dc:creator "LEIZA" ;
-    dc:source "",
-        "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Quarz" ;
+    dc:source "https://www.mineralienatlas.de/lexikon/index.php/MineralData?mineral=Quarz" ;
     skos:broader <http://data.archaeology.link/terminology/archeologicalconservation/BGC9F3> ;
     skos:definition "weit verbreitetes Mineral aus reinem SiO2, welches in vielen Gesteinsarten vorkommt. Quarz ist grundsätzlich farblos - weiß, tritt jedoch je nach Verunreinigungen/Einlagerungen auch in vielerlei Farben auf (weiß, gelb, violett, braun, schwarz, grün, blau, rosa, etc.) und zeigt in der Regel einen glasigen, matten Glanz. Quarz ist bekannt für seine Härte (Mohshärte 7) und Widerstandsfähigkeit gegenüber Verwitterung."@de ;
     skos:inScheme <http://data.archaeology.link/terminology/archeologicalconservation> ;
