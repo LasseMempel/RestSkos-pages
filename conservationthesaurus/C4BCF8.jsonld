@@ -1,0 +1,232 @@
+{
+  "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus/C4BCF8",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Zustandserfassung"
+  },
+  "altLabel": {
+    "de": [
+      "Zustandserhebung"
+    ],
+    "en": [
+      "Condition assessment"
+    ]
+  },
+  "definition": {
+    "de": "methodischen Untersuchung zur Ermittlung und Einschätzung des Erhaltungszustandes eines Objektes zu einem definierten Zeitpunkt"
+  },
+  "notation": [
+    "C4BCF8"
+  ],
+  "narrower": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus/DBC278",
+      "prefLabel": {
+        "de": "Bisherige Lagerung"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus/A4G52F",
+      "prefLabel": {
+        "de": "Einlieferungszustand"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus/D9G51G",
+      "prefLabel": {
+        "de": "Erhaltungszustand"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus/C2488A",
+      "prefLabel": {
+        "de": "Endzustand"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus/CA1BC5",
+      "prefLabel": {
+        "de": "Objektuntersuchung"
+      }
+    }
+  ],
+  "related": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus/A18D95",
+      "prefLabel": {
+        "de": "Konservierungskonzept"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus/D3AF3A",
+      "prefLabel": {
+        "de": "Zustandsdokumentation"
+      }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http%3A//terminology.lido-schema.org/lido00931"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/conservationthesaurus"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
