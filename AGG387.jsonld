@@ -1,0 +1,403 @@
+{
+  "id": "https://lassemempel.github.io/RestSkos-pages/AGG387",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "formgebende Technik"
+  },
+  "altLabel": {
+    "de": [
+      "Formung"
+    ]
+  },
+  "definition": {
+    "de": "Oberbegriff für Verfahren und Methoden, mit denen Materialien in eine gewünschte Form gebracht werden."
+  },
+  "notation": [
+    "AGG387"
+  ],
+  "narrower": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/D18BBG",
+      "prefLabel": {
+        "de": "getrieben"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/A8B581",
+      "prefLabel": {
+        "de": "gedengelt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/A8C667",
+      "prefLabel": {
+        "de": "geprägt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/D92DAG",
+      "prefLabel": {
+        "de": "handaufgebaut"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/AC319F",
+      "prefLabel": {
+        "de": "gebohrt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/ACA175",
+      "prefLabel": {
+        "de": "gewickelt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/ACG977",
+      "prefLabel": {
+        "de": "gepresst"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/ADB89D",
+      "prefLabel": {
+        "de": "gespalten"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/B1B854",
+      "prefLabel": {
+        "de": "gespitzt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/B28G12",
+      "prefLabel": {
+        "de": "nachgedreht"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/B437A9",
+      "prefLabel": {
+        "de": "gebeilt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/B4AFF6",
+      "prefLabel": {
+        "de": "durchgeschlagen"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/B64825",
+      "prefLabel": {
+        "de": "geschmiedet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/BA73A2",
+      "prefLabel": {
+        "de": "gegossen"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/BA1BB6",
+      "prefLabel": {
+        "de": "gemeißelt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/BAB7B3",
+      "prefLabel": {
+        "de": "gezahnt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/BC92AG",
+      "prefLabel": {
+        "de": "gesägt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/B4FD9B",
+      "prefLabel": {
+        "de": "gerollt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/C16778",
+      "prefLabel": {
+        "de": "geschmolzen"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/C1A32C",
+      "prefLabel": {
+        "de": "geschnitten"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/BGFD79",
+      "prefLabel": {
+        "de": "gebrannt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/C3FGBG",
+      "prefLabel": {
+        "de": "gefeilt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/C5F279",
+      "prefLabel": {
+        "de": "modelliert"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/C61723",
+      "prefLabel": {
+        "de": "geschnitzt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/D44BAD",
+      "prefLabel": {
+        "de": "gedreht"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/D642BC",
+      "prefLabel": {
+        "de": "geschabt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/D75A3A",
+      "prefLabel": {
+        "de": "gebogen"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/F1751B",
+      "prefLabel": {
+        "de": "geblasen"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/F22BD7",
+      "prefLabel": {
+        "de": "gehobelt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/F6543A",
+      "prefLabel": {
+        "de": "gedrückt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/F94C34",
+      "prefLabel": {
+        "de": "geraspelt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/FFC35B",
+      "prefLabel": {
+        "de": "gedrechselt"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/FGF4G9",
+      "prefLabel": {
+        "de": "scheibengedreht"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/G29AD2",
+      "prefLabel": {
+        "de": "geglättet"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/G45985",
+      "prefLabel": {
+        "de": "gezogen"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/G56825",
+      "prefLabel": {
+        "de": "gefräst"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/G7497F",
+      "prefLabel": {
+        "de": "geschliffen [Formgebung]"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://lassemempel.github.io/RestSkos-pages/F8F594",
+    "prefLabel": {
+      "de": "Herstellungstechnik"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

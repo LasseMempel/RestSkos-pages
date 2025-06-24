@@ -1,0 +1,301 @@
+{
+  "id": "https://lassemempel.github.io/RestSkos-pages/F964CG",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Schadensursache"
+  },
+  "altLabel": {
+    "de": [
+      "Abbaufaktor",
+      "schädlicher Einfluss"
+    ],
+    "en": [
+      "Cause of damage"
+    ]
+  },
+  "definition": {
+    "de": "Für die Beschädigung/den Abbau als ursächlich angesehene negative Beeinträchtigung eines Objektes"
+  },
+  "notation": [
+    "F964CG"
+  ],
+  "narrower": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/A889A3",
+      "prefLabel": {
+        "de": "Verschmutzung"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/A379F4",
+      "prefLabel": {
+        "de": "materialbedingter Schaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/AA819F",
+      "prefLabel": {
+        "de": "lichtinduzierter Schaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/AD3A34",
+      "prefLabel": {
+        "de": "Verwitterung"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/B2ADB6",
+      "prefLabel": {
+        "de": "Vandalismus"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/C473B4",
+      "prefLabel": {
+        "de": "Beschädigung durch vorherige Bearbeitung"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/C64BC8",
+      "prefLabel": {
+        "de": "Klimaschaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/D16G86",
+      "prefLabel": {
+        "de": "Korrosionsinduzierter Schaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/D171FF",
+      "prefLabel": {
+        "de": "Feuerschaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/DD3A3D",
+      "prefLabel": {
+        "de": "Transportschaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/F968G3",
+      "prefLabel": {
+        "de": "Bodenlagerungsschaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/FAFCF5",
+      "prefLabel": {
+        "de": "Schaden durch mechanische Beanspruchung"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/FB7C46",
+      "prefLabel": {
+        "de": "Lagerungsschaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/FDD71B",
+      "prefLabel": {
+        "de": "Salzbelastung"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/G1GA5F",
+      "prefLabel": {
+        "de": "Biologischer Befall"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/GBDG4D",
+      "prefLabel": {
+        "de": "Bergungsschaden"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/GCCD95",
+      "prefLabel": {
+        "de": "Schadstoffe"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/GGD66G",
+      "prefLabel": {
+        "de": "Wasserschaden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://lassemempel.github.io/RestSkos-pages/BC5B57",
+    "prefLabel": {
+      "de": "[Untersuchungsergebnisse]"
+    }
+  },
+  "related": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/DAC996",
+      "prefLabel": {
+        "de": "Schadensphänomen"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "https://lassemempel.github.io/RestSkos-pages/A11ACA",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Keramik"
+  },
+  "altLabel": {
+    "en": [
+      "ceramic"
+    ]
+  },
+  "definition": {
+    "de": "anorganischer, nicht-metallischer, durch das Brennen von Ton hergestelltes Material. Ton stellt einen weit verbreiteten Werkstoff da, der im feuchten Zustand gut plastisch formbar ist und sich beim Brennen zur mehr oder weniger festen Keramik umwandelt. Ton besteht aus verschiedenen Tonmineralen (z.B. Kaolinit, Montmorillonit und Illit), Zuschlagstoffen - sog. Magerungsmitteln - wie Sand, Kalk, Ziegelmehl, Stroh, Häcksel, Tierhaare, Knochenasche oder Muscheln und Wasser. Objekte aus Keramik wurden bereits vor tausenden von Jahren von vielen Kulturen für verschiedenste Verwendungszwecke angefertigt."
+  },
+  "notation": [
+    "A11ACA"
+  ],
+  "narrower": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/DG279C",
+      "prefLabel": {
+        "de": "Feinkeramik"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/FC776B",
+      "prefLabel": {
+        "de": "Grobkeramik"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://lassemempel.github.io/RestSkos-pages/GB6DF3",
+    "prefLabel": {
+      "de": "silikatisches Material"
+    }
+  },
+  "closeMatch": [
+    {
+      "id": "http%3A//vocab.getty.edu/page/aat/300235507"
+    },
+    {
+      "id": "http%3A//www.wikidata.org/entity/Q45621"
+    },
+    {
+      "id": "https%3A//cameo.mfa.org/wiki/Ceramic"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "https://lassemempel.github.io/RestSkos-pages/A7C8CB",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Plasma"
+  },
+  "definition": {
+    "de": "ionisiertes, energiereiches Gas, welches entweder durch hohe Temperaturen von mehreren 1000°C oder durch den Durchfluss elektrischen Stroms entsteht. Im Vergleich zu \"normalem\" Gas, das nicht ionisiert ist, unterscheides sich Plasma durch die Fähigkeit elektrischen Strom zu leiten. Dadurch ist es in der Lage magnetische Felder und elektromagnetische Wellen zu absorbieren, reflektieren und zu emmittieren und wird gleichzeitig selbst von diesen beeinflusst. In der Restaurierung kann Plasma zur Reduktion von Korrosionsprodukten in deren ursprünglichen metallischen Zustand verwendet werden."
+  },
+  "notation": [
+    "A7C8CB"
+  ],
+  "narrower": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/BB7D84",
+      "prefLabel": {
+        "de": "Stickstoffplasma"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/C4F616",
+      "prefLabel": {
+        "de": "Argonplasma"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/CC687C",
+      "prefLabel": {
+        "de": "Sauerstoffplasma"
+      }
+    },
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/CD75GD",
+      "prefLabel": {
+        "de": "Methanplasma"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://lassemempel.github.io/RestSkos-pages/B3FCA1",
+    "prefLabel": {
+      "de": "Reduktionsmittel"
+    }
+  },
+  "related": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages/F72743",
+      "prefLabel": {
+        "de": "Plasmabehandlung"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://lassemempel.github.io/RestSkos-pages"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
